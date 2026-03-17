@@ -5,7 +5,8 @@ import 'global-jsdom/register';
 import { XmlElementNode, isXmlElementNode, MyLeft,
   parseNewXml, XmlReadConfig, LetterCorrection, writeNode, XmlWriteConfig }
   from 'simple_xml';
-import { setDictionary, annotateHurrianWord, getLookupConfig }
+import { LexicalData, setLexicalData } from '../tlh/ui/src/xmlEditor/hur/lexicalData/lexicalData';
+import { annotateHurrianWord, getLookupConfig }
   from '../tlh/ui/src/xmlEditor/hur/dict/dictionary';
 
 const sep = ' ';
@@ -14,6 +15,7 @@ const infile = process.argv[3];
 const outfile = process.argv[4];
 const emptyStringMarker = '[EMPTY]';
 const nullMarker = '[NULL]';
+const progressReportAfter = 1000;
 
 console.log(dictionaryFilePath);
 if (!fs.existsSync(dictionaryFilePath)) {
@@ -80,19 +82,23 @@ function postprocessXmlWord(transcription: string | null): string {
   }
 }
 
-const jsonText = fs.readFileSync(dictionaryFilePath, 'utf-8');
-const dictionaryObject = JSON.parse(jsonText);
-const { dictionary } = dictionaryObject;
-setDictionary(dictionary);
+const lexicalDataString = fs.readFileSync(dictionaryFilePath, 'utf-8');
+const lexicalData: LexicalData = JSON.parse(lexicalDataString);
+setLexicalData(lexicalData);
 
 const stream = fs.createWriteStream(outfile, 'utf8');
 
 try {
-  for (const xmlWord of xmlWords) {
+  for (let i = 0; i < xmlWords.length; i++) {
+    const xmlWord = xmlWords[i];
     const wordNodeXmlString = '<w>' + xmlWord + '</w>';
     const annotatedXmlWord = annotateXmlWord(wordNodeXmlString);
     const line = postprocessXmlWord(annotatedXmlWord) + os.EOL;
     stream.write(line);
+    if (i % progressReportAfter === 0) {
+      console.log('Processed ' + i.toString() + ' words.');
+      console.log(line);
+    }
   }
 } catch(err) {
   throw err;
