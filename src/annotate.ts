@@ -91,7 +91,6 @@ try {
   for (const xmlWord of xmlWords) {
     const wordNodeXmlString = '<w>' + xmlWord + '</w>';
     const annotatedXmlWord = annotateXmlWord(wordNodeXmlString);
-    console.log(annotatedXmlWord);
     const line = postprocessXmlWord(annotatedXmlWord) + os.EOL;
     stream.write(line);
   }
