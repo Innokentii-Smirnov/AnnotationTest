@@ -8029,11 +8029,6 @@
 <w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="97"/></w>
 <w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="98"/></w>
 <w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="99"/></w>
-[NULL]
-[NULL]
-[NULL]
-[NULL]
-[NULL]
 <w trans="===" mrp1="=== @ u.B. @ @ noun @ ">===<note c=" In &lt;SP_f_AO_3a_TxtPubl&gt;KBo 27.219 {€2}&lt;/SP_f_AO_3a_TxtPubl&gt; deutlich vorhanden. In &lt;SP_f_AO_3a_TxtPubl&gt;KBo 12.79 {€6}&lt;/SP_f_AO_3a_TxtPubl&gt; nur als einfacher Paragraphenstrich fortgesetzt." n="24"/></w>
 <w trans="Dnabiru(-)[" mrp1="Dnabiru(-)[ @ @ .ABS @ noun @ ">Dna-bi-ru(-)<del_in/></w>
 <w trans="KASKAL-ri" mrp1="ḫāri @ Weg @ .ABS @ noun @ ">KASKAL-ri</w>
@@ -15250,7 +15245,6 @@
 <w trans="tabria]" mrp1="tabri-i-a @ Stuhl @ 3POSS.SG-ESS @ noun @ ">tap-ri-ia<corr c="(?)"/><del_fin/></w>
 <w trans="tabrini" mrp1="tabrini-i @ Wacholder? @ 3POSS.SG.ABS @ noun @ ">tap-ri-ni</w>
 <w trans="tabri]" mrp1="tabri-i @ Stuhl @ 3POSS.SG.ABS @ noun @ " mrp2="tab-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ">tap-ri<del_fin/></w>
-[NULL]
 <w trans="tapteni" mrp1="tapti-ne @ u.B. @ ABL/INS @ noun @ " mrp2="tapti-ne-e @ u.B. @ RELAT.SG-DIR/LOC @ noun @ ">tap-te-ni</w>
 <w trans="tapti" mrp1="tapti @ u.B. @ .ABS @ noun @ ">tap-ti</w>
 <w trans="taptin[i" mrp1="tapti-ne @ u.B. @ ABL/INS @ noun @ " mrp2="tapti-ne-e @ u.B. @ RELAT.SG-DIR/LOC @ noun @ ">tap-ti-n<del_in/>i</w>
@@ -16623,7 +16617,6 @@
 <w trans="forid[a" mrp1="fōri-da @ Blick @ DIR @ noun @ " mrp2="fōri-i-da @ Blick @ 3POSS.SG-DIR @ noun @ " mrp3="for-ed-a @ sehen @ FUT-3A.SG @ verb @ " mrp4="for-id-a @ sehen @ PL.A-3A @ verb @ " mrp5="for-id-en @ sehen @ PL.A-3JUSS @ verb @ ">wu<subscr c="u"/>-ri-t<del_in/>a</w>
 <w trans="forivaenima" mrp1="for-i-va-en-i=ma @ sehen @ MOD.AG-NEG-3JUSS-EPNTH=CON @ verb @ ">wu<subscr c="u"/>-ri-wa<subscr c="a"/>-e-ni-ma</w>
 <w trans="foru[" mrp1="for-u[ @ sehen @ @ verb @ ">wu<subscr c="u"/>-ru-<del_in/></w>
-[NULL]
 <w trans="forulla" mrp1="for-o=lla @ sehen @ MOD.PAT=3PL.ABS @ verb @ " mrp2="for-u=lla @ sehen @ MED=3PL.ABS @ verb @ " mrp3="for-ull-a @ sehen @ ull-3A.SG @ verb @ ">wu<subscr c="u"/>-ru-<laes_in/>ul<laes_fin/>-la</w>
 <w trans="forum[en]ebina" mrp1="forumene-ve-na @ @ GEN-RELAT.PL.ABS @ noun @ ">wu<subscr c="u"/>-ru-m<del_in/>é-n<del_fin/>e-pí-na<note c="Zu dieser Zeile, s. &lt;SP_f_AO_3a_-LIT&gt;Giorgieri M. - Murat L. - Süel A. 2013a&lt;/SP_f_AO_3a_-LIT&gt;: 182. &lt;SP_f_AO_3a_-LIT&gt;Wegner I. 2002a&lt;/SP_f_AO_3a_-LIT&gt;: 222 liest &lt;del_in/&gt; &lt;space c=&quot;15&quot;/&gt; -e&lt;del_fin/&gt;l&lt;SP_f_AO_3a_--superscr&gt;?&lt;/SP_f_AO_3a_--superscr&gt; wu&lt;SP_f_AO_3a_--index&gt;u&lt;/SP_f_AO_3a_--index&gt;-ru-u&lt;del_in/&gt;l-l&lt;del_fin/&gt;i-bi-na." n="4"/></w>
 <w trans="foru[l" mrp1="for-ul[ @ sehen @ @ verb @ " mrp2="fōroli-ne @ Tempel @ ABL/INS @ noun @ " mrp3="fōroli-ne-[ @ Tempel @ RELAT.SG @ noun @ " mrp4="fōroli-ne-e @ Tempel @ RELAT.SG-DIR/LOC @ noun @ ">wu<subscr c="u"/>-ru-u<del_in/>l-</w>
@@ -20731,7 +20724,6 @@
 <w trans="ḫōvalzia" mrp1="ḫōvalz-i-a @ @ 3POSS.SG-ESS @ noun @ " mrp2="ḫōvalz-i-a @ @ TR-3A.SG @ verb @ ">ḫu-u-wa-al-zi-ia</w>
 <w trans="ḫōvadi" mrp1="ḫōv-ad-i @ @ ad-ANTIP @ verb @ ">ḫu-u-wa-ti</w>
 <w trans="ḫōvō" mrp1="ḫōv-o @ @ MOD.PAT @ verb @ ">ḫu-u-wu<subscr c="u"/>-u</w>
-[NULL]
 <w trans="ḫōx-x" mrp1="ḫōx-x @ @ @ noun @ ">ḫu-u-x-x</w>
 <w trans="ḫōx[" mrp1="ḫōx[ @ @ .ABS @ noun @ ">ḫu-u-x<del_in/></w>
 <w trans="ḫōzi" mrp1="ḫōz-i @ @ 3POSS.SG.ABS @ noun @ " mrp2="ḫōz-i @ @ { a → ANTIP} { b → TR.IMP} @ verb @ ">ḫu-u-zi</w>
