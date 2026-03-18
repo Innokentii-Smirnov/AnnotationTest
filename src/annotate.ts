@@ -7,6 +7,7 @@ import { XmlElementNode, writeNode, XmlWriteConfig }
 import { LexicalData, setLexicalData } from '../tlh/ui/src/xmlEditor/hur/lexicalData/lexicalData';
 import { annotateHurrianWord, getLookupConfig }
   from '../tlh/ui/src/xmlEditor/hur/dict/dictionary';
+import { LookupConfig, lookupConfigKey } from '../tlh/ui/src/xmlEditor/lookupConfig';
 
 const sep = ' ';
 const dictionaryFilePath = process.argv[2];
@@ -34,7 +35,15 @@ const xmlWriteConfig: XmlWriteConfig = {
   }
 };
 
-const lookupConfig = getLookupConfig();
+const lookupConfig: LookupConfig = {
+  ignorePlene: false,
+  mergeLabials: false,
+  mergeMidAndHighVowels: false,
+  ignoreVoice: false,
+}
+
+const lookupConfigString = JSON.stringify(lookupConfig);
+localStorage.setItem(lookupConfigKey, lookupConfigString);
 
 function annotateWordNode(wordNode: XmlElementNode): string {
   annotateHurrianWord(wordNode, lookupConfig);
