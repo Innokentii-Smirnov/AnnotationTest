@@ -6,5 +6,6 @@ if tsc --outdir ../build; then
   node --localstorage-file=data/dict.sqlite \
     build/src/annotate.js ~/"Tive/data/$dictionaryVersion/Dictionary.json" \
     input/transliterations.json \
-    "output/$dictionaryVersion.txt"
+    "output/$dictionaryVersion.txt" \
+    "output/$dictionaryVersion.json"
 fi
