@@ -5,7 +5,7 @@ import 'global-jsdom/register';
 import { XmlElementNode, writeNode, XmlWriteConfig, Attributes }
   from 'simple_xml';
 import { LexicalData, setLexicalData } from '../tlh/ui/src/xmlEditor/hur/lexicalData/lexicalData';
-import { annotateHurrianWord, getLookupConfig }
+import { annotateHurrianWord, getLookupConfig, getStems, getSuffixChains }
   from '../tlh/ui/src/xmlEditor/hur/dict/dictionary';
 import { LookupConfig, lookupConfigKey } from '../tlh/ui/src/xmlEditor/lookupConfig';
 
@@ -14,6 +14,8 @@ const dictionaryFilePath = process.argv[2];
 const infile = process.argv[3];
 const outfile = process.argv[4];
 const annotationsFileName = process.argv[5];
+const stemsFileName = process.argv[6];
+const suffixChainsFileName = process.argv[7];
 const emptyStringMarker = '[EMPTY]';
 const progressReportAfter = 1000;
 
@@ -88,3 +90,11 @@ try {
 
 const annotationsString = JSON.stringify(annotations, undefined, '\t');
 fs.writeFileSync(annotationsFileName, annotationsString);
+
+const stems = getStems();
+const stemsString = JSON.stringify(stems, undefined, '\t');
+fs.writeFileSync(stemsFileName, stemsString);
+
+const suffixChains = getSuffixChains();
+const suffixChainsString = JSON.stringify(suffixChains, undefined, '\t');
+fs.writeFileSync(suffixChainsFileName, suffixChainsString);
