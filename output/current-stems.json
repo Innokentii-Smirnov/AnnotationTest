@@ -1958,7 +1958,7 @@
 				"translation": "Missgeburt"
 			}
 		],
-		"IZBU.ni": [
+		"IZBUni": [
 			{
 				"form": "IZBU.ni",
 				"translation": "Missgeburt"
@@ -2438,7 +2438,7 @@
 				"translation": "stark; der Starke"
 			}
 		],
-		"adal.šen": [
+		"adalšen": [
 			{
 				"form": "Adal.šen",
 				"translation": "DN"
@@ -3821,12 +3821,6 @@
 			}
 		],
 		"ežebābu": [
-			{
-				"form": "Ežeb.Ābu",
-				"translation": "PN"
-			}
-		],
-		"ežeb.ābu": [
 			{
 				"form": "Ežeb.Ābu",
 				"translation": "PN"
@@ -8826,7 +8820,7 @@
 				"translation": "PN"
 			}
 		],
-		"tado.ḫeba": [
+		"tadoḫeba": [
 			{
 				"form": "Tado.Ḫeba",
 				"translation": "PN"
@@ -9256,7 +9250,7 @@
 				"translation": "PN"
 			}
 		],
-		"tažmi.šarri": [
+		"tažmišarri": [
 			{
 				"form": "Tažmi.šarri",
 				"translation": "PN"
@@ -10268,7 +10262,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ubip.tēšši": [
+		"ubiptēšši": [
 			{
 				"form": "Ubip.tēšši",
 				"translation": "PN"
@@ -10296,7 +10290,7 @@
 				"translation": "u.B."
 			}
 		],
-		"udip.šarra": [
+		"udipšarra": [
 			{
 				"form": "Udip.šarra",
 				"translation": "PN"
@@ -10309,12 +10303,6 @@
 			}
 		],
 		"udipšarr": [
-			{
-				"form": "Udip.šarra",
-				"translation": "PN"
-			}
-		],
-		"udipšarra": [
 			{
 				"form": "Udip.šarra",
 				"translation": "PN"
@@ -10794,7 +10782,7 @@
 				"translation": "Ea (DN)"
 			}
 		],
-		"ea.šarri": [
+		"eašarri": [
 			{
 				"form": "Ea.šarri",
 				"translation": "DN"

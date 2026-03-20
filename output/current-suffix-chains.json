@@ -2212,7 +2212,7 @@
 				"morphTag": "GEN-RELAT.SG-DIR"
 			}
 		],
-		"žnna": [
+		"šša": [
 			{
 				"segmentation": "-ž=nna",
 				"morphTag": "ERG=3SG.ABS"
@@ -3082,12 +3082,6 @@
 			{
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
-			}
-		],
-		"šša": [
-			{
-				"segmentation": "-ž=nna",
-				"morphTag": "ERG=3SG.ABS"
 			}
 		],
 		"nibinin": [

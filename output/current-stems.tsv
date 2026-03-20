@@ -207,7 +207,7 @@ noun	āda	atta	Vater?
 noun	ad	ade	u.B.
 noun	adal	adāl	stark; der Starke
 noun	adāl	adāl	stark; der Starke
-noun	adal.šen	Adal.šen	DN
+noun	adalšen	Adal.šen	DN
 noun	adamġi	ad+am+ġe	u.B.
 noun	adāni	ad+ā+ni	Schemel
 noun	adašše	ad+a+šše	(Umwallung der) Unterstadt
@@ -439,7 +439,7 @@ noun	É-A-	Ea	DN
 noun	É-A-ia	Aia	Ea (DN)
 noun	ēāre	ēyari	Löwe
 noun	ēarži	ēyar+že	Löwenhaftigkeit
-noun	ea.šarri	Ea.šarri	DN
+noun	eašarri	Ea.šarri	DN
 noun	ebāni	ebāni	u.B.
 noun	eb	ebi	u.B.
 noun	ebirn	ever+ni	König
@@ -548,7 +548,6 @@ noun	everni	ever+ni	König
 noun	evri	evri	Herr
 noun	evrinže	evr+in+že	Herrschaft
 noun	ēyari	ēyari	Löwe
-noun	ežeb.ābu	Ežeb.Ābu	PN
 noun	ežebābu	Ežeb.Ābu	PN
 noun	eže	eže	Erde
 noun	eževabu	Ežeb.Ābu	PN
@@ -979,7 +978,7 @@ noun	ižamme	iža+mme	u.B.
 noun	ižammi	iža+mme	u.B.
 noun	ižari	iž+ar+i	u.B.
 noun	IZ-BU-ni	IZBU.ni	Missgeburt
-noun	IZBU.ni	IZBU.ni	Missgeburt
+noun	IZBUni	IZBU.ni	Missgeburt
 noun	iže	iže	Regen
 noun	iži	iži	Regen?
 noun	iži	iži	u.B.
@@ -1999,7 +1998,7 @@ noun	tadireški	tad+ir+e+ški	Liebe?
 noun	tadi	tādi	Liebe
 noun	tādi	tādi	Liebe
 noun	tādittini	tāditti+ni	u.B.
-noun	tado.ḫeba	Tado.Ḫeba	PN
+noun	tadoḫeba	Tado.Ḫeba	PN
 noun	tad	tādi	Liebe
 noun	tād	tādi	Liebe
 noun	tadugari	tad+ugar+i	gegenseitige Liebe
@@ -2113,7 +2112,7 @@ noun	taže	taže	Geschenk?; Gabe?
 noun	tāže	taže	Geschenk?; Gabe?
 noun	tāže	tāže	u.B.
 noun	tažmežarri	Tažmi.šarri	PN
-noun	tažmi.šarri	Tažmi.šarri	PN
+noun	tažmišarri	Tažmi.šarri	PN
 noun	tažmižarre	Tažmi.šarri	PN
 noun	tažmižarri	Tažmi.šarri	PN
 noun	tāž	taže	Geschenk?; Gabe?
@@ -2248,7 +2247,7 @@ noun	tuwarni	tuw+ar+ni	u.B.
 noun	ubilbaeži	Ubilbaeži	GN
 noun	ubindi	ubindi	u.B.
 noun	ubi	obi	Gerste?
-noun	ubip.tēšši	Ubip.tēšši	PN
+noun	ubiptēšši	Ubip.tēšši	PN
 noun	ubi	ubi	Gerste
 noun	ubī	ubi	Gerste
 noun	ubī	ubī	u.B.
@@ -2257,7 +2256,6 @@ noun	ub	ubī	u.B.
 noun	ubugarže	ub+ugar+že	Schlacht
 noun	udadeli	udadeli	u.B.
 noun	udipšari	Odip.šarri	PN
-noun	udip.šarra	Udip.šarra	PN
 noun	udipšarra	Udip.šarra	PN
 noun	udipšarr	Udip.šarra	PN
 noun	uēkki	uwēkki	u.B.
