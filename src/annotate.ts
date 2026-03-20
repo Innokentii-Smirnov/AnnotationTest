@@ -13,14 +13,16 @@ import { StemInventories } from '../tlh/ui/src/xmlEditor/hur/segmentation/stemIn
 import { SuffixChainInventories } from '../tlh/ui/src/xmlEditor/hur/segmentation/suffixChainInventories';
 
 const sep = ' ';
-const dictionaryFilePath = process.argv[2];
-const infile = process.argv[3];
-const outfile = process.argv[4];
-const annotationsFileName = process.argv[5];
-const stemsFileName = process.argv[6];
-const suffixChainsFileName = process.argv[7];
-const stemTableFileName = process.argv[8];
-const suffixChainTableFileName = process.argv[9];
+const [
+  dictionaryFilePath,
+  infile,
+  outfile,
+  annotationsFileName,
+  stemsFileName,
+  suffixChainsFileName,
+  stemTableFileName,
+  suffixChainTableFileName
+] = process.argv.slice(2);
 const emptyStringMarker = '[EMPTY]';
 const progressReportAfter = 1000;
 
