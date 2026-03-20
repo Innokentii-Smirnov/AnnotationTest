@@ -2,230 +2,270 @@
 	"ADJ": {
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			}
 		],
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			},
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"-nam": [
 			{
+				"surfaceForm": "-nam",
 				"segmentation": "-na=m",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"am": [
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "ESS=CON"
 			}
 		],
 		"neva": [
 			{
+				"surfaceForm": "neva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"na": [
 			{
+				"surfaceForm": "na",
 				"segmentation": "-na",
 				"morphTag": "RELAT.PL.ABS"
 			}
 		],
 		"nama": [
 			{
+				"surfaceForm": "nama",
 				"segmentation": "-na=ma",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"naažož": [
 			{
+				"surfaceForm": "naažož",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG"
 			}
 		],
 		"naažveae": [
 			{
+				"surfaceForm": "naažveae",
 				"segmentation": "-na-až-ve-ae",
 				"morphTag": "RELAT.PL-PL-GEN-INS"
 			}
 		],
 		"naaža": [
 			{
+				"surfaceForm": "naaža",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"ae": [
 			{
+				"surfaceForm": "ae",
 				"segmentation": "-ae",
 				"morphTag": "INS"
 			}
 		],
 		"ne": [
 			{
+				"surfaceForm": "ne",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"nee": [
 			{
+				"surfaceForm": "nee",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			}
 		],
 		"nen": [
 			{
+				"surfaceForm": "nen",
 				"segmentation": "-ne-n",
 				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"ž": [
 			{
+				"surfaceForm": "ž",
 				"segmentation": "-ž",
 				"morphTag": "ERG"
 			}
 		],
 		"nenna": [
 			{
+				"surfaceForm": "nenna",
 				"segmentation": "-ne-nna",
 				"morphTag": "RELAT.SG-EQU2"
 			}
 		],
 		"ma": [
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"ožnna": [
 			{
+				"surfaceForm": "ožnna",
 				"segmentation": "-ož=nna",
 				"morphTag": "EQU=3SG.ABS"
 			}
 		],
 		"ož": [
 			{
+				"surfaceForm": "ož",
 				"segmentation": "-ož",
 				"morphTag": "EQU"
 			}
 		],
 		"nežnna": [
 			{
+				"surfaceForm": "nežnna",
 				"segmentation": "-ne-ž=nna",
 				"morphTag": "RELAT.SG-ERG=3SG.ABS"
 			}
 		],
 		"da": [
 			{
+				"surfaceForm": "da",
 				"segmentation": "-da",
 				"morphTag": "DIR"
 			},
 			{
+				"surfaceForm": "da",
 				"segmentation": "-i-da",
 				"morphTag": "3POSS.SG-DIR"
 			}
 		],
 		"ida": [
 			{
+				"surfaceForm": "ida",
 				"segmentation": "-i-da",
 				"morphTag": "3POSS.SG-DIR"
 			}
 		],
 		"než": [
 			{
+				"surfaceForm": "než",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			}
 		],
 		"niž": [
 			{
+				"surfaceForm": "niž",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			}
 		],
 		"b": [
 			{
+				"surfaceForm": "b",
 				"segmentation": "-v",
 				"morphTag": "2POSS.SG.ABS"
 			}
 		],
 		"naažve": [
 			{
+				"surfaceForm": "naažve",
 				"segmentation": "-na-až-ve",
 				"morphTag": "RELAT.PL-PL-GEN"
 			}
 		],
 		"ai": [
 			{
+				"surfaceForm": "ai",
 				"segmentation": "-ae",
 				"morphTag": "INS"
 			}
 		],
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "-n",
 				"morphTag": "ABL/INS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"ama": [
 			{
+				"surfaceForm": "ama",
 				"segmentation": "-a=ma",
 				"morphTag": "ESS=CON"
 			}
 		],
 		"amma": [
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "ESS=2SG.ABS"
 			}
 		],
 		"ra": [
 			{
+				"surfaceForm": "ra",
 				"segmentation": "-ra",
 				"morphTag": "COM"
 			}
 		],
 		"ni": [
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"nnam": [
 			{
+				"surfaceForm": "nnam",
 				"segmentation": "-n=nna=m",
 				"morphTag": "ABL/INS=3SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "nnam",
 				"segmentation": "=nna=m",
 				"morphTag": ".ABS=3SG.ABS=CON"
 			}
 		],
 		"neema": [
 			{
+				"surfaceForm": "neema",
 				"segmentation": "-ne-e=ma",
 				"morphTag": "RELAT.SG-DIR/LOC=CON"
 			}
 		],
 		"naan": [
 			{
+				"surfaceForm": "naan",
 				"segmentation": "-na=an",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
@@ -234,132 +274,157 @@
 	"ADV": {
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			}
 		],
 		"m": [
 			{
+				"surfaceForm": "m",
 				"segmentation": "=m",
 				"morphTag": "=2SG.ABS"
 			},
 			{
+				"surfaceForm": "m",
 				"segmentation": "=m",
 				"morphTag": "=COM"
 			},
 			{
+				"surfaceForm": "m",
 				"segmentation": "=m",
 				"morphTag": "=CON"
 			}
 		],
 		"ma": [
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": "=CON"
 			}
 		],
 		"mma": [
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": ".ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": ".ABS=CON"
 			},
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": "=2SG.ABS"
 			},
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": "=CON"
 			}
 		],
 		"nna": [
 			{
+				"surfaceForm": "nna",
 				"segmentation": "=nna",
 				"morphTag": ".ABS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "nna",
 				"segmentation": "=nna",
 				"morphTag": "=3SG.ABS"
 			}
 		],
 		"než": [
 			{
+				"surfaceForm": "než",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			}
 		],
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "",
 				"morphTag": ""
 			}
 		],
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "-n",
 				"morphTag": "ABL/INS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": "=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": "=CON"
 			}
 		],
 		"nīn": [
 			{
+				"surfaceForm": "nīn",
 				"segmentation": "-ne-n",
 				"morphTag": "RELAT.SG-ABL/INS"
 			},
 			{
+				"surfaceForm": "nīn",
 				"segmentation": "-ne=n",
 				"morphTag": "ABL/INS=3SG.ABS"
 			}
 		],
 		"d": [
 			{
+				"surfaceForm": "d",
 				"segmentation": "=d",
 				"morphTag": "=1SG.ABS"
 			}
 		],
 		"nnam": [
 			{
+				"surfaceForm": "nnam",
 				"segmentation": "=nna=m",
 				"morphTag": "=3SG.ABS=CON"
 			}
 		],
 		"amma": [
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "ESS=CON"
 			}
 		],
 		"nam": [
 			{
+				"surfaceForm": "nam",
 				"segmentation": "=nna=m",
 				"morphTag": "=3SG.ABS=CON"
 			}
 		],
 		"mmab": [
 			{
+				"surfaceForm": "mmab",
 				"segmentation": "=mma=m",
 				"morphTag": "=2SG.ABS=CON"
 			}
 		],
 		"mman": [
 			{
+				"surfaceForm": "mman",
 				"segmentation": "=mma=an",
 				"morphTag": "=2SG.ABS=CON"
 			}
 		],
 		"lla": [
 			{
+				"surfaceForm": "lla",
 				"segmentation": "=lla",
 				"morphTag": "=3PL.ABS"
 			}
@@ -368,72 +433,85 @@
 	"CONJ": {
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			}
 		],
 		"l": [
 			{
+				"surfaceForm": "l",
 				"segmentation": "=l",
 				"morphTag": "=3PL.ABS"
 			}
 		],
 		"ma": [
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": "=CON"
 			}
 		],
 		"mān": [
 			{
+				"surfaceForm": "mān",
 				"segmentation": "=m=an",
 				"morphTag": "=2SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "mān",
 				"segmentation": "=mān",
 				"morphTag": "=CON"
 			}
 		],
 		"b": [
 			{
+				"surfaceForm": "b",
 				"segmentation": "=m",
 				"morphTag": "=2SG.ABS"
 			}
 		],
 		"mma": [
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": "=2SG.ABS"
 			}
 		],
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "=an",
 				"morphTag": "=CON"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": "=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": "=CON"
 			}
 		],
 		"mē": [
 			{
+				"surfaceForm": "mē",
 				"segmentation": "=mē",
 				"morphTag": "=3SG.ABS"
 			}
 		],
 		"tta": [
 			{
+				"surfaceForm": "tta",
 				"segmentation": "=tta",
 				"morphTag": "=1SG.ABS"
 			}
 		],
 		"d": [
 			{
+				"surfaceForm": "d",
 				"segmentation": "=d",
 				"morphTag": "=1SG.ABS"
 			}
@@ -442,12 +520,14 @@
 	"INTJ": {
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			}
 		],
 		"l": [
 			{
+				"surfaceForm": "l",
 				"segmentation": "=l",
 				"morphTag": "=3PL.ABS"
 			}
@@ -456,166 +536,195 @@
 	"NUM": {
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			},
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"ma": [
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"ne": [
 			{
+				"surfaceForm": "ne",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"nee": [
 			{
+				"surfaceForm": "nee",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			}
 		],
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "INT"
 			}
 		],
 		"ni": [
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			}
 		],
 		"iaža": [
 			{
+				"surfaceForm": "iaža",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS"
 			}
 		],
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "-n",
 				"morphTag": "ABL/INS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=3SG.ABS"
 			}
 		],
 		"nīn": [
 			{
+				"surfaceForm": "nīn",
 				"segmentation": "-ne-n",
 				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"an": [
 			{
+				"surfaceForm": "an",
 				"segmentation": "-i-a=n",
 				"morphTag": "3POSS.SG-ESS=3SG.ABS"
 			}
 		],
 		"el": [
 			{
+				"surfaceForm": "el",
 				"segmentation": "-e=l",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			}
 		],
 		"iel": [
 			{
+				"surfaceForm": "iel",
 				"segmentation": "-i-e=l",
 				"morphTag": "3POSS.SG-DIR/LOC=3PL.ABS"
 			}
 		],
 		"žl": [
 			{
+				"surfaceForm": "žl",
 				"segmentation": "-ž=l",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"l": [
 			{
+				"surfaceForm": "l",
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "-ž=l",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"iam": [
 			{
+				"surfaceForm": "iam",
 				"segmentation": "-i-a=m",
 				"morphTag": "3POSS.SG-ESS=CON"
 			}
 		],
 		"iažož": [
 			{
+				"surfaceForm": "iažož",
 				"segmentation": "-i-až-ož",
 				"morphTag": "3POSS-PL-ERG"
 			}
 		],
 		"neva": [
 			{
+				"surfaceForm": "neva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"na": [
 			{
+				"surfaceForm": "na",
 				"segmentation": "-na",
 				"morphTag": "RELAT.PL.ABS"
 			}
 		],
 		"ž": [
 			{
+				"surfaceForm": "ž",
 				"segmentation": "-ž",
 				"morphTag": "ERG"
 			}
 		],
 		"ad": [
 			{
+				"surfaceForm": "ad",
 				"segmentation": "-a=d",
 				"morphTag": "ESS=1SG.ABS"
 			}
 		],
 		"b": [
 			{
+				"surfaceForm": "b",
 				"segmentation": "=v",
 				"morphTag": ".ABS=2PL.ABS"
 			}
 		],
 		"aev": [
 			{
+				"surfaceForm": "aev",
 				"segmentation": "-ae=v",
 				"morphTag": "INS=2PL.ABS"
 			}
 		],
 		"amma": [
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "ESS=2SG.ABS"
 			}
 		],
 		"ae": [
 			{
+				"surfaceForm": "ae",
 				"segmentation": "-ae",
 				"morphTag": "INS"
 			}
 		],
 		"nna": [
 			{
+				"surfaceForm": "nna",
 				"segmentation": "=nna",
 				"morphTag": "=3SG.ABS"
 			}
@@ -624,12 +733,14 @@
 	"POST": {
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": "=3SG.ABS"
 			}
 		],
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			}
@@ -638,12 +749,14 @@
 	"PREP": {
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			}
 		],
 		"ž": [
 			{
+				"surfaceForm": "ž",
 				"segmentation": "",
 				"morphTag": ""
 			}
@@ -652,298 +765,349 @@
 	"PRON": {
 		"aža": [
 			{
+				"surfaceForm": "aža",
 				"segmentation": "-až-a",
 				"morphTag": "PL-DAT/ESS"
 			}
 		],
 		"ma": [
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"žnna": [
 			{
+				"surfaceForm": "žnna",
 				"segmentation": "-ž=nna",
 				"morphTag": "ERG=3SG.ABS"
 			}
 		],
 		"žd": [
 			{
+				"surfaceForm": "žd",
 				"segmentation": "-ž=d",
 				"morphTag": "ERG=1SG.ABS"
 			}
 		],
 		"ždilla": [
 			{
+				"surfaceForm": "ždilla",
 				"segmentation": "-ž=dilla",
 				"morphTag": "ERG=1PL.ABS"
 			}
 		],
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			}
 		],
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"da": [
 			{
+				"surfaceForm": "da",
 				"segmentation": "-da",
 				"morphTag": "DIR"
 			}
 		],
 		"ž": [
 			{
+				"surfaceForm": "ž",
 				"segmentation": "-ž",
 				"morphTag": "ERG"
 			}
 		],
 		"llam": [
 			{
+				"surfaceForm": "llam",
 				"segmentation": "=lla=m",
 				"morphTag": ".ABS=3PL.ABS=CON"
 			}
 		],
 		"ne": [
 			{
+				"surfaceForm": "ne",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"nee": [
 			{
+				"surfaceForm": "nee",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			}
 		],
 		"l": [
 			{
+				"surfaceForm": "l",
 				"segmentation": "-ž=l",
 				"morphTag": "ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "=l",
 				"morphTag": ".ABS=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "=l",
 				"morphTag": "=3PL.ABS"
 			}
 		],
 		"m": [
 			{
+				"surfaceForm": "m",
 				"segmentation": "=m",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"zušša": [
 			{
+				"surfaceForm": "zušša",
 				"segmentation": "-z-ož=nna",
 				"morphTag": "PL-ERG=3SG.ABS"
 			}
 		],
 		"zōšša": [
 			{
+				"surfaceForm": "zōšša",
 				"segmentation": "-z-ož=nna",
 				"morphTag": "PL-ERG=3SG.ABS"
 			}
 		],
 		"iaža": [
 			{
+				"surfaceForm": "iaža",
 				"segmentation": "-až-a",
 				"morphTag": "PL-DAT/ESS"
 			}
 		],
 		"žnnam": [
 			{
+				"surfaceForm": "žnnam",
 				"segmentation": "-ž=nna=m",
 				"morphTag": "ERG=3SG.ABS=CON"
 			}
 		],
 		"va": [
 			{
+				"surfaceForm": "va",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"oda": [
 			{
+				"surfaceForm": "oda",
 				"segmentation": "-oda",
 				"morphTag": "DIR"
 			}
 		],
 		"ža": [
 			{
+				"surfaceForm": "ža",
 				"segmentation": "-ž-a",
 				"morphTag": "PL-DAT/ESS"
 			}
 		],
 		"žuda": [
 			{
+				"surfaceForm": "žuda",
 				"segmentation": "-ž-oda",
 				"morphTag": "PL-DIR"
 			}
 		],
 		"žūda": [
 			{
+				"surfaceForm": "žūda",
 				"segmentation": "-ž-oda",
 				"morphTag": "PL-DIR"
 			}
 		],
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"nnanan": [
 			{
+				"surfaceForm": "nnanan",
 				"segmentation": "=nna=nan",
 				"morphTag": "=3SG.ABS=CON"
 			}
 		],
 		"až": [
 			{
+				"surfaceForm": "až",
 				"segmentation": "-až",
 				"morphTag": "ERG"
 			}
 		],
 		"za": [
 			{
+				"surfaceForm": "za",
 				"segmentation": "-z-a",
 				"morphTag": "PL-DAT/ESS"
 			}
 		],
 		"zōra": [
 			{
+				"surfaceForm": "zōra",
 				"segmentation": "-z-ora",
 				"morphTag": "PL-COM"
 			}
 		],
 		"žorama": [
 			{
+				"surfaceForm": "žorama",
 				"segmentation": "-ž-ora=ma",
 				"morphTag": "PL-COM=CON"
 			}
 		],
 		"zōž": [
 			{
+				"surfaceForm": "zōž",
 				"segmentation": "-z-ož",
 				"morphTag": "PL-ERG"
 			}
 		],
 		"žož": [
 			{
+				"surfaceForm": "žož",
 				"segmentation": "-ž-ož",
 				"morphTag": "PL-ERG"
 			}
 		],
 		"al": [
 			{
+				"surfaceForm": "al",
 				"segmentation": "-a=l",
 				"morphTag": "ESS=3PL.ABS"
 			}
 		],
 		"balla": [
 			{
+				"surfaceForm": "balla",
 				"segmentation": "-va=lla",
 				"morphTag": "DAT=3PL.ABS"
 			}
 		],
 		"uda": [
 			{
+				"surfaceForm": "uda",
 				"segmentation": "-oda",
 				"morphTag": "DIR"
 			}
 		],
 		"ra": [
 			{
+				"surfaceForm": "ra",
 				"segmentation": "-ra",
 				"morphTag": "COM"
 			}
 		],
 		"ōl": [
 			{
+				"surfaceForm": "ōl",
 				"segmentation": "-ož=l",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"ve": [
 			{
+				"surfaceForm": "ve",
 				"segmentation": "-ve",
 				"morphTag": "GEN"
 			}
 		],
 		"affa": [
 			{
+				"surfaceForm": "affa",
 				"segmentation": "-a=ffa",
 				"morphTag": "ESS=2PL.ABS"
 			}
 		],
 		"neva": [
 			{
+				"surfaceForm": "neva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"nnān": [
 			{
+				"surfaceForm": "nnān",
 				"segmentation": "=nna=an",
 				"morphTag": ".ABS=3SG.ABS=CON"
 			}
 		],
 		"nene": [
 			{
+				"surfaceForm": "nene",
 				"segmentation": "-ne-ne",
 				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"než": [
 			{
+				"surfaceForm": "než",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			}
 		],
 		"del": [
 			{
+				"surfaceForm": "del",
 				"segmentation": "=dil",
 				"morphTag": ".ABS=1PL.ABS"
 			}
 		],
 		"ažoda": [
 			{
+				"surfaceForm": "ažoda",
 				"segmentation": "-až-oda",
 				"morphTag": "PL-DIR"
 			}
 		],
 		"ni": [
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"niveninna": [
 			{
+				"surfaceForm": "niveninna",
 				"segmentation": "-ne-ve-ne-nna",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-EQU2"
 			}
 		],
 		"vae": [
 			{
+				"surfaceForm": "vae",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS"
 			}
@@ -952,2758 +1116,3258 @@
 	"noun": {
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			},
 			{
+				"surfaceForm": "",
 				"segmentation": "-i",
 				"morphTag": "3POSS.SG.ABS"
 			},
 			{
+				"surfaceForm": "",
 				"segmentation": "-ž",
 				"morphTag": "ERG"
 			},
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"iva": [
 			{
+				"surfaceForm": "iva",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT"
 			}
 		],
 		"až": [
 			{
+				"surfaceForm": "až",
 				"segmentation": "-až",
 				"morphTag": "ERG"
 			},
 			{
+				"surfaceForm": "až",
 				"segmentation": "-i-až",
 				"morphTag": "3POSS-PL.ABS"
 			}
 		],
 		"ve": [
 			{
+				"surfaceForm": "ve",
 				"segmentation": "-ve",
 				"morphTag": "GEN"
 			}
 		],
 		"dal": [
 			{
+				"surfaceForm": "dal",
 				"segmentation": "-da=l",
 				"morphTag": "DIR=3PL.ABS"
 			},
 			{
+				"surfaceForm": "dal",
 				"segmentation": "-i-da=l",
 				"morphTag": "3POSS.SG-DIR=3PL.ABS"
 			}
 		],
 		"odal": [
 			{
+				"surfaceForm": "odal",
 				"segmentation": "-oda=l",
 				"morphTag": "DIR=3PL.ABS"
 			}
 		],
 		"ažnna": [
 			{
+				"surfaceForm": "ažnna",
 				"segmentation": "-až=nna",
 				"morphTag": "ERG=3SG.ABS"
 			}
 		],
 		"ožl": [
 			{
+				"surfaceForm": "ožl",
 				"segmentation": "-ož=l",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"va": [
 			{
+				"surfaceForm": "va",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT"
 			},
 			{
+				"surfaceForm": "va",
 				"segmentation": "-v-a",
 				"morphTag": "2POSS.SG-ESS"
 			},
 			{
+				"surfaceForm": "va",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"ažl": [
 			{
+				"surfaceForm": "ažl",
 				"segmentation": "-až=l",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"vella": [
 			{
+				"surfaceForm": "vella",
 				"segmentation": "-ve=lla",
 				"morphTag": "GEN=3PL.ABS"
 			}
 		],
 		"man": [
 			{
+				"surfaceForm": "man",
 				"segmentation": "-i=man",
 				"morphTag": "3POSS.SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "man",
 				"segmentation": "=man",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"vena": [
 			{
+				"surfaceForm": "vena",
 				"segmentation": "-ve-na",
 				"morphTag": "GEN-RELAT.PL.ABS"
 			},
 			{
+				"surfaceForm": "vena",
 				"segmentation": "-ve-ne-a",
 				"morphTag": "GEN-RELAT.SG-ESS"
 			}
 		],
 		"venež": [
 			{
+				"surfaceForm": "venež",
 				"segmentation": "-ve-ne-ž",
 				"morphTag": "GEN-RELAT.SG-ERG"
 			}
 		],
 		"venaaža": [
 			{
+				"surfaceForm": "venaaža",
 				"segmentation": "-ve-na-až-a",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"venaažve": [
 			{
+				"surfaceForm": "venaažve",
 				"segmentation": "-ve-na-až-ve",
 				"morphTag": "GEN-RELAT.PL-PL-GEN"
 			}
 		],
 		"veožl": [
 			{
+				"surfaceForm": "veožl",
 				"segmentation": "-ve-ož=l",
 				"morphTag": "GEN-EQU=3PL.ABS"
 			},
 			{
+				"surfaceForm": "veožl",
 				"segmentation": "-ve-ož=l",
 				"morphTag": "GEN-ERG=3PL.ABS"
 			}
 		],
 		"veož": [
 			{
+				"surfaceForm": "veož",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-EQU"
 			},
 			{
+				"surfaceForm": "veož",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-ERG"
 			}
 		],
 		"da": [
 			{
+				"surfaceForm": "da",
 				"segmentation": "-da",
 				"morphTag": "DIR"
 			},
 			{
+				"surfaceForm": "da",
 				"segmentation": "-i-da",
 				"morphTag": "3POSS.SG-DIR"
 			}
 		],
 		"veae": [
 			{
+				"surfaceForm": "veae",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS"
 			}
 		],
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "INT"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-i-a",
 				"morphTag": "3POSS.SG-ESS"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"oda": [
 			{
+				"surfaceForm": "oda",
 				"segmentation": "-oda",
 				"morphTag": "DIR"
 			}
 		],
 		"an": [
 			{
+				"surfaceForm": "an",
 				"segmentation": "-a=n",
 				"morphTag": "ESS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "an",
 				"segmentation": "-i-a=n",
 				"morphTag": "3POSS.SG-ESS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "an",
 				"segmentation": "=an",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"n": [
 			{
+				"surfaceForm": "n",
 				"segmentation": "-a=n",
 				"morphTag": "ESS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "-i-n",
 				"morphTag": "3POSS.SG-ABL/INS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "-i=n",
 				"morphTag": "3POSS.SG.ABS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "-i=n",
 				"morphTag": "3POSS.SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "-n",
 				"morphTag": "ABL/INS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=an",
 				"morphTag": ".ABS=CON"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "n",
 				"segmentation": "=n",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"na": [
 			{
+				"surfaceForm": "na",
 				"segmentation": "-na",
 				"morphTag": "RELAT.PL.ABS"
 			},
 			{
+				"surfaceForm": "na",
 				"segmentation": "-ne-a",
 				"morphTag": "RELAT.SG-ESS"
 			}
 		],
 		"alla": [
 			{
+				"surfaceForm": "alla",
 				"segmentation": "-a=lla",
 				"morphTag": "ESS=3PL.ABS"
 			}
 		],
 		"naaždal": [
 			{
+				"surfaceForm": "naaždal",
 				"segmentation": "-na-až-da=l",
 				"morphTag": "RELAT.PL-PL-DIR=3PL.ABS"
 			}
 		],
 		"naažvenež": [
 			{
+				"surfaceForm": "naažvenež",
 				"segmentation": "-na-až-ve-ne-ž",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.SG-ERG"
 			}
 		],
 		"nama": [
 			{
+				"surfaceForm": "nama",
 				"segmentation": "-na=ma",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"naaža": [
 			{
+				"surfaceForm": "naaža",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"naažalla": [
 			{
+				"surfaceForm": "naažalla",
 				"segmentation": "-na-až-a=lla",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3PL.ABS"
 			}
 		],
 		"naažaan": [
 			{
+				"surfaceForm": "naažaan",
 				"segmentation": "-na-až-a=an",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=CON"
 			}
 		],
 		"naažan": [
 			{
+				"surfaceForm": "naažan",
 				"segmentation": "-na-až-a=n",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3SG.ABS"
 			}
 		],
 		"naažve": [
 			{
+				"surfaceForm": "naažve",
 				"segmentation": "-na-až-ve",
 				"morphTag": "RELAT.PL-PL-GEN"
 			}
 		],
 		"naažvena": [
 			{
+				"surfaceForm": "naažvena",
 				"segmentation": "-na-až-ve-na",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.PL.ABS"
 			}
 		],
 		"naažvene": [
 			{
+				"surfaceForm": "naažvene",
 				"segmentation": "-na-až-ve-ne",
 				"morphTag": "RELAT.PL-PL-GEN-ABL/INS"
 			}
 		],
 		"naažvenaažož": [
 			{
+				"surfaceForm": "naažvenaažož",
 				"segmentation": "-na-až-ve-na-až-ož",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.PL-PL-ERG"
 			}
 		],
 		"naažožl": [
 			{
+				"surfaceForm": "naažožl",
 				"segmentation": "-na-až-ož=l",
 				"morphTag": "RELAT.PL-PL-ERG=3PL.ABS"
 			}
 		],
 		"naažož": [
 			{
+				"surfaceForm": "naažož",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG"
 			}
 		],
 		"naažveae": [
 			{
+				"surfaceForm": "naažveae",
 				"segmentation": "-na-až-ve-ae",
 				"morphTag": "RELAT.PL-PL-GEN-INS"
 			}
 		],
 		"nevenaažož": [
 			{
+				"surfaceForm": "nevenaažož",
 				"segmentation": "-ne-ve-na-až-ož",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-ERG"
 			}
 		],
 		"naae": [
 			{
+				"surfaceForm": "naae",
 				"segmentation": "-na-ae",
 				"morphTag": "RELAT.PL-INS"
 			}
 		],
 		"naažam": [
 			{
+				"surfaceForm": "naažam",
 				"segmentation": "-na-až-a=m",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=2SG.ABS"
 			}
 		],
 		"naažama": [
 			{
+				"surfaceForm": "naažama",
 				"segmentation": "-na-až-a=ma",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=CON"
 			}
 		],
 		"naažožnna": [
 			{
+				"surfaceForm": "naažožnna",
 				"segmentation": "-na-až-ož=nna",
 				"morphTag": "RELAT.PL-PL-ERG=3SG.ABS"
 			}
 		],
 		"neen": [
 			{
+				"surfaceForm": "neen",
 				"segmentation": "-ne-e=n",
 				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS"
 			},
 			{
+				"surfaceForm": "neen",
 				"segmentation": "-ne-e=n",
 				"morphTag": "RELAT.SG-DIR/LOC=CON"
 			}
 		],
 		"nen": [
 			{
+				"surfaceForm": "nen",
 				"segmentation": "-ne-n",
 				"morphTag": "RELAT.SG-ABL/INS"
 			},
 			{
+				"surfaceForm": "nen",
 				"segmentation": "-ne=n",
 				"morphTag": "ABL/INS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "nen",
 				"segmentation": "-ne=n",
 				"morphTag": "ABL/INS=CON"
 			}
 		],
 		"-el": [
 			{
+				"surfaceForm": "-el",
 				"segmentation": "=l",
 				"morphTag": "=3PL.ABS"
 			}
 		],
 		"val": [
 			{
+				"surfaceForm": "val",
 				"segmentation": "-va=l",
 				"morphTag": "DAT=3PL.ABS"
 			}
 		],
 		"veneda": [
 			{
+				"surfaceForm": "veneda",
 				"segmentation": "-ve-ne-da",
 				"morphTag": "GEN-RELAT.SG-DIR"
 			}
 		],
 		"i": [
 			{
+				"surfaceForm": "i",
 				"segmentation": "-i",
 				"morphTag": "3POSS.SG.ABS"
 			}
 		],
 		"il": [
 			{
+				"surfaceForm": "il",
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			}
 		],
 		"iž": [
 			{
+				"surfaceForm": "iž",
 				"segmentation": "-i-ž",
 				"morphTag": "3POSS.SG-ERG"
 			}
 		],
 		"ne": [
 			{
+				"surfaceForm": "ne",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ne",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"nee": [
 			{
+				"surfaceForm": "nee",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			}
 		],
 		"neve": [
 			{
+				"surfaceForm": "neve",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"nna": [
 			{
+				"surfaceForm": "nna",
 				"segmentation": "-i-nna",
 				"morphTag": "3POSS.SG-EQU2"
 			},
 			{
+				"surfaceForm": "nna",
 				"segmentation": "-na",
 				"morphTag": "RELAT.PL"
 			},
 			{
+				"surfaceForm": "nna",
 				"segmentation": "-nna",
 				"morphTag": "EQU2"
 			},
 			{
+				"surfaceForm": "nna",
 				"segmentation": "=nna",
 				"morphTag": ".ABS=3SG.ABS"
 			}
 		],
 		"ida": [
 			{
+				"surfaceForm": "ida",
 				"segmentation": "-i-da",
 				"morphTag": "3POSS.SG-DIR"
 			}
 		],
 		"-ta": [
 			{
+				"surfaceForm": "-ta",
 				"segmentation": "-da",
 				"morphTag": "DIR"
 			}
 		],
 		"ažvenee": [
 			{
+				"surfaceForm": "ažvenee",
 				"segmentation": "-až-ve-ne-e",
 				"morphTag": "PL-GEN-RELAT.SG-DIR/LOC"
 			}
 		],
 		"valla": [
 			{
+				"surfaceForm": "valla",
 				"segmentation": "-va=lla",
 				"morphTag": "DAT=3PL.ABS"
 			}
 		],
 		"vama": [
 			{
+				"surfaceForm": "vama",
 				"segmentation": "-va=ma",
 				"morphTag": "DAT=CON"
 			}
 		],
 		"ven": [
 			{
+				"surfaceForm": "ven",
 				"segmentation": "-ve=n",
 				"morphTag": "GEN=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ven",
 				"segmentation": "-ve=n",
 				"morphTag": "GEN=CON"
 			}
 		],
 		"žl": [
 			{
+				"surfaceForm": "žl",
 				"segmentation": "-ž=l",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"ž": [
 			{
+				"surfaceForm": "ž",
 				"segmentation": "-i-ž",
 				"morphTag": "3POSS.SG-ERG"
 			},
 			{
+				"surfaceForm": "ž",
 				"segmentation": "-ž",
 				"morphTag": "ERG"
 			}
 		],
 		"venaažož": [
 			{
+				"surfaceForm": "venaažož",
 				"segmentation": "-ve-na-až-ož",
 				"morphTag": "GEN-RELAT.PL-PL-ERG"
 			}
 		],
 		"e": [
 			{
+				"surfaceForm": "e",
 				"segmentation": "-e",
 				"morphTag": "3POSS.SG.ABS"
 			},
 			{
+				"surfaceForm": "e",
 				"segmentation": "-i-e",
 				"morphTag": "3POSS.SG-DIR/LOC"
 			}
 		],
 		"ie": [
 			{
+				"surfaceForm": "ie",
 				"segmentation": "-i-e",
 				"morphTag": "3POSS.SG-DIR/LOC"
 			}
 		],
 		"neva": [
 			{
+				"surfaceForm": "neva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"ia": [
 			{
+				"surfaceForm": "ia",
 				"segmentation": "-i-a",
 				"morphTag": "3POSS.SG-ESS"
 			}
 		],
 		"neel": [
 			{
+				"surfaceForm": "neel",
 				"segmentation": "-ne-e=l",
 				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS"
 			}
 		],
 		"nežl": [
 			{
+				"surfaceForm": "nežl",
 				"segmentation": "-ne-ž=l",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			}
 		],
 		"nel": [
 			{
+				"surfaceForm": "nel",
 				"segmentation": "-ne-e=l",
 				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS"
 			},
 			{
+				"surfaceForm": "nel",
 				"segmentation": "-ne-ž=l",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "nel",
 				"segmentation": "-ne=l",
 				"morphTag": "ABL/INS=3PL.ABS"
 			}
 		],
 		"nevema": [
 			{
+				"surfaceForm": "nevema",
 				"segmentation": "-ne-ve=ma",
 				"morphTag": "RELAT.SG-GEN=CON"
 			}
 		],
 		"nežd": [
 			{
+				"surfaceForm": "nežd",
 				"segmentation": "-ne-ž=d",
 				"morphTag": "RELAT.SG-ERG=1SG.ABS"
 			}
 		],
 		"než": [
 			{
+				"surfaceForm": "než",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			}
 		],
 		"allama": [
 			{
+				"surfaceForm": "allama",
 				"segmentation": "-a=lla=ma",
 				"morphTag": "ESS=3PL.ABS=CON"
 			}
 		],
 		"žllama": [
 			{
+				"surfaceForm": "žllama",
 				"segmentation": "-ž=lla=ma",
 				"morphTag": "ERG=3PL.ABS=CON"
 			}
 		],
 		"-fā": [
 			{
+				"surfaceForm": "-fā",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"-ne": [
 			{
+				"surfaceForm": "-ne",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "-ne",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"dam": [
 			{
+				"surfaceForm": "dam",
 				"segmentation": "-da=m",
 				"morphTag": "DIR=CON"
 			}
 		],
 		"iaža": [
 			{
+				"surfaceForm": "iaža",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS"
 			},
 			{
+				"surfaceForm": "iaža",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS.SG-PL-DAT/ESS"
 			}
 		],
 		"nevaman": [
 			{
+				"surfaceForm": "nevaman",
 				"segmentation": "-ne-va=m=an",
 				"morphTag": "RELAT.SG-DAT=2SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "nevaman",
 				"segmentation": "-ne-va=man",
 				"morphTag": "RELAT.SG-DAT=CON"
 			}
 		],
 		"nevamān": [
 			{
+				"surfaceForm": "nevamān",
 				"segmentation": "-ne-va=mān",
 				"morphTag": "RELAT.SG-DAT=CON"
 			}
 		],
 		"ive": [
 			{
+				"surfaceForm": "ive",
 				"segmentation": "-i-ve",
 				"morphTag": "3POSS.SG-GEN"
 			}
 		],
 		"nevena": [
 			{
+				"surfaceForm": "nevena",
 				"segmentation": "-ne-ve-na",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS"
 			}
 		],
 		"nevenaaža": [
 			{
+				"surfaceForm": "nevenaaža",
 				"segmentation": "-ne-ve-na-až-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"neval": [
 			{
+				"surfaceForm": "neval",
 				"segmentation": "-ne-va=l",
 				"morphTag": "RELAT.SG-DAT=3PL.ABS"
 			}
 		],
 		"neda": [
 			{
+				"surfaceForm": "neda",
 				"segmentation": "-ne-da",
 				"morphTag": "RELAT.SG-DIR"
 			}
 		],
 		"idama": [
 			{
+				"surfaceForm": "idama",
 				"segmentation": "-i-da=ma",
 				"morphTag": "3POSS.SG-DIR=CON"
 			}
 		],
 		"ad": [
 			{
+				"surfaceForm": "ad",
 				"segmentation": "-a=d",
 				"morphTag": "ESS=1SG.ABS"
 			}
 		],
 		"ae": [
 			{
+				"surfaceForm": "ae",
 				"segmentation": "-ae",
 				"morphTag": "INS"
 			}
 		],
 		"m": [
 			{
+				"surfaceForm": "m",
 				"segmentation": "-i=m",
 				"morphTag": "3POSS.SG.ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "m",
 				"segmentation": "-i=m",
 				"morphTag": "3POSS.SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "m",
 				"segmentation": "=m",
 				"morphTag": ".ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "m",
 				"segmentation": "=m",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"in": [
 			{
+				"surfaceForm": "in",
 				"segmentation": "-i-n",
 				"morphTag": "3POSS.SG-ABL/INS"
 			}
 		],
 		"nie": [
 			{
+				"surfaceForm": "nie",
 				"segmentation": "-i-ne-e",
 				"morphTag": "3POSS.SG-RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "nie",
 				"segmentation": "-i-ne",
 				"morphTag": "3POSS.SG-ABL/INS"
 			},
 			{
+				"surfaceForm": "nie",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "nie",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			},
 			{
+				"surfaceForm": "nie",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			},
 			{
+				"surfaceForm": "nie",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"neveneella": [
 			{
+				"surfaceForm": "neveneella",
 				"segmentation": "-ne-ve-ne-e=lla",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS"
 			}
 		],
 		"am": [
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "ESS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "ESS=CON"
 			},
 			{
+				"surfaceForm": "am",
 				"segmentation": "-i-a=m",
 				"morphTag": "3POSS.SG-ESS=CON"
 			}
 		],
 		"amma": [
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "ESS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "ESS=CON"
 			}
 		],
 		"šši": [
 			{
+				"surfaceForm": "šši",
 				"segmentation": "-šši",
 				"morphTag": "2POSS.PL.ABS"
 			}
 		],
 		"al": [
 			{
+				"surfaceForm": "al",
 				"segmentation": "-a=l",
 				"morphTag": ".ABS-EPNTH=3PL.ABS"
 			},
 			{
+				"surfaceForm": "al",
 				"segmentation": "-a=l",
 				"morphTag": "ESS=3PL.ABS"
 			}
 		],
 		"ašta": [
 			{
+				"surfaceForm": "ašta",
 				"segmentation": "-i-až-da",
 				"morphTag": "3POSS-PL-DIR"
 			}
 		],
 		"lēlla": [
 			{
+				"surfaceForm": "lēlla",
 				"segmentation": "-ne-e=lla",
 				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS"
 			},
 			{
+				"surfaceForm": "lēlla",
 				"segmentation": "-ne-ž=lla",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "lēlla",
 				"segmentation": "-ne=lla",
 				"morphTag": "ABL/INS=3PL.ABS"
 			}
 		],
 		"ma": [
 			{
+				"surfaceForm": "ma",
 				"segmentation": "-i=ma",
 				"morphTag": "3POSS.SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": ".ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ma",
 				"segmentation": "=ma",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"bēnāža": [
 			{
+				"surfaceForm": "bēnāža",
 				"segmentation": "-ve-na-až-a",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"ba": [
 			{
+				"surfaceForm": "ba",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT"
 			},
 			{
+				"surfaceForm": "ba",
 				"segmentation": "-v-a",
 				"morphTag": "2POSS.SG-ESS"
 			},
 			{
+				"surfaceForm": "ba",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"ni": [
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-e-ne",
 				"morphTag": "3POSS.SG-ABL/INS"
 			},
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne-e",
 				"morphTag": "ABL/INS-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ni",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"ož": [
 			{
+				"surfaceForm": "ož",
 				"segmentation": "-ož",
 				"morphTag": "EQU"
 			}
 		],
 		"iažal": [
 			{
+				"surfaceForm": "iažal",
 				"segmentation": "-i-až-a=l",
 				"morphTag": "3POSS-PL-DAT/ESS=3PL.ABS"
 			}
 		],
 		"atta": [
 			{
+				"surfaceForm": "atta",
 				"segmentation": "-a=tta",
 				"morphTag": "ESS=1SG.ABS"
 			}
 		],
 		"niba": [
 			{
+				"surfaceForm": "niba",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"nin": [
 			{
+				"surfaceForm": "nin",
 				"segmentation": "-ne-n",
 				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"av": [
 			{
+				"surfaceForm": "av",
 				"segmentation": "-a=v",
 				"morphTag": "ESS=2PL.ABS"
 			}
 		],
 		"neveae": [
 			{
+				"surfaceForm": "neveae",
 				"segmentation": "-ne-ve-ae",
 				"morphTag": "RELAT.SG-GEN-INS"
 			}
 		],
 		"nibāe": [
 			{
+				"surfaceForm": "nibāe",
 				"segmentation": "-ne-ve-ae",
 				"morphTag": "RELAT.SG-GEN-INS"
 			}
 		],
 		"iane": [
 			{
+				"surfaceForm": "iane",
 				"segmentation": "-i-ane",
 				"morphTag": "3POSS.SG-ABL/INS"
 			}
 		],
 		"vi": [
 			{
+				"surfaceForm": "vi",
 				"segmentation": "-i-ve",
 				"morphTag": "3POSS.SG-GEN"
 			},
 			{
+				"surfaceForm": "vi",
 				"segmentation": "-ve",
 				"morphTag": "GEN"
 			}
 		],
 		"ēž": [
 			{
+				"surfaceForm": "ēž",
 				"segmentation": "-e-ž",
 				"morphTag": "3POSS.SG-ERG"
 			}
 		],
 		"iaž": [
 			{
+				"surfaceForm": "iaž",
 				"segmentation": "-i-až",
 				"morphTag": "3POSS-PL.ABS"
 			}
 		],
 		"ġi": [
 			{
+				"surfaceForm": "ġi",
 				"segmentation": "-ġe",
 				"morphTag": "ADJ.ABS"
 			}
 		],
 		"venen": [
 			{
+				"surfaceForm": "venen",
 				"segmentation": "-ve-ne-n",
 				"morphTag": "GEN-RELAT.SG-ABL/INS"
 			}
 		],
 		"niž": [
 			{
+				"surfaceForm": "niž",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG"
 			}
 		],
 		"bāi": [
 			{
+				"surfaceForm": "bāi",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS"
 			}
 		],
 		"ffa": [
 			{
+				"surfaceForm": "ffa",
 				"segmentation": "-v-va",
 				"morphTag": "2POSS.SG-DAT"
 			}
 		],
 		"vin": [
 			{
+				"surfaceForm": "vin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=3SG.ABS"
 			},
 			{
+				"surfaceForm": "vin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=CON"
 			}
 		],
 		"ivenee": [
 			{
+				"surfaceForm": "ivenee",
 				"segmentation": "-i-ve-ne-e",
 				"morphTag": "3POSS.SG-GEN-RELAT.SG-DIR/LOC"
 			}
 		],
 		"venee": [
 			{
+				"surfaceForm": "venee",
 				"segmentation": "-ve-ne-e",
 				"morphTag": "GEN-RELAT.SG-DIR/LOC"
 			}
 		],
 		"bi": [
 			{
+				"surfaceForm": "bi",
 				"segmentation": "-i-ve",
 				"morphTag": "3POSS.SG-GEN"
 			},
 			{
+				"surfaceForm": "bi",
 				"segmentation": "-ve",
 				"morphTag": "GEN"
 			}
 		],
 		"binešša": [
 			{
+				"surfaceForm": "binešša",
 				"segmentation": "-ve-ne-ž=nna",
 				"morphTag": "GEN-RELAT.SG-ERG=3SG.ABS"
 			}
 		],
 		"ppināža": [
 			{
+				"surfaceForm": "ppināža",
 				"segmentation": "-v-ve-na-až-a",
 				"morphTag": "2POSS.SG-GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"nevenea": [
 			{
+				"surfaceForm": "nevenea",
 				"segmentation": "-ne-ve-ne-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ESS"
 			}
 		],
 		"naažda": [
 			{
+				"surfaceForm": "naažda",
 				"segmentation": "-na-až-da",
 				"morphTag": "RELAT.PL-PL-DIR"
 			}
 		],
 		"neveož": [
 			{
+				"surfaceForm": "neveož",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU"
 			}
 		],
 		"nibinida": [
 			{
+				"surfaceForm": "nibinida",
 				"segmentation": "-ne-ve-ne-da",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR"
 			}
 		],
 		"aed": [
 			{
+				"surfaceForm": "aed",
 				"segmentation": "-ae=d",
 				"morphTag": "INS=1SG.ABS"
 			}
 		],
 		"niva": [
 			{
+				"surfaceForm": "niva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"daan": [
 			{
+				"surfaceForm": "daan",
 				"segmentation": "-da=an",
 				"morphTag": "DIR=CON"
 			}
 		],
 		"dan": [
 			{
+				"surfaceForm": "dan",
 				"segmentation": "-da=n",
 				"morphTag": "DIR=3SG.ABS"
 			},
 			{
+				"surfaceForm": "dan",
 				"segmentation": "-dan",
 				"morphTag": "ABL"
 			},
 			{
+				"surfaceForm": "dan",
 				"segmentation": "-i-dan",
 				"morphTag": "3POSS.SG-ABL"
 			}
 		],
 		"idan": [
 			{
+				"surfaceForm": "idan",
 				"segmentation": "-i-da=n",
 				"morphTag": "3POSS.SG-DIR=3SG.ABS"
 			},
 			{
+				"surfaceForm": "idan",
 				"segmentation": "-i-dan",
 				"morphTag": "3POSS.SG-ABL"
 			}
 		],
 		"neella": [
 			{
+				"surfaceForm": "neella",
 				"segmentation": "-ne-e=lla",
 				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS"
 			}
 		],
 		"nella": [
 			{
+				"surfaceForm": "nella",
 				"segmentation": "-ne-ž=lla",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "nella",
 				"segmentation": "-ne=lla",
 				"morphTag": "ABL/INS=3PL.ABS"
 			}
 		],
 		"neveneda": [
 			{
+				"surfaceForm": "neveneda",
 				"segmentation": "-ne-ve-ne-da",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR"
 			}
 		],
 		"nan": [
 			{
+				"surfaceForm": "nan",
 				"segmentation": "-n=an",
 				"morphTag": "ABL/INS=CON"
 			},
 			{
+				"surfaceForm": "nan",
 				"segmentation": "=n=an",
 				"morphTag": "=3SG.ABS=CON"
 			}
 		],
 		"nene": [
 			{
+				"surfaceForm": "nene",
 				"segmentation": "-ne-ne",
 				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"nevea": [
 			{
+				"surfaceForm": "nevea",
 				"segmentation": "-ne-ve-a",
 				"morphTag": "RELAT.SG-GEN-ESS"
 			}
 		],
 		"nēl": [
 			{
+				"surfaceForm": "nēl",
 				"segmentation": "-ne-ž=l",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			}
 		],
 		"žoda": [
 			{
+				"surfaceForm": "žoda",
 				"segmentation": "-ž-oda",
 				"morphTag": "2POSS.PL-DIR"
 			}
 		],
 		"nāžuž": [
 			{
+				"surfaceForm": "nāžuž",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG"
 			}
 		],
 		"bae": [
 			{
+				"surfaceForm": "bae",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS"
 			}
 		],
 		"nēve": [
 			{
+				"surfaceForm": "nēve",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"nevad": [
 			{
+				"surfaceForm": "nevad",
 				"segmentation": "-ne-va=d",
 				"morphTag": "RELAT.SG-DAT=1SG.ABS"
 			}
 		],
 		"aella": [
 			{
+				"surfaceForm": "aella",
 				"segmentation": "-ae=lla",
 				"morphTag": "INS=3PL.ABS"
 			}
 		],
 		"nida": [
 			{
+				"surfaceForm": "nida",
 				"segmentation": "-ne-da",
 				"morphTag": "RELAT.SG-DIR"
 			}
 		],
 		"lla": [
 			{
+				"surfaceForm": "lla",
 				"segmentation": "-i=lla",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			},
 			{
+				"surfaceForm": "lla",
 				"segmentation": "=lla",
 				"morphTag": ".ABS=3PL.ABS"
 			}
 		],
 		"p⸢fa?⸣an": [
 			{
+				"surfaceForm": "p⸢fa?⸣an",
 				"segmentation": "-iffe-a=an",
 				"morphTag": "1POSS.SG-ESS=CON"
 			},
 			{
+				"surfaceForm": "p⸢fa?⸣an",
 				"segmentation": "-iffe-a=n",
 				"morphTag": "1POSS.SG-ESS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "p⸢fa?⸣an",
 				"segmentation": "-v-va=an",
 				"morphTag": "2POSS.SG-DAT=CON"
 			},
 			{
+				"surfaceForm": "p⸢fa?⸣an",
 				"segmentation": "-v-va=n",
 				"morphTag": "2POSS.SG-DAT=3SG.ABS"
 			}
 		],
 		"vvenenem": [
 			{
+				"surfaceForm": "vvenenem",
 				"segmentation": "-v-ve-ne-ne=m",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-ABL/INS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "vvenenem",
 				"segmentation": "-v-ve-ne-ne=m",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-ABL/INS=CON"
 			}
 		],
 		"nevenedal": [
 			{
+				"surfaceForm": "nevenedal",
 				"segmentation": "-ne-ve-ne-da=l",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS"
 			}
 		],
 		"bina": [
 			{
+				"surfaceForm": "bina",
 				"segmentation": "-ve-na",
 				"morphTag": "GEN-RELAT.PL.ABS"
 			}
 		],
 		"binibina": [
 			{
+				"surfaceForm": "binibina",
 				"segmentation": "-ve-ne-ve-na",
 				"morphTag": "GEN-RELAT.SG-GEN-RELAT.PL.ABS"
 			}
 		],
 		"binibināža": [
 			{
+				"surfaceForm": "binibināža",
 				"segmentation": "-ve-ne-ve-na-až-a",
 				"morphTag": "GEN-RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"binida": [
 			{
+				"surfaceForm": "binida",
 				"segmentation": "-ve-ne-da",
 				"morphTag": "GEN-RELAT.SG-DIR"
 			}
 		],
 		"šša": [
 			{
+				"surfaceForm": "šša",
 				"segmentation": "-ž=nna",
 				"morphTag": "ERG=3SG.ABS"
 			}
 		],
 		"nibi": [
 			{
+				"surfaceForm": "nibi",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"nive": [
 			{
+				"surfaceForm": "nive",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"nišša": [
 			{
+				"surfaceForm": "nišša",
 				"segmentation": "-ne-ž=nna",
 				"morphTag": "RELAT.SG-ERG=3SG.ABS"
 			}
 		],
 		"nēbi": [
 			{
+				"surfaceForm": "nēbi",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"vema": [
 			{
+				"surfaceForm": "vema",
 				"segmentation": "-ve=ma",
 				"morphTag": "GEN=CON"
 			}
 		],
 		"b": [
 			{
+				"surfaceForm": "b",
 				"segmentation": "-v",
 				"morphTag": "2POSS.SG.ABS"
 			},
 			{
+				"surfaceForm": "b",
 				"segmentation": "=m",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"ama": [
 			{
+				"surfaceForm": "ama",
 				"segmentation": "-a=ma",
 				"morphTag": "ESS=CON"
 			},
 			{
+				"surfaceForm": "ama",
 				"segmentation": "-i-a=ma",
 				"morphTag": "3POSS.SG-ESS=CON"
 			}
 		],
 		"neenna": [
 			{
+				"surfaceForm": "neenna",
 				"segmentation": "-ne-e=nna",
 				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS"
 			}
 		],
 		"nenna": [
 			{
+				"surfaceForm": "nenna",
 				"segmentation": "-ne-nna",
 				"morphTag": "RELAT.SG-EQU2"
 			},
 			{
+				"surfaceForm": "nenna",
 				"segmentation": "-ne=nna",
 				"morphTag": "ABL/INS=3SG.ABS"
 			}
 		],
 		"neem": [
 			{
+				"surfaceForm": "neem",
 				"segmentation": "-ne-e=m",
 				"morphTag": "RELAT.SG-DIR/LOC=2SG.ABS"
 			},
 			{
+				"surfaceForm": "neem",
 				"segmentation": "-ne-e=m",
 				"morphTag": "RELAT.SG-DIR/LOC=CON"
 			}
 		],
 		"nem": [
 			{
+				"surfaceForm": "nem",
 				"segmentation": "-ne=m",
 				"morphTag": "ABL/INS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "nem",
 				"segmentation": "-ne=m",
 				"morphTag": "ABL/INS=CON"
 			}
 		],
 		"važ": [
 			{
+				"surfaceForm": "važ",
 				"segmentation": "-ve-až",
 				"morphTag": "GEN-ERG"
 			}
 		],
 		"eda": [
 			{
+				"surfaceForm": "eda",
 				"segmentation": "-e-da",
 				"morphTag": "3POSS.SG-DIR"
 			}
 		],
 		"ffān": [
 			{
+				"surfaceForm": "ffān",
 				"segmentation": "-v-va=an",
 				"morphTag": "2POSS.SG-DAT=CON"
 			},
 			{
+				"surfaceForm": "ffān",
 				"segmentation": "-v-va=n",
 				"morphTag": "2POSS.SG-DAT=3SG.ABS"
 			}
 		],
 		"l": [
 			{
+				"surfaceForm": "l",
 				"segmentation": "-a=l",
 				"morphTag": "ESS=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "-ž=l",
 				"morphTag": "ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "l",
 				"segmentation": "=l",
 				"morphTag": ".ABS=3PL.ABS"
 			}
 		],
 		"anna": [
 			{
+				"surfaceForm": "anna",
 				"segmentation": "-a=nna",
 				"morphTag": "ESS=3SG.ABS"
 			}
 		],
 		"buž": [
 			{
+				"surfaceForm": "buž",
 				"segmentation": "-v-ož",
 				"morphTag": "2POSS.SG-EQU"
 			},
 			{
+				"surfaceForm": "buž",
 				"segmentation": "-v-ož",
 				"morphTag": "2POSS.SG-ERG"
 			},
 			{
+				"surfaceForm": "buž",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-EQU"
 			}
 		],
 		"dai": [
 			{
+				"surfaceForm": "dai",
 				"segmentation": "-da",
 				"morphTag": "DIR"
 			},
 			{
+				"surfaceForm": "dai",
 				"segmentation": "-i-da",
 				"morphTag": "3POSS.SG-DIR"
 			}
 		],
 		"ppa": [
 			{
+				"surfaceForm": "ppa",
 				"segmentation": "-v-va",
 				"morphTag": "2POSS.SG-DAT"
 			},
 			{
+				"surfaceForm": "ppa",
 				"segmentation": "-v=ma",
 				"morphTag": "2POSS.SG.ABS=CON"
 			}
 		],
 		"ppūda": [
 			{
+				"surfaceForm": "ppūda",
 				"segmentation": "-iffu-da",
 				"morphTag": "1POSS.SG-DIR"
 			}
 		],
 		"vinež": [
 			{
+				"surfaceForm": "vinež",
 				"segmentation": "-ve-ne-ž",
 				"morphTag": "GEN-RELAT.SG-ERG"
 			}
 		],
 		"v": [
 			{
+				"surfaceForm": "v",
 				"segmentation": "-v",
 				"morphTag": "2POSS.SG.ABS"
 			}
 		],
 		"voda": [
 			{
+				"surfaceForm": "voda",
 				"segmentation": "-v-oda",
 				"morphTag": "2POSS.SG-DIR"
 			}
 		],
 		"neema": [
 			{
+				"surfaceForm": "neema",
 				"segmentation": "-ne-e=ma",
 				"morphTag": "RELAT.SG-DIR/LOC=CON"
 			}
 		],
 		"iažama": [
 			{
+				"surfaceForm": "iažama",
 				"segmentation": "-i-až-a=ma",
 				"morphTag": "3POSS-PL-DAT/ESS=CON"
 			}
 		],
 		"ḫenāma": [
 			{
+				"surfaceForm": "ḫenāma",
 				"segmentation": "-ġe-na=ma",
 				"morphTag": "ADJ-RELAT.PL.ABS=CON"
 			}
 		],
 		"ḫināma": [
 			{
+				"surfaceForm": "ḫināma",
 				"segmentation": "-ġe-na=ma",
 				"morphTag": "ADJ-RELAT.PL.ABS=CON"
 			}
 		],
 		"ḫīnamma": [
 			{
+				"surfaceForm": "ḫīnamma",
 				"segmentation": "-ġe-na=mma",
 				"morphTag": "ADJ-RELAT.PL.ABS=CON"
 			}
 		],
 		"ša": [
 			{
+				"surfaceForm": "ša",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"ġe": [
 			{
+				"surfaceForm": "ġe",
 				"segmentation": "-ġe",
 				"morphTag": "ADJ.ABS"
 			}
 		],
 		"binažadel": [
 			{
+				"surfaceForm": "binažadel",
 				"segmentation": "-ve-na-až-a=dil",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=1PL.ABS"
 			}
 		],
 		"bināža": [
 			{
+				"surfaceForm": "bināža",
 				"segmentation": "-ve-na-až-a",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"bāe": [
 			{
+				"surfaceForm": "bāe",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS"
 			}
 		],
 		"nibina": [
 			{
+				"surfaceForm": "nibina",
 				"segmentation": "-ne-ve-na",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS"
 			}
 		],
 		"nibinažuž": [
 			{
+				"surfaceForm": "nibinažuž",
 				"segmentation": "-ne-ve-na-až-ož",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-ERG"
 			}
 		],
 		"nibinež": [
 			{
+				"surfaceForm": "nibinež",
 				"segmentation": "-ne-ve-ne-ž",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ERG"
 			}
 		],
 		"nibināžuž": [
 			{
+				"surfaceForm": "nibināžuž",
 				"segmentation": "-ne-ve-na-až-ož",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-ERG"
 			}
 		],
 		"ffāmma": [
 			{
+				"surfaceForm": "ffāmma",
 				"segmentation": "-iffe=mma",
 				"morphTag": "1POSS.SG.ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ffāmma",
 				"segmentation": "-v-va=mma",
 				"morphTag": "2POSS.SG-DAT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ffāmma",
 				"segmentation": "-v-ve=mma",
 				"morphTag": "2POSS.SG-GEN=2SG.ABS"
 			}
 		],
 		"nanan": [
 			{
+				"surfaceForm": "nanan",
 				"segmentation": "-na=nan",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"anan": [
 			{
+				"surfaceForm": "anan",
 				"segmentation": "-a=n=an",
 				"morphTag": "ESS=3SG.ABS=CON"
 			}
 		],
 		"bāin": [
 			{
+				"surfaceForm": "bāin",
 				"segmentation": "-ve-ae=n",
 				"morphTag": "GEN-INS=3SG.ABS"
 			}
 		],
 		"nibāin": [
 			{
+				"surfaceForm": "nibāin",
 				"segmentation": "-ne-ve-ae=n",
 				"morphTag": "RELAT.SG-GEN-INS=3SG.ABS"
 			}
 		],
 		"dama": [
 			{
+				"surfaceForm": "dama",
 				"segmentation": "-da=ma",
 				"morphTag": "DIR=CON"
 			},
 			{
+				"surfaceForm": "dama",
 				"segmentation": "-i-da=ma",
 				"morphTag": "3POSS.SG-DIR=CON"
 			}
 		],
 		"ani": [
 			{
+				"surfaceForm": "ani",
 				"segmentation": "-i-ane",
 				"morphTag": "3POSS.SG-ABL/INS"
 			}
 		],
 		"ul": [
 			{
+				"surfaceForm": "ul",
 				"segmentation": "-ož=l",
 				"morphTag": "ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ul",
 				"segmentation": "=l",
 				"morphTag": ".ABS=3PL.ABS"
 			}
 		],
 		"ōvadi": [
 			{
+				"surfaceForm": "ōvadi",
 				"segmentation": "-o-vade",
 				"morphTag": "PAT-ADJ.NEG.ABS"
 			}
 		],
 		"ūwa": [
 			{
+				"surfaceForm": "ūwa",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG"
 			}
 		],
 		"nidanella": [
 			{
+				"surfaceForm": "nidanella",
 				"segmentation": "-ne-dan-i=lla",
 				"morphTag": "RELAT.SG-ABL-EPNTH=3PL.ABS"
 			}
 		],
 		"nina": [
 			{
+				"surfaceForm": "nina",
 				"segmentation": "-ne-nna",
 				"morphTag": "RELAT.SG-EQU2"
 			},
 			{
+				"surfaceForm": "nina",
 				"segmentation": "-nna",
 				"morphTag": "EQU2"
 			}
 		],
 		"āni": [
 			{
+				"surfaceForm": "āni",
 				"segmentation": "-an-i",
 				"morphTag": "an-ANTIP"
 			}
 		],
 		"nažuž": [
 			{
+				"surfaceForm": "nažuž",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG"
 			}
 		],
 		"nenel": [
 			{
+				"surfaceForm": "nenel",
 				"segmentation": "-ne-ne=l",
 				"morphTag": "RELAT.SG-ABL/INS=3PL.ABS"
 			}
 		],
 		"nidel": [
 			{
+				"surfaceForm": "nidel",
 				"segmentation": "-ne-e=dil",
 				"morphTag": "RELAT.SG-DIR/LOC=1PL.ABS"
 			},
 			{
+				"surfaceForm": "nidel",
 				"segmentation": "-ne=dil",
 				"morphTag": "ABL/INS=1PL.ABS"
 			}
 		],
 		"nidal": [
 			{
+				"surfaceForm": "nidal",
 				"segmentation": "-ne-da=l",
 				"morphTag": "RELAT.SG-DIR=3PL.ABS"
 			}
 		],
 		"nīel": [
 			{
+				"surfaceForm": "nīel",
 				"segmentation": "-ne-ž=l",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			}
 		],
 		"ffaan": [
 			{
+				"surfaceForm": "ffaan",
 				"segmentation": "=ffa=an",
 				"morphTag": ".ABS=2PL.ABS=CON"
 			}
 		],
 		"nidan": [
 			{
+				"surfaceForm": "nidan",
 				"segmentation": "-ne-da=an",
 				"morphTag": "RELAT.SG-DIR=CON"
 			},
 			{
+				"surfaceForm": "nidan",
 				"segmentation": "-ne-da=n",
 				"morphTag": "RELAT.SG-DIR=3SG.ABS"
 			},
 			{
+				"surfaceForm": "nidan",
 				"segmentation": "-ne-dan",
 				"morphTag": "RELAT.SG-ABL"
 			}
 		],
 		"adil": [
 			{
+				"surfaceForm": "adil",
 				"segmentation": "-a=dil",
 				"morphTag": "ESS=1PL.ABS"
 			}
 		],
 		"dil": [
 			{
+				"surfaceForm": "dil",
 				"segmentation": "=dil",
 				"morphTag": ".ABS=1PL.ABS"
 			}
 		],
 		"mma": [
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": ".ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "mma",
 				"segmentation": "=mma",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"lam": [
 			{
+				"surfaceForm": "lam",
 				"segmentation": "-i=l=m",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS=CON"
 			}
 		],
 		"mā": [
 			{
+				"surfaceForm": "mā",
 				"segmentation": "=ma",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"nivōž": [
 			{
+				"surfaceForm": "nivōž",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU"
 			},
 			{
+				"surfaceForm": "nivōž",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-ERG"
 			}
 		],
 		"(-)tamašši": [
 			{
+				"surfaceForm": "(-)tamašši",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"illa": [
 			{
+				"surfaceForm": "illa",
 				"segmentation": "-i=lla",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			}
 		],
 		"(-)ḫuštal": [
 			{
+				"surfaceForm": "(-)ḫuštal",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"nāma": [
 			{
+				"surfaceForm": "nāma",
 				"segmentation": "-na=ma",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"nira": [
 			{
+				"surfaceForm": "nira",
 				"segmentation": "-ne-ra",
 				"morphTag": "RELAT.SG-COM"
 			}
 		],
 		"vež": [
 			{
+				"surfaceForm": "vež",
 				"segmentation": "-ve-ž",
 				"morphTag": "GEN-ERG"
 			}
 		],
 		"iažnna": [
 			{
+				"surfaceForm": "iažnna",
 				"segmentation": "-i-až=nna",
 				"morphTag": "3POSS-PL.ABS=3SG.ABS"
 			}
 		],
 		"nedal": [
 			{
+				"surfaceForm": "nedal",
 				"segmentation": "-ne-da=l",
 				"morphTag": "RELAT.SG-DIR=3PL.ABS"
 			}
 		],
 		"nažan": [
 			{
+				"surfaceForm": "nažan",
 				"segmentation": "-na-až-a=n",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3SG.ABS"
 			}
 		],
 		"ene": [
 			{
+				"surfaceForm": "ene",
 				"segmentation": "-e-ne",
 				"morphTag": "3POSS.SG-ABL/INS"
 			}
 		],
 		"nam": [
 			{
+				"surfaceForm": "nam",
 				"segmentation": "-na=m",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"niveni": [
 			{
+				"surfaceForm": "niveni",
 				"segmentation": "-ne-ve-ne-e",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC"
 			}
 		],
 		"nivenin": [
 			{
+				"surfaceForm": "nivenin",
 				"segmentation": "-ne-ve-ne-e=n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3SG.ABS"
 			},
 			{
+				"surfaceForm": "nivenin",
 				"segmentation": "-ne-ve-ne-n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ABL/INS"
 			}
 		],
 		"affa": [
 			{
+				"surfaceForm": "affa",
 				"segmentation": "-a=ffa",
 				"morphTag": "ESS=2PL.ABS"
 			}
 		],
 		"nalla": [
 			{
+				"surfaceForm": "nalla",
 				"segmentation": "-na=lla",
 				"morphTag": "RELAT.PL.ABS=3PL.ABS"
 			}
 		],
 		"nibināža": [
 			{
+				"surfaceForm": "nibināža",
 				"segmentation": "-ne-ve-na-až-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"nibād": [
 			{
+				"surfaceForm": "nibād",
 				"segmentation": "-ne-va=d",
 				"morphTag": "RELAT.SG-DAT=1SG.ABS"
 			}
 		],
 		"ael": [
 			{
+				"surfaceForm": "ael",
 				"segmentation": "-ae=l",
 				"morphTag": "INS=3PL.ABS"
 			}
 		],
 		"nežlla": [
 			{
+				"surfaceForm": "nežlla",
 				"segmentation": "-ne-ž=lla",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			}
 		],
 		"naža": [
 			{
+				"surfaceForm": "naža",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"nivi": [
 			{
+				"surfaceForm": "nivi",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"nibādel": [
 			{
+				"surfaceForm": "nibādel",
 				"segmentation": "-ne-va=dil",
 				"morphTag": "RELAT.SG-DAT=1PL.ABS"
 			}
 		],
 		"nēda": [
 			{
+				"surfaceForm": "nēda",
 				"segmentation": "-ne-da",
 				"morphTag": "RELAT.SG-DIR"
 			}
 		],
 		"iffuve": [
 			{
+				"surfaceForm": "iffuve",
 				"segmentation": "-iffu-ve",
 				"morphTag": "1POSS.SG-GEN"
 			}
 		],
 		"anie": [
 			{
+				"surfaceForm": "anie",
 				"segmentation": "-i-ane",
 				"morphTag": "3POSS.SG-ABL/INS"
 			}
 		],
 		"we": [
 			{
+				"surfaceForm": "we",
 				"segmentation": "-ve",
 				"morphTag": "GEN"
 			}
 		],
 		"ffi": [
 			{
+				"surfaceForm": "ffi",
 				"segmentation": "-iffe",
 				"morphTag": "1POSS.SG.ABS"
 			},
 			{
+				"surfaceForm": "ffi",
 				"segmentation": "-v-ve",
 				"morphTag": "2POSS.SG-GEN"
 			}
 		],
 		"iffe": [
 			{
+				"surfaceForm": "iffe",
 				"segmentation": "-iffe",
 				"morphTag": "1POSS.SG.ABS"
 			}
 		],
 		"vve": [
 			{
+				"surfaceForm": "vve",
 				"segmentation": "-v-ve",
 				"morphTag": "2POSS.SG-GEN"
 			}
 		],
 		"ivaan": [
 			{
+				"surfaceForm": "ivaan",
 				"segmentation": "-i-va=an",
 				"morphTag": "3POSS.SG-DAT=CON"
 			}
 		],
 		"ivan": [
 			{
+				"surfaceForm": "ivan",
 				"segmentation": "-i-va=n",
 				"morphTag": "3POSS.SG-DAT=3SG.ABS"
 			}
 		],
 		"ima": [
 			{
+				"surfaceForm": "ima",
 				"segmentation": "-i=ma",
 				"morphTag": "3POSS.SG.ABS=CON"
 			}
 		],
 		"ban": [
 			{
+				"surfaceForm": "ban",
 				"segmentation": "-v-a=an",
 				"morphTag": "2POSS.SG-ESS=CON"
 			},
 			{
+				"surfaceForm": "ban",
 				"segmentation": "-v-a=n",
 				"morphTag": "2POSS.SG-ESS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ban",
 				"segmentation": "-v=an",
 				"morphTag": "2POSS.SG.ABS=CON"
 			}
 		],
 		"avan": [
 			{
+				"surfaceForm": "avan",
 				"segmentation": "-a=v=an",
 				"morphTag": "ESS=2PL.ABS=CON"
 			}
 		],
 		"ra": [
 			{
+				"surfaceForm": "ra",
 				"segmentation": "-i-ra",
 				"morphTag": "3POSS.SG-COM"
 			},
 			{
+				"surfaceForm": "ra",
 				"segmentation": "-ra",
 				"morphTag": "COM"
 			}
 		],
 		"ġeve": [
 			{
+				"surfaceForm": "ġeve",
 				"segmentation": "-ġe-ve",
 				"morphTag": "ADJ-GEN"
 			}
 		],
 		"už": [
 			{
+				"surfaceForm": "už",
 				"segmentation": "-i-ož",
 				"morphTag": "3POSS.SG-EQU"
 			},
 			{
+				"surfaceForm": "už",
 				"segmentation": "-ož",
 				"morphTag": "ERG"
 			}
 		],
 		"aan": [
 			{
+				"surfaceForm": "aan",
 				"segmentation": "-a=an",
 				"morphTag": "ESS=CON"
 			}
 		],
 		"induž": [
 			{
+				"surfaceForm": "induž",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.PAT-OPT"
 			}
 		],
 		"nevaan": [
 			{
+				"surfaceForm": "nevaan",
 				"segmentation": "-ne-va=an",
 				"morphTag": "RELAT.SG-DAT=CON"
 			}
 		],
 		"nevan": [
 			{
+				"surfaceForm": "nevan",
 				"segmentation": "-ne-va=n",
 				"morphTag": "RELAT.SG-DAT=3SG.ABS"
 			}
 		],
 		"banel": [
 			{
+				"surfaceForm": "banel",
 				"segmentation": "-v-ane=l",
 				"morphTag": "2POSS.SG-ABL/INS=3PL.ABS"
 			}
 		],
 		"ažal": [
 			{
+				"surfaceForm": "ažal",
 				"segmentation": "-i-až-a=l",
 				"morphTag": "3POSS-PL-DAT/ESS=3PL.ABS"
 			}
 		],
 		"nibuž": [
 			{
+				"surfaceForm": "nibuž",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU"
 			}
 		],
 		"namma": [
 			{
+				"surfaceForm": "namma",
 				"segmentation": "-na=mma",
 				"morphTag": "RELAT.PL.ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "namma",
 				"segmentation": "-na=mma",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"važa": [
 			{
+				"surfaceForm": "važa",
 				"segmentation": "-v-až-a",
 				"morphTag": "2POSS-PL-DAT/ESS"
 			}
 		],
 		"nibāl": [
 			{
+				"surfaceForm": "nibāl",
 				"segmentation": "-ne-va=l",
 				"morphTag": "RELAT.SG-DAT=3PL.ABS"
 			}
 		],
 		"nēva": [
 			{
+				"surfaceForm": "nēva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"neev": [
 			{
+				"surfaceForm": "neev",
 				"segmentation": "-ne-e=v",
 				"morphTag": "RELAT.SG-DIR/LOC=2PL.ABS"
 			}
 		],
 		"nev": [
 			{
+				"surfaceForm": "nev",
 				"segmentation": "-ne=v",
 				"morphTag": "ABL/INS=2PL.ABS"
 			}
 		],
 		"naažal": [
 			{
+				"surfaceForm": "naažal",
 				"segmentation": "-na-až-a=l",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3PL.ABS"
 			}
 		],
 		"ppuwan": [
 			{
+				"surfaceForm": "ppuwan",
 				"segmentation": "-iffu-va=n",
 				"morphTag": "1POSS.SG-DAT=3SG.ABS"
 			}
 		],
 		"nni": [
 			{
+				"surfaceForm": "nni",
 				"segmentation": "-nni",
 				"morphTag": "ASS"
 			}
 		],
 		"nivinama": [
 			{
+				"surfaceForm": "nivinama",
 				"segmentation": "-ne-ve-na=ma",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS=CON"
 			}
 		],
 		"aža": [
 			{
+				"surfaceForm": "aža",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS"
 			}
 		],
 		"d": [
 			{
+				"surfaceForm": "d",
 				"segmentation": "=d",
 				"morphTag": ".ABS=1SG.ABS"
 			}
 		],
 		"ġena": [
 			{
+				"surfaceForm": "ġena",
 				"segmentation": "-ġe-na",
 				"morphTag": "ADJ-RELAT.PL.ABS"
 			}
 		],
 		"nežnna": [
 			{
+				"surfaceForm": "nežnna",
 				"segmentation": "-ne-ž=nna",
 				"morphTag": "RELAT.SG-ERG=3SG.ABS"
 			}
 		],
 		"ni(-)nešša": [
 			{
+				"surfaceForm": "ni(-)nešša",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ni(-)nešša",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
 		],
 		"nīe": [
 			{
+				"surfaceForm": "nīe",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC"
 			}
 		],
 		"nibinin": [
 			{
+				"surfaceForm": "nibinin",
 				"segmentation": "-ne-ve-ne-n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ABL/INS"
 			}
 		],
 		"nera": [
 			{
+				"surfaceForm": "nera",
 				"segmentation": "-ne-ra",
 				"morphTag": "RELAT.SG-COM"
 			}
 		],
 		"(-)ḫāduldašši": [
 			{
+				"surfaceForm": "(-)ḫāduldašši",
 				"segmentation": "",
 				"morphTag": ".ABS"
 			}
 		],
 		"iffea": [
 			{
+				"surfaceForm": "iffea",
 				"segmentation": "-iffe-a",
 				"morphTag": "1POSS.SG-ESS"
 			}
 		],
 		"vva": [
 			{
+				"surfaceForm": "vva",
 				"segmentation": "-v-va",
 				"morphTag": "2POSS.SG-DAT"
 			}
 		],
 		"vma": [
 			{
+				"surfaceForm": "vma",
 				"segmentation": "-v=ma",
 				"morphTag": "2POSS.SG.ABS=CON"
 			}
 		],
 		"nivāl": [
 			{
+				"surfaceForm": "nivāl",
 				"segmentation": "-ne-va=l",
 				"morphTag": "RELAT.SG-DAT=3PL.ABS"
 			}
 		],
 		"bāba": [
 			{
+				"surfaceForm": "bāba",
 				"segmentation": "-va=ffa",
 				"morphTag": "DAT=2PL.ABS"
 			}
 		],
 		"eia": [
 			{
+				"surfaceForm": "eia",
 				"segmentation": "-i-a",
 				"morphTag": "3POSS.SG-ESS"
 			}
 		],
 		"della": [
 			{
+				"surfaceForm": "della",
 				"segmentation": "=dilla",
 				"morphTag": ".ABS=1PL.ABS"
 			}
 		],
 		"āb": [
 			{
+				"surfaceForm": "āb",
 				"segmentation": "-i-a=m",
 				"morphTag": "3POSS.SG-ESS=CON"
 			}
 		],
 		"vodam": [
 			{
+				"surfaceForm": "vodam",
 				"segmentation": "-v-oda=m",
 				"morphTag": "2POSS.SG-DIR=CON"
 			}
 		],
 		"ba(-) ": [
 			{
+				"surfaceForm": "ba(-) ",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT"
 			}
 		],
 		"ninna": [
 			{
+				"surfaceForm": "ninna",
 				"segmentation": "-ne-e=nna",
 				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ninna",
 				"segmentation": "-ne-nna",
 				"morphTag": "RELAT.SG-EQU2"
 			},
 			{
+				"surfaceForm": "ninna",
 				"segmentation": "-ne=nna",
 				"morphTag": "ABL/INS=3SG.ABS"
 			}
 		],
 		"venaažadilla": [
 			{
+				"surfaceForm": "venaažadilla",
 				"segmentation": "-ve-na-až-a=dilla",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=1PL.ABS"
 			}
 		],
 		"aema": [
 			{
+				"surfaceForm": "aema",
 				"segmentation": "-ae=ma",
 				"morphTag": "INS=CON"
 			}
 		],
 		"nāmma": [
 			{
+				"surfaceForm": "nāmma",
 				"segmentation": "-na=mma",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"nevenež": [
 			{
+				"surfaceForm": "nevenež",
 				"segmentation": "-ne-ve-ne-ž",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ERG"
 			}
 		],
 		"nēra": [
 			{
+				"surfaceForm": "nēra",
 				"segmentation": "-ne-ra",
 				"morphTag": "RELAT.SG-COM"
 			}
 		],
 		"ea": [
 			{
+				"surfaceForm": "ea",
 				"segmentation": "-e-a",
 				"morphTag": "3POSS.SG-ESS"
 			}
 		],
 		"nniva": [
 			{
+				"surfaceForm": "nniva",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
 			}
 		],
 		"naan": [
 			{
+				"surfaceForm": "naan",
 				"segmentation": "-na=an",
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
 		"aen": [
 			{
+				"surfaceForm": "aen",
 				"segmentation": "-ae=n",
 				"morphTag": "INS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "aen",
 				"segmentation": "-ae=n",
 				"morphTag": "INS=CON"
 			}
 		],
 		"aev": [
 			{
+				"surfaceForm": "aev",
 				"segmentation": "-ae=v",
 				"morphTag": "INS=2PL.ABS"
 			}
 		],
 		"nevel": [
 			{
+				"surfaceForm": "nevel",
 				"segmentation": "-ne-ve=l",
 				"morphTag": "RELAT.SG-GEN=3PL.ABS"
 			}
 		],
 		"žlla": [
 			{
+				"surfaceForm": "žlla",
 				"segmentation": "-ž=lla",
 				"morphTag": "ERG=3PL.ABS"
 			}
 		],
 		"wta": [
 			{
+				"surfaceForm": "wta",
 				"segmentation": "-oda",
 				"morphTag": "DIR"
 			}
 		],
 		"ivenežnna": [
 			{
+				"surfaceForm": "ivenežnna",
 				"segmentation": "-i-ve-ne-ž=nna",
 				"morphTag": "3POSS.SG-GEN-RELAT.SG-ERG=3SG.ABS"
 			}
 		],
 		"mān": [
 			{
+				"surfaceForm": "mān",
 				"segmentation": "=mān",
 				"morphTag": ".ABS=CON"
 			}
 		],
 		"iffužnna": [
 			{
+				"surfaceForm": "iffužnna",
 				"segmentation": "-iffu-ž=nna",
 				"morphTag": "1POSS.SG-ERG=3SG.ABS"
 			}
 		],
 		"dab": [
 			{
+				"surfaceForm": "dab",
 				"segmentation": "-da=m",
 				"morphTag": "DIR=CON"
 			}
 		],
 		"nivan": [
 			{
+				"surfaceForm": "nivan",
 				"segmentation": "-ne-va=an",
 				"morphTag": "RELAT.SG-DAT=CON"
 			},
 			{
+				"surfaceForm": "nivan",
 				"segmentation": "-ne-va=n",
 				"morphTag": "RELAT.SG-DAT=3SG.ABS"
 			}
 		],
 		"binidal": [
 			{
+				"surfaceForm": "binidal",
 				"segmentation": "-ve-ne-da=l",
 				"morphTag": "GEN-RELAT.SG-DIR=3PL.ABS"
 			}
 		],
 		"nibinidal": [
 			{
+				"surfaceForm": "nibinidal",
 				"segmentation": "-ne-ve-ne-da=l",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS"
 			}
 		],
 		"nevenama": [
 			{
+				"surfaceForm": "nevenama",
 				"segmentation": "-ne-ve-na=ma",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS=CON"
 			}
 		],
 		"naažonna": [
 			{
+				"surfaceForm": "naažonna",
 				"segmentation": "-na-až-onna",
 				"morphTag": "RELAT.PL-PL-EQU2"
 			}
 		],
 		"ppi": [
 			{
+				"surfaceForm": "ppi",
 				"segmentation": "-iffe",
 				"morphTag": "1POSS.SG.ABS"
 			},
 			{
+				"surfaceForm": "ppi",
 				"segmentation": "-v-ve",
 				"morphTag": "2POSS.SG-GEN"
 			}
 		],
 		"vveneed": [
 			{
+				"surfaceForm": "vveneed",
 				"segmentation": "-v-ve-ne-e=d",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS"
 			}
 		],
 		"naažora": [
 			{
+				"surfaceForm": "naažora",
 				"segmentation": "-na-až-ora",
 				"morphTag": "RELAT.PL-PL-COM"
 			}
 		],
 		"ġinaž": [
 			{
+				"surfaceForm": "ġinaž",
 				"segmentation": "-ġe-ne-ž",
 				"morphTag": "ADJ-RELAT.SG-ERG"
 			}
 		],
 		"ġinibina": [
 			{
+				"surfaceForm": "ġinibina",
 				"segmentation": "-ġe-ne-ve-na",
 				"morphTag": "ADJ-RELAT.SG-GEN-RELAT.PL.ABS"
 			}
 		],
 		"nevenennna": [
 			{
+				"surfaceForm": "nevenennna",
 				"segmentation": "-ne-ve-ne-n=nna",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ABL/INS=3SG.ABS"
 			}
 		],
 		"nivena": [
 			{
+				"surfaceForm": "nivena",
 				"segmentation": "-ne-ve-na",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS"
 			}
 		],
 		"inna": [
 			{
+				"surfaceForm": "inna",
 				"segmentation": "-i-nna",
 				"morphTag": "3POSS.SG-EQU2"
 			},
 			{
+				"surfaceForm": "inna",
 				"segmentation": "-i=nna",
 				"morphTag": "3POSS.SG.ABS=3SG.ABS"
 			}
 		],
 		"neemma": [
 			{
+				"surfaceForm": "neemma",
 				"segmentation": "-ne-e=mma",
 				"morphTag": "RELAT.SG-DIR/LOC=2SG.ABS"
 			},
 			{
+				"surfaceForm": "neemma",
 				"segmentation": "-ne-e=mma",
 				"morphTag": "RELAT.SG-DIR/LOC=CON"
 			}
 		],
 		"nemma": [
 			{
+				"surfaceForm": "nemma",
 				"segmentation": "-ne=mma",
 				"morphTag": "ABL/INS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "nemma",
 				"segmentation": "-ne=mma",
 				"morphTag": "ABL/INS=CON"
 			}
 		],
 		"nevenaažadil": [
 			{
+				"surfaceForm": "nevenaažadil",
 				"segmentation": "-ne-ve-na-až-a=dil",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS=1PL.ABS"
 			}
 		],
 		"needil": [
 			{
+				"surfaceForm": "needil",
 				"segmentation": "-ne-e=dil",
 				"morphTag": "RELAT.SG-DIR/LOC=1PL.ABS"
 			}
 		],
 		"nenedil": [
 			{
+				"surfaceForm": "nenedil",
 				"segmentation": "-ne-ne=dil",
 				"morphTag": "RELAT.SG-ABL/INS=1PL.ABS"
 			}
 		],
 		"nedil": [
 			{
+				"surfaceForm": "nedil",
 				"segmentation": "-ne=dil",
 				"morphTag": "ABL/INS=1PL.ABS"
 			}
 		],
 		"nevenee": [
 			{
+				"surfaceForm": "nevenee",
 				"segmentation": "-ne-ve-ne-e",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC"
 			}
 		],
 		"bam": [
 			{
+				"surfaceForm": "bam",
 				"segmentation": "-i-va=m",
 				"morphTag": "3POSS.SG-DAT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "bam",
 				"segmentation": "-i-va=m",
 				"morphTag": "3POSS.SG-DAT=CON"
 			},
 			{
+				"surfaceForm": "bam",
 				"segmentation": "-va=m",
 				"morphTag": "DAT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "bam",
 				"segmentation": "-va=m",
 				"morphTag": "DAT=CON"
 			}
 		],
 		"vea": [
 			{
+				"surfaceForm": "vea",
 				"segmentation": "-ve-a",
 				"morphTag": "GEN-ESS"
 			}
 		],
 		"ḫina": [
 			{
+				"surfaceForm": "ḫina",
 				"segmentation": "-ġe-na",
 				"morphTag": "ADJ-RELAT.PL.ABS"
 			}
 		],
 		"āma": [
 			{
+				"surfaceForm": "āma",
 				"segmentation": "-i-a=ma",
 				"morphTag": "3POSS.SG-ESS=CON"
 			}
 		],
 		"bima": [
 			{
+				"surfaceForm": "bima",
 				"segmentation": "-ve=ma",
 				"morphTag": "GEN=CON"
 			}
 		],
 		"biniba": [
 			{
+				"surfaceForm": "biniba",
 				"segmentation": "-ve-ne-va",
 				"morphTag": "GEN-RELAT.SG-DAT"
 			}
 		],
 		"binibi": [
 			{
+				"surfaceForm": "binibi",
 				"segmentation": "-ve-ne-ve",
 				"morphTag": "GEN-RELAT.SG-GEN"
 			}
 		],
 		"attam": [
 			{
+				"surfaceForm": "attam",
 				"segmentation": "-a=tta=m",
 				"morphTag": "ESS=1SG.ABS=CON"
 			}
 		],
 		"nēni": [
 			{
+				"surfaceForm": "nēni",
 				"segmentation": "-ne-ne",
 				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"nevi": [
 			{
+				"surfaceForm": "nevi",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"ež": [
 			{
+				"surfaceForm": "ež",
 				"segmentation": "-e-ž",
 				"morphTag": "3POSS.SG-ERG"
 			}
 		],
 		"nema": [
 			{
+				"surfaceForm": "nema",
 				"segmentation": "-ne=ma",
 				"morphTag": "ABL/INS=CON"
 			}
 		],
 		"el": [
 			{
+				"surfaceForm": "el",
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			}
 		],
 		"neael": [
 			{
+				"surfaceForm": "neael",
 				"segmentation": "-ne-ae=l",
 				"morphTag": "RELAT.SG-INS=3PL.ABS"
 			}
 		],
 		"neae": [
 			{
+				"surfaceForm": "neae",
 				"segmentation": "-ne-ae",
 				"morphTag": "RELAT.SG-INS"
 			}
 		],
 		"nāi": [
 			{
+				"surfaceForm": "nāi",
 				"segmentation": "-ne-ae",
 				"morphTag": "RELAT.SG-INS"
 			}
 		],
 		"attama": [
 			{
+				"surfaceForm": "attama",
 				"segmentation": "-a=tta=ma",
 				"morphTag": "ESS=1SG.ABS=CON"
 			}
 		],
 		"venaažaan": [
 			{
+				"surfaceForm": "venaažaan",
 				"segmentation": "-ve-na-až-a=an",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=CON"
 			}
 		],
 		"venaažan": [
 			{
+				"surfaceForm": "venaažan",
 				"segmentation": "-ve-na-až-a=n",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=3SG.ABS"
 			}
 		],
 		"niramān": [
 			{
+				"surfaceForm": "niramān",
 				"segmentation": "-ne-ra=m=an",
 				"morphTag": "RELAT.SG-COM=2SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "niramān",
 				"segmentation": "-ne-ra=mān",
 				"morphTag": "RELAT.SG-COM=CON"
 			}
 		],
 		"anm": [
 			{
+				"surfaceForm": "anm",
 				"segmentation": "-a=n=m",
 				"morphTag": "ESS=3SG.ABS=CON"
 			}
 		],
 		"fa": [
 			{
+				"surfaceForm": "fa",
 				"segmentation": "-va",
 				"morphTag": "DAT"
 			}
 		],
 		"naažanella": [
 			{
+				"surfaceForm": "naažanella",
 				"segmentation": "-na-až-ane=lla",
 				"morphTag": "RELAT.PL-PL-ABL/INS=3PL.ABS"
 			}
 		],
 		"nevenežnna": [
 			{
+				"surfaceForm": "nevenežnna",
 				"segmentation": "-ne-ve-ne-ž=nna",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ERG=3SG.ABS"
 			}
 		],
 		"nāža": [
 			{
+				"surfaceForm": "nāža",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS"
 			}
 		],
 		"veneval": [
 			{
+				"surfaceForm": "veneval",
 				"segmentation": "-ve-ne-va=l",
 				"morphTag": "GEN-RELAT.SG-DAT=3PL.ABS"
 			}
 		],
 		"nevella": [
 			{
+				"surfaceForm": "nevella",
 				"segmentation": "-ne-ve=lla",
 				"morphTag": "RELAT.SG-GEN=3PL.ABS"
 			}
 		],
 		"nennam": [
 			{
+				"surfaceForm": "nennam",
 				"segmentation": "-ne-nna=m",
 				"morphTag": "RELAT.SG-EQU2=CON"
 			}
 		],
 		"ulēž": [
 			{
+				"surfaceForm": "ulēž",
 				"segmentation": "-o-l-ež",
 				"morphTag": "MOD.PAT-l-OPT"
 			}
 		],
 		"urulāež": [
 			{
+				"surfaceForm": "urulāež",
 				"segmentation": "-ur-o-l-ai-ž",
 				"morphTag": "ur-MOD.PAT-l-PURP-ž"
 			}
 		],
 		"vaan": [
 			{
+				"surfaceForm": "vaan",
 				"segmentation": "-va=an",
 				"morphTag": "DAT=CON"
 			}
 		],
 		"van": [
 			{
+				"surfaceForm": "van",
 				"segmentation": "-va=n",
 				"morphTag": "DAT=3SG.ABS"
 			}
 		],
 		"veaem": [
 			{
+				"surfaceForm": "veaem",
 				"segmentation": "-ve-ae=m",
 				"morphTag": "GEN-INS=2SG.ABS"
 			}
 		],
 		"veaev": [
 			{
+				"surfaceForm": "veaev",
 				"segmentation": "-ve-ae=v",
 				"morphTag": "GEN-INS=2PL.ABS"
 			}
 		],
 		"ppinama": [
 			{
+				"surfaceForm": "ppinama",
 				"segmentation": "-v-ve-na=ma",
 				"morphTag": "2POSS.SG-GEN-RELAT.PL.ABS=CON"
 			}
 		],
 		"araštēda": [
 			{
+				"surfaceForm": "araštēda",
 				"segmentation": "-ar-ašt-ed-a",
 				"morphTag": "ITER-RES-FUT-3A.SG"
 			}
 		],
 		"nāžōž": [
 			{
+				"surfaceForm": "nāžōž",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG"
 			}
 		],
 		"edaan": [
 			{
+				"surfaceForm": "edaan",
 				"segmentation": "-e-da=an",
 				"morphTag": "3POSS.SG-DIR=CON"
 			}
 		],
 		"edan": [
 			{
+				"surfaceForm": "edan",
 				"segmentation": "-e-da=n",
 				"morphTag": "3POSS.SG-DIR=3SG.ABS"
 			},
 			{
+				"surfaceForm": "edan",
 				"segmentation": "-e-dan",
 				"morphTag": "3POSS.SG-ABL"
 			}
 		],
 		"(-)aš(-)tōġulēdan": [
 			{
+				"surfaceForm": "(-)aš(-)tōġulēdan",
 				"segmentation": "-ž",
 				"morphTag": "ERG"
 			}
 		],
 		"eva": [
 			{
+				"surfaceForm": "eva",
 				"segmentation": "-e-va",
 				"morphTag": "3POSS.SG-DAT"
 			}
 		],
 		"emma": [
 			{
+				"surfaceForm": "emma",
 				"segmentation": "-e=mma",
 				"morphTag": "3POSS.SG.ABS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "emma",
 				"segmentation": "-e=mma",
 				"morphTag": "3POSS.SG.ABS=CON"
 			}
 		],
 		"iemma": [
 			{
+				"surfaceForm": "iemma",
 				"segmentation": "-i-e=mma",
 				"morphTag": "3POSS.SG-DIR/LOC=2SG.ABS"
 			},
 			{
+				"surfaceForm": "iemma",
 				"segmentation": "-i-e=mma",
 				"morphTag": "3POSS.SG-DIR/LOC=CON"
 			}
 		],
 		"nenen": [
 			{
+				"surfaceForm": "nenen",
 				"segmentation": "-ne-ne=n",
 				"morphTag": "RELAT.SG-ABL/INS=CON"
 			}
@@ -3712,12 +4376,14 @@
 	"unclear": {
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			}
 		],
 		"": [
 			{
+				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ""
 			}
@@ -3726,4668 +4392,5522 @@
 	"verb": {
 		"a": [
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "3A.SG"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "ESS"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "INT"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-a",
 				"morphTag": "INT.IMP"
 			},
 			{
+				"surfaceForm": "a",
 				"segmentation": "-i-a",
 				"morphTag": "TR-3A.SG"
 			}
 		],
 		"-ta": [
 			{
+				"surfaceForm": "-ta",
 				"segmentation": "-a",
 				"morphTag": "INT"
 			},
 			{
+				"surfaceForm": "-ta",
 				"segmentation": "-ed-a",
 				"morphTag": "FUT-3A.SG"
 			}
 		],
 		"ien": [
 			{
+				"surfaceForm": "ien",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			}
 		],
 		"-ma": [
 			{
+				"surfaceForm": "-ma",
 				"segmentation": "=ma",
 				"morphTag": "=CON"
 			}
 		],
 		"al": [
 			{
+				"surfaceForm": "al",
 				"segmentation": "-a=l",
 				"morphTag": "INT=3PL.ABS"
 			}
 		],
 		"e": [
 			{
+				"surfaceForm": "e",
 				"segmentation": "-e",
 				"morphTag": "STAT"
 			},
 			{
+				"surfaceForm": "e",
 				"segmentation": "-i",
 				"morphTag": "ANTIP"
 			},
 			{
+				"surfaceForm": "e",
 				"segmentation": "-i",
 				"morphTag": "TR.IMP"
 			}
 		],
 		"i": [
 			{
+				"surfaceForm": "i",
 				"segmentation": "-i",
 				"morphTag": "ANTIP"
 			},
 			{
+				"surfaceForm": "i",
 				"segmentation": "-i",
 				"morphTag": "TR.IMP"
 			}
 		],
 		"ēma": [
 			{
+				"surfaceForm": "ēma",
 				"segmentation": "-i=ma",
 				"morphTag": "TR.IMP=CON"
 			}
 		],
 		"ab": [
 			{
+				"surfaceForm": "ab",
 				"segmentation": "-a-b",
 				"morphTag": "INT-b"
 			},
 			{
+				"surfaceForm": "ab",
 				"segmentation": "-a=m",
 				"morphTag": "INT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ab",
 				"segmentation": "-a=m",
 				"morphTag": "INT=CON"
 			}
 		],
 		"appa": [
 			{
+				"surfaceForm": "appa",
 				"segmentation": "-a-b=ma",
 				"morphTag": "INT-b=CON"
 			}
 		],
 		"u": [
 			{
+				"surfaceForm": "u",
 				"segmentation": "-o",
 				"morphTag": "2A.SG"
 			},
 			{
+				"surfaceForm": "u",
 				"segmentation": "-o",
 				"morphTag": "MOD.AG"
 			},
 			{
+				"surfaceForm": "u",
 				"segmentation": "-o",
 				"morphTag": "MOD.PAT"
 			},
 			{
+				"surfaceForm": "u",
 				"segmentation": "-u",
 				"morphTag": "MED"
 			}
 		],
 		"ašši": [
 			{
+				"surfaceForm": "ašši",
 				"segmentation": "-a-šše",
 				"morphTag": "INT-NMLZ.ABS"
 			},
 			{
+				"surfaceForm": "ašši",
 				"segmentation": "-i-a-šše",
 				"morphTag": "TR-3A.SG-NMLZ.ABS"
 			}
 		],
 		"ib": [
 			{
+				"surfaceForm": "ib",
 				"segmentation": "-i-b",
 				"morphTag": "ANTIP-b"
 			},
 			{
+				"surfaceForm": "ib",
 				"segmentation": "-i=m",
 				"morphTag": "ANTIP=CON"
 			},
 			{
+				"surfaceForm": "ib",
 				"segmentation": "-i=v",
 				"morphTag": "ANTIP=2PL.ABS"
 			},
 			{
+				"surfaceForm": "ib",
 				"segmentation": "-i=v",
 				"morphTag": "TR.IMP=2PL.ABS"
 			}
 		],
 		"iden": [
 			{
+				"surfaceForm": "iden",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"idu": [
 			{
+				"surfaceForm": "idu",
 				"segmentation": "-id-o",
 				"morphTag": "PL.A-TR.PFV"
 			}
 		],
 		"idōri": [
 			{
+				"surfaceForm": "idōri",
 				"segmentation": "-id-o-re",
 				"morphTag": "PL.A-PAT-PTCP.ABS"
 			}
 		],
 		"irinibi": [
 			{
+				"surfaceForm": "irinibi",
 				"segmentation": "-i-re-ne-ve",
 				"morphTag": "AG-PTCP-RELAT.SG-GEN"
 			}
 		],
 		"ivātta": [
 			{
+				"surfaceForm": "ivātta",
 				"segmentation": "-i-eva=tta",
 				"morphTag": "MOD.AG-POT=1SG.ABS"
 			}
 		],
 		"ulla": [
 			{
+				"surfaceForm": "ulla",
 				"segmentation": "-o=lla",
 				"morphTag": "MOD.PAT=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ulla",
 				"segmentation": "-u=lla",
 				"morphTag": "MED=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ulla",
 				"segmentation": "-ull-a",
 				"morphTag": "ull-3A.SG"
 			}
 		],
 		"ulūwa": [
 			{
+				"surfaceForm": "ulūwa",
 				"segmentation": "-ol-u-a",
 				"morphTag": "ol-MED-3A.SG"
 			}
 		],
 		"um": [
 			{
+				"surfaceForm": "um",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG"
 			},
 			{
+				"surfaceForm": "um",
 				"segmentation": "-o=m",
 				"morphTag": "MOD.PAT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "um",
 				"segmentation": "-o=m",
 				"morphTag": "MOD.PAT=CON"
 			},
 			{
+				"surfaceForm": "um",
 				"segmentation": "-u=m",
 				"morphTag": "MED=CON"
 			}
 		],
 		"uma": [
 			{
+				"surfaceForm": "uma",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			},
 			{
+				"surfaceForm": "uma",
 				"segmentation": "-o-m=ma",
 				"morphTag": "TR.PFV-3A.SG=CON"
 			},
 			{
+				"surfaceForm": "uma",
 				"segmentation": "-o=ma",
 				"morphTag": "MOD.PAT=CON"
 			},
 			{
+				"surfaceForm": "uma",
 				"segmentation": "-u=ma",
 				"morphTag": "MED=CON"
 			}
 		],
 		"umaīm": [
 			{
+				"surfaceForm": "umaīm",
 				"segmentation": "-o+m+ai=m",
 				"morphTag": "CVB=2SG.ABS"
 			},
 			{
+				"surfaceForm": "umaīm",
 				"segmentation": "-o+m+ai=m",
 				"morphTag": "CVB=CON"
 			}
 		],
 		"unna": [
 			{
+				"surfaceForm": "unna",
 				"segmentation": "-o=nna",
 				"morphTag": "MOD.PAT=3SG.ABS"
 			}
 		],
 		"ōža": [
 			{
+				"surfaceForm": "ōža",
 				"segmentation": "-ož-a",
 				"morphTag": "PST-3A.SG"
 			}
 		],
 		"ōži": [
 			{
+				"surfaceForm": "ōži",
 				"segmentation": "-ož-i",
 				"morphTag": "PST-ANTIP"
 			}
 		],
 		"ōžā": [
 			{
+				"surfaceForm": "ōžā",
 				"segmentation": "-ož-a",
 				"morphTag": "PST-3A.SG"
 			}
 		],
 		"ūlla": [
 			{
+				"surfaceForm": "ūlla",
 				"segmentation": "-o=lla",
 				"morphTag": "MOD.PAT=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ūlla",
 				"segmentation": "-u=lla",
 				"morphTag": "MED=3PL.ABS"
 			}
 		],
 		"ūmālla": [
 			{
+				"surfaceForm": "ūmālla",
 				"segmentation": "-o-m-a=lla",
 				"morphTag": "TR.PFV-3A.SG-EPNTH=3PL.ABS"
 			}
 		],
 		"dāi": [
 			{
+				"surfaceForm": "dāi",
 				"segmentation": "-d-i-ai",
 				"morphTag": "d-MOD.AG-PURP"
 			}
 		],
 		"āi": [
 			{
+				"surfaceForm": "āi",
 				"segmentation": "-i-ai",
 				"morphTag": "MOD.AG-PURP"
 			}
 		],
 		"ikki": [
 			{
+				"surfaceForm": "ikki",
 				"segmentation": "-i-kki",
 				"morphTag": "ANTIP-NEG"
 			}
 		],
 		"īġa": [
 			{
+				"surfaceForm": "īġa",
 				"segmentation": "-iġ-a",
 				"morphTag": "iġ-3A.SG"
 			},
 			{
+				"surfaceForm": "īġa",
 				"segmentation": "-iġ-a",
 				"morphTag": "iġ-INT"
 			}
 		],
 		"ulda": [
 			{
+				"surfaceForm": "ulda",
 				"segmentation": "-ol-d-a",
 				"morphTag": "ol-PL.A-3A"
 			}
 		],
 		"ulū": [
 			{
+				"surfaceForm": "ulū",
 				"segmentation": "-ol-u",
 				"morphTag": "ol-MED"
 			}
 		],
 		"mai": [
 			{
+				"surfaceForm": "mai",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"umain": [
 			{
+				"surfaceForm": "umain",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"main": [
 			{
+				"surfaceForm": "main",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"umaīn": [
 			{
+				"surfaceForm": "umaīn",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"umma": [
 			{
+				"surfaceForm": "umma",
 				"segmentation": "-o-m=ma",
 				"morphTag": "TR.PFV-3A.SG=CON"
 			},
 			{
+				"surfaceForm": "umma",
 				"segmentation": "-umme-a",
 				"morphTag": "INF-ESS"
 			}
 		],
 		"ummai": [
 			{
+				"surfaceForm": "ummai",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"ummini": [
 			{
+				"surfaceForm": "ummini",
 				"segmentation": "-umme-ne-e",
 				"morphTag": "INF-RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ummini",
 				"segmentation": "-umme-ne",
 				"morphTag": "INF-ABL/INS"
 			}
 		],
 		"ummāi": [
 			{
+				"surfaceForm": "ummāi",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"māi": [
 			{
+				"surfaceForm": "māi",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"umāin": [
 			{
+				"surfaceForm": "umāin",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"māin": [
 			{
+				"surfaceForm": "māin",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"umāīn": [
 			{
+				"surfaceForm": "umāīn",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"māīn": [
 			{
+				"surfaceForm": "māīn",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"wīb": [
 			{
+				"surfaceForm": "wīb",
 				"segmentation": "-i-b",
 				"morphTag": "ANTIP-b"
 			}
 		],
 		"īb": [
 			{
+				"surfaceForm": "īb",
 				"segmentation": "-i-b",
 				"morphTag": "ANTIP-b"
 			}
 		],
 		"šti": [
 			{
+				"surfaceForm": "šti",
 				"segmentation": "-ušt-i",
 				"morphTag": "RES-TR.IMP"
 			}
 		],
 		"ōb": [
 			{
+				"surfaceForm": "ōb",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG"
 			}
 		],
 		"ōlašši": [
 			{
+				"surfaceForm": "ōlašši",
 				"segmentation": "-ol-a-šše",
 				"morphTag": "ol-3A.SG-NMLZ.ABS"
 			}
 		],
 		"ūmāin": [
 			{
+				"surfaceForm": "ūmāin",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"arillōm": [
 			{
+				"surfaceForm": "arillōm",
 				"segmentation": "-ar-ill-o-m",
 				"morphTag": "ITER-INGR-TR.PFV-3A.SG"
 			}
 		],
 		"ašteda": [
 			{
+				"surfaceForm": "ašteda",
 				"segmentation": "-ašt-ed-a",
 				"morphTag": "RES-FUT-3A.SG"
 			}
 		],
 		"elānni": [
 			{
+				"surfaceForm": "elānni",
 				"segmentation": "-i-l-anni",
 				"morphTag": "MOD.AG-l-DESID"
 			}
 		],
 		"en": [
 			{
+				"surfaceForm": "en",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			}
 		],
 		"idi": [
 			{
+				"surfaceForm": "idi",
 				"segmentation": "-ed-i",
 				"morphTag": "FUT-ANTIP"
 			},
 			{
+				"surfaceForm": "idi",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"idū": [
 			{
+				"surfaceForm": "idū",
 				"segmentation": "-ed-o",
 				"morphTag": "FUT-2A.SG"
 			}
 		],
 		"ummi": [
 			{
+				"surfaceForm": "ummi",
 				"segmentation": "-umme",
 				"morphTag": "INF.ABS"
 			}
 		],
 		"užima": [
 			{
+				"surfaceForm": "užima",
 				"segmentation": "-ož-i=ma",
 				"morphTag": "PST-ANTIP=CON"
 			}
 		],
 		"ēda": [
 			{
+				"surfaceForm": "ēda",
 				"segmentation": "-ed-a",
 				"morphTag": "FUT-3A.SG"
 			}
 		],
 		"udum": [
 			{
+				"surfaceForm": "udum",
 				"segmentation": "-ud-o-m",
 				"morphTag": "NEG-TR.PFV-3A.SG"
 			},
 			{
+				"surfaceForm": "udum",
 				"segmentation": "-ud-o-m",
 				"morphTag": "ud-TR.PFV-3A.SG"
 			}
 		],
 		"ōbadi": [
 			{
+				"surfaceForm": "ōbadi",
 				"segmentation": "-o-vade",
 				"morphTag": "PAT-ADJ.NEG.ABS"
 			}
 		],
 		"udōbadi": [
 			{
+				"surfaceForm": "udōbadi",
 				"segmentation": "-ud-o-vade",
 				"morphTag": "ud-PAT-ADJ.NEG.ABS"
 			}
 		],
 		"ulēž": [
 			{
+				"surfaceForm": "ulēž",
 				"segmentation": "-o-l-ež",
 				"morphTag": "MOD.PAT-l-OPT"
 			}
 		],
 		"ulūdōm": [
 			{
+				"surfaceForm": "ulūdōm",
 				"segmentation": "-ol-ud-o-m",
 				"morphTag": "ol-NEG-TR.PFV-3A.SG"
 			}
 		],
 		"uwīn": [
 			{
+				"surfaceForm": "uwīn",
 				"segmentation": "-o-en",
 				"morphTag": "MOD.PAT-3JUSS"
 			}
 		],
 		"ānumal": [
 			{
+				"surfaceForm": "ānumal",
 				"segmentation": "-an-o-m-a=l",
 				"morphTag": "an-TR.PFV-3A.SG-EPNTH=3PL.ABS"
 			}
 		],
 		"īri": [
 			{
+				"surfaceForm": "īri",
 				"segmentation": "-i-re",
 				"morphTag": "AG-PTCP.ABS"
 			}
 		],
 		"ōdum": [
 			{
+				"surfaceForm": "ōdum",
 				"segmentation": "-ud-o-m",
 				"morphTag": "NEG-TR.PFV-3A.SG"
 			}
 		],
 		"ōludum": [
 			{
+				"surfaceForm": "ōludum",
 				"segmentation": "-ol-ud-o-m",
 				"morphTag": "ol-NEG-TR.PFV-3A.SG"
 			}
 		],
 		"ōludōm": [
 			{
+				"surfaceForm": "ōludōm",
 				"segmentation": "-ol-ud-o-m",
 				"morphTag": "ol-NEG-TR.PFV-3A.SG"
 			}
 		],
 		"aštikki": [
 			{
+				"surfaceForm": "aštikki",
 				"segmentation": "-ašt-i-kki",
 				"morphTag": "RES-ANTIP-NEG"
 			}
 		],
 		"aḫḫužellae": [
 			{
+				"surfaceForm": "aḫḫužellae",
 				"segmentation": "-aḫḫ-ož-ill-i-ai",
 				"morphTag": "aḫḫ-ož-ill-MOD.AG-PURP"
 			}
 		],
 		"īma": [
 			{
+				"surfaceForm": "īma",
 				"segmentation": "-i=ma",
 				"morphTag": "ANTIP=CON"
 			},
 			{
+				"surfaceForm": "īma",
 				"segmentation": "-i=ma",
 				"morphTag": "TR.IMP=CON"
 			}
 		],
 		"amdōm": [
 			{
+				"surfaceForm": "amdōm",
 				"segmentation": "-am-d-o-m",
 				"morphTag": "FACT-d-TR.PFV-3A.SG"
 			}
 		],
 		"ūri": [
 			{
+				"surfaceForm": "ūri",
 				"segmentation": "-o-re",
 				"morphTag": "PAT-PTCP.ABS"
 			},
 			{
+				"surfaceForm": "ūri",
 				"segmentation": "-ur-i",
 				"morphTag": "ur-ANTIP"
 			}
 		],
 		"eššal": [
 			{
+				"surfaceForm": "eššal",
 				"segmentation": "-i-ež-a=l",
 				"morphTag": "MOD.AG-OPT-EPNTH=3PL.ABS"
 			}
 		],
 		"iamma": [
 			{
+				"surfaceForm": "iamma",
 				"segmentation": "-i-a-mma",
 				"morphTag": "TR-3A.SG-NEG"
 			}
 		],
 		"ian": [
 			{
+				"surfaceForm": "ian",
 				"segmentation": "-i-a=an",
 				"morphTag": "TR-3A.SG=CON"
 			},
 			{
+				"surfaceForm": "ian",
 				"segmentation": "-i-a=n",
 				"morphTag": "TR-3A.SG=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ian",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			}
 		],
 		"už": [
 			{
+				"surfaceForm": "už",
 				"segmentation": "-o-ež",
 				"morphTag": "MOD.PAT-OPT"
 			}
 		],
 		"ulauž": [
 			{
+				"surfaceForm": "ulauž",
 				"segmentation": "-ol-aw-ž",
 				"morphTag": "ol-1A-PL"
 			}
 		],
 		"ulib": [
 			{
+				"surfaceForm": "ulib",
 				"segmentation": "-ol-i-b",
 				"morphTag": "ol-ANTIP-b"
 			}
 		],
 		"ulim": [
 			{
+				"surfaceForm": "ulim",
 				"segmentation": "-ol-i=m",
 				"morphTag": "ol-TR.IMP=2SG.ABS"
 			}
 		],
 		"ulli": [
 			{
+				"surfaceForm": "ulli",
 				"segmentation": "-ol-i-le",
 				"morphTag": "ol-MOD.AG-1JUSS"
 			},
 			{
+				"surfaceForm": "ulli",
 				"segmentation": "-ull-i",
 				"morphTag": "ull-ANTIP"
 			},
 			{
+				"surfaceForm": "ulli",
 				"segmentation": "-ulli",
 				"morphTag": "ulli"
 			}
 		],
 		"uluššina": [
 			{
+				"surfaceForm": "uluššina",
 				"segmentation": "-ol-o-šše-na",
 				"morphTag": "ol-2A.SG-NMLZ-RELAT.PL.ABS"
 			}
 		],
 		"ulāuž": [
 			{
+				"surfaceForm": "ulāuž",
 				"segmentation": "-ol-aw-ž",
 				"morphTag": "ol-1A-PL"
 			}
 		],
 		"ummōžu": [
 			{
+				"surfaceForm": "ummōžu",
 				"segmentation": "-umm-ož-o",
 				"morphTag": "umm-PST-2A.SG"
 			},
 			{
+				"surfaceForm": "ummōžu",
 				"segmentation": "-umm-ož-u",
 				"morphTag": "umm-PST-MED"
 			}
 		],
 		"uri": [
 			{
+				"surfaceForm": "uri",
 				"segmentation": "-o-re",
 				"morphTag": "PAT-PTCP.ABS"
 			}
 		],
 		"užellāim": [
 			{
+				"surfaceForm": "užellāim",
 				"segmentation": "-ož-ill-i-ai=m",
 				"morphTag": "ož-ill-MOD.AG-PURP=CON"
 			}
 		],
 		"vin": [
 			{
+				"surfaceForm": "vin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=3SG.ABS"
 			},
 			{
+				"surfaceForm": "vin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=CON"
 			}
 		],
 		"ōlauž": [
 			{
+				"surfaceForm": "ōlauž",
 				"segmentation": "-ol-aw-ž",
 				"morphTag": "ol-1A-PL"
 			}
 		],
 		"ōlawunna": [
 			{
+				"surfaceForm": "ōlawunna",
 				"segmentation": "-ol-aw=nna",
 				"morphTag": "ol-1A.SG=3SG.ABS"
 			}
 		],
 		"ōluda": [
 			{
+				"surfaceForm": "ōluda",
 				"segmentation": "-ol-u-d-a",
 				"morphTag": "ol-MED-PL.A-3A"
 			},
 			{
+				"surfaceForm": "ōluda",
 				"segmentation": "-ol-ud-a",
 				"morphTag": "ol-ud-3A.SG"
 			},
 			{
+				"surfaceForm": "ōluda",
 				"segmentation": "-ol-ud-a",
 				"morphTag": "ol-ud-INT"
 			}
 		],
 		"ōlullub": [
 			{
+				"surfaceForm": "ōlullub",
 				"segmentation": "-ol-ull-o-m",
 				"morphTag": "ol-ull-TR.PFV-3A.SG"
 			}
 		],
 		"ōlāuž": [
 			{
+				"surfaceForm": "ōlāuž",
 				"segmentation": "-ol-aw-ž",
 				"morphTag": "ol-1A-PL"
 			}
 		],
 		"ūlāuž": [
 			{
+				"surfaceForm": "ūlāuž",
 				"segmentation": "-ul-aw-ž",
 				"morphTag": "ul-1A-PL"
 			}
 		],
 		"ūžu": [
 			{
+				"surfaceForm": "ūžu",
 				"segmentation": "-ož-o",
 				"morphTag": "PST-2A.SG"
 			}
 		],
 		"ūžušši": [
 			{
+				"surfaceForm": "ūžušši",
 				"segmentation": "-ož-o-šše",
 				"morphTag": "PST-2A.SG-NMLZ.ABS"
 			}
 		],
 		"anōva": [
 			{
+				"surfaceForm": "anōva",
 				"segmentation": "-an-o-eva",
 				"morphTag": "an-MOD.PAT-POT"
 			}
 		],
 		"aštiž": [
 			{
+				"surfaceForm": "aštiž",
 				"segmentation": "-ašt-i-ež",
 				"morphTag": "RES-MOD.AG-OPT"
 			}
 		],
 		"āštum": [
 			{
+				"surfaceForm": "āštum",
 				"segmentation": "-ašt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			}
 		],
 		"wfa": [
 			{
+				"surfaceForm": "wfa",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG"
 			}
 		],
 		"alda": [
 			{
+				"surfaceForm": "alda",
 				"segmentation": "-al-d-a",
 				"morphTag": "al-d-3A.SG"
 			},
 			{
+				"surfaceForm": "alda",
 				"segmentation": "-al-d-a",
 				"morphTag": "al-d-INT"
 			}
 		],
 		"aldili": [
 			{
+				"surfaceForm": "aldili",
 				"segmentation": "-al-d-i-le",
 				"morphTag": "al-d-MOD.AG-1JUSS"
 			}
 		],
 		"aldēda": [
 			{
+				"surfaceForm": "aldēda",
 				"segmentation": "-al-d-ed-a",
 				"morphTag": "al-d-FUT-3A.SG"
 			}
 		],
 		"allin": [
 			{
+				"surfaceForm": "allin",
 				"segmentation": "-al-i-le=n",
 				"morphTag": "al-MOD.AG-1JUSS=3SG.ABS"
 			},
 			{
+				"surfaceForm": "allin",
 				"segmentation": "-al-i-le=n",
 				"morphTag": "al-MOD.AG-1JUSS=CON"
 			}
 		],
 		"allēda": [
 			{
+				"surfaceForm": "allēda",
 				"segmentation": "-all-ed-a",
 				"morphTag": "all-FUT-3A.SG"
 			}
 		],
 		"amaruliēž": [
 			{
+				"surfaceForm": "amaruliēž",
 				"segmentation": "-am-ar-o-l-ež",
 				"morphTag": "FACT-ITER-MOD.PAT-l-OPT"
 			}
 		],
 		"aštedaw": [
 			{
+				"surfaceForm": "aštedaw",
 				"segmentation": "-ašt-ed-aw",
 				"morphTag": "RES-FUT-1A.SG"
 			}
 		],
 		"id": [
 			{
+				"surfaceForm": "id",
 				"segmentation": "-i=d",
 				"morphTag": "ANTIP=1SG.ABS"
 			}
 		],
 		"aštedo": [
 			{
+				"surfaceForm": "aštedo",
 				"segmentation": "-ašt-ed-o",
 				"morphTag": "RES-FUT-2A.SG"
 			}
 		],
 		"ili": [
 			{
+				"surfaceForm": "ili",
 				"segmentation": "-i-le",
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
 		"ōlāe": [
 			{
+				"surfaceForm": "ōlāe",
 				"segmentation": "-o-l-ai",
 				"morphTag": "MOD.PAT-l-PURP"
 			}
 		],
 		"ō": [
 			{
+				"surfaceForm": "ō",
 				"segmentation": "-o",
 				"morphTag": "MOD.PAT"
 			}
 		],
 		"ammu": [
 			{
+				"surfaceForm": "ammu",
 				"segmentation": "-amm-o",
 				"morphTag": "FACT-2A.SG"
 			},
 			{
+				"surfaceForm": "ammu",
 				"segmentation": "-amm-o",
 				"morphTag": "FACT-MOD.PAT"
 			},
 			{
+				"surfaceForm": "ammu",
 				"segmentation": "-amm-u",
 				"morphTag": "FACT-MED"
 			}
 		],
 		"anub": [
 			{
+				"surfaceForm": "anub",
 				"segmentation": "-an-o-m",
 				"morphTag": "an-TR.PFV-3A.SG"
 			}
 		],
 		"aštedō": [
 			{
+				"surfaceForm": "aštedō",
 				"segmentation": "-ašt-ed-aw",
 				"morphTag": "RES-FUT-1A.SG"
 			}
 		],
 		"aštib": [
 			{
+				"surfaceForm": "aštib",
 				"segmentation": "-ašt-i-b",
 				"morphTag": "RES-ANTIP-b"
 			}
 		],
 		"aštilib": [
 			{
+				"surfaceForm": "aštilib",
 				"segmentation": "-ašt-i-le=m",
 				"morphTag": "RES-MOD.AG-1JUSS=2SG.ABS"
 			},
 			{
+				"surfaceForm": "aštilib",
 				"segmentation": "-ašt-i-le=m",
 				"morphTag": "RES-MOD.AG-1JUSS=CON"
 			},
 			{
+				"surfaceForm": "aštilib",
 				"segmentation": "-ašt-il-i-b",
 				"morphTag": "RES-il-ANTIP-b"
 			}
 		],
 		"ia": [
 			{
+				"surfaceForm": "ia",
 				"segmentation": "-i-a",
 				"morphTag": "TR-3A.SG"
 			}
 		],
 		"wlai": [
 			{
+				"surfaceForm": "wlai",
 				"segmentation": "-o-l-ai",
 				"morphTag": "MOD.PAT-l-PURP"
 			}
 		],
 		"ulain": [
 			{
+				"surfaceForm": "ulain",
 				"segmentation": "-o-l-ai-n",
 				"morphTag": "MOD.PAT-l-PURP-n"
 			},
 			{
+				"surfaceForm": "ulain",
 				"segmentation": "-o-l-ai=n",
 				"morphTag": "MOD.PAT-l-PURP=3SG.ABS"
 			}
 		],
 		"urež": [
 			{
+				"surfaceForm": "urež",
 				"segmentation": "-o-re-i-ž",
 				"morphTag": "PAT-PTCP-3POSS.SG-ERG"
 			},
 			{
+				"surfaceForm": "urež",
 				"segmentation": "-o-re-ž",
 				"morphTag": "PAT-PTCP-ERG"
 			}
 		],
 		"illandin": [
 			{
+				"surfaceForm": "illandin",
 				"segmentation": "-ill-and-i-n",
 				"morphTag": "ill-PL.A-MOD.AG-n"
 			},
 			{
+				"surfaceForm": "illandin",
 				"segmentation": "-ill-and-i=n",
 				"morphTag": "ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"ānēdāw": [
 			{
+				"surfaceForm": "ānēdāw",
 				"segmentation": "-an-ed-aw",
 				"morphTag": "an-FUT-1A.SG"
 			}
 		],
 		"ōla": [
 			{
+				"surfaceForm": "ōla",
 				"segmentation": "-ol-a",
 				"morphTag": "ol-3A.SG"
 			},
 			{
+				"surfaceForm": "ōla",
 				"segmentation": "-ol-a",
 				"morphTag": "ol-INT"
 			},
 			{
+				"surfaceForm": "ōla",
 				"segmentation": "-ol-a",
 				"morphTag": "ol-INT.IMP"
 			}
 		],
 		"ōri": [
 			{
+				"surfaceForm": "ōri",
 				"segmentation": "-o-re",
 				"morphTag": "PAT-PTCP.ABS"
 			}
 		],
 		"ōġiž": [
 			{
+				"surfaceForm": "ōġiž",
 				"segmentation": "-oġ-i-ež",
 				"morphTag": "oġ-MOD.AG-OPT"
 			}
 		],
 		"ellandin": [
 			{
+				"surfaceForm": "ellandin",
 				"segmentation": "-ill-and-i-n",
 				"morphTag": "ill-PL.A-MOD.AG-n"
 			},
 			{
+				"surfaceForm": "ellandin",
 				"segmentation": "-ill-and-i=n",
 				"morphTag": "ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"awž": [
 			{
+				"surfaceForm": "awž",
 				"segmentation": "-aw-ž",
 				"morphTag": "1A-PL"
 			}
 		],
 		"ukku": [
 			{
+				"surfaceForm": "ukku",
 				"segmentation": "-o-kko",
 				"morphTag": "INT-NEG"
 			}
 		],
 		"ido": [
 			{
+				"surfaceForm": "ido",
 				"segmentation": "-id-o",
 				"morphTag": "PL.A-TR.PFV"
 			}
 		],
 		"olaiž": [
 			{
+				"surfaceForm": "olaiž",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
 		"olai": [
 			{
+				"surfaceForm": "olai",
 				"segmentation": "-o-l-ai",
 				"morphTag": "MOD.PAT-l-PURP"
 			}
 		],
 		"oliai": [
 			{
+				"surfaceForm": "oliai",
 				"segmentation": "-ol-i-ai",
 				"morphTag": "ol-MOD.AG-PURP"
 			}
 		],
 		"olež": [
 			{
+				"surfaceForm": "olež",
 				"segmentation": "-o-l-ež",
 				"morphTag": "MOD.PAT-l-OPT"
 			}
 		],
 		"omailla": [
 			{
+				"surfaceForm": "omailla",
 				"segmentation": "-o+m+ai=lla",
 				"morphTag": "CVB=3PL.ABS"
 			}
 		],
 		"umme": [
 			{
+				"surfaceForm": "umme",
 				"segmentation": "-umme",
 				"morphTag": "INF.ABS"
 			}
 		],
 		"oež": [
 			{
+				"surfaceForm": "oež",
 				"segmentation": "-o-ež",
 				"morphTag": "MOD.PAT-OPT"
 			}
 		],
 		"ožillandin": [
 			{
+				"surfaceForm": "ožillandin",
 				"segmentation": "-ož-ill-and-i-n",
 				"morphTag": "ož-ill-PL.A-MOD.AG-n"
 			},
 			{
+				"surfaceForm": "ožillandin",
 				"segmentation": "-ož-ill-and-i=n",
 				"morphTag": "ož-ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"ōna": [
 			{
+				"surfaceForm": "ōna",
 				"segmentation": "-on-a",
 				"morphTag": "on-3A.SG"
 			},
 			{
+				"surfaceForm": "ōna",
 				"segmentation": "-on-a",
 				"morphTag": "on-INT"
 			}
 		],
 		"uġullašši": [
 			{
+				"surfaceForm": "uġullašši",
 				"segmentation": "-oġ-ull-a-šše",
 				"morphTag": "oġ-ull-3A.SG-NMLZ.ABS"
 			},
 			{
+				"surfaceForm": "uġullašši",
 				"segmentation": "-oġ-ull-a-šše",
 				"morphTag": "oġ-ull-INT-NMLZ.ABS"
 			}
 		],
 		"ad": [
 			{
+				"surfaceForm": "ad",
 				"segmentation": "-a=d",
 				"morphTag": "INT=1SG.ABS"
 			}
 		],
 		"ōbin": [
 			{
+				"surfaceForm": "ōbin",
 				"segmentation": "-o-va-en",
 				"morphTag": "MOD.PAT-NEG-3JUSS"
 			}
 		],
 		"ōliva": [
 			{
+				"surfaceForm": "ōliva",
 				"segmentation": "-o-l-eva",
 				"morphTag": "MOD.PAT-l-POT"
 			}
 		],
 		"ullima": [
 			{
+				"surfaceForm": "ullima",
 				"segmentation": "-ulli=ma",
 				"morphTag": "ulli=CON"
 			}
 		],
 		"ullīma": [
 			{
+				"surfaceForm": "ullīma",
 				"segmentation": "-ulli=ma",
 				"morphTag": "ulli=CON"
 			}
 		],
 		"ilevažnna": [
 			{
+				"surfaceForm": "ilevažnna",
 				"segmentation": "-i-l-eva-ž=nna",
 				"morphTag": "MOD.AG-l-POT-ž=3SG.ABS"
 			}
 		],
 		"eġib": [
 			{
+				"surfaceForm": "eġib",
 				"segmentation": "-eġ-i-b",
 				"morphTag": "eġ-ANTIP-b"
 			}
 		],
 		"ikkimān": [
 			{
+				"surfaceForm": "ikkimān",
 				"segmentation": "-i-kki=mān",
 				"morphTag": "ANTIP-NEG=CON"
 			}
 		],
 		"ižanna": [
 			{
+				"surfaceForm": "ižanna",
 				"segmentation": "-iž-a=nna",
 				"morphTag": "iž-INT=3SG.ABS"
 			}
 		],
 		"edab": [
 			{
+				"surfaceForm": "edab",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG"
 			}
 		],
 		"ara": [
 			{
+				"surfaceForm": "ara",
 				"segmentation": "-ar-a",
 				"morphTag": "ITER-3A.SG"
 			},
 			{
+				"surfaceForm": "ara",
 				"segmentation": "-ar-a",
 				"morphTag": "ITER-INT"
 			}
 		],
 		"amma": [
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT.IMP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "amma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT=CON"
 			}
 		],
 		"umai": [
 			{
+				"surfaceForm": "umai",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"ūlima": [
 			{
+				"surfaceForm": "ūlima",
 				"segmentation": "-ul-i=ma",
 				"morphTag": "ul-ANTIP=CON"
 			},
 			{
+				"surfaceForm": "ūlima",
 				"segmentation": "-ul-i=ma",
 				"morphTag": "ul-TR.IMP=CON"
 			}
 		],
 		"āla": [
 			{
+				"surfaceForm": "āla",
 				"segmentation": "-al-a",
 				"morphTag": "al-3A.SG"
 			},
 			{
+				"surfaceForm": "āla",
 				"segmentation": "-al-a",
 				"morphTag": "al-INT"
 			}
 		],
 		"āda": [
 			{
+				"surfaceForm": "āda",
 				"segmentation": "-ad-a",
 				"morphTag": "ad-3A.SG"
 			},
 			{
+				"surfaceForm": "āda",
 				"segmentation": "-ad-a",
 				"morphTag": "ad-INT"
 			}
 		],
 		"ide": [
 			{
+				"surfaceForm": "ide",
 				"segmentation": "-ed-i",
 				"morphTag": "FUT-ANTIP"
 			},
 			{
+				"surfaceForm": "ide",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"ima": [
 			{
+				"surfaceForm": "ima",
 				"segmentation": "-i=ma",
 				"morphTag": "ANTIP=CON"
 			},
 			{
+				"surfaceForm": "ima",
 				"segmentation": "-i=ma",
 				"morphTag": "TR.IMP=CON"
 			}
 		],
 		"ivaenima": [
 			{
+				"surfaceForm": "ivaenima",
 				"segmentation": "-i-va-en-i=ma",
 				"morphTag": "MOD.AG-NEG-3JUSS-EPNTH=CON"
 			}
 		],
 		"uššuenim": [
 			{
+				"surfaceForm": "uššuenim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=2SG.ABS"
 			},
 			{
+				"surfaceForm": "uššuenim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=CON"
 			}
 		],
 		"uššuēnnim": [
 			{
+				"surfaceForm": "uššuēnnim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=2SG.ABS"
 			},
 			{
+				"surfaceForm": "uššuēnnim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=CON"
 			}
 		],
 		"užuenim": [
 			{
+				"surfaceForm": "užuenim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=2SG.ABS"
 			},
 			{
+				"surfaceForm": "užuenim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=CON"
 			}
 		],
 		"ēde": [
 			{
+				"surfaceForm": "ēde",
 				"segmentation": "-ed-i",
 				"morphTag": "FUT-ANTIP"
 			}
 		],
 		"ēdi": [
 			{
+				"surfaceForm": "ēdi",
 				"segmentation": "-ed-i",
 				"morphTag": "FUT-ANTIP"
 			}
 		],
 		"oġom": [
 			{
+				"surfaceForm": "oġom",
 				"segmentation": "-oġ-o-m",
 				"morphTag": "oġ-TR.PFV-3A.SG"
 			}
 		],
 		"ōštu": [
 			{
+				"surfaceForm": "ōštu",
 				"segmentation": "-ošt-o",
 				"morphTag": "RES-MOD.PAT"
 			},
 			{
+				"surfaceForm": "ōštu",
 				"segmentation": "-ošt-u",
 				"morphTag": "RES-MED"
 			}
 		],
 		"ie": [
 			{
+				"surfaceForm": "ie",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			}
 		],
 		"el": [
 			{
+				"surfaceForm": "el",
 				"segmentation": "-i=l",
 				"morphTag": "TR.IMP=3PL.ABS"
 			}
 		],
 		"uža": [
 			{
+				"surfaceForm": "uža",
 				"segmentation": "-ož-a",
 				"morphTag": "PST-3A.SG"
 			}
 		],
 		"āna": [
 			{
+				"surfaceForm": "āna",
 				"segmentation": "-an-a",
 				"morphTag": "an-3A.SG"
 			},
 			{
+				"surfaceForm": "āna",
 				"segmentation": "-an-a",
 				"morphTag": "an-INT"
 			}
 		],
 		"o": [
 			{
+				"surfaceForm": "o",
 				"segmentation": "-o",
 				"morphTag": "MOD.PAT"
 			}
 		],
 		"il": [
 			{
+				"surfaceForm": "il",
 				"segmentation": "-i=l",
 				"morphTag": "ANTIP=3PL.ABS"
 			}
 		],
 		"īman": [
 			{
+				"surfaceForm": "īman",
 				"segmentation": "-i=m=an",
 				"morphTag": "ANTIP=2SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "īman",
 				"segmentation": "-i=man",
 				"morphTag": "ANTIP=CON"
 			}
 		],
 		"arrāi": [
 			{
+				"surfaceForm": "arrāi",
 				"segmentation": "-ar-i-l-ai",
 				"morphTag": "ITER-MOD.AG-l-PURP"
 			}
 		],
 		"edi": [
 			{
+				"surfaceForm": "edi",
 				"segmentation": "-ed-i",
 				"morphTag": "FUT-ANTIP"
 			}
 		],
 		"ilānni": [
 			{
+				"surfaceForm": "ilānni",
 				"segmentation": "-i-l-anni",
 				"morphTag": "MOD.AG-l-DESID"
 			}
 		],
 		"īe": [
 			{
+				"surfaceForm": "īe",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			}
 		],
 		"eška": [
 			{
+				"surfaceForm": "eška",
 				"segmentation": "-ešk-a",
 				"morphTag": "ešk-3A.SG"
 			},
 			{
+				"surfaceForm": "eška",
 				"segmentation": "-ešk-a",
 				"morphTag": "ešk-INT"
 			}
 		],
 		"annim": [
 			{
+				"surfaceForm": "annim",
 				"segmentation": "-i-anni=m",
 				"morphTag": "MOD.AG-DESID=2SG.ABS"
 			},
 			{
+				"surfaceForm": "annim",
 				"segmentation": "-i-anni=m",
 				"morphTag": "MOD.AG-DESID=CON"
 			}
 		],
 		"ūru": [
 			{
+				"surfaceForm": "ūru",
 				"segmentation": "-ur-o",
 				"morphTag": "ur-MOD.PAT"
 			},
 			{
+				"surfaceForm": "ūru",
 				"segmentation": "-ur-u",
 				"morphTag": "ur-MED"
 			}
 		],
 		"aden": [
 			{
+				"surfaceForm": "aden",
 				"segmentation": "-ad-i-en",
 				"morphTag": "ad-MOD.AG-3JUSS"
 			}
 		],
 		"ašta": [
 			{
+				"surfaceForm": "ašta",
 				"segmentation": "-ašt-a",
 				"morphTag": "RES-INT"
 			}
 		],
 		"aštab": [
 			{
+				"surfaceForm": "aštab",
 				"segmentation": "-ašt-a-b",
 				"morphTag": "RES-INT-b"
 			}
 		],
 		"iaž": [
 			{
+				"surfaceForm": "iaž",
 				"segmentation": "-i-a-ž",
 				"morphTag": "TR-3A-PL"
 			}
 		],
 		"idannim": [
 			{
+				"surfaceForm": "idannim",
 				"segmentation": "-id-anni=m",
 				"morphTag": "PL.A-DESID=2SG.ABS"
 			}
 		],
 		"idul": [
 			{
+				"surfaceForm": "idul",
 				"segmentation": "-id-o=l",
 				"morphTag": "PL.A-TR.PFV=3PL.ABS"
 			}
 		],
 		"induž": [
 			{
+				"surfaceForm": "induž",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.AG-OPT"
 			},
 			{
+				"surfaceForm": "induž",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.PAT-OPT"
 			}
 		],
 		"ula": [
 			{
+				"surfaceForm": "ula",
 				"segmentation": "-ol-a",
 				"morphTag": "ol-3A.SG"
 			},
 			{
+				"surfaceForm": "ula",
 				"segmentation": "-ol-a",
 				"morphTag": "ol-INT"
 			}
 		],
 		"ulella": [
 			{
+				"surfaceForm": "ulella",
 				"segmentation": "-ol-i=lla",
 				"morphTag": "ol-ANTIP=3PL.ABS"
 			}
 		],
 		"ulundašši": [
 			{
+				"surfaceForm": "ulundašši",
 				"segmentation": "-ol-u-nd-a-šše",
 				"morphTag": "ol-MED-PL.A-3A-NMLZ.ABS"
 			}
 		],
 		"ulāež": [
 			{
+				"surfaceForm": "ulāež",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
 		"undašši(-) ": [
 			{
+				"surfaceForm": "undašši(-) ",
 				"segmentation": "-u-nd-a-šše",
 				"morphTag": "MED-PL.A-3A-NMLZ.ABS"
 			}
 		],
 		"undaššinama": [
 			{
+				"surfaceForm": "undaššinama",
 				"segmentation": "-u-nd-a-šše-na=ma",
 				"morphTag": "MED-PL.A-3A-NMLZ-RELAT.PL.ABS=CON"
 			}
 		],
 		"undaššinamma": [
 			{
+				"surfaceForm": "undaššinamma",
 				"segmentation": "-u-nd-a-šše-na=mma",
 				"morphTag": "MED-PL.A-3A-NMLZ-RELAT.PL.ABS=CON"
 			}
 		],
 		"urinella": [
 			{
+				"surfaceForm": "urinella",
 				"segmentation": "-o-re-ne-e=lla",
 				"morphTag": "PAT-PTCP-RELAT.SG-DIR/LOC=3PL.ABS"
 			},
 			{
+				"surfaceForm": "urinella",
 				"segmentation": "-o-re-ne-ž=lla",
 				"morphTag": "PAT-PTCP-RELAT.SG-ERG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "urinella",
 				"segmentation": "-o-re-ne=lla",
 				"morphTag": "PAT-PTCP-ABL/INS=3PL.ABS"
 			}
 		],
 		"uštum": [
 			{
+				"surfaceForm": "uštum",
 				"segmentation": "-ušt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			},
 			{
+				"surfaceForm": "uštum",
 				"segmentation": "-ušt-o=m",
 				"morphTag": "RES-MOD.PAT=CON"
 			}
 		],
 		"užalla": [
 			{
+				"surfaceForm": "užalla",
 				"segmentation": "-o-ež-a=lla",
 				"morphTag": "MOD.PAT-OPT-EPNTH=3PL.ABS"
 			}
 		],
 		"užellandin": [
 			{
+				"surfaceForm": "užellandin",
 				"segmentation": "-ož-ill-and-i-n",
 				"morphTag": "ož-ill-PL.A-MOD.AG-n"
 			},
 			{
+				"surfaceForm": "užellandin",
 				"segmentation": "-ož-ill-and-i=n",
 				"morphTag": "ož-ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"āl": [
 			{
+				"surfaceForm": "āl",
 				"segmentation": "-a=l",
 				"morphTag": "INT=3PL.ABS"
 			}
 		],
 		"ōli": [
 			{
+				"surfaceForm": "ōli",
 				"segmentation": "-ol-i",
 				"morphTag": "ol-ANTIP"
 			}
 		],
 		"ōlāi": [
 			{
+				"surfaceForm": "ōlāi",
 				"segmentation": "-o-l-ai",
 				"morphTag": "MOD.PAT-l-PURP"
 			},
 			{
+				"surfaceForm": "ōlāi",
 				"segmentation": "-ol-i-ai",
 				"morphTag": "ol-MOD.AG-PURP"
 			}
 		],
 		"ōž": [
 			{
+				"surfaceForm": "ōž",
 				"segmentation": "-o-ež",
 				"morphTag": "MOD.PAT-OPT"
 			}
 		],
 		"ilāe": [
 			{
+				"surfaceForm": "ilāe",
 				"segmentation": "-i-l-ai",
 				"morphTag": "MOD.AG-l-PURP"
 			}
 		],
 		"ūbin": [
 			{
+				"surfaceForm": "ūbin",
 				"segmentation": "-o-va-en",
 				"morphTag": "MOD.PAT-NEG-3JUSS"
 			}
 		],
 		"ā": [
 			{
+				"surfaceForm": "ā",
 				"segmentation": "-a",
 				"morphTag": "INT"
 			}
 		],
 		"ōffōr": [
 			{
+				"surfaceForm": "ōffōr",
 				"segmentation": "-o-vor",
 				"morphTag": "INT-NEG"
 			}
 		],
 		"inna": [
 			{
+				"surfaceForm": "inna",
 				"segmentation": "-i=nna",
 				"morphTag": "ANTIP=3SG.ABS"
 			}
 		],
 		"omma": [
 			{
+				"surfaceForm": "omma",
 				"segmentation": "-o-m=ma",
 				"morphTag": "TR.PFV-3A.SG=CON"
 			}
 		],
 		"oma": [
 			{
+				"surfaceForm": "oma",
 				"segmentation": "-o=ma",
 				"morphTag": "MOD.PAT=CON"
 			}
 		],
 		"ummea": [
 			{
+				"surfaceForm": "ummea",
 				"segmentation": "-umme-a",
 				"morphTag": "INF-ESS"
 			}
 		],
 		"uštel": [
 			{
+				"surfaceForm": "uštel",
 				"segmentation": "-o-ež=dil",
 				"morphTag": "MOD.PAT-OPT=1PL.ABS"
 			},
 			{
+				"surfaceForm": "uštel",
 				"segmentation": "-ušt-i=l",
 				"morphTag": "RES-ANTIP=3PL.ABS"
 			},
 			{
+				"surfaceForm": "uštel",
 				"segmentation": "-ušt-i=l",
 				"morphTag": "RES-TR.IMP=3PL.ABS"
 			}
 		],
 		"īmāin": [
 			{
+				"surfaceForm": "īmāin",
 				"segmentation": "-i+m+ai-n",
 				"morphTag": "CVB-n"
 			},
 			{
+				"surfaceForm": "īmāin",
 				"segmentation": "-i+m+ai=n",
 				"morphTag": "CVB=3SG.ABS"
 			}
 		],
 		"enduž": [
 			{
+				"surfaceForm": "enduž",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.PAT-OPT"
 			}
 		],
 		"illi": [
 			{
+				"surfaceForm": "illi",
 				"segmentation": "-il-i-le",
 				"morphTag": "il-MOD.AG-1JUSS"
 			}
 		],
 		"ilēž": [
 			{
+				"surfaceForm": "ilēž",
 				"segmentation": "-i-l-ež",
 				"morphTag": "MOD.AG-l-OPT"
 			}
 		],
 		"imma": [
 			{
+				"surfaceForm": "imma",
 				"segmentation": "-i+m+ai",
 				"morphTag": "CVB"
 			},
 			{
+				"surfaceForm": "imma",
 				"segmentation": "-i=mma",
 				"morphTag": "ANTIP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "imma",
 				"segmentation": "-i=mma",
 				"morphTag": "TR.IMP=2SG.ABS"
 			}
 		],
 		"iōššina": [
 			{
+				"surfaceForm": "iōššina",
 				"segmentation": "-i-o-šše-na",
 				"morphTag": "TR-2A.SG-NMLZ-RELAT.PL.ABS"
 			}
 		],
 		"ulen": [
 			{
+				"surfaceForm": "ulen",
 				"segmentation": "-ol-i-en",
 				"morphTag": "ol-MOD.AG-3JUSS"
 			}
 		],
 		"ānu": [
 			{
+				"surfaceForm": "ānu",
 				"segmentation": "-an-o",
 				"morphTag": "an-MOD.PAT"
 			},
 			{
+				"surfaceForm": "ānu",
 				"segmentation": "-an-u",
 				"morphTag": "an-MED"
 			}
 		],
 		"īw": [
 			{
+				"surfaceForm": "īw",
 				"segmentation": "-i-o",
 				"morphTag": "TR-2A.SG"
 			}
 		],
 		"uġēda": [
 			{
+				"surfaceForm": "uġēda",
 				"segmentation": "-oġ-ed-a",
 				"morphTag": "oġ-FUT-3A.SG"
 			}
 		],
 		"eda": [
 			{
+				"surfaceForm": "eda",
 				"segmentation": "-ed-a",
 				"morphTag": "FUT-3A.SG"
 			},
 			{
+				"surfaceForm": "eda",
 				"segmentation": "-i-d-a",
 				"morphTag": "TR-PL.A-3A"
 			}
 		],
 		"ukkam": [
 			{
+				"surfaceForm": "ukkam",
 				"segmentation": "-o-kko=m",
 				"morphTag": "INT-NEG=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ukkam",
 				"segmentation": "-o-kko=m",
 				"morphTag": "INT-NEG=CON"
 			}
 		],
 		"iž": [
 			{
+				"surfaceForm": "iž",
 				"segmentation": "-i-ež",
 				"morphTag": "MOD.AG-OPT"
 			}
 		],
 		"iža": [
 			{
+				"surfaceForm": "iža",
 				"segmentation": "-iž-a",
 				"morphTag": "iž-3A.SG"
 			},
 			{
+				"surfaceForm": "iža",
 				"segmentation": "-iž-a",
 				"morphTag": "iž-INT"
 			},
 			{
+				"surfaceForm": "iža",
 				"segmentation": "-iž-a",
 				"morphTag": "iž-INT.IMP"
 			}
 		],
 		"ilivaž": [
 			{
+				"surfaceForm": "ilivaž",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž"
 			}
 		],
 		"uġāl": [
 			{
+				"surfaceForm": "uġāl",
 				"segmentation": "-oġ-a=l",
 				"morphTag": "oġ-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "uġāl",
 				"segmentation": "-oġ-a=l",
 				"morphTag": "oġ-INT=3PL.ABS"
 			}
 		],
 		"uġāma": [
 			{
+				"surfaceForm": "uġāma",
 				"segmentation": "-oġ-a=ma",
 				"morphTag": "oġ-3A.SG=CON"
 			},
 			{
+				"surfaceForm": "uġāma",
 				"segmentation": "-oġ-a=ma",
 				"morphTag": "oġ-INT=CON"
 			}
 		],
 		"ti": [
 			{
+				"surfaceForm": "ti",
 				"segmentation": "-d-i",
 				"morphTag": "d-ANTIP"
 			}
 		],
 		"alla": [
 			{
+				"surfaceForm": "alla",
 				"segmentation": "-a=lla",
 				"morphTag": "INT=3PL.ABS"
 			}
 		],
 		"ulaiž": [
 			{
+				"surfaceForm": "ulaiž",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
 		"ulam": [
 			{
+				"surfaceForm": "ulam",
 				"segmentation": "-ol-a=m",
 				"morphTag": "ol-INT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ulam",
 				"segmentation": "-ol-a=m",
 				"morphTag": "ol-INT=CON"
 			}
 		],
 		"ulaēž": [
 			{
+				"surfaceForm": "ulaēž",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
 		"uwa": [
 			{
+				"surfaceForm": "uwa",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG"
 			}
 		],
 		"užellāi": [
 			{
+				"surfaceForm": "užellāi",
 				"segmentation": "-ož-il-i-l-ai",
 				"morphTag": "ož-il-MOD.AG-l-PURP"
 			},
 			{
+				"surfaceForm": "užellāi",
 				"segmentation": "-ož-ill-i-ai",
 				"morphTag": "ož-ill-MOD.AG-PURP"
 			}
 		],
 		"de": [
 			{
+				"surfaceForm": "de",
 				"segmentation": "-d-i",
 				"morphTag": "d-ANTIP"
 			},
 			{
+				"surfaceForm": "de",
 				"segmentation": "-d-i",
 				"morphTag": "d-TR.IMP"
 			}
 		],
 		"ašše": [
 			{
+				"surfaceForm": "ašše",
 				"segmentation": "-a-šše",
 				"morphTag": "INT-NMLZ.ABS"
 			}
 		],
 		"ibad": [
 			{
+				"surfaceForm": "ibad",
 				"segmentation": "-i-b-a=d",
 				"morphTag": "ANTIP-b-EPNTH=1SG.ABS"
 			}
 		],
 		"ievad": [
 			{
+				"surfaceForm": "ievad",
 				"segmentation": "-i-eva=d",
 				"morphTag": "MOD.AG-POT=1SG.ABS"
 			}
 		],
 		"olaižnna": [
 			{
+				"surfaceForm": "olaižnna",
 				"segmentation": "-o-l-ai-ž=nna",
 				"morphTag": "MOD.PAT-l-PURP-ž=3SG.ABS"
 			}
 		],
 		"uffu": [
 			{
+				"surfaceForm": "uffu",
 				"segmentation": "-uffu",
 				"morphTag": "1A.SG.NEG"
 			}
 		],
 		"aduwamma": [
 			{
+				"surfaceForm": "aduwamma",
 				"segmentation": "-ad-u-a=mma",
 				"morphTag": "ad-MED-3A.SG=2SG.ABS"
 			},
 			{
+				"surfaceForm": "aduwamma",
 				"segmentation": "-ad-u-a=mma",
 				"morphTag": "ad-MED-3A.SG=CON"
 			}
 		],
 		"ištom": [
 			{
+				"surfaceForm": "ištom",
 				"segmentation": "-išt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			}
 		],
 		"uffa": [
 			{
+				"surfaceForm": "uffa",
 				"segmentation": "-uff-a",
 				"morphTag": "uff-3A.SG"
 			},
 			{
+				"surfaceForm": "uffa",
 				"segmentation": "-uff-a",
 				"morphTag": "uff-INT"
 			}
 		],
 		"om": [
 			{
+				"surfaceForm": "om",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG"
 			},
 			{
+				"surfaceForm": "om",
 				"segmentation": "-o=m",
 				"morphTag": "MOD.PAT=2SG.ABS"
 			}
 		],
 		"ež": [
 			{
+				"surfaceForm": "ež",
 				"segmentation": "-i-ež",
 				"morphTag": "MOD.AG-OPT"
 			}
 		],
 		"olo": [
 			{
+				"surfaceForm": "olo",
 				"segmentation": "-ol-o",
 				"morphTag": "ol-MOD.PAT"
 			}
 		],
 		"āri": [
 			{
+				"surfaceForm": "āri",
 				"segmentation": "-ar-i",
 				"morphTag": "ITER-ANTIP"
 			}
 		],
 		"āe": [
 			{
+				"surfaceForm": "āe",
 				"segmentation": "-i-ai",
 				"morphTag": "MOD.AG-PURP"
 			}
 		],
 		"taneda": [
 			{
+				"surfaceForm": "taneda",
 				"segmentation": "-d-an-ed-a",
 				"morphTag": "d-an-FUT-3A.SG"
 			}
 		],
 		"aneda": [
 			{
+				"surfaceForm": "aneda",
 				"segmentation": "-an-ed-a",
 				"morphTag": "an-FUT-3A.SG"
 			}
 		],
 		"araštum": [
 			{
+				"surfaceForm": "araštum",
 				"segmentation": "-ar-ašt-o-m",
 				"morphTag": "ITER-RES-TR.PFV-3A.SG"
 			}
 		],
 		"ulaež": [
 			{
+				"surfaceForm": "ulaež",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
 		"unnā": [
 			{
+				"surfaceForm": "unnā",
 				"segmentation": "-o=nna",
 				"morphTag": "MOD.PAT=3SG.ABS"
 			}
 		],
 		"ore": [
 			{
+				"surfaceForm": "ore",
 				"segmentation": "-o-re",
 				"morphTag": "PAT-PTCP.ABS"
 			}
 		],
 		"ožoež": [
 			{
+				"surfaceForm": "ožoež",
 				"segmentation": "-ož-o-ež",
 				"morphTag": "ož-MOD.PAT-OPT"
 			}
 		],
 		"udu": [
 			{
+				"surfaceForm": "udu",
 				"segmentation": "-ud-u",
 				"morphTag": "ud-MED"
 			}
 		],
 		"i(-)tamašši": [
 			{
+				"surfaceForm": "i(-)tamašši",
 				"segmentation": "-i-d-a-ma-šše",
 				"morphTag": "TR-PL.A-3A-NEG-NMLZ.ABS"
 			},
 			{
+				"surfaceForm": "i(-)tamašši",
 				"segmentation": "-i",
 				"morphTag": "ANTIP"
 			}
 		],
 		"aġāe": [
 			{
+				"surfaceForm": "aġāe",
 				"segmentation": "-aġ-i-ai",
 				"morphTag": "aġ-MOD.AG-PURP"
 			}
 		],
 		"amū": [
 			{
+				"surfaceForm": "amū",
 				"segmentation": "-am-aw",
 				"morphTag": "FACT-1A.SG"
 			},
 			{
+				"surfaceForm": "amū",
 				"segmentation": "-am-u",
 				"morphTag": "FACT-MED"
 			}
 		],
 		"dim": [
 			{
+				"surfaceForm": "dim",
 				"segmentation": "-d-i=m",
 				"morphTag": "d-TR.IMP=2SG.ABS"
 			}
 		],
 		"dum": [
 			{
+				"surfaceForm": "dum",
 				"segmentation": "-d-o=m",
 				"morphTag": "d-MOD.PAT=CON"
 			},
 			{
+				"surfaceForm": "dum",
 				"segmentation": "-d-u=m",
 				"morphTag": "d-MED=2SG.ABS"
 			}
 		],
 		"ilai": [
 			{
+				"surfaceForm": "ilai",
 				"segmentation": "-i-l-ai",
 				"morphTag": "MOD.AG-l-PURP"
 			}
 		],
 		"lāe": [
 			{
+				"surfaceForm": "lāe",
 				"segmentation": "-i-l-ai",
 				"morphTag": "MOD.AG-l-PURP"
 			}
 		],
 		"i(-)ḫuštal": [
 			{
+				"surfaceForm": "i(-)ḫuštal",
 				"segmentation": "-i",
 				"morphTag": "ANTIP"
 			},
 			{
+				"surfaceForm": "i(-)ḫuštal",
 				"segmentation": "-iġ-ož-d-a=l",
 				"morphTag": "iġ-PST-PL.A-3A=3PL.ABS"
 			},
 			{
+				"surfaceForm": "i(-)ḫuštal",
 				"segmentation": "-iġ-ož-d-a=l",
 				"morphTag": "iġ-PST-d-INT=3PL.ABS"
 			},
 			{
+				"surfaceForm": "i(-)ḫuštal",
 				"segmentation": "-iġ-ušt-a=l",
 				"morphTag": "iġ-RES-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "i(-)ḫuštal",
 				"segmentation": "-iġ-ušt-a=l",
 				"morphTag": "iġ-RES-INT=3PL.ABS"
 			}
 		],
 		"oždal": [
 			{
+				"surfaceForm": "oždal",
 				"segmentation": "-ož-d-a=l",
 				"morphTag": "PST-PL.A-3A=3PL.ABS"
 			},
 			{
+				"surfaceForm": "oždal",
 				"segmentation": "-ož-d-a=l",
 				"morphTag": "PST-d-3A.SG=3PL.ABS"
 			}
 		],
 		"uštal": [
 			{
+				"surfaceForm": "uštal",
 				"segmentation": "-ušt-a=l",
 				"morphTag": "RES-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "uštal",
 				"segmentation": "-ušt-a=l",
 				"morphTag": "RES-INT=3PL.ABS"
 			}
 		],
 		"uppa": [
 			{
+				"surfaceForm": "uppa",
 				"segmentation": "-upp-a",
 				"morphTag": "upp-3A.SG"
 			},
 			{
+				"surfaceForm": "uppa",
 				"segmentation": "-upp-a",
 				"morphTag": "upp-INT"
 			}
 		],
 		"užašši": [
 			{
+				"surfaceForm": "užašši",
 				"segmentation": "-ož-a-šše",
 				"morphTag": "PST-3A.SG-NMLZ.ABS"
 			}
 		],
 		"ožašše": [
 			{
+				"surfaceForm": "ožašše",
 				"segmentation": "-ož-a-šše",
 				"morphTag": "PST-3A.SG-NMLZ.ABS"
 			}
 		],
 		"ōrum": [
 			{
+				"surfaceForm": "ōrum",
 				"segmentation": "-ur-o-m",
 				"morphTag": "ur-TR.PFV-3A.SG"
 			}
 		],
 		"ūrum": [
 			{
+				"surfaceForm": "ūrum",
 				"segmentation": "-ur-o-m",
 				"morphTag": "ur-TR.PFV-3A.SG"
 			}
 		],
 		"imai": [
 			{
+				"surfaceForm": "imai",
 				"segmentation": "-i+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"annia": [
 			{
+				"surfaceForm": "annia",
 				"segmentation": "-ann-i-a",
 				"morphTag": "ann-TR-3A.SG"
 			}
 		],
 		"ūda": [
 			{
+				"surfaceForm": "ūda",
 				"segmentation": "-ud-a",
 				"morphTag": "ud-3A.SG"
 			}
 		],
 		"uġi": [
 			{
+				"surfaceForm": "uġi",
 				"segmentation": "-oġ-i",
 				"morphTag": "oġ-ANTIP"
 			}
 		],
 		"ala": [
 			{
+				"surfaceForm": "ala",
 				"segmentation": "-al-a",
 				"morphTag": "al-3A.SG"
 			},
 			{
+				"surfaceForm": "ala",
 				"segmentation": "-al-a",
 				"morphTag": "al-INT"
 			}
 		],
 		"āšti": [
 			{
+				"surfaceForm": "āšti",
 				"segmentation": "-ašt-i",
 				"morphTag": "RES-ANTIP"
 			},
 			{
+				"surfaceForm": "āšti",
 				"segmentation": "-ašt-i",
 				"morphTag": "RES-TR.IMP"
 			}
 		],
 		"ōva": [
 			{
+				"surfaceForm": "ōva",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG"
 			}
 		],
 		"ūlāīn": [
 			{
+				"surfaceForm": "ūlāīn",
 				"segmentation": "-o-l-ai-n",
 				"morphTag": "MOD.PAT-l-PURP-n"
 			},
 			{
+				"surfaceForm": "ūlāīn",
 				"segmentation": "-o-l-ai=n",
 				"morphTag": "MOD.PAT-l-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ūlāīn",
 				"segmentation": "-o-l-ai=n",
 				"morphTag": "MOD.PAT-l-PURP=CON"
 			},
 			{
+				"surfaceForm": "ūlāīn",
 				"segmentation": "-ol-i-ai-n",
 				"morphTag": "ol-MOD.AG-PURP-n"
 			},
 			{
+				"surfaceForm": "ūlāīn",
 				"segmentation": "-ol-i-ai=n",
 				"morphTag": "ol-MOD.AG-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ūlāīn",
 				"segmentation": "-ol-i-ai=n",
 				"morphTag": "ol-MOD.AG-PURP=CON"
 			}
 		],
 		"adi": [
 			{
+				"surfaceForm": "adi",
 				"segmentation": "-ad-i",
 				"morphTag": "ad-ANTIP"
 			}
 		],
 		"ādi": [
 			{
+				"surfaceForm": "ādi",
 				"segmentation": "-ad-i",
 				"morphTag": "ad-ANTIP"
 			}
 		],
 		"ādal": [
 			{
+				"surfaceForm": "ādal",
 				"segmentation": "-ad-a=l",
 				"morphTag": "ad-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ādal",
 				"segmentation": "-ad-a=l",
 				"morphTag": "ad-INT=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ādal",
 				"segmentation": "-ar-a=l",
 				"morphTag": "ITER-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ādal",
 				"segmentation": "-ar-a=l",
 				"morphTag": "ITER-INT=3PL.ABS"
 			}
 		],
 		"iuššininna": [
 			{
+				"surfaceForm": "iuššininna",
 				"segmentation": "-i-o-šše-ne-nna",
 				"morphTag": "TR-2A.SG-NMLZ-RELAT.SG-EQU2"
 			}
 		],
 		"āžuž": [
 			{
+				"surfaceForm": "āžuž",
 				"segmentation": "-až-o-ež",
 				"morphTag": "až-MOD.PAT-OPT"
 			}
 		],
 		"ile": [
 			{
+				"surfaceForm": "ile",
 				"segmentation": "-i-le",
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
 		"uġida": [
 			{
+				"surfaceForm": "uġida",
 				"segmentation": "-oġ-ed-a",
 				"morphTag": "oġ-FUT-3A.SG"
 			}
 		],
 		"ura": [
 			{
+				"surfaceForm": "ura",
 				"segmentation": "-ur-a",
 				"morphTag": "ur-INT"
 			}
 		],
 		"uppi": [
 			{
+				"surfaceForm": "uppi",
 				"segmentation": "-upp-i",
 				"morphTag": "upp-ANTIP"
 			}
 		],
 		"aīž": [
 			{
+				"surfaceForm": "aīž",
 				"segmentation": "-i-ai-ž",
 				"morphTag": "MOD.AG-PURP-ž"
 			}
 		],
 		"la": [
 			{
+				"surfaceForm": "la",
 				"segmentation": "-l-a",
 				"morphTag": "l-INT"
 			}
 		],
 		"ašte": [
 			{
+				"surfaceForm": "ašte",
 				"segmentation": "-ašt-i",
 				"morphTag": "RES-ANTIP"
 			}
 		],
 		"uda": [
 			{
+				"surfaceForm": "uda",
 				"segmentation": "-ud-a",
 				"morphTag": "ud-3A.SG"
 			},
 			{
+				"surfaceForm": "uda",
 				"segmentation": "-ud-a",
 				"morphTag": "ud-INT"
 			}
 		],
 		"uži": [
 			{
+				"surfaceForm": "uži",
 				"segmentation": "-ož-i",
 				"morphTag": "PST-ANTIP"
 			}
 		],
 		"āmma": [
 			{
+				"surfaceForm": "āmma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT.IMP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "āmma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT.IMP=CON"
 			},
 			{
+				"surfaceForm": "āmma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "āmma",
 				"segmentation": "-a=mma",
 				"morphTag": "INT=CON"
 			}
 		],
 		"āra": [
 			{
+				"surfaceForm": "āra",
 				"segmentation": "-ar-a",
 				"morphTag": "ITER-3A.SG"
 			},
 			{
+				"surfaceForm": "āra",
 				"segmentation": "-ar-a",
 				"morphTag": "ITER-INT"
 			}
 		],
 		"agum": [
 			{
+				"surfaceForm": "agum",
 				"segmentation": "-ag-o-m",
 				"morphTag": "ag-TR.PFV-3A.SG"
 			}
 		],
 		"uladilāe": [
 			{
+				"surfaceForm": "uladilāe",
 				"segmentation": "-ol-ad-i-l-ai",
 				"morphTag": "ol-ad-MOD.AG-l-PURP"
 			}
 		],
 		"ulādu": [
 			{
+				"surfaceForm": "ulādu",
 				"segmentation": "-ol-ad-o",
 				"morphTag": "ol-ad-MOD.PAT"
 			},
 			{
+				"surfaceForm": "ulādu",
 				"segmentation": "-ol-ad-u",
 				"morphTag": "ol-ad-MED"
 			}
 		],
 		"ōle": [
 			{
+				"surfaceForm": "ōle",
 				"segmentation": "-ol-i",
 				"morphTag": "ol-ANTIP"
 			},
 			{
+				"surfaceForm": "ōle",
 				"segmentation": "-ol-i",
 				"morphTag": "ol-TR.IMP"
 			}
 		],
 		"ōm": [
 			{
+				"surfaceForm": "ōm",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG"
 			}
 		],
 		"deda": [
 			{
+				"surfaceForm": "deda",
 				"segmentation": "-d-ed-a",
 				"morphTag": "d-FUT-3A.SG"
 			}
 		],
 		"uġuželāi": [
 			{
+				"surfaceForm": "uġuželāi",
 				"segmentation": "-oġ-ož-i-l-ai",
 				"morphTag": "uġ-ož-MOD.AG-l-PURP"
 			}
 		],
 		"ulišta": [
 			{
+				"surfaceForm": "ulišta",
 				"segmentation": "-ol-išt-a",
 				"morphTag": "ol-RES-3A.SG"
 			},
 			{
+				"surfaceForm": "ulišta",
 				"segmentation": "-ol-išt-a",
 				"morphTag": "ol-RES-INT"
 			}
 		],
 		"ōlōm": [
 			{
+				"surfaceForm": "ōlōm",
 				"segmentation": "-ol-o-m",
 				"morphTag": "ol-TR.PFV-3A.SG"
 			}
 		],
 		"illilla": [
 			{
+				"surfaceForm": "illilla",
 				"segmentation": "-il-i-le=lla",
 				"morphTag": "il-MOD.AG-1JUSS=3PL.ABS"
 			}
 		],
 		"in": [
 			{
+				"surfaceForm": "in",
 				"segmentation": "-e=n",
 				"morphTag": "STAT=3SG.ABS"
 			},
 			{
+				"surfaceForm": "in",
 				"segmentation": "-e=n",
 				"morphTag": "STAT=CON"
 			},
 			{
+				"surfaceForm": "in",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			},
 			{
+				"surfaceForm": "in",
 				"segmentation": "-i=n",
 				"morphTag": "ANTIP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "in",
 				"segmentation": "-i=n",
 				"morphTag": "ANTIP=CON"
 			},
 			{
+				"surfaceForm": "in",
 				"segmentation": "-i=n",
 				"morphTag": "TR.IMP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "in",
 				"segmentation": "-i=n",
 				"morphTag": "TR.IMP=CON"
 			}
 		],
 		"ubōr": [
 			{
+				"surfaceForm": "ubōr",
 				"segmentation": "-o-vor",
 				"morphTag": "INT-NEG"
 			}
 		],
 		"ōbur": [
 			{
+				"surfaceForm": "ōbur",
 				"segmentation": "-o-vor",
 				"morphTag": "INT-NEG"
 			}
 		],
 		"da": [
 			{
+				"surfaceForm": "da",
 				"segmentation": "-d-a",
 				"morphTag": "d-INT"
 			}
 		],
 		"dal": [
 			{
+				"surfaceForm": "dal",
 				"segmentation": "-d-a=l",
 				"morphTag": "d-INT=3PL.ABS"
 			}
 		],
 		"rīž": [
 			{
+				"surfaceForm": "rīž",
 				"segmentation": "-i-l-ež",
 				"morphTag": "MOD.AG-l-OPT"
 			}
 		],
 		"ēdā": [
 			{
+				"surfaceForm": "ēdā",
 				"segmentation": "-ed-a",
 				"morphTag": "FUT-3A.SG"
 			}
 		],
 		"ūma": [
 			{
+				"surfaceForm": "ūma",
 				"segmentation": "-u=ma",
 				"morphTag": "MED=CON"
 			}
 		],
 		"idaššu": [
 			{
+				"surfaceForm": "idaššu",
 				"segmentation": "-ed-aššo",
 				"morphTag": "FUT-2A.PL"
 			}
 		],
 		"idaššō": [
 			{
+				"surfaceForm": "idaššō",
 				"segmentation": "-ed-aššo",
 				"morphTag": "FUT-2A.PL"
 			}
 		],
 		"idāōž": [
 			{
+				"surfaceForm": "idāōž",
 				"segmentation": "-ed-aw-ž",
 				"morphTag": "FUT-1A-PL"
 			}
 		],
 		"idūwa": [
 			{
+				"surfaceForm": "idūwa",
 				"segmentation": "-ed-u-a",
 				"morphTag": "FUT-MED-3A.SG"
 			}
 		],
 		"iōffuž": [
 			{
+				"surfaceForm": "iōffuž",
 				"segmentation": "-i-uffu-ž",
 				"morphTag": "TR-1A.NEG-PL"
 			}
 		],
 		"iōššunā": [
 			{
+				"surfaceForm": "iōššunā",
 				"segmentation": "-i-oššo=nna",
 				"morphTag": "TR-2A.PL.NEG=3SG.ABS"
 			}
 		],
 		"uppu": [
 			{
+				"surfaceForm": "uppu",
 				"segmentation": "-uffu",
 				"morphTag": "1A.SG.NEG"
 			}
 		],
 		"ādum": [
 			{
+				"surfaceForm": "ādum",
 				"segmentation": "-ad-o-m",
 				"morphTag": "ad-TR.PFV-3A.SG"
 			}
 		],
 		"ādunna": [
 			{
+				"surfaceForm": "ādunna",
 				"segmentation": "-ad-o=nna",
 				"morphTag": "ad-MOD.PAT=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ādunna",
 				"segmentation": "-ad-u=nna",
 				"morphTag": "ad-MED=3SG.ABS"
 			}
 		],
 		"anida": [
 			{
+				"surfaceForm": "anida",
 				"segmentation": "-an-ed-a",
 				"morphTag": "CAUS-FUT-3A.SG"
 			},
 			{
+				"surfaceForm": "anida",
 				"segmentation": "-an-ed-a",
 				"morphTag": "an-FUT-3A.SG"
 			}
 		],
 		"edu": [
 			{
+				"surfaceForm": "edu",
 				"segmentation": "-ed-o",
 				"morphTag": "FUT-2A.SG"
 			},
 			{
+				"surfaceForm": "edu",
 				"segmentation": "-ed-u",
 				"morphTag": "FUT-MED"
 			}
 		],
 		"āgi": [
 			{
+				"surfaceForm": "āgi",
 				"segmentation": "-ag-i",
 				"morphTag": "ag-ANTIP"
 			}
 		],
 		"aššina": [
 			{
+				"surfaceForm": "aššina",
 				"segmentation": "-a-šše-na",
 				"morphTag": "INT-NMLZ-RELAT.PL.ABS"
 			}
 		],
 		"ilāi": [
 			{
+				"surfaceForm": "ilāi",
 				"segmentation": "-i-l-ai",
 				"morphTag": "MOD.AG-l-PURP"
 			}
 		],
 		"ōžu": [
 			{
+				"surfaceForm": "ōžu",
 				"segmentation": "-ož-o",
 				"morphTag": "PST-2A.SG"
 			},
 			{
+				"surfaceForm": "ōžu",
 				"segmentation": "-ož-u",
 				"morphTag": "PST-MED"
 			}
 		],
 		"ōžellandin": [
 			{
+				"surfaceForm": "ōžellandin",
 				"segmentation": "-ož-ill-and-i-n",
 				"morphTag": "ož-ill-PL.A-MOD.AG-n"
 			},
 			{
+				"surfaceForm": "ōžellandin",
 				"segmentation": "-ož-ill-and-i=n",
 				"morphTag": "ož-ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"ōbōr": [
 			{
+				"surfaceForm": "ōbōr",
 				"segmentation": "-o-vor",
 				"morphTag": "INT-NEG"
 			}
 		],
 		"winduž": [
 			{
+				"surfaceForm": "winduž",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.PAT-OPT"
 			}
 		],
 		"adilāe": [
 			{
+				"surfaceForm": "adilāe",
 				"segmentation": "-ad-i-l-ai",
 				"morphTag": "ad-MOD.AG-l-PURP"
 			}
 		],
 		"ašti": [
 			{
+				"surfaceForm": "ašti",
 				"segmentation": "-ašt-i",
 				"morphTag": "RES-ANTIP"
 			},
 			{
+				"surfaceForm": "ašti",
 				"segmentation": "-ašt-i",
 				"morphTag": "RES-TR.IMP"
 			}
 		],
 		"aban": [
 			{
+				"surfaceForm": "aban",
 				"segmentation": "-a-b=an",
 				"morphTag": "INT-b=CON"
 			}
 		],
 		"ida": [
 			{
+				"surfaceForm": "ida",
 				"segmentation": "-ed-a",
 				"morphTag": "FUT-3A.SG"
 			},
 			{
+				"surfaceForm": "ida",
 				"segmentation": "-id-a",
 				"morphTag": "PL.A-3A"
 			},
 			{
+				"surfaceForm": "ida",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"aġa": [
 			{
+				"surfaceForm": "aġa",
 				"segmentation": "-aġ-a",
 				"morphTag": "aġ-3A.SG"
 			},
 			{
+				"surfaceForm": "aġa",
 				"segmentation": "-aġ-a",
 				"morphTag": "aġ-INT"
 			},
 			{
+				"surfaceForm": "aġa",
 				"segmentation": "-aʾ-a",
 				"morphTag": "aʾ-3A.SG"
 			},
 			{
+				"surfaceForm": "aġa",
 				"segmentation": "-aʾ-a",
 				"morphTag": "aʾ-INT"
 			},
 			{
+				"surfaceForm": "aġa",
 				"segmentation": "-aḫḫ-a",
 				"morphTag": "aḫḫ-3A.SG"
 			},
 			{
+				"surfaceForm": "aġa",
 				"segmentation": "-aḫḫ-a",
 				"morphTag": "aḫḫ-INT"
 			}
 		],
 		"aġīda": [
 			{
+				"surfaceForm": "aġīda",
 				"segmentation": "-aġ-ed-a",
 				"morphTag": "aġ-FUT-3A.SG"
 			},
 			{
+				"surfaceForm": "aġīda",
 				"segmentation": "-aġ-i-d-a",
 				"morphTag": "aġ-TR-PL.A-3A"
 			}
 		],
 		"iu": [
 			{
+				"surfaceForm": "iu",
 				"segmentation": "-i-o",
 				"morphTag": "TR-2A.SG"
 			}
 		],
 		"ari": [
 			{
+				"surfaceForm": "ari",
 				"segmentation": "-ar-i",
 				"morphTag": "ITER-ANTIP"
 			},
 			{
+				"surfaceForm": "ari",
 				"segmentation": "-ar-i",
 				"morphTag": "ITER-TR.IMP"
 			}
 		],
 		"ūwa": [
 			{
+				"surfaceForm": "ūwa",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG"
 			}
 		],
 		"arugāra": [
 			{
+				"surfaceForm": "arugāra",
 				"segmentation": "-ar-ugar-a",
 				"morphTag": "ITER-RECIP-3A.SG"
 			},
 			{
+				"surfaceForm": "arugāra",
 				"segmentation": "-ar-ugar-a",
 				"morphTag": "ITER-RECIP-INT"
 			}
 		],
 		"du": [
 			{
+				"surfaceForm": "du",
 				"segmentation": "-d-o",
 				"morphTag": "d-2A.SG"
 			},
 			{
+				"surfaceForm": "du",
 				"segmentation": "-d-o",
 				"morphTag": "d-MOD.PAT"
 			},
 			{
+				"surfaceForm": "du",
 				"segmentation": "-d-u",
 				"morphTag": "d-MED"
 			},
 			{
+				"surfaceForm": "du",
 				"segmentation": "-id-o",
 				"morphTag": "PL.A-TR.PFV"
 			}
 		],
 		"un": [
 			{
+				"surfaceForm": "un",
 				"segmentation": "-o=n",
 				"morphTag": "MOD.PAT=3SG.ABS"
 			}
 		],
 		"ōvalla": [
 			{
+				"surfaceForm": "ōvalla",
 				"segmentation": "-u-a=lla",
 				"morphTag": "MED-3A.SG=3PL.ABS"
 			}
 		],
 		"ūġa": [
 			{
+				"surfaceForm": "ūġa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-INT.IMP"
 			}
 		],
 		"aʾolda": [
 			{
+				"surfaceForm": "aʾolda",
 				"segmentation": "-aʾ-ol-d-a",
 				"morphTag": "aʾ-ol-PL.A-3A"
 			}
 		],
 		"ilevaž": [
 			{
+				"surfaceForm": "ilevaž",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž"
 			}
 		],
 		"on": [
 			{
+				"surfaceForm": "on",
 				"segmentation": "-o=n",
 				"morphTag": "MOD.PAT=3SG.ABS"
 			}
 		],
 		"oli": [
 			{
+				"surfaceForm": "oli",
 				"segmentation": "-ol-i",
 				"morphTag": "ol-ANTIP"
 			}
 		],
 		"ugāra": [
 			{
+				"surfaceForm": "ugāra",
 				"segmentation": "-ugar-a",
 				"morphTag": "RECIP-3A.SG"
 			},
 			{
+				"surfaceForm": "ugāra",
 				"segmentation": "-ugar-a",
 				"morphTag": "RECIP-INT"
 			}
 		],
 		"uliniai": [
 			{
+				"surfaceForm": "uliniai",
 				"segmentation": "-ul-in-i-ai",
 				"morphTag": "ul-in-MOD.AG-PURP"
 			}
 		],
 		"oreiž": [
 			{
+				"surfaceForm": "oreiž",
 				"segmentation": "-o-re-i-ž",
 				"morphTag": "PAT-PTCP-3POSS.SG-ERG"
 			}
 		],
 		"orež": [
 			{
+				"surfaceForm": "orež",
 				"segmentation": "-o-re-ž",
 				"morphTag": "PAT-PTCP-ERG"
 			}
 		],
 		"ba": [
 			{
+				"surfaceForm": "ba",
 				"segmentation": "-b-a",
 				"morphTag": "b-INT"
 			}
 		],
 		"udom": [
 			{
+				"surfaceForm": "udom",
 				"segmentation": "-ud-o-m",
 				"morphTag": "NEG-TR.PFV-3A.SG"
 			}
 		],
 		"ikkamma": [
 			{
+				"surfaceForm": "ikkamma",
 				"segmentation": "-i-kki=mma",
 				"morphTag": "ANTIP-NEG=2SG.ABS"
 			}
 		],
 		"iw": [
 			{
+				"surfaceForm": "iw",
 				"segmentation": "-i-o",
 				"morphTag": "TR-2A.SG"
 			}
 		],
 		"ellandinna": [
 			{
+				"surfaceForm": "ellandinna",
 				"segmentation": "-ill-and-i-n=nna",
 				"morphTag": "ill-PL.A-MOD.AG-n=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ellandinna",
 				"segmentation": "-ill-and-i=nna",
 				"morphTag": "ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"endūž": [
 			{
+				"surfaceForm": "endūž",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.AG-OPT"
 			}
 		],
 		"īžanna": [
 			{
+				"surfaceForm": "īžanna",
 				"segmentation": "-iž-a=nna",
 				"morphTag": "iž-INT=3SG.ABS"
 			}
 		],
 		"idō": [
 			{
+				"surfaceForm": "idō",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG"
 			}
 		],
 		"štōm": [
 			{
+				"surfaceForm": "štōm",
 				"segmentation": "-ašt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			}
 		],
 		"ānuž": [
 			{
+				"surfaceForm": "ānuž",
 				"segmentation": "-an-o-ež",
 				"morphTag": "an-MOD.PAT-OPT"
 			}
 		],
 		"ulaballa": [
 			{
+				"surfaceForm": "ulaballa",
 				"segmentation": "-ol-a-b-a=lla",
 				"morphTag": "ol-INT-b-EPNTH=3PL.ABS"
 			}
 		],
 		"anum": [
 			{
+				"surfaceForm": "anum",
 				"segmentation": "-an-o-m",
 				"morphTag": "an-TR.PFV-3A.SG"
 			}
 		],
 		"oštabal": [
 			{
+				"surfaceForm": "oštabal",
 				"segmentation": "-ošt-a-b-a=l",
 				"morphTag": "RES-INT-b-EPNTH=3PL.ABS"
 			}
 		],
 		"oštugariža": [
 			{
+				"surfaceForm": "oštugariža",
 				"segmentation": "-ošt-ugar-iž-a",
 				"morphTag": "RES-RECIP-iž-3A.SG"
 			}
 		],
 		"ub": [
 			{
+				"surfaceForm": "ub",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG"
 			}
 		],
 		"aštu": [
 			{
+				"surfaceForm": "aštu",
 				"segmentation": "-ašt-o",
 				"morphTag": "RES-2A.SG"
 			},
 			{
+				"surfaceForm": "aštu",
 				"segmentation": "-ašt-o",
 				"morphTag": "RES-MOD.PAT"
 			},
 			{
+				"surfaceForm": "aštu",
 				"segmentation": "-ašt-u",
 				"morphTag": "RES-MED"
 			}
 		],
 		"aštuž": [
 			{
+				"surfaceForm": "aštuž",
 				"segmentation": "-ašt-o-ež",
 				"morphTag": "RES-MOD.PAT-OPT"
 			}
 		],
 		"āldum": [
 			{
+				"surfaceForm": "āldum",
 				"segmentation": "-al-d-o-m",
 				"morphTag": "al-d-TR.PFV-3A.SG"
 			}
 		],
 		"edaw": [
 			{
+				"surfaceForm": "edaw",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG"
 			}
 		],
 		"di": [
 			{
+				"surfaceForm": "di",
 				"segmentation": "-d-i",
 				"morphTag": "d-ANTIP"
 			}
 		],
 		"duži": [
 			{
+				"surfaceForm": "duži",
 				"segmentation": "-d-ož-i",
 				"morphTag": "d-PST-ANTIP"
 			}
 		],
 		"ōġa": [
 			{
+				"surfaceForm": "ōġa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-3A.SG"
 			},
 			{
+				"surfaceForm": "ōġa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-INT"
 			}
 		],
 		"ūlli": [
 			{
+				"surfaceForm": "ūlli",
 				"segmentation": "-ulli",
 				"morphTag": "ulli"
 			}
 		],
 		"idab": [
 			{
+				"surfaceForm": "idab",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG"
 			}
 		],
 		"itta": [
 			{
+				"surfaceForm": "itta",
 				"segmentation": "-ed-d-a",
 				"morphTag": "FUT-PL.A-3A"
 			}
 		],
 		"īa": [
 			{
+				"surfaceForm": "īa",
 				"segmentation": "-i-a",
 				"morphTag": "TR-3A.SG"
 			}
 		],
 		"anišša": [
 			{
+				"surfaceForm": "anišša",
 				"segmentation": "-an-i-šše-a",
 				"morphTag": "an-ANTIP-NMLZ-ESS"
 			}
 		],
 		"uštab": [
 			{
+				"surfaceForm": "uštab",
 				"segmentation": "-ušt-a-b",
 				"morphTag": "RES-INT-b"
 			},
 			{
+				"surfaceForm": "uštab",
 				"segmentation": "-ušt-aw",
 				"morphTag": "RES-1A.SG"
 			}
 		],
 		"ulub": [
 			{
+				"surfaceForm": "ulub",
 				"segmentation": "-ol-o-m",
 				"morphTag": "ol-TR.PFV-3A.SG"
 			}
 		],
 		"oen": [
 			{
+				"surfaceForm": "oen",
 				"segmentation": "-o-en",
 				"morphTag": "MOD.PAT-3JUSS"
 			}
 		],
 		"ī": [
 			{
+				"surfaceForm": "ī",
 				"segmentation": "-i",
 				"morphTag": "ANTIP"
 			}
 		],
 		"ulilida": [
 			{
+				"surfaceForm": "ulilida",
 				"segmentation": "-ol-il-ed-a",
 				"morphTag": "ol-il-FUT-3A.SG"
 			}
 		],
 		"ulōšteri": [
 			{
+				"surfaceForm": "ulōšteri",
 				"segmentation": "-ol-ošt-i-re",
 				"morphTag": "ol-RES-AG-PTCP"
 			}
 		],
 		"ōlušteri": [
 			{
+				"surfaceForm": "ōlušteri",
 				"segmentation": "-ol-ošt-i-re",
 				"morphTag": "ol-RES-AG-PTCP"
 			}
 		],
 		"olia": [
 			{
+				"surfaceForm": "olia",
 				"segmentation": "-ol-i-a",
 				"morphTag": "ol-TR-3A.SG"
 			}
 		],
 		"oloža": [
 			{
+				"surfaceForm": "oloža",
 				"segmentation": "-ol-ož-a",
 				"morphTag": "ol-PST-3A.SG"
 			}
 		],
 		"ila": [
 			{
+				"surfaceForm": "ila",
 				"segmentation": "-il-a",
 				"morphTag": "il-3A.SG"
 			},
 			{
+				"surfaceForm": "ila",
 				"segmentation": "-il-a",
 				"morphTag": "il-INT"
 			}
 		],
 		"ūli": [
 			{
+				"surfaceForm": "ūli",
 				"segmentation": "-ol-i",
 				"morphTag": "ol-ANTIP"
 			}
 		],
 		"ūža": [
 			{
+				"surfaceForm": "ūža",
 				"segmentation": "-ož-a",
 				"morphTag": "PST-3A.SG"
 			}
 		],
 		"aštili": [
 			{
+				"surfaceForm": "aštili",
 				"segmentation": "-ašt-i-le",
 				"morphTag": "RES-MOD.AG-1JUSS"
 			}
 		],
 		"aštile": [
 			{
+				"surfaceForm": "aštile",
 				"segmentation": "-ašt-i-le",
 				"morphTag": "RES-MOD.AG-1JUSS"
 			}
 		],
 		"i(-)ḫāduldašši": [
 			{
+				"surfaceForm": "i(-)ḫāduldašši",
 				"segmentation": "-iġ-ad-ol-d-a-šše",
 				"morphTag": "iġ-ad-ol-PL.A-3A-NMLZ.ABS"
 			}
 		],
 		"oldašše": [
 			{
+				"surfaceForm": "oldašše",
 				"segmentation": "-ol-d-a-šše",
 				"morphTag": "ol-PL.A-3A-NMLZ.ABS"
 			}
 		],
 		"dom": [
 			{
+				"surfaceForm": "dom",
 				"segmentation": "-d-o-m",
 				"morphTag": "d-TR.PFV-3A.SG"
 			}
 		],
 		"aštāw": [
 			{
+				"surfaceForm": "aštāw",
 				"segmentation": "-ašt-aw",
 				"morphTag": "RES-1A.SG"
 			}
 		],
 		"aḫḫōm": [
 			{
+				"surfaceForm": "aḫḫōm",
 				"segmentation": "-aḫḫ-o-m",
 				"morphTag": "aḫḫ-TR.PFV-3A.SG"
 			}
 		],
 		"ippa": [
 			{
+				"surfaceForm": "ippa",
 				"segmentation": "-i-b=ma",
 				"morphTag": "ANTIP-b=CON"
 			},
 			{
+				"surfaceForm": "ippa",
 				"segmentation": "-i=ffa",
 				"morphTag": "ANTIP=2PL.ABS"
 			}
 		],
 		"aštīli": [
 			{
+				"surfaceForm": "aštīli",
 				"segmentation": "-ašt-i-le",
 				"morphTag": "RES-MOD.AG-1JUSS"
 			}
 		],
 		"tani": [
 			{
+				"surfaceForm": "tani",
 				"segmentation": "-d-an-i",
 				"morphTag": "d-an-ANTIP"
 			},
 			{
+				"surfaceForm": "tani",
 				"segmentation": "-d-an-i",
 				"morphTag": "d-an-TR.IMP"
 			}
 		],
 		"ani": [
 			{
+				"surfaceForm": "ani",
 				"segmentation": "-an-i",
 				"morphTag": "an-ANTIP"
 			},
 			{
+				"surfaceForm": "ani",
 				"segmentation": "-an-i",
 				"morphTag": "an-TR.IMP"
 			}
 		],
 		"ū": [
 			{
+				"surfaceForm": "ū",
 				"segmentation": "-u",
 				"morphTag": "MED"
 			}
 		],
 		"aštōm": [
 			{
+				"surfaceForm": "aštōm",
 				"segmentation": "-ašt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			}
 		],
 		"ūdum": [
 			{
+				"surfaceForm": "ūdum",
 				"segmentation": "-ud-o-m",
 				"morphTag": "NEG-TR.PFV-3A.SG"
 			}
 		],
 		"ažīb": [
 			{
+				"surfaceForm": "ažīb",
 				"segmentation": "-až-i-b",
 				"morphTag": "až-ANTIP-b"
 			}
 		],
 		"īppa": [
 			{
+				"surfaceForm": "īppa",
 				"segmentation": "-i-b=ma",
 				"morphTag": "ANTIP-b=CON"
 			}
 		],
 		"āni": [
 			{
+				"surfaceForm": "āni",
 				"segmentation": "-an-i",
 				"morphTag": "an-ANTIP"
 			}
 		],
 		"eštab": [
 			{
+				"surfaceForm": "eštab",
 				"segmentation": "-išt-a-b",
 				"morphTag": "RES-INT-b"
 			}
 		],
 		"eštub": [
 			{
+				"surfaceForm": "eštub",
 				"segmentation": "-išt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			}
 		],
 		"užum": [
 			{
+				"surfaceForm": "užum",
 				"segmentation": "-ož-o-m",
 				"morphTag": "ož-TR.PFV-3A.SG"
 			}
 		],
 		"u(-)lellie": [
 			{
+				"surfaceForm": "u(-)lellie",
 				"segmentation": "-o",
 				"morphTag": "MOD.PAT"
 			},
 			{
+				"surfaceForm": "u(-)lellie",
 				"segmentation": "-ol-il-i-le",
 				"morphTag": "ol-il-MOD.AG-1JUSS"
 			},
 			{
+				"surfaceForm": "u(-)lellie",
 				"segmentation": "-u",
 				"morphTag": "MED"
 			}
 		],
 		"tu(-)lellie": [
 			{
+				"surfaceForm": "tu(-)lellie",
 				"segmentation": "-id-o",
 				"morphTag": "PL.A-TR.PFV"
 			}
 		],
 		"aġom": [
 			{
+				"surfaceForm": "aġom",
 				"segmentation": "-aġ-o-m",
 				"morphTag": "aġ-TR.PFV-3A.SG"
 			}
 		],
 		"iam": [
 			{
+				"surfaceForm": "iam",
 				"segmentation": "-i-a=m",
 				"morphTag": "TR-3A.SG=CON"
 			}
 		],
 		"iāb": [
 			{
+				"surfaceForm": "iāb",
 				"segmentation": "-i-a=m",
 				"morphTag": "TR-3A.SG=CON"
 			}
 		],
 		"ištedi": [
 			{
+				"surfaceForm": "ištedi",
 				"segmentation": "-išt-ed-i",
 				"morphTag": "RES-FUT-ANTIP"
 			}
 		],
 		"ištēdi": [
 			{
+				"surfaceForm": "ištēdi",
 				"segmentation": "-išt-ed-i",
 				"morphTag": "RES-FUT-ANTIP"
 			}
 		],
 		"oštaw": [
 			{
+				"surfaceForm": "oštaw",
 				"segmentation": "-ošt-aw",
 				"morphTag": "RES-1A.SG"
 			}
 		],
 		"āġub": [
 			{
+				"surfaceForm": "āġub",
 				"segmentation": "-aġ-o-m",
 				"morphTag": "aġ-TR.PFV-3A.SG"
 			}
 		],
 		"āḫtu": [
 			{
+				"surfaceForm": "āḫtu",
 				"segmentation": "-aġ-id-o",
 				"morphTag": "aġ-PL.A-TR.PFV"
 			}
 		],
 		"ivadeae": [
 			{
+				"surfaceForm": "ivadeae",
 				"segmentation": "-i-vade-ae",
 				"morphTag": "AG-ADJ.NEG-INS"
 			}
 		],
 		"ivadai": [
 			{
+				"surfaceForm": "ivadai",
 				"segmentation": "-i-vade-ae",
 				"morphTag": "AG-ADJ.NEG-INS"
 			}
 		],
 		"ošto": [
 			{
+				"surfaceForm": "ošto",
 				"segmentation": "-ošt-o",
 				"morphTag": "RES-MOD.PAT"
 			}
 		],
 		"oštu": [
 			{
+				"surfaceForm": "oštu",
 				"segmentation": "-ošt-u",
 				"morphTag": "RES-MED"
 			}
 		],
 		"uštu": [
 			{
+				"surfaceForm": "uštu",
 				"segmentation": "-ušt-o",
 				"morphTag": "RES-MOD.PAT"
 			},
 			{
+				"surfaceForm": "uštu",
 				"segmentation": "-ušt-u",
 				"morphTag": "RES-MED"
 			}
 		],
 		"oštom": [
 			{
+				"surfaceForm": "oštom",
 				"segmentation": "-ošt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG"
 			}
 		],
 		"užudam": [
 			{
+				"surfaceForm": "užudam",
 				"segmentation": "-ož-ud-a=m",
 				"morphTag": "ož-ud-INT=2SG.ABS"
 			}
 		],
 		"ōžudam": [
 			{
+				"surfaceForm": "ōžudam",
 				"segmentation": "-ož-ud-a=m",
 				"morphTag": "ož-ud-INT=2SG.ABS"
 			}
 		],
 		"a(-)ḫaduldašši": [
 			{
+				"surfaceForm": "a(-)ḫaduldašši",
 				"segmentation": "-aġ-ad-ol-d-a-šše",
 				"morphTag": "aġ-ad-ol-PL.A-3A-NMLZ.ABS"
 			}
 		],
 		"a(-)ḫāduldaššināmma": [
 			{
+				"surfaceForm": "a(-)ḫāduldaššināmma",
 				"segmentation": "-aġ-ad-ol-d-a-šše-na=mma",
 				"morphTag": "aġ-ad-ol-PL.A-3A-NMLZ-RELAT.PL.ABS=CON"
 			}
 		],
 		"oldaššenamma": [
 			{
+				"surfaceForm": "oldaššenamma",
 				"segmentation": "-ol-d-a-šše-na=mma",
 				"morphTag": "ol-PL.A-3A-NMLZ-RELAT.PL.ABS=CON"
 			}
 		],
 		"ūlīžanna": [
 			{
+				"surfaceForm": "ūlīžanna",
 				"segmentation": "-ol-iž-a=nna",
 				"morphTag": "ol-iž-3A.SG=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ūlīžanna",
 				"segmentation": "-ol-iž-a=nna",
 				"morphTag": "ol-iž-INT=3SG.ABS"
 			}
 		],
 		"aštīb": [
 			{
+				"surfaceForm": "aštīb",
 				"segmentation": "-ašt-i-b",
 				"morphTag": "RES-ANTIP-b"
 			}
 		],
 		"dib": [
 			{
+				"surfaceForm": "dib",
 				"segmentation": "-d-i-b",
 				"morphTag": "d-ANTIP-b"
 			}
 		],
 		"užāe": [
 			{
+				"surfaceForm": "užāe",
 				"segmentation": "-ož-i-ai",
 				"morphTag": "ož-MOD.AG-PURP"
 			}
 		],
 		"ūlāw": [
 			{
+				"surfaceForm": "ūlāw",
 				"segmentation": "-ol-aw",
 				"morphTag": "ol-1A.SG"
 			}
 		],
 		"ōni": [
 			{
+				"surfaceForm": "ōni",
 				"segmentation": "-on-i",
 				"morphTag": "on-ANTIP"
 			}
 		],
 		"wumballa": [
 			{
+				"surfaceForm": "wumballa",
 				"segmentation": "-umb-a=lla",
 				"morphTag": "umb-3A.SG=3PL.ABS"
 			}
 		],
 		"ama": [
 			{
+				"surfaceForm": "ama",
 				"segmentation": "-a=ma",
 				"morphTag": "INT=CON"
 			},
 			{
+				"surfaceForm": "ama",
 				"segmentation": "-i-a-ma",
 				"morphTag": "TR-3A.SG-NEG"
 			}
 		],
 		"ivāde": [
 			{
+				"surfaceForm": "ivāde",
 				"segmentation": "-i-vade",
 				"morphTag": "AG-ADJ.NEG.ABS"
 			}
 		],
 		"ollan": [
 			{
+				"surfaceForm": "ollan",
 				"segmentation": "-o=lla=an",
 				"morphTag": "MOD.PAT=3PL.ABS=CON"
 			},
 			{
+				"surfaceForm": "ollan",
 				"segmentation": "-oll-a=an",
 				"morphTag": "oll-INT.IMP=CON"
 			},
 			{
+				"surfaceForm": "ollan",
 				"segmentation": "-oll-a=n",
 				"morphTag": "oll-INT.IMP=3SG.ABS"
 			}
 		],
 		"li": [
 			{
+				"surfaceForm": "li",
 				"segmentation": "-i-le",
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
 		"iliffa": [
 			{
+				"surfaceForm": "iliffa",
 				"segmentation": "-i-le=ffa",
 				"morphTag": "MOD.AG-1JUSS=2PL.ABS"
 			}
 		],
 		"adib": [
 			{
+				"surfaceForm": "adib",
 				"segmentation": "-ad-i-b",
 				"morphTag": "ad-ANTIP-b"
 			}
 		],
 		"aduppu": [
 			{
+				"surfaceForm": "aduppu",
 				"segmentation": "-ad-uffu",
 				"morphTag": "ad-1A.SG.NEG"
 			}
 		],
 		"adužilāi": [
 			{
+				"surfaceForm": "adužilāi",
 				"segmentation": "-ad-ož-i-l-ai",
 				"morphTag": "ad-ož-MOD.AG-l-PURP"
 			}
 		],
 		"adu": [
 			{
+				"surfaceForm": "adu",
 				"segmentation": "-ad-o",
 				"morphTag": "ad-MOD.PAT"
 			},
 			{
+				"surfaceForm": "adu",
 				"segmentation": "-ad-u",
 				"morphTag": "ad-MED"
 			}
 		],
 		"iain": [
 			{
+				"surfaceForm": "iain",
 				"segmentation": "-i-ai-n",
 				"morphTag": "MOD.AG-PURP-n"
 			},
 			{
+				"surfaceForm": "iain",
 				"segmentation": "-i-ai=n",
 				"morphTag": "MOD.AG-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "iain",
 				"segmentation": "-i-ai=n",
 				"morphTag": "MOD.AG-PURP=CON"
 			}
 		],
 		"āin": [
 			{
+				"surfaceForm": "āin",
 				"segmentation": "-i-ai-n",
 				"morphTag": "MOD.AG-PURP-n"
 			},
 			{
+				"surfaceForm": "āin",
 				"segmentation": "-i-ai=n",
 				"morphTag": "MOD.AG-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "āin",
 				"segmentation": "-i-ai=n",
 				"morphTag": "MOD.AG-PURP=CON"
 			}
 		],
 		"aḫḫi": [
 			{
+				"surfaceForm": "aḫḫi",
 				"segmentation": "-aḫḫ-i",
 				"morphTag": "aḫḫ-ANTIP"
 			}
 		],
 		"āḫḫi": [
 			{
+				"surfaceForm": "āḫḫi",
 				"segmentation": "-aḫḫ-i",
 				"morphTag": "aḫḫ-ANTIP"
 			}
 		],
 		"indain": [
 			{
+				"surfaceForm": "indain",
 				"segmentation": "-ind-i-ai-n",
 				"morphTag": "PL.A-MOD.AG-PURP-n"
 			},
 			{
+				"surfaceForm": "indain",
 				"segmentation": "-ind-i-ai=n",
 				"morphTag": "PL.A-MOD.AG-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "indain",
 				"segmentation": "-ind-i-ai=n",
 				"morphTag": "PL.A-MOD.AG-PURP=CON"
 			}
 		],
 		"uwen": [
 			{
+				"surfaceForm": "uwen",
 				"segmentation": "-o-va-en",
 				"morphTag": "MOD.PAT-NEG-3JUSS"
 			}
 		],
 		"īn": [
 			{
+				"surfaceForm": "īn",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS"
 			},
 			{
+				"surfaceForm": "īn",
 				"segmentation": "-i=n",
 				"morphTag": "ANTIP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "īn",
 				"segmentation": "-i=n",
 				"morphTag": "ANTIP=CON"
 			}
 		],
 		"adelāib": [
 			{
+				"surfaceForm": "adelāib",
 				"segmentation": "-ad-i-l-ai=v",
 				"morphTag": "ad-MOD.AG-l-PURP=2PL.ABS"
 			}
 		],
 		"užudamma": [
 			{
+				"surfaceForm": "užudamma",
 				"segmentation": "-ož-ud-a=mma",
 				"morphTag": "ož-ud-INT=2SG.ABS"
 			}
 		],
 		"ānab": [
 			{
+				"surfaceForm": "ānab",
 				"segmentation": "-an-a-b",
 				"morphTag": "an-INT-b"
 			}
 		],
 		"ul": [
 			{
+				"surfaceForm": "ul",
 				"segmentation": "-o=l",
 				"morphTag": "MOD.PAT=3PL.ABS"
 			},
 			{
+				"surfaceForm": "ul",
 				"segmentation": "-u=l",
 				"morphTag": "MED=3PL.ABS"
 			}
 		],
 		"ilanom": [
 			{
+				"surfaceForm": "ilanom",
 				"segmentation": "-il-an-o-m",
 				"morphTag": "il-an-TR.PFV-3A.SG"
 			}
 		],
 		"od": [
 			{
+				"surfaceForm": "od",
 				"segmentation": "-o=d",
 				"morphTag": "MOD.PAT=1SG.ABS"
 			}
 		],
 		"ud": [
 			{
+				"surfaceForm": "ud",
 				"segmentation": "-u=d",
 				"morphTag": "MED=1SG.ABS"
 			}
 		],
 		"oġatta": [
 			{
+				"surfaceForm": "oġatta",
 				"segmentation": "-oġ-a=tta",
 				"morphTag": "oġ-3A.SG=1SG.ABS"
 			},
 			{
+				"surfaceForm": "oġatta",
 				"segmentation": "-oġ-a=tta",
 				"morphTag": "oġ-INT=1SG.ABS"
 			}
 		],
 		"oġožillandin": [
 			{
+				"surfaceForm": "oġožillandin",
 				"segmentation": "-oġ-ož-ill-and-i-n",
 				"morphTag": "oġ-ož-ill-PL.A-MOD.AG-n"
 			},
 			{
+				"surfaceForm": "oġožillandin",
 				"segmentation": "-oġ-ož-ill-and-i=n",
 				"morphTag": "oġ-ož-ill-PL.A-MOD.AG=3SG.ABS"
 			}
 		],
 		"ožilliain": [
 			{
+				"surfaceForm": "ožilliain",
 				"segmentation": "-ož-ill-i-ai-n",
 				"morphTag": "ož-ill-MOD.AG-PURP-n"
 			},
 			{
+				"surfaceForm": "ožilliain",
 				"segmentation": "-ož-ill-i-ai=n",
 				"morphTag": "ož-ill-MOD.AG-PURP=3SG.ABS"
 			}
 		],
 		"oġedi": [
 			{
+				"surfaceForm": "oġedi",
 				"segmentation": "-oġ-ed-i",
 				"morphTag": "oġ-FUT-ANTIP"
 			}
 		],
 		"oeždil": [
 			{
+				"surfaceForm": "oeždil",
 				"segmentation": "-o-ež=dil",
 				"morphTag": "MOD.PAT-OPT=1PL.ABS"
 			}
 		],
 		"oštil": [
 			{
+				"surfaceForm": "oštil",
 				"segmentation": "-ošt-i=l",
 				"morphTag": "RES-ANTIP=3PL.ABS"
 			},
 			{
+				"surfaceForm": "oštil",
 				"segmentation": "-ošt-i=l",
 				"morphTag": "RES-TR.IMP=3PL.ABS"
 			}
 		],
 		"allidašše": [
 			{
+				"surfaceForm": "allidašše",
 				"segmentation": "-all-ed-a-šše",
 				"morphTag": "all-FUT-3A.SG-NMLZ.ABS"
 			}
 		],
 		"ana": [
 			{
+				"surfaceForm": "ana",
 				"segmentation": "-an-a",
 				"morphTag": "CAUS-3A.SG"
 			},
 			{
+				"surfaceForm": "ana",
 				"segmentation": "-an-a",
 				"morphTag": "an-3A.SG"
 			},
 			{
+				"surfaceForm": "ana",
 				"segmentation": "-an-a",
 				"morphTag": "an-INT"
 			}
 		],
 		"andu": [
 			{
+				"surfaceForm": "andu",
 				"segmentation": "-an-id-o",
 				"morphTag": "CAUS-PL.A-TR.PFV"
 			},
 			{
+				"surfaceForm": "andu",
 				"segmentation": "-an-id-o",
 				"morphTag": "an-PL.A-TR.PFV"
 			}
 		],
 		"anidu": [
 			{
+				"surfaceForm": "anidu",
 				"segmentation": "-an-id-o",
 				"morphTag": "CAUS-PL.A-TR.PFV"
 			},
 			{
+				"surfaceForm": "anidu",
 				"segmentation": "-an-id-o",
 				"morphTag": "an-PL.A-TR.PFV"
 			}
 		],
 		"adel": [
 			{
+				"surfaceForm": "adel",
 				"segmentation": "-a=dil",
 				"morphTag": "INT=1PL.ABS"
 			}
 		],
 		"am": [
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "INT.IMP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "INT.IMP=CON"
 			},
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "INT=2SG.ABS"
 			},
 			{
+				"surfaceForm": "am",
 				"segmentation": "-a=m",
 				"morphTag": "INT=CON"
 			}
 		],
 		"ivadān": [
 			{
+				"surfaceForm": "ivadān",
 				"segmentation": "-i-eva=d=an",
 				"morphTag": "MOD.AG-POT=1SG.ABS=CON"
 			}
 		],
 		"ivatta": [
 			{
+				"surfaceForm": "ivatta",
 				"segmentation": "-i-eva=tta",
 				"morphTag": "MOD.AG-POT=1SG.ABS"
 			}
 		],
 		"īdu": [
 			{
+				"surfaceForm": "īdu",
 				"segmentation": "-id-o",
 				"morphTag": "PL.A-TR.PFV"
 			}
 		],
 		"ukkunna": [
 			{
+				"surfaceForm": "ukkunna",
 				"segmentation": "-o-kko=nna",
 				"morphTag": "INT-NEG=3SG.ABS"
 			}
 		],
 		"uġeda": [
 			{
+				"surfaceForm": "uġeda",
 				"segmentation": "-oġ-ed-a",
 				"morphTag": "oġ-FUT-3A.SG"
 			}
 		],
 		"ūkku": [
 			{
+				"surfaceForm": "ūkku",
 				"segmentation": "-o-kko",
 				"morphTag": "INT-NEG"
 			}
 		],
 		"amuwā": [
 			{
+				"surfaceForm": "amuwā",
 				"segmentation": "-i",
 				"morphTag": "ANTIP"
 			}
 		],
 		"iai": [
 			{
+				"surfaceForm": "iai",
 				"segmentation": "-i-ai",
 				"morphTag": "MOD.AG-PURP"
 			}
 		],
 		"anedi": [
 			{
+				"surfaceForm": "anedi",
 				"segmentation": "-an-ed-i",
 				"morphTag": "an-FUT-ANTIP"
 			}
 		],
 		"edia": [
 			{
+				"surfaceForm": "edia",
 				"segmentation": "-ed-i-a",
 				"morphTag": "FUT-TR-3A.SG"
 			}
 		],
 		"urab": [
 			{
+				"surfaceForm": "urab",
 				"segmentation": "-ur-a-b",
 				"morphTag": "ur-INT-b"
 			}
 		],
 		"uluppu": [
 			{
+				"surfaceForm": "uluppu",
 				"segmentation": "-ol-uffu",
 				"morphTag": "ol-1A.SG.NEG"
 			}
 		],
 		"ibālla": [
 			{
+				"surfaceForm": "ibālla",
 				"segmentation": "-i-b-a=lla",
 				"morphTag": "ANTIP-b-EPNTH=3PL.ABS"
 			}
 		],
 		"alāl": [
 			{
+				"surfaceForm": "alāl",
 				"segmentation": "-al-a=l",
 				"morphTag": "al-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "alāl",
 				"segmentation": "-al-a=l",
 				"morphTag": "al-INT=3PL.ABS"
 			}
 		],
 		"rie": [
 			{
+				"surfaceForm": "rie",
 				"segmentation": "-i-le",
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
 		"rivaž": [
 			{
+				"surfaceForm": "rivaž",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž"
 			}
 		],
 		"aštedda": [
 			{
+				"surfaceForm": "aštedda",
 				"segmentation": "-ašt-ed-d-a",
 				"morphTag": "RES-FUT-PL.A-3A"
 			}
 		],
 		"aštitta": [
 			{
+				"surfaceForm": "aštitta",
 				"segmentation": "-ašt-i=tta",
 				"morphTag": "RES-ANTIP=1SG.ABS"
 			}
 		],
 		"ilī": [
 			{
+				"surfaceForm": "ilī",
 				"segmentation": "-i-le",
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
 		"a(-)nōdum": [
 			{
+				"surfaceForm": "a(-)nōdum",
 				"segmentation": "-an-ud-o-m",
 				"morphTag": "an-NEG-TR.PFV-3A.SG"
 			}
 		],
 		"aežal": [
 			{
+				"surfaceForm": "aežal",
 				"segmentation": "-i-ai-ž-a=l",
 				"morphTag": "MOD.AG-PURP-ž-EPNTH=3PL.ABS"
 			}
 		],
 		"aniba": [
 			{
+				"surfaceForm": "aniba",
 				"segmentation": "-an-i-eva",
 				"morphTag": "an-MOD.AG-POT"
 			}
 		],
 		"idin": [
 			{
+				"surfaceForm": "idin",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"ōlāež": [
 			{
+				"surfaceForm": "ōlāež",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
 		"ōmain": [
 			{
+				"surfaceForm": "ōmain",
 				"segmentation": "-o+m+ai-n",
 				"morphTag": "CVB-n"
 			},
 			{
+				"surfaceForm": "ōmain",
 				"segmentation": "-o+m+ai=n",
 				"morphTag": "CVB=3SG.ABS"
 			}
 		],
 		"dukku": [
 			{
+				"surfaceForm": "dukku",
 				"segmentation": "-d-o-kko",
 				"morphTag": "d-INT-NEG"
 			}
 		],
 		"udoledašše": [
 			{
+				"surfaceForm": "udoledašše",
 				"segmentation": "-ud-ol-ed-a-šše",
 				"morphTag": "ud-ol-FUT-3A.SG-NMLZ.ABS"
 			}
 		],
 		"ulia": [
 			{
+				"surfaceForm": "ulia",
 				"segmentation": "-ol-i-a",
 				"morphTag": "ol-TR-3A.SG"
 			}
 		],
 		"iennnaan": [
 			{
+				"surfaceForm": "iennnaan",
 				"segmentation": "-i-en=nna=an",
 				"morphTag": "MOD.AG-3JUSS=3SG.ABS=CON"
 			}
 		],
 		"aīnna": [
 			{
+				"surfaceForm": "aīnna",
 				"segmentation": "-i-ai=nna",
 				"morphTag": "MOD.AG-PURP=3SG.ABS"
 			}
 		],
 		"appanan": [
 			{
+				"surfaceForm": "appanan",
 				"segmentation": "-a=ffa=nan",
 				"morphTag": "3A.SG=2PL.ABS=CON"
 			},
 			{
+				"surfaceForm": "appanan",
 				"segmentation": "-a=ffa=nan",
 				"morphTag": "INT=2PL.ABS=CON"
 			}
 		],
 		"eba": [
 			{
+				"surfaceForm": "eba",
 				"segmentation": "-i-eva",
 				"morphTag": "MOD.AG-POT"
 			}
 		],
 		"unila": [
 			{
+				"surfaceForm": "unila",
 				"segmentation": "-on-i=lla",
 				"morphTag": "on-ANTIP=3PL.ABS"
 			},
 			{
+				"surfaceForm": "unila",
 				"segmentation": "-on-il-a",
 				"morphTag": "on-il-3A.SG"
 			},
 			{
+				"surfaceForm": "unila",
 				"segmentation": "-on-il-a",
 				"morphTag": "on-il-INT"
 			}
 		],
 		"ōmai": [
 			{
+				"surfaceForm": "ōmai",
 				"segmentation": "-o+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"ōšti": [
 			{
+				"surfaceForm": "ōšti",
 				"segmentation": "-ošt-i",
 				"morphTag": "RES-ANTIP"
 			},
 			{
+				"surfaceForm": "ōšti",
 				"segmentation": "-ošt-i",
 				"morphTag": "RES-TR.IMP"
 			}
 		],
 		"užēda": [
 			{
+				"surfaceForm": "užēda",
 				"segmentation": "-ož-ed-a",
 				"morphTag": "ož-FUT-3A.SG"
 			}
 		],
 		"ōlidu": [
 			{
+				"surfaceForm": "ōlidu",
 				"segmentation": "-ol-id-o",
 				"morphTag": "ol-PL.A-TR.PFV"
 			}
 		],
 		"urum": [
 			{
+				"surfaceForm": "urum",
 				"segmentation": "-ur-o-m",
 				"morphTag": "ur-TR.PFV-3A.SG"
 			}
 		],
 		"ulāešša": [
 			{
+				"surfaceForm": "ulāešša",
 				"segmentation": "-o-l-ai-ž=nna",
 				"morphTag": "MOD.PAT-l-PURP-ž=3SG.ABS"
 			}
 		],
 		"ummālla": [
 			{
+				"surfaceForm": "ummālla",
 				"segmentation": "-o-m-a=lla",
 				"morphTag": "TR.PFV-3A.SG-EPNTH=3PL.ABS"
 			}
 		],
 		"ōlež": [
 			{
+				"surfaceForm": "ōlež",
 				"segmentation": "-o-l-ež",
 				"morphTag": "MOD.PAT-l-OPT"
 			}
 		],
 		"ulida": [
 			{
+				"surfaceForm": "ulida",
 				"segmentation": "-ol-ed-a",
 				"morphTag": "ol-FUT-3A.SG"
 			}
 		],
 		"ēri": [
 			{
+				"surfaceForm": "ēri",
 				"segmentation": "-i-re",
 				"morphTag": "AG-PTCP.ABS"
 			}
 		],
 		"ōžum": [
 			{
+				"surfaceForm": "ōžum",
 				"segmentation": "-ož-o-m",
 				"morphTag": "ož-TR.PFV-3A.SG"
 			}
 		],
 		"aġugarilla": [
 			{
+				"surfaceForm": "aġugarilla",
 				"segmentation": "-aġ-ugar-i=lla",
 				"morphTag": "aġ-RECIP-ANTIP=3PL.ABS"
 			}
 		],
 		"danurum": [
 			{
+				"surfaceForm": "danurum",
 				"segmentation": "-d-an-ur-o-m",
 				"morphTag": "d-an-ur-TR.PFV-3A.SG"
 			}
 		],
 		"anurum": [
 			{
+				"surfaceForm": "anurum",
 				"segmentation": "-an-ur-o-m",
 				"morphTag": "an-ur-TR.PFV-3A.SG"
 			}
 		],
 		"eb": [
 			{
+				"surfaceForm": "eb",
 				"segmentation": "-i-b",
 				"morphTag": "ANTIP-b"
 			}
 		],
 		"āġi": [
 			{
+				"surfaceForm": "āġi",
 				"segmentation": "-aġ-i",
 				"morphTag": "aġ-ANTIP"
 			}
 		],
 		"ummeni": [
 			{
+				"surfaceForm": "ummeni",
 				"segmentation": "-umme-ne-e",
 				"morphTag": "INF-RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ummeni",
 				"segmentation": "-umme-ne",
 				"morphTag": "INF-ABL/INS"
 			}
 		],
 		"urivain": [
 			{
+				"surfaceForm": "urivain",
 				"segmentation": "-ur-i-va-en",
 				"morphTag": "ur-MOD.AG-NEG-3JUSS"
 			}
 		],
 		"wummini": [
 			{
+				"surfaceForm": "wummini",
 				"segmentation": "-umme-ne-e",
 				"morphTag": "INF-RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "wummini",
 				"segmentation": "-umme-ne",
 				"morphTag": "INF-ABL/INS"
 			}
 		],
 		"āma": [
 			{
+				"surfaceForm": "āma",
 				"segmentation": "-a=ma",
 				"morphTag": "INT=CON"
 			},
 			{
+				"surfaceForm": "āma",
 				"segmentation": "-i-a=ma",
 				"morphTag": "TR-3A.SG=CON"
 			}
 		],
 		"ōmmini": [
 			{
+				"surfaceForm": "ōmmini",
 				"segmentation": "-umme-ne-e",
 				"morphTag": "INF-RELAT.SG-DIR/LOC"
 			},
 			{
+				"surfaceForm": "ōmmini",
 				"segmentation": "-umme-ne",
 				"morphTag": "INF-ABL/INS"
 			}
 		],
 		"edāwul": [
 			{
+				"surfaceForm": "edāwul",
 				"segmentation": "-ed-aw=l",
 				"morphTag": "FUT-1A.SG=3PL.ABS"
 			}
 		],
 		"ua": [
 			{
+				"surfaceForm": "ua",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG"
 			}
 		],
 		"atta": [
 			{
+				"surfaceForm": "atta",
 				"segmentation": "-a=tta",
 				"morphTag": "INT=1SG.ABS"
 			}
 		],
 		"attam": [
 			{
+				"surfaceForm": "attam",
 				"segmentation": "-a=tta=m",
 				"morphTag": "INT=1SG.ABS=CON"
 			}
 		],
 		"didum": [
 			{
+				"surfaceForm": "didum",
 				"segmentation": "-d-id-o=m",
 				"morphTag": "d-PL.A-TR.PFV=2SG.ABS"
 			},
 			{
+				"surfaceForm": "didum",
 				"segmentation": "-d-id-o=m",
 				"morphTag": "d-PL.A-TR.PFV=CON"
 			}
 		],
 		"ād": [
 			{
+				"surfaceForm": "ād",
 				"segmentation": "-a=d",
 				"morphTag": "INT=1SG.ABS"
 			}
 		],
 		"windašši": [
 			{
+				"surfaceForm": "windašši",
 				"segmentation": "-i-nd-a-šše",
 				"morphTag": "TR-PL.A-3A-NMLZ.ABS"
 			}
 		],
 		"ēž": [
 			{
+				"surfaceForm": "ēž",
 				"segmentation": "-i-ež",
 				"morphTag": "MOD.AG-OPT"
 			}
 		],
 		"iež": [
 			{
+				"surfaceForm": "iež",
 				"segmentation": "-i-ež",
 				"morphTag": "MOD.AG-OPT"
 			}
 		],
 		"ūb": [
 			{
+				"surfaceForm": "ūb",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG"
 			}
 		],
 		"alam": [
 			{
+				"surfaceForm": "alam",
 				"segmentation": "-al-a=m",
 				"morphTag": "al-INT.IMP=2SG.ABS"
 			}
 		],
 		"alu": [
 			{
+				"surfaceForm": "alu",
 				"segmentation": "-al-u",
 				"morphTag": "al-MED"
 			}
 		],
 		"alidin": [
 			{
+				"surfaceForm": "alidin",
 				"segmentation": "-al-id-en",
 				"morphTag": "al-PL.A-3JUSS"
 			}
 		],
 		"aštama": [
 			{
+				"surfaceForm": "aštama",
 				"segmentation": "-ašt-a=ma",
 				"morphTag": "RES-3A.SG=CON"
 			},
 			{
+				"surfaceForm": "aštama",
 				"segmentation": "-ašt-a=ma",
 				"morphTag": "RES-INT=CON"
 			}
 		],
 		"udiž": [
 			{
+				"surfaceForm": "udiž",
 				"segmentation": "-ud-i-ež",
 				"morphTag": "NEG-MOD.AG-OPT"
 			}
 		],
 		"ulaešša": [
 			{
+				"surfaceForm": "ulaešša",
 				"segmentation": "-o-l-ai-ž=nna",
 				"morphTag": "MOD.PAT-l-PURP-ž=3SG.ABS"
 			}
 		],
 		"umalla": [
 			{
+				"surfaceForm": "umalla",
 				"segmentation": "-o-m-a=lla",
 				"morphTag": "TR.PFV-3A.SG-EPNTH=3PL.ABS"
 			}
 		],
 		"b": [
 			{
+				"surfaceForm": "b",
 				"segmentation": "-i-b",
 				"morphTag": "ANTIP-b"
 			}
 		],
 		"adāra": [
 			{
+				"surfaceForm": "adāra",
 				"segmentation": "-ad-ar-a",
 				"morphTag": "ad-ITER-INT"
 			}
 		],
 		"wullēm": [
 			{
+				"surfaceForm": "wullēm",
 				"segmentation": "-ul-i-le=m",
 				"morphTag": "ul-MOD.AG-1JUSS=CON"
 			}
 		],
 		"āttāma": [
 			{
+				"surfaceForm": "āttāma",
 				"segmentation": "-a=tta=ma",
 				"morphTag": "INT=1SG.ABS=CON"
 			},
 			{
+				"surfaceForm": "āttāma",
 				"segmentation": "-ad-d-a=ma",
 				"morphTag": "ad-PL.A-3A=CON"
 			}
 		],
 		"uštiēž": [
 			{
+				"surfaceForm": "uštiēž",
 				"segmentation": "-ošt-i-ež",
 				"morphTag": "RES-MOD.AG-OPT"
 			}
 		],
 		"aššella": [
 			{
+				"surfaceForm": "aššella",
 				"segmentation": "-a-šše=lla",
 				"morphTag": "INT-NMLZ.ABS=3PL.ABS"
 			}
 		],
 		"ta": [
 			{
+				"surfaceForm": "ta",
 				"segmentation": "-d-a",
 				"morphTag": "d-INT"
 			}
 		],
 		"anni": [
 			{
+				"surfaceForm": "anni",
 				"segmentation": "-i-anni",
 				"morphTag": "MOD.AG-DESID"
 			}
 		],
 		"ūži": [
 			{
+				"surfaceForm": "ūži",
 				"segmentation": "-ož-i",
 				"morphTag": "PST-ANTIP"
 			}
 		],
 		"arudanam": [
 			{
+				"surfaceForm": "arudanam",
 				"segmentation": "-ar-u-d-a=n=m",
 				"morphTag": "ITER-MED-PL.A-3A=3SG.ABS=CON"
 			}
 		],
 		"uluštib": [
 			{
+				"surfaceForm": "uluštib",
 				"segmentation": "-ul-ušt-i-b",
 				"morphTag": "ul-RES-ANTIP-b"
 			},
 			{
+				"surfaceForm": "uluštib",
 				"segmentation": "-ul-ušt-i=m",
 				"morphTag": "ul-RES-ANTIP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "uluštib",
 				"segmentation": "-ul-ušt-i=m",
 				"morphTag": "ul-RES-TR.IMP=2SG.ABS"
 			}
 		],
 		"umaššiniva": [
 			{
+				"surfaceForm": "umaššiniva",
 				"segmentation": "-o-m-ašše-ne-va",
 				"morphTag": "TR.PFV-3A.SG-NMLZ-RELAT.SG-DAT"
 			}
 		],
 		"ēġa": [
 			{
+				"surfaceForm": "ēġa",
 				"segmentation": "-eġ-a",
 				"morphTag": "eġ-INT"
 			}
 		],
 		"āb": [
 			{
+				"surfaceForm": "āb",
 				"segmentation": "-a-b",
 				"morphTag": "INT-b"
 			},
 			{
+				"surfaceForm": "āb",
 				"segmentation": "-a=v",
 				"morphTag": "INT.IMP=2PL.ABS"
 			},
 			{
+				"surfaceForm": "āb",
 				"segmentation": "-a=v",
 				"morphTag": "INT=2PL.ABS"
 			}
 		],
 		"ožamma": [
 			{
+				"surfaceForm": "ožamma",
 				"segmentation": "-ož-a=mma",
 				"morphTag": "PST-3A.SG=2SG.ABS"
 			},
 			{
+				"surfaceForm": "ožamma",
 				"segmentation": "-ož-a=mma",
 				"morphTag": "PST-3A.SG=CON"
 			}
 		],
 		"ārūwa": [
 			{
+				"surfaceForm": "ārūwa",
 				"segmentation": "-ar-u-a",
 				"morphTag": "ITER-MED-3A.SG"
 			}
 		],
 		"ulillāndu": [
 			{
+				"surfaceForm": "ulillāndu",
 				"segmentation": "-ol-ill-and-o",
 				"morphTag": "ol-ill-PL.A-MOD.PAT"
 			}
 		],
 		"oġa": [
 			{
+				"surfaceForm": "oġa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-3A.SG"
 			},
 			{
+				"surfaceForm": "oġa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-INT"
 			}
 		],
 		"alli": [
 			{
+				"surfaceForm": "alli",
 				"segmentation": "-al-i-le",
 				"morphTag": "al-MOD.AG-1JUSS"
 			}
 		],
 		"ō(-)tevena": [
 			{
+				"surfaceForm": "ō(-)tevena",
 				"segmentation": "-o",
 				"morphTag": "MOD.PAT"
 			}
 		],
 		"ažilaum": [
 			{
+				"surfaceForm": "ažilaum",
 				"segmentation": "-až-il-aw=m",
 				"morphTag": "až-il-1A.SG=2SG.ABS"
 			}
 		],
 		"immāl": [
 			{
+				"surfaceForm": "immāl",
 				"segmentation": "-i+m+ai=l",
 				"morphTag": "CVB=3PL.ABS"
 			}
 		],
 		"imāi": [
 			{
+				"surfaceForm": "imāi",
 				"segmentation": "-i+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"aralla": [
 			{
+				"surfaceForm": "aralla",
 				"segmentation": "-ar-a=lla",
 				"morphTag": "ITER-3A.SG=3PL.ABS"
 			},
 			{
+				"surfaceForm": "aralla",
 				"segmentation": "-ar-a=lla",
 				"morphTag": "ITER-INT=3PL.ABS"
 			}
 		],
 		"amola": [
 			{
+				"surfaceForm": "amola",
 				"segmentation": "-am-ol-a",
 				"morphTag": "FACT-ol-3A.SG"
 			}
 		],
 		"ivade": [
 			{
+				"surfaceForm": "ivade",
 				"segmentation": "-i-vade",
 				"morphTag": "AG-ADJ.NEG.ABS"
 			}
 		],
 		"im": [
 			{
+				"surfaceForm": "im",
 				"segmentation": "-i=m",
 				"morphTag": "ANTIP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "im",
 				"segmentation": "-i=m",
 				"morphTag": "ANTIP=CON"
 			},
 			{
+				"surfaceForm": "im",
 				"segmentation": "-i=m",
 				"morphTag": "TR.IMP=2SG.ABS"
 			},
 			{
+				"surfaceForm": "im",
 				"segmentation": "-i=m",
 				"morphTag": "TR.IMP=CON"
 			}
 		],
 		"amen": [
 			{
+				"surfaceForm": "amen",
 				"segmentation": "-am-i-en",
 				"morphTag": "FACT-MOD.AG-3JUSS"
 			},
 			{
+				"surfaceForm": "amen",
 				"segmentation": "-am-i=n",
 				"morphTag": "FACT-ANTIP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "amen",
 				"segmentation": "-am-i=n",
 				"morphTag": "FACT-ANTIP=CON"
 			}
 		],
 		"ēl": [
 			{
+				"surfaceForm": "ēl",
 				"segmentation": "-i=l",
 				"morphTag": "TR.IMP=3PL.ABS"
 			}
 		],
 		"aġella": [
 			{
+				"surfaceForm": "aġella",
 				"segmentation": "-aġ-i=lla",
 				"morphTag": "aġ-ANTIP=3PL.ABS"
 			}
 		],
 		"ollāda": [
 			{
+				"surfaceForm": "ollāda",
 				"segmentation": "-oll-ad-a",
 				"morphTag": "oll-ad-3A.SG"
 			},
 			{
+				"surfaceForm": "ollāda",
 				"segmentation": "-oll-ad-a",
 				"morphTag": "oll-ad-INT"
 			}
 		],
 		"urēva": [
 			{
+				"surfaceForm": "urēva",
 				"segmentation": "-ur-i-eva",
 				"morphTag": "ur-MOD.AG-POT"
 			}
 		],
 		"udi": [
 			{
+				"surfaceForm": "udi",
 				"segmentation": "-ud-i",
 				"morphTag": "ud-ANTIP"
 			},
 			{
+				"surfaceForm": "udi",
 				"segmentation": "-ud-i",
 				"morphTag": "ud-TR.IMP"
 			}
 		],
 		"uštaw": [
 			{
+				"surfaceForm": "uštaw",
 				"segmentation": "-ušt-aw",
 				"morphTag": "RES-1A.SG"
 			}
 		],
 		"illa": [
 			{
+				"surfaceForm": "illa",
 				"segmentation": "-i=lla",
 				"morphTag": "TR.IMP=3PL.ABS"
 			}
 		],
 		"ožda": [
 			{
+				"surfaceForm": "ožda",
 				"segmentation": "-ož-d-a",
 				"morphTag": "PST-PL.A-3A"
 			}
 		],
 		"ušta": [
 			{
+				"surfaceForm": "ušta",
 				"segmentation": "-ušt-a",
 				"morphTag": "RES-3A.SG"
 			}
 		],
 		"ibād": [
 			{
+				"surfaceForm": "ibād",
 				"segmentation": "-i-b-a=d",
 				"morphTag": "ANTIP-b-EPNTH=1SG.ABS"
 			},
 			{
+				"surfaceForm": "ibād",
 				"segmentation": "-i-eva=d",
 				"morphTag": "MOD.AG-POT=1SG.ABS"
 			}
 		],
 		"iži": [
 			{
+				"surfaceForm": "iži",
 				"segmentation": "-iž-i",
 				"morphTag": "iž-ANTIP"
 			}
 		],
 		"l": [
 			{
+				"surfaceForm": "l",
 				"segmentation": "-a=l",
 				"morphTag": "INT=3PL.ABS"
 			}
 		],
 		"lāi": [
 			{
+				"surfaceForm": "lāi",
 				"segmentation": "-i-l-ai",
 				"morphTag": "MOD.AG-l-PURP"
 			}
 		],
 		"ri": [
 			{
+				"surfaceForm": "ri",
 				"segmentation": "-i-le",
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
 		"ulimāīn": [
 			{
+				"surfaceForm": "ulimāīn",
 				"segmentation": "-ol-i+m+ai-n",
 				"morphTag": "ol-CVB-n"
 			}
 		],
 		"ōppul": [
 			{
+				"surfaceForm": "ōppul",
 				"segmentation": "-uffu=l",
 				"morphTag": "1A.SG.NEG=3PL.ABS"
 			}
 		],
 		"šši": [
 			{
+				"surfaceForm": "šši",
 				"segmentation": "-a-šše",
 				"morphTag": "INT-NMLZ.ABS"
 			}
 		],
 		"ž": [
 			{
+				"surfaceForm": "ž",
 				"segmentation": "-a",
 				"morphTag": "INT"
 			}
 		],
 		"arinna": [
 			{
+				"surfaceForm": "arinna",
 				"segmentation": "-ar-i=nna",
 				"morphTag": "ITER-ANTIP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "arinna",
 				"segmentation": "-ar-i=nna",
 				"morphTag": "ITER-TR.IMP=3SG.ABS"
 			}
 		],
 		"aži": [
 			{
+				"surfaceForm": "aži",
 				"segmentation": "-až-i",
 				"morphTag": "až-ANTIP"
 			}
 		],
 		"ažib": [
 			{
+				"surfaceForm": "ažib",
 				"segmentation": "-až-i-b",
 				"morphTag": "až-ANTIP-b"
 			}
 		],
 		"ažilēž": [
 			{
+				"surfaceForm": "ažilēž",
 				"segmentation": "-až-i-l-ež",
 				"morphTag": "až-MOD.AG-l-OPT"
 			}
 		],
 		"immal": [
 			{
+				"surfaceForm": "immal",
 				"segmentation": "-i+m+ai=l",
 				"morphTag": "CVB=3PL.ABS"
 			}
 		],
 		"īdūl": [
 			{
+				"surfaceForm": "īdūl",
 				"segmentation": "-id-o=l",
 				"morphTag": "PL.A-TR.PFV=3PL.ABS"
 			}
 		],
 		"īmai": [
 			{
+				"surfaceForm": "īmai",
 				"segmentation": "-i+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"ištu": [
 			{
+				"surfaceForm": "ištu",
 				"segmentation": "-išt-o",
 				"morphTag": "RES-MOD.PAT"
 			},
 			{
+				"surfaceForm": "ištu",
 				"segmentation": "-išt-u",
 				"morphTag": "RES-MED"
 			}
 		],
 		"ēšta": [
 			{
+				"surfaceForm": "ēšta",
 				"segmentation": "-išt-a",
 				"morphTag": "RES-3A.SG"
 			},
 			{
+				"surfaceForm": "ēšta",
 				"segmentation": "-išt-a",
 				"morphTag": "RES-INT"
 			}
 		],
 		"edemaen": [
 			{
+				"surfaceForm": "edemaen",
 				"segmentation": "-i+m+ai-n",
 				"morphTag": "CVB-n"
 			}
 		],
 		"emae": [
 			{
+				"surfaceForm": "emae",
 				"segmentation": "-i+m+ai",
 				"morphTag": "CVB"
 			}
 		],
 		"oġoledaan": [
 			{
+				"surfaceForm": "oġoledaan",
 				"segmentation": "-oġ-ol-ed-a=an",
 				"morphTag": "oġ-ol-FUT-3A.SG=CON"
 			}
 		],
 		"oġoledan": [
 			{
+				"surfaceForm": "oġoledan",
 				"segmentation": "-oġ-ol-ed-a=n",
 				"morphTag": "oġ-ol-FUT-3A.SG=3SG.ABS"
 			}
 		],
 		"oledaan": [
 			{
+				"surfaceForm": "oledaan",
 				"segmentation": "-ol-ed-a=an",
 				"morphTag": "ol-FUT-3A.SG=CON"
 			}
 		],
 		"oledan": [
 			{
+				"surfaceForm": "oledan",
 				"segmentation": "-ol-ed-a=n",
 				"morphTag": "ol-FUT-3A.SG=3SG.ABS"
 			}
 		],
 		"uttum": [
 			{
+				"surfaceForm": "uttum",
 				"segmentation": "-ud-id-o=m",
 				"morphTag": "NEG-PL.A-TR.PFV=2SG.ABS"
 			},
 			{
+				"surfaceForm": "uttum",
 				"segmentation": "-ud-id-o=m",
 				"morphTag": "ud-PL.A-TR.PFV=2SG.ABS"
 			}
 		],
 		"ōma": [
 			{
+				"surfaceForm": "ōma",
 				"segmentation": "-o=ma",
 				"morphTag": "MOD.PAT=CON"
 			}
 		],
 		"idan": [
 			{
+				"surfaceForm": "idan",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"iella": [
 			{
+				"surfaceForm": "iella",
 				"segmentation": "-i=lla",
 				"morphTag": "TR.IMP=3PL.ABS"
 			}
 		],
 		"ulidu": [
 			{
+				"surfaceForm": "ulidu",
 				"segmentation": "-ol-id-o",
 				"morphTag": "ol-PL.A-TR.PFV"
 			}
 		],
 		"āmmi": [
 			{
+				"surfaceForm": "āmmi",
 				"segmentation": "-amm-i",
 				"morphTag": "FACT-ANTIP"
 			}
 		],
 		"ten": [
 			{
+				"surfaceForm": "ten",
 				"segmentation": "-d-i-en",
 				"morphTag": "d-MOD.AG-3JUSS"
 			},
 			{
+				"surfaceForm": "ten",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS"
 			}
 		],
 		"uštāw": [
 			{
+				"surfaceForm": "uštāw",
 				"segmentation": "-ošt-aw",
 				"morphTag": "RES-1A.SG"
 			}
 		],
 		"āmi": [
 			{
+				"surfaceForm": "āmi",
 				"segmentation": "-am-i",
 				"morphTag": "FACT-ANTIP"
 			}
 		],
 		"idom": [
 			{
+				"surfaceForm": "idom",
 				"segmentation": "-id-o=m",
 				"morphTag": "PL.A-TR.PFV=2SG.ABS"
 			}
 		],
 		"ellāin": [
 			{
+				"surfaceForm": "ellāin",
 				"segmentation": "-il-i-l-ai-n",
 				"morphTag": "il-MOD.AG-l-PURP-n"
 			},
 			{
+				"surfaceForm": "ellāin",
 				"segmentation": "-il-i-l-ai=n",
 				"morphTag": "il-MOD.AG-l-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ellāin",
 				"segmentation": "-il-i-l-ai=n",
 				"morphTag": "il-MOD.AG-l-PURP=CON"
 			},
 			{
+				"surfaceForm": "ellāin",
 				"segmentation": "-ill-i-ai-n",
 				"morphTag": "ill-MOD.AG-PURP-n"
 			},
 			{
+				"surfaceForm": "ellāin",
 				"segmentation": "-ill-i-ai=n",
 				"morphTag": "ill-MOD.AG-PURP=3SG.ABS"
 			},
 			{
+				"surfaceForm": "ellāin",
 				"segmentation": "-ill-i-ai=n",
 				"morphTag": "ill-MOD.AG-PURP=CON"
 			}
 		],
 		"uni": [
 			{
+				"surfaceForm": "uni",
 				"segmentation": "-on-i",
 				"morphTag": "on-ANTIP"
 			}
 		],
 		"ānōla": [
 			{
+				"surfaceForm": "ānōla",
 				"segmentation": "-an-ol-a",
 				"morphTag": "an-ol-INT"
 			}
