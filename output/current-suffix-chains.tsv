@@ -123,6 +123,7 @@ noun	(-)aš(-)tōġulēdan	-ž	ERG
 noun	atta	-a=tta	ESS=1SG.ABS
 noun	attama	-a=tta=ma	ESS=1SG.ABS=CON
 noun	attam	-a=tta=m	ESS=1SG.ABS=CON
+noun	a	-va	DAT
 noun	avan	-a=v=an	ESS=2PL.ABS=CON
 noun	av	-a=v	ESS=2PL.ABS
 noun	aža	-i-až-a	3POSS-PL-DAT/ESS
@@ -213,12 +214,15 @@ noun	ffi	-iffe	1POSS.SG.ABS
 noun	ffi	-v-ve	2POSS.SG-GEN
 noun	ġe	-ġe	ADJ.ABS
 noun	ġena	-ġe-na	ADJ-RELAT.PL.ABS
-noun	ġenama	-ġe-na=ma	ADJ-RELAT.PL.ABS=CON
-noun	ġenamma	-ġe-na=mma	ADJ-RELAT.PL.ABS=CON
-noun	ġenevena	-ġe-ne-ve-na	ADJ-RELAT.SG-GEN-RELAT.PL.ABS
-noun	ġenež	-ġe-ne-ž	ADJ-RELAT.SG-ERG
 noun	ġeve	-ġe-ve	ADJ-GEN
+noun	ġi	-ġe	ADJ.ABS
+noun	ġinaž	-ġe-ne-ž	ADJ-RELAT.SG-ERG
+noun	ġinibina	-ġe-ne-ve-na	ADJ-RELAT.SG-GEN-RELAT.PL.ABS
 noun	(-)ḫāduldašši		.ABS
+noun	ḫenāma	-ġe-na=ma	ADJ-RELAT.PL.ABS=CON
+noun	ḫina	-ġe-na	ADJ-RELAT.PL.ABS
+noun	ḫināma	-ġe-na=ma	ADJ-RELAT.PL.ABS=CON
+noun	ḫīnamma	-ġe-na=mma	ADJ-RELAT.PL.ABS=CON
 noun	(-)ḫuštal		.ABS
 noun		-i	3POSS.SG.ABS
 noun	ia	-i-a	3POSS.SG-ESS
@@ -255,6 +259,7 @@ noun	ive	-i-ve	3POSS.SG-GEN
 noun	ivenee	-i-ve-ne-e	3POSS.SG-GEN-RELAT.SG-DIR/LOC
 noun	ivenežnna	-i-ve-ne-ž=nna	3POSS.SG-GEN-RELAT.SG-ERG=3SG.ABS
 noun	iž	-i-ž	3POSS.SG-ERG
+noun	l	-a=l	ESS=3PL.ABS
 noun	lam	-i=l=m	3POSS.SG.ABS=3PL.ABS=CON
 noun	lēlla	-ne-e=lla	RELAT.SG-DIR/LOC=3PL.ABS
 noun	lēlla	-ne=lla	ABL/INS=3PL.ABS
@@ -264,6 +269,7 @@ noun	l	-i=l	3POSS.SG.ABS=3PL.ABS
 noun	l	=l	.ABS=3PL.ABS
 noun	lla	-i=lla	3POSS.SG.ABS=3PL.ABS
 noun	lla	=lla	.ABS=3PL.ABS
+noun	l	-ž=l	ERG=3PL.ABS
 noun	ma	-i=ma	3POSS.SG.ABS=CON
 noun	ma	=ma	.ABS=2SG.ABS
 noun	ma	=ma	.ABS=CON
@@ -308,14 +314,17 @@ noun	namma	-na=mma	RELAT.PL.ABS=2SG.ABS
 noun	namma	-na=mma	RELAT.PL.ABS=CON
 noun	nāmma	-na=mma	RELAT.PL.ABS=CON
 noun	nam	-na=m	RELAT.PL.ABS=CON
+noun	n	=an	.ABS=CON
 noun	nanan	-na=nan	RELAT.PL.ABS=CON
 noun	na	-na	RELAT.PL.ABS
 noun	na	-ne-a	RELAT.SG-ESS
+noun	n	-a=n	ESS=3SG.ABS
 noun	nan	=n=an	=3SG.ABS=CON
 noun	nan	-n=an	ABL/INS=CON
 noun	naža	-na-až-a	RELAT.PL-PL-DAT/ESS
 noun	nāža	-na-až-a	RELAT.PL-PL-DAT/ESS
 noun	nažan	-na-až-a=n	RELAT.PL-PL-DAT/ESS=3SG.ABS
+noun	nāžōž	-na-až-ož	RELAT.PL-PL-ERG
 noun	nažuž	-na-až-ož	RELAT.PL-PL-ERG
 noun	nāžuž	-na-až-ož	RELAT.PL-PL-ERG
 noun	neael	-ne-ae=l	RELAT.SG-INS=3PL.ABS
@@ -323,6 +332,7 @@ noun	neae	-ne-ae	RELAT.SG-INS
 noun	nēbi	-ne-ve	RELAT.SG-GEN
 noun	nedal	-ne-da=l	RELAT.SG-DIR=3PL.ABS
 noun	neda	-ne-da	RELAT.SG-DIR
+noun	nēda	-ne-da	RELAT.SG-DIR
 noun	nedil	-ne=dil	ABL/INS=1PL.ABS
 noun	needil	-ne-e=dil	RELAT.SG-DIR/LOC=1PL.ABS
 noun	neella	-ne-e=lla	RELAT.SG-DIR/LOC=3PL.ABS
@@ -338,6 +348,7 @@ noun	neen	-ne-e=n	RELAT.SG-DIR/LOC=3SG.ABS
 noun	neen	-ne-e=n	RELAT.SG-DIR/LOC=CON
 noun	neev	-ne-e=v	RELAT.SG-DIR/LOC=2PL.ABS
 noun	nella	-ne=lla	ABL/INS=3PL.ABS
+noun	nella	-ne-ž=lla	RELAT.SG-ERG=3PL.ABS
 noun	nel	-ne-e=l	RELAT.SG-DIR/LOC=3PL.ABS
 noun	nel	-ne=l	ABL/INS=3PL.ABS
 noun	nel	-ne-ž=l	RELAT.SG-ERG=3PL.ABS
@@ -391,6 +402,7 @@ noun	neveneella	-ne-ve-ne-e=lla	RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS
 noun	nevenee	-ne-ve-ne-e	RELAT.SG-GEN-RELAT.SG-DIR/LOC
 noun	nevenennna	-ne-ve-ne-n=nna	RELAT.SG-GEN-RELAT.SG-ABL/INS=3SG.ABS
 noun	neve	-ne-ve	RELAT.SG-GEN
+noun	nēve	-ne-ve	RELAT.SG-GEN
 noun	nevenež	-ne-ve-ne-ž	RELAT.SG-GEN-RELAT.SG-ERG
 noun	nevenežnna	-ne-ve-ne-ž=nna	RELAT.SG-GEN-RELAT.SG-ERG=3SG.ABS
 noun	neveož	-ne-ve-ož	RELAT.SG-GEN-EQU
@@ -417,6 +429,7 @@ noun	nibinidal	-ne-ve-ne-da=l	RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS
 noun	nibinida	-ne-ve-ne-da	RELAT.SG-GEN-RELAT.SG-DIR
 noun	nibinin	-ne-ve-ne-n	RELAT.SG-GEN-RELAT.SG-ABL/INS
 noun	nibuž	-ne-ve-ož	RELAT.SG-GEN-EQU
+noun	nidal	-ne-da=l	RELAT.SG-DIR=3PL.ABS
 noun	nida	-ne-da	RELAT.SG-DIR
 noun	nidanella	-ne-dan-i=lla	RELAT.SG-ABL-EPNTH=3PL.ABS
 noun	nidan	-ne-da=an	RELAT.SG-DIR=CON
@@ -426,11 +439,13 @@ noun	nidel	-ne=dil	ABL/INS=1PL.ABS
 noun	nidel	-ne-e=dil	RELAT.SG-DIR/LOC=1PL.ABS
 noun	nie	-i-ne	3POSS.SG-ABL/INS
 noun	nie	-i-ne-e	3POSS.SG-RELAT.SG-DIR/LOC
+noun	nīel	-ne-ž=l	RELAT.SG-ERG=3PL.ABS
 noun	ni	-e-ne	3POSS.SG-ABL/INS
 noun	nie	-ne	ABL/INS
 noun	nie	-ne-e	RELAT.SG-DIR/LOC
 noun	nīe	-ne-e	RELAT.SG-DIR/LOC
 noun	nie	-ne-ve	RELAT.SG-GEN
+noun	nie	-ne-ž	RELAT.SG-ERG
 noun	n	-i-n	3POSS.SG-ABL/INS
 noun	n	-i=n	3POSS.SG.ABS=3SG.ABS
 noun	n	-i=n	3POSS.SG.ABS=CON
@@ -447,6 +462,7 @@ noun	ninna	-ne-nna	RELAT.SG-EQU2
 noun	nin	-ne-n	RELAT.SG-ABL/INS
 noun	niramān	-ne-ra=m=an	RELAT.SG-COM=2SG.ABS=CON
 noun	niramān	-ne-ra=mān	RELAT.SG-COM=CON
+noun	nira	-ne-ra	RELAT.SG-COM
 noun	nišša	-ne-ž=nna	RELAT.SG-ERG=3SG.ABS
 noun	nivāl	-ne-va=l	RELAT.SG-DAT=3PL.ABS
 noun	niva	-ne-va	RELAT.SG-DAT
@@ -476,7 +492,6 @@ noun	oda	-oda	DIR
 noun	ōvadi	-o-vade	PAT-ADJ.NEG.ABS
 noun	ožl	-ož=l	ERG=3PL.ABS
 noun	ož	-ož	EQU
-noun	ož	-ož	ERG
 noun	p⸢fa?⸣an	-iffe-a=an	1POSS.SG-ESS=CON
 noun	p⸢fa?⸣an	-iffe-a=n	1POSS.SG-ESS=3SG.ABS
 noun	p⸢fa?⸣an	-v-va=an	2POSS.SG-DAT=CON
@@ -491,14 +506,18 @@ noun	ppūda	-iffu-da	1POSS.SG-DIR
 noun	ppuwan	-iffu-va=n	1POSS.SG-DAT=3SG.ABS
 noun	ra	-i-ra	3POSS.SG-COM
 noun	ra	-ra	COM
+noun	ša	-va	DAT
 noun	šša	-ž=nna	ERG=3SG.ABS
 noun	šši	-šši	2POSS.PL.ABS
 noun	-ta	-da	DIR
 noun	(-)tamašši		.ABS
 noun	ulēž	-o-l-ež	MOD.PAT-l-OPT
+noun	ul	=l	.ABS=3PL.ABS
+noun	ul	-ož=l	ERG=3PL.ABS
 noun	urulāež	-ur-o-l-ai-ž	ur-MOD.PAT-l-PURP-ž
 noun	ūwa	-u-a	MED-3A.SG
 noun	už	-i-ož	3POSS.SG-EQU
+noun	už	-ož	ERG
 noun	vaan	-va=an	DAT=CON
 noun	vaffa	-va=ffa	DAT=2PL.ABS
 noun	va	-i-va	3POSS.SG-DAT
@@ -509,11 +528,11 @@ noun	van	-va=n	DAT=3SG.ABS
 noun	va	-v-a	2POSS.SG-ESS
 noun	va	-va	DAT
 noun	važa	-v-až-a	2POSS-PL-DAT/ESS
+noun	važ	-ve-až	GEN-ERG
 noun	veaem	-ve-ae=m	GEN-INS=2SG.ABS
 noun	veae	-ve-ae	GEN-INS
 noun	veaev	-ve-ae=v	GEN-INS=2PL.ABS
 noun	vea	-ve-a	GEN-ESS
-noun	veaž	-ve-až	GEN-ERG
 noun	vella	-ve=lla	GEN=3PL.ABS
 noun	vema	-ve=ma	GEN=CON
 noun	venaažaan	-ve-na-až-a=an	GEN-RELAT.PL-PL-DAT/ESS=CON
@@ -551,6 +570,7 @@ noun	vveneed	-v-ve-ne-e=d	2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS
 noun	vvenenem	-v-ve-ne-ne=m	2POSS.SG-GEN-RELAT.SG-ABL/INS=2SG.ABS
 noun	vvenenem	-v-ve-ne-ne=m	2POSS.SG-GEN-RELAT.SG-ABL/INS=CON
 noun	vve	-v-ve	2POSS.SG-GEN
+noun	we	-ve	GEN
 noun	wta	-oda	DIR
 noun		-ž	ERG
 noun	ž	-i-ž	3POSS.SG-ERG

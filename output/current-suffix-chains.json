@@ -1130,6 +1130,10 @@
 			{
 				"segmentation": "-i-a",
 				"morphTag": "3POSS.SG-ESS"
+			},
+			{
+				"segmentation": "-va",
+				"morphTag": "DAT"
 			}
 		],
 		"oda": [
@@ -1154,6 +1158,10 @@
 		],
 		"n": [
 			{
+				"segmentation": "-a=n",
+				"morphTag": "ESS=3SG.ABS"
+			},
+			{
 				"segmentation": "-i-n",
 				"morphTag": "3POSS.SG-ABL/INS"
 			},
@@ -1168,6 +1176,10 @@
 			{
 				"segmentation": "-n",
 				"morphTag": "ABL/INS"
+			},
+			{
+				"segmentation": "=an",
+				"morphTag": ".ABS=CON"
 			},
 			{
 				"segmentation": "=n",
@@ -1692,6 +1704,10 @@
 				"morphTag": "RELAT.SG-GEN"
 			},
 			{
+				"segmentation": "-ne-ž",
+				"morphTag": "RELAT.SG-ERG"
+			},
+			{
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS"
 			}
@@ -1788,6 +1804,20 @@
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS"
 			}
 		],
+		"ba": [
+			{
+				"segmentation": "-i-va",
+				"morphTag": "3POSS.SG-DAT"
+			},
+			{
+				"segmentation": "-v-a",
+				"morphTag": "2POSS.SG-ESS"
+			},
+			{
+				"segmentation": "-va",
+				"morphTag": "DAT"
+			}
+		],
 		"ni": [
 			{
 				"segmentation": "-e-ne",
@@ -1810,10 +1840,6 @@
 			{
 				"segmentation": "-ož",
 				"morphTag": "EQU"
-			},
-			{
-				"segmentation": "-ož",
-				"morphTag": "ERG"
 			}
 		],
 		"iažal": [
@@ -1832,6 +1858,12 @@
 			{
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT"
+			}
+		],
+		"nin": [
+			{
+				"segmentation": "-ne-n",
+				"morphTag": "RELAT.SG-ABL/INS"
 			}
 		],
 		"av": [
@@ -1874,19 +1906,13 @@
 				"morphTag": "3POSS.SG-ERG"
 			}
 		],
-		"nin": [
-			{
-				"segmentation": "-ne-n",
-				"morphTag": "RELAT.SG-ABL/INS"
-			}
-		],
 		"iaž": [
 			{
 				"segmentation": "-i-až",
 				"morphTag": "3POSS-PL.ABS"
 			}
 		],
-		"ġe": [
+		"ġi": [
 			{
 				"segmentation": "-ġe",
 				"morphTag": "ADJ.ABS"
@@ -2034,6 +2060,10 @@
 		],
 		"nella": [
 			{
+				"segmentation": "-ne-ž=lla",
+				"morphTag": "RELAT.SG-ERG=3PL.ABS"
+			},
+			{
 				"segmentation": "-ne=lla",
 				"morphTag": "ABL/INS=3PL.ABS"
 			}
@@ -2088,6 +2118,12 @@
 			{
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS"
+			}
+		],
+		"nēve": [
+			{
+				"segmentation": "-ne-ve",
+				"morphTag": "RELAT.SG-GEN"
 			}
 		],
 		"nevad": [
@@ -2268,7 +2304,7 @@
 				"morphTag": "ABL/INS=CON"
 			}
 		],
-		"veaž": [
+		"važ": [
 			{
 				"segmentation": "-ve-až",
 				"morphTag": "GEN-ERG"
@@ -2292,12 +2328,20 @@
 		],
 		"l": [
 			{
+				"segmentation": "-a=l",
+				"morphTag": "ESS=3PL.ABS"
+			},
+			{
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG.ABS=3PL.ABS"
 			},
 			{
 				"segmentation": "-i=l",
 				"morphTag": "3POSS.SG=3PL.ABS"
+			},
+			{
+				"segmentation": "-ž=l",
+				"morphTag": "ERG=3PL.ABS"
 			},
 			{
 				"segmentation": "=l",
@@ -2308,20 +2352,6 @@
 			{
 				"segmentation": "-a=nna",
 				"morphTag": "ESS=3SG.ABS"
-			}
-		],
-		"ba": [
-			{
-				"segmentation": "-i-va",
-				"morphTag": "3POSS.SG-DAT"
-			},
-			{
-				"segmentation": "-v-a",
-				"morphTag": "2POSS.SG-ESS"
-			},
-			{
-				"segmentation": "-va",
-				"morphTag": "DAT"
 			}
 		],
 		"buž": [
@@ -2394,22 +2424,34 @@
 				"morphTag": "3POSS-PL-DAT/ESS=CON"
 			}
 		],
-		"ġenama": [
+		"ḫenāma": [
 			{
 				"segmentation": "-ġe-na=ma",
 				"morphTag": "ADJ-RELAT.PL.ABS=CON"
 			}
 		],
-		"ġenamma": [
+		"ḫināma": [
+			{
+				"segmentation": "-ġe-na=ma",
+				"morphTag": "ADJ-RELAT.PL.ABS=CON"
+			}
+		],
+		"ḫīnamma": [
 			{
 				"segmentation": "-ġe-na=mma",
 				"morphTag": "ADJ-RELAT.PL.ABS=CON"
 			}
 		],
-		"aan": [
+		"ša": [
 			{
-				"segmentation": "-a=an",
-				"morphTag": "ESS=CON"
+				"segmentation": "-va",
+				"morphTag": "DAT"
+			}
+		],
+		"ġe": [
+			{
+				"segmentation": "-ġe",
+				"morphTag": "ADJ.ABS"
 			}
 		],
 		"binažadel": [
@@ -2508,6 +2550,16 @@
 				"morphTag": "3POSS.SG-ABL/INS"
 			}
 		],
+		"ul": [
+			{
+				"segmentation": "-ož=l",
+				"morphTag": "ERG=3PL.ABS"
+			},
+			{
+				"segmentation": "=l",
+				"morphTag": ".ABS=3PL.ABS"
+			}
+		],
 		"ōvadi": [
 			{
 				"segmentation": "-o-vade",
@@ -2564,22 +2616,16 @@
 				"morphTag": "ABL/INS=1PL.ABS"
 			}
 		],
-		"nežlla": [
-			{
-				"segmentation": "-ne-ž=lla",
-				"morphTag": "RELAT.SG-ERG=3PL.ABS"
-			}
-		],
-		"nedal": [
+		"nidal": [
 			{
 				"segmentation": "-ne-da=l",
 				"morphTag": "RELAT.SG-DIR=3PL.ABS"
 			}
 		],
-		"nežnna": [
+		"nīel": [
 			{
-				"segmentation": "-ne-ž=nna",
-				"morphTag": "RELAT.SG-ERG=3SG.ABS"
+				"segmentation": "-ne-ž=l",
+				"morphTag": "RELAT.SG-ERG=3PL.ABS"
 			}
 		],
 		"ffaan": [
@@ -2670,7 +2716,7 @@
 				"morphTag": "RELAT.PL.ABS=CON"
 			}
 		],
-		"nera": [
+		"nira": [
 			{
 				"segmentation": "-ne-ra",
 				"morphTag": "RELAT.SG-COM"
@@ -2686,6 +2732,12 @@
 			{
 				"segmentation": "-i-až=nna",
 				"morphTag": "3POSS-PL.ABS=3SG.ABS"
+			}
+		],
+		"nedal": [
+			{
+				"segmentation": "-ne-da=l",
+				"morphTag": "RELAT.SG-DIR=3PL.ABS"
 			}
 		],
 		"nažan": [
@@ -2752,6 +2804,12 @@
 				"morphTag": "INS=3PL.ABS"
 			}
 		],
+		"nežlla": [
+			{
+				"segmentation": "-ne-ž=lla",
+				"morphTag": "RELAT.SG-ERG=3PL.ABS"
+			}
+		],
 		"naža": [
 			{
 				"segmentation": "-na-až-a",
@@ -2770,6 +2828,12 @@
 				"morphTag": "RELAT.SG-DAT=1PL.ABS"
 			}
 		],
+		"nēda": [
+			{
+				"segmentation": "-ne-da",
+				"morphTag": "RELAT.SG-DIR"
+			}
+		],
 		"iffuve": [
 			{
 				"segmentation": "-iffu-ve",
@@ -2780,6 +2844,12 @@
 			{
 				"segmentation": "-i-ane",
 				"morphTag": "3POSS.SG-ABL/INS"
+			}
+		],
+		"we": [
+			{
+				"segmentation": "-ve",
+				"morphTag": "GEN"
 			}
 		],
 		"ffi": [
@@ -2862,6 +2932,16 @@
 			{
 				"segmentation": "-i-ož",
 				"morphTag": "3POSS.SG-EQU"
+			},
+			{
+				"segmentation": "-ož",
+				"morphTag": "ERG"
+			}
+		],
+		"aan": [
+			{
+				"segmentation": "-a=an",
+				"morphTag": "ESS=CON"
 			}
 		],
 		"induž": [
@@ -2982,6 +3062,12 @@
 				"morphTag": "ADJ-RELAT.PL.ABS"
 			}
 		],
+		"nežnna": [
+			{
+				"segmentation": "-ne-ž=nna",
+				"morphTag": "RELAT.SG-ERG=3SG.ABS"
+			}
+		],
 		"ni(-)nešša": [
 			{
 				"segmentation": "-ne-e",
@@ -3008,6 +3094,12 @@
 			{
 				"segmentation": "-ne-ve-ne-n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ABL/INS"
+			}
+		],
+		"nera": [
+			{
+				"segmentation": "-ne-ra",
+				"morphTag": "RELAT.SG-COM"
 			}
 		],
 		"(-)ḫāduldašši": [
@@ -3252,13 +3344,13 @@
 				"morphTag": "RELAT.PL-PL-COM"
 			}
 		],
-		"ġenež": [
+		"ġinaž": [
 			{
 				"segmentation": "-ġe-ne-ž",
 				"morphTag": "ADJ-RELAT.SG-ERG"
 			}
 		],
-		"ġenevena": [
+		"ġinibina": [
 			{
 				"segmentation": "-ġe-ne-ve-na",
 				"morphTag": "ADJ-RELAT.SG-GEN-RELAT.PL.ABS"
@@ -3358,6 +3450,12 @@
 			{
 				"segmentation": "-ve-a",
 				"morphTag": "GEN-ESS"
+			}
+		],
+		"ḫina": [
+			{
+				"segmentation": "-ġe-na",
+				"morphTag": "ADJ-RELAT.PL.ABS"
 			}
 		],
 		"āma": [
@@ -3560,6 +3658,12 @@
 			{
 				"segmentation": "-ar-ašt-ed-a",
 				"morphTag": "ITER-RES-FUT-3A.SG"
+			}
+		],
+		"nāžōž": [
+			{
+				"segmentation": "-na-až-ož",
+				"morphTag": "RELAT.PL-PL-ERG"
 			}
 		],
 		"edaan": [

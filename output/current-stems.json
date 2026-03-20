@@ -1688,7 +1688,7 @@
 				"translation": "DN"
 			}
 		],
-		"Teššob": [
+		"teššob": [
 			{
 				"form": "Teššob",
 				"translation": "DN"
@@ -1718,7 +1718,7 @@
 				"translation": "zweifach"
 			}
 		],
-		"Kužuġ": [
+		"kužuġ": [
 			{
 				"form": "Kužuġ",
 				"translation": "DN"
@@ -1834,7 +1834,7 @@
 				"translation": "DN"
 			}
 		],
-		"Šavoška": [
+		"šavoška": [
 			{
 				"form": "Šavoška",
 				"translation": "DN"
@@ -1880,7 +1880,7 @@
 				"translation": "Baum; Holz"
 			}
 		],
-		"Kalgamiž": [
+		"kalgamiž": [
 			{
 				"form": "Kalgamiž",
 				"translation": "Gilgamesh (PN; DN)"
@@ -2266,13 +2266,13 @@
 				"translation": "DN"
 			}
 		],
-		"Šimige": [
+		"šimige": [
 			{
 				"form": "Šimige",
 				"translation": "DN"
 			}
 		],
-		"Šimiga": [
+		"šimiga": [
 			{
 				"form": "Šimiga",
 				"translation": "DN"
@@ -2438,7 +2438,7 @@
 				"translation": "stark; der Starke"
 			}
 		],
-		"Adal.šen": [
+		"adal.šen": [
 			{
 				"form": "Adal.šen",
 				"translation": "DN"
@@ -2570,12 +2570,6 @@
 				"translation": "u.B."
 			}
 		],
-		"Aigaldu": [
-			{
-				"form": "Aigaldu",
-				"translation": "DN"
-			}
-		],
 		"aigaldu": [
 			{
 				"form": "Aigaldu",
@@ -2583,12 +2577,6 @@
 			}
 		],
 		"aiu": [
-			{
-				"form": "Aiu",
-				"translation": "DN"
-			}
-		],
-		"Aiu": [
 			{
 				"form": "Aiu",
 				"translation": "DN"
@@ -2654,7 +2642,7 @@
 				"translation": "DN"
 			}
 		],
-		"Āllāni": [
+		"āllāni": [
 			{
 				"form": "Āllāni",
 				"translation": "DN"
@@ -2774,7 +2762,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Amarikkuwa": [
+		"amarikkuwa": [
 			{
 				"form": "Amarikkuwa",
 				"translation": "GN"
@@ -2936,13 +2924,13 @@
 				"translation": "u.B."
 			}
 		],
-		"Apsižnā": [
+		"apsižnā": [
 			{
 				"form": "Apsižnā",
 				"translation": "GN"
 			}
 		],
-		"Apsu": [
+		"apsu": [
 			{
 				"form": "Apsu",
 				"translation": "GN"
@@ -2954,13 +2942,13 @@
 				"translation": "Schlange"
 			}
 		],
-		"Aranziḫ": [
+		"aranziḫ": [
 			{
 				"form": "Aranziḫ",
 				"translation": "GN"
 			}
 		],
-		"Aranziġō": [
+		"aranziġō": [
 			{
 				"form": "Aranziġō",
 				"translation": "GN"
@@ -3838,7 +3826,7 @@
 				"translation": "PN"
 			}
 		],
-		"Ežeb.Ābu": [
+		"ežeb.ābu": [
 			{
 				"form": "Ežeb.Ābu",
 				"translation": "PN"
@@ -4112,7 +4100,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Fāzanigar": [
+		"fāzanigar": [
 			{
 				"form": "Fāzanigar",
 				"translation": "PN"
@@ -4384,7 +4372,7 @@
 				"translation": "Inneres; Mitte; innere"
 			}
 		],
-		"Igingališ": [
+		"igingališ": [
 			{
 				"form": "Igingališ",
 				"translation": "GN"
@@ -4432,25 +4420,19 @@
 				"translation": "Eid; Schwur"
 			}
 		],
-		"Ilamiġorra": [
+		"ilamiġorra": [
 			{
 				"form": "Ilamiġorra",
 				"translation": "PN"
 			}
 		],
-		"Ilāvā": [
+		"ilāvā": [
 			{
 				"form": "Ilāvā",
 				"translation": "GN"
 			}
 		],
 		"ilāv": [
-			{
-				"form": "Ilāvā",
-				"translation": "GN"
-			}
-		],
-		"ilāvā": [
 			{
 				"form": "Ilāvā",
 				"translation": "GN"
@@ -4480,7 +4462,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Immarvaġe": [
+		"immarvaġe": [
 			{
 				"form": "Immarvaġe",
 				"translation": "DN"
@@ -4786,12 +4768,6 @@
 				"translation": "DN"
 			}
 		],
-		"Išḫara": [
-			{
-				"form": "Išḫara",
-				"translation": "DN"
-			}
-		],
 		"išḫoni": [
 			{
 				"form": "išḫoni",
@@ -5086,19 +5062,13 @@
 				"translation": "Spruch"
 			}
 		],
-		"Kaška": [
+		"kaška": [
 			{
 				"form": "Kaška",
 				"translation": "GN"
 			}
 		],
 		"kašk": [
-			{
-				"form": "Kaška",
-				"translation": "GN"
-			}
-		],
-		"kaška": [
 			{
 				"form": "Kaška",
 				"translation": "GN"
@@ -5123,12 +5093,6 @@
 			}
 		],
 		"kažiari": [
-			{
-				"form": "Kažiari",
-				"translation": "GN"
-			}
-		],
-		"Kažiari": [
 			{
 				"form": "Kažiari",
 				"translation": "GN"
@@ -5189,12 +5153,6 @@
 			}
 		],
 		"kešše": [
-			{
-				"form": "Kešše",
-				"translation": "PN"
-			}
-		],
-		"Kešše": [
 			{
 				"form": "Kešše",
 				"translation": "PN"
@@ -5482,7 +5440,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Kubaba": [
+		"kubaba": [
 			{
 				"form": "Kubaba",
 				"translation": "DN"
@@ -5634,12 +5592,6 @@
 				"translation": "Kumarbi (DN)"
 			}
 		],
-		"Kumarve": [
-			{
-				"form": "Kumarve",
-				"translation": "Kumarbi (DN)"
-			}
-		],
 		"kumarve": [
 			{
 				"form": "Kumarve",
@@ -5652,7 +5604,7 @@
 				"translation": "Turm"
 			}
 		],
-		"Kummene": [
+		"kummene": [
 			{
 				"form": "Kumme+ne",
 				"translation": "GN"
@@ -5798,7 +5750,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Kužaġ": [
+		"kužaġ": [
 			{
 				"form": "Kužaġ",
 				"translation": "DN"
@@ -6148,7 +6100,7 @@
 				"translation": "Klagepriester"
 			}
 		],
-		"Laġlaḫḫi": [
+		"laġlaḫḫi": [
 			{
 				"form": "Laġlaḫḫi",
 				"translation": "GN"
@@ -6434,7 +6386,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Mužoni": [
+		"mužoni": [
 			{
 				"form": "Mužoni",
 				"translation": "DN"
@@ -6566,12 +6518,6 @@
 				"translation": "PN"
 			}
 		],
-		"Mēgi": [
-			{
-				"form": "Mēgi",
-				"translation": "PN"
-			}
-		],
 		"mēri": [
 			{
 				"form": "mēri",
@@ -6620,19 +6566,11 @@
 				"translation": "DN"
 			}
 		],
-		"Nabari": [
+		"nabari": [
 			{
 				"form": "Nabari",
 				"translation": "DN"
-			}
-		],
-		"Nabarbi": [
-			{
-				"form": "Nabarbi",
-				"translation": "DN"
-			}
-		],
-		"nabari": [
+			},
 			{
 				"form": "nab+ar+i",
 				"translation": "u.B."
@@ -6752,7 +6690,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Naġmazuli": [
+		"naġmazuli": [
 			{
 				"form": "Naġmazuli",
 				"translation": "DN"
@@ -6876,13 +6814,13 @@
 				"translation": "u.B."
 			}
 		],
-		"Nigallu": [
+		"nigallu": [
 			{
 				"form": "Nigallu",
 				"translation": "DN"
 			}
 		],
-		"Nigalo": [
+		"nigalo": [
 			{
 				"form": "Nigalo",
 				"translation": "DN"
@@ -6895,12 +6833,6 @@
 			}
 		],
 		"nikkal": [
-			{
-				"form": "Nikkal",
-				"translation": "DN"
-			}
-		],
-		"Nikkal": [
 			{
 				"form": "Nikkal",
 				"translation": "DN"
@@ -7226,12 +7158,6 @@
 				"translation": "Gabe"
 			}
 		],
-		"Ninuwa": [
-			{
-				"form": "Ninuwa",
-				"translation": "GN"
-			}
-		],
 		"nīnuwa": [
 			{
 				"form": "Ninuwa",
@@ -7286,7 +7212,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Nōġašše": [
+		"nōġašše": [
 			{
 				"form": "Nōġašše",
 				"translation": "GN"
@@ -7852,13 +7778,7 @@
 				"translation": "GN"
 			}
 		],
-		"Purandi": [
-			{
-				"form": "Purandi",
-				"translation": "GN"
-			}
-		],
-		"Puranziḫ": [
+		"puranziḫ": [
 			{
 				"form": "Puranziḫ",
 				"translation": "GN"
@@ -7877,12 +7797,6 @@
 			}
 		],
 		"purra": [
-			{
-				"form": "Purra",
-				"translation": "PN"
-			}
-		],
-		"Purra": [
 			{
 				"form": "Purra",
 				"translation": "PN"
@@ -8302,7 +8216,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Pōranade": [
+		"pōranade": [
 			{
 				"form": "Pōranade",
 				"translation": "GN"
@@ -8398,7 +8312,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Sarmade": [
+		"sarmade": [
 			{
 				"form": "Sarmade",
 				"translation": "GN"
@@ -8912,7 +8826,7 @@
 				"translation": "PN"
 			}
 		],
-		"Tado.Ḫeba": [
+		"tado.ḫeba": [
 			{
 				"form": "Tado.Ḫeba",
 				"translation": "PN"
@@ -8960,7 +8874,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Talmošše": [
+		"talmošše": [
 			{
 				"form": "Talmošše",
 				"translation": "GN"
@@ -9074,7 +8988,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Tapšuwari": [
+		"tapšuwari": [
 			{
 				"form": "Tapšuwari",
 				"translation": "DN"
@@ -9342,7 +9256,7 @@
 				"translation": "PN"
 			}
 		],
-		"Tažmi.šarri": [
+		"tažmi.šarri": [
 			{
 				"form": "Tažmi.šarri",
 				"translation": "PN"
@@ -9704,7 +9618,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Tugriž": [
+		"tugriž": [
 			{
 				"form": "Tugriž",
 				"translation": "PN"
@@ -10348,19 +10262,13 @@
 				"translation": "GN"
 			}
 		],
-		"Ubilbaeži": [
-			{
-				"form": "Ubilbaeži",
-				"translation": "GN"
-			}
-		],
 		"ubindi": [
 			{
 				"form": "ubindi",
 				"translation": "u.B."
 			}
 		],
-		"Ubip.tēšši": [
+		"ubip.tēšši": [
 			{
 				"form": "Ubip.tēšši",
 				"translation": "PN"
@@ -10388,7 +10296,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Udip.šarra": [
+		"udip.šarra": [
 			{
 				"form": "Udip.šarra",
 				"translation": "PN"
@@ -10424,7 +10332,7 @@
 				"translation": "GN"
 			}
 		],
-		"Uenawa": [
+		"uenawa": [
 			{
 				"form": "Uenawa",
 				"translation": "GN"
@@ -10503,12 +10411,6 @@
 			}
 		],
 		"umbu": [
-			{
-				"form": "Umbu",
-				"translation": "DN"
-			}
-		],
-		"Umbu": [
 			{
 				"form": "Umbu",
 				"translation": "DN"
@@ -10874,7 +10776,7 @@
 				"translation": "DN"
 			}
 		],
-		"Ea": [
+		"ea": [
 			{
 				"form": "Ea",
 				"translation": "DN"
@@ -10892,7 +10794,7 @@
 				"translation": "Ea (DN)"
 			}
 		],
-		"Ea.šarri": [
+		"ea.šarri": [
 			{
 				"form": "Ea.šarri",
 				"translation": "DN"
@@ -10999,12 +10901,6 @@
 			}
 		],
 		"āllani": [
-			{
-				"form": "Āllāni",
-				"translation": "DN"
-			}
-		],
-		"āllāni": [
 			{
 				"form": "Āllāni",
 				"translation": "DN"
@@ -11478,12 +11374,6 @@
 				"translation": "u.B."
 			}
 		],
-		"Ēbla": [
-			{
-				"form": "Ēbla",
-				"translation": "GN"
-			}
-		],
 		"īllul": [
 			{
 				"form": "īll+uli",
@@ -11544,14 +11434,12 @@
 		],
 		"ōrgi": [
 			{
-				"form": "ōrgi",
-				"translation": "u.B."
-			}
-		],
-		"Ōrgi": [
-			{
 				"form": "Ōrgi",
 				"translation": "GN"
+			},
+			{
+				"form": "ōrgi",
+				"translation": "u.B."
 			}
 		],
 		"ōrġadi": [
@@ -11698,7 +11586,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Šabinuwa": [
+		"šabinuwa": [
 			{
 				"form": "Šabinuwa",
 				"translation": "GN"
@@ -11920,7 +11808,7 @@
 				"translation": "Hälfte"
 			}
 		],
-		"Šaġurunuwa": [
+		"šaġurunuwa": [
 			{
 				"form": "Šaġurunuwa",
 				"translation": "PN"
@@ -12286,12 +12174,6 @@
 				"translation": "GN"
 			}
 		],
-		"Šidarbu": [
-			{
-				"form": "Šidarbu",
-				"translation": "GN"
-			}
-		],
 		"šidarn": [
 			{
 				"form": "šid+ar+ni",
@@ -12424,7 +12306,7 @@
 				"translation": "Zwilling?"
 			}
 		],
-		"Šinut": [
+		"šinut": [
 			{
 				"form": "Šinut",
 				"translation": "GN"
@@ -13436,19 +13318,13 @@
 				"translation": "u.B"
 			}
 		],
-		"Ḫalba": [
+		"ḫalba": [
 			{
 				"form": "Ḫalba",
 				"translation": "GN"
 			}
 		],
 		"ḫalb": [
-			{
-				"form": "Ḫalba",
-				"translation": "GN"
-			}
-		],
-		"ḫalba": [
 			{
 				"form": "Ḫalba",
 				"translation": "GN"
@@ -13752,7 +13628,7 @@
 				"translation": "Öl"
 			}
 		],
-		"Ḫažimari": [
+		"ḫažimari": [
 			{
 				"form": "Ḫažimari",
 				"translation": "GN"
@@ -13771,12 +13647,6 @@
 			}
 		],
 		"ḫebad": [
-			{
-				"form": "Ḫebad",
-				"translation": "DN"
-			}
-		],
-		"Ḫebad": [
 			{
 				"form": "Ḫebad",
 				"translation": "DN"
@@ -14020,10 +13890,14 @@
 				"translation": "u.B."
 			}
 		],
-		"Ḫōde": [
+		"ḫōde": [
 			{
 				"form": "Ḫōde",
 				"translation": "DN"
+			},
+			{
+				"form": "ḫōde",
+				"translation": "u.B."
 			}
 		],
 		"ḫoweni": [
@@ -14294,7 +14168,7 @@
 				"translation": "u.B."
 			}
 		],
-		"Ḫēbādu": [
+		"ḫēbādu": [
 			{
 				"form": "Ḫēbādu",
 				"translation": "DN"
@@ -14426,20 +14300,10 @@
 				"translation": "Gebet"
 			}
 		],
-		"Ḫōdellori": [
+		"ḫōdellori": [
 			{
 				"form": "Ḫōdellori",
 				"translation": "DN"
-			}
-		],
-		"ḫōde": [
-			{
-				"form": "Ḫōde",
-				"translation": "DN"
-			},
-			{
-				"form": "ḫōde",
-				"translation": "u.B."
 			}
 		],
 		"tōġuli": [
