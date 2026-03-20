@@ -685,9 +685,10 @@
 	},
 	{
 		"trans": "t]uma",
-		"mrp1": "te-u=ma @ sprechen @ MED=CON @ verb @ ",
-		"mrp2": "te-o-m=ma @ sprechen @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "te-o=ma @ sprechen @ MOD.PAT=CON @ verb @ "
+		"mrp1": "te-o+m+ai @ sprechen @ CVB @ verb @ ",
+		"mrp2": "te-u=ma @ sprechen @ MED=CON @ verb @ ",
+		"mrp3": "te-o-m=ma @ sprechen @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "te-o=ma @ sprechen @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "t]unix[",
@@ -2633,10 +2634,7 @@
 	},
 	{
 		"trans": "t]ānumain",
-		"mrp1": "tānuma-i-en @  @ MOD.AG-3JUSS @ verb @ ",
-		"mrp2": "tānuma-i-n @  @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp3": "tānuma-i=n @  @ { a → ANTIP=3SG.ABS} { b → ANTIP=CON} { c → TR.IMP=3SG.ABS} { d → TR.IMP=CON} @ verb @ ",
-		"mrp4": "tānuma-e=n @  @ { a → STAT=3SG.ABS} { b → STAT=CON} @ verb @ "
+		"mrp1": "tān-o+m+ai-n @ machen @ CVB-n @ verb @ "
 	},
 	{
 		"trans": "t]āri",
@@ -3602,15 +3600,18 @@
 		"mrp3": "šum-i-a @ u.B. @ TR-3A.SG @ verb @ ",
 		"mrp4": "šum-a @ u.B. @ { a → 3A.SG} { b → ESS} { c → INT} { d → INT.IMP} @ verb @ ",
 		"mrp5": "šumi-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
-		"mrp6": "ši-u=ma @ u.B. @ MED=CON @ verb @ ",
-		"mrp7": "šī-u=ma @ beobachten @ MED=CON @ verb @ ",
-		"mrp8": "eġ+epš-u=ma @ lähmen? @ MED=CON @ verb @ ",
-		"mrp9": "ši-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp10": "šī-o-m=ma @ beobachten @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp11": "eġ+epš-o-m=ma @ lähmen? @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp12": "ši-o=ma @ u.B. @ MOD.PAT=CON @ verb @ ",
-		"mrp13": "šī-o=ma @ beobachten @ MOD.PAT=CON @ verb @ ",
-		"mrp14": "eġ+epš-o=ma @ lähmen? @ MOD.PAT=CON @ verb @ "
+		"mrp6": "ši-o+m+ai @ u.B. @ CVB @ verb @ ",
+		"mrp7": "šī-o+m+ai @ beobachten @ CVB @ verb @ ",
+		"mrp8": "eġ+epš-o+m+ai @ lähmen? @ CVB @ verb @ ",
+		"mrp9": "ši-u=ma @ u.B. @ MED=CON @ verb @ ",
+		"mrp10": "šī-u=ma @ beobachten @ MED=CON @ verb @ ",
+		"mrp11": "eġ+epš-u=ma @ lähmen? @ MED=CON @ verb @ ",
+		"mrp12": "ši-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp13": "šī-o-m=ma @ beobachten @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp14": "eġ+epš-o-m=ma @ lähmen? @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp15": "ši-o=ma @ u.B. @ MOD.PAT=CON @ verb @ ",
+		"mrp16": "šī-o=ma @ beobachten @ MOD.PAT=CON @ verb @ ",
+		"mrp17": "eġ+epš-o=ma @ lähmen? @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "šaižapḫe",
@@ -7420,15 +7421,17 @@
 	},
 	{
 		"trans": "lipparuma",
-		"mrp1": "lippar-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "lippar-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "lippar-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "lippar-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "lippar-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "lippar-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "lippar-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "lipparuma",
-		"mrp1": "lippar-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "lippar-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "lippar-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "lippar-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "lippar-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "lippar-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "lippar-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "lilu[renna",
@@ -8577,15 +8580,17 @@
 	},
 	{
 		"trans": "ša]rruma",
-		"mrp1": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
-		"mrp2": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
+		"mrp1": "šarr-o+m+ai @ u.B. @ CVB @ verb @ ",
+		"mrp2": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "šar[ruma",
-		"mrp1": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
-		"mrp2": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
+		"mrp1": "šarr-o+m+ai @ u.B. @ CVB @ verb @ ",
+		"mrp2": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "šar[rumm]a",
@@ -8620,9 +8625,10 @@
 	},
 	{
 		"trans": "šarruma",
-		"mrp1": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
-		"mrp2": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
+		"mrp1": "šarr-o+m+ai @ u.B. @ CVB @ verb @ ",
+		"mrp2": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "šarrumma",
@@ -11654,7 +11660,8 @@
 	},
 	{
 		"trans": "ḫattinimma",
-		"mrp1": "ḫattin-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "ḫattin-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "ḫattin-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "ḫattu[ġina",
@@ -12739,7 +12746,8 @@
 	},
 	{
 		"trans": "](-)imm[a",
-		"mrp1": "(-)-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "(-)-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "(-)-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "](-)ip(-)[",
@@ -13478,7 +13486,8 @@
 	},
 	{
 		"trans": "]askaimma",
-		"mrp1": "aska-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "aska-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "aska-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "]asx-ḫenira",
@@ -18230,7 +18239,7 @@
 	},
 	{
 		"trans": "]x(-)mai",
-		"mrp1": "x(-)m-ae @  @ INS @ ADJ @ "
+		"mrp1": "x(-)-o+m+ai @  @ CVB @ verb @ "
 	},
 	{
 		"trans": "]x(-)nabri",
@@ -25948,7 +25957,7 @@
 	},
 	{
 		"trans": "[ašḫu]mai",
-		"mrp1": "ašḫum-ae @  @ INS @ ADJ @ "
+		"mrp1": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
 	},
 	{
 		"trans": "[ašḫu]žikkunnini[bi",
@@ -27271,9 +27280,10 @@
 	},
 	{
 		"trans": "[n]aškuruma",
-		"mrp1": "naškur-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "naškur-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "naškur-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "naškur-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "naškur-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "naškur-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "naškur-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "[n]aḫḫab",
@@ -28666,7 +28676,8 @@
 	},
 	{
 		"trans": "[šavalanimm]a",
-		"mrp1": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "šavalan-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "[š]ālānn[i]",
@@ -29780,9 +29791,10 @@
 	},
 	{
 		"trans": "š[arruma]",
-		"mrp1": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
-		"mrp2": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
+		"mrp1": "šarr-o+m+ai @ u.B. @ CVB @ verb @ ",
+		"mrp2": "šarr-u=ma @ u.B. @ MED=CON @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "šarr-o=ma @ u.B. @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "šaōškaž",
@@ -30221,9 +30233,10 @@
 	},
 	{
 		"trans": "iližarrum[a",
-		"mrp1": "iližarr-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "iližarr-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "iližarr-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "iližarr-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "iližarr-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "iližarr-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "iližarr-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "1",
@@ -31406,9 +31419,10 @@
 	},
 	{
 		"trans": "tuiduma",
-		"mrp1": "tuid-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "tuid-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tuid-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "tuidu",
@@ -43645,7 +43659,8 @@
 	},
 	{
 		"trans": "abix-pimma",
-		"mrp1": "abix-p-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "abix-p-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "abix-p-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "ar]ul[āuž",
@@ -46619,9 +46634,10 @@
 	},
 	{
 		"trans": "anduruma",
-		"mrp1": "andur-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "andur-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "andur-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "andur-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "andur-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "andur-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "andur-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "andōmanni",
@@ -47180,7 +47196,8 @@
 	},
 	{
 		"trans": "ardenimma",
-		"mrp1": "arden-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "arden-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "arden-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "ardeniven[a]",
@@ -48218,7 +48235,7 @@
 	},
 	{
 		"trans": "ašḫōmai",
-		"mrp1": "ašḫōm-ae @  @ INS @ ADJ @ "
+		"mrp1": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
 	},
 	{
 		"trans": "ašḫōmainē",
@@ -49210,8 +49227,9 @@
 	},
 	{
 		"trans": "tānimma",
-		"mrp1": "tāni=mma @ u.B. @ { a → .ABS=2SG.ABS} { b → .ABS=CON} @ noun @ ",
-		"mrp2": "tān-i=mma @ machen @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tān-i+m+ai @ machen @ CVB @ verb @ ",
+		"mrp2": "tāni=mma @ u.B. @ { a → .ABS=2SG.ABS} { b → .ABS=CON} @ noun @ ",
+		"mrp3": "tān-i=mma @ machen @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "tāninballa",
@@ -49244,7 +49262,7 @@
 	},
 	{
 		"trans": "tānumai",
-		"mrp1": "tānum-ae @  @ INS @ ADJ @ "
+		"mrp1": "tān-o+m+ai @ machen @ CVB @ verb @ "
 	},
 	{
 		"trans": "tānumā[gāi",
@@ -49263,7 +49281,7 @@
 	},
 	{
 		"trans": "tānumāi",
-		"mrp1": "tānum-i-ai @  @ MOD.AG-PURP @ verb @ "
+		"mrp1": "tānu-o+m+ai @  @ CVB @ verb @ "
 	},
 	{
 		"trans": "tānōla",
@@ -49889,7 +49907,8 @@
 	},
 	{
 		"trans": "tanibannimma",
-		"mrp1": "tanibann-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tanibann-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tanibann-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "taniġia",
@@ -50052,7 +50071,8 @@
 	},
 	{
 		"trans": "ta]nibannimma",
-		"mrp1": "tanibann-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tanibann-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tanibann-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "ta]inuiā",
@@ -50190,15 +50210,17 @@
 	},
 	{
 		"trans": "tuiduma",
-		"mrp1": "tuid-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "tuid-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tuid-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "tuiduma",
-		"mrp1": "tuid-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "tuid-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tuid-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "tuidu",
@@ -50206,9 +50228,10 @@
 	},
 	{
 		"trans": "tuiduma",
-		"mrp1": "tuid-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "tuid-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tuid-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "tuid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "tuid-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "tuib[a]x",
@@ -50534,7 +50557,8 @@
 	},
 	{
 		"trans": "tulburimma",
-		"mrp1": "tulbur-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tulbur-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tulbur-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "tulburi]",
@@ -50621,7 +50645,8 @@
 	},
 	{
 		"trans": "tupšibinimma",
-		"mrp1": "tupšibin-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tupšibin-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tupšibin-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "tupširi",
@@ -50684,9 +50709,10 @@
 	},
 	{
 		"trans": "tuwidu[m]a",
-		"mrp1": "tuwid-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "tuwid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "tuwid-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "tuwid-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tuwid-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "tuwid-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "tuwid-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "tuwīnnāndi",
@@ -54916,9 +54942,10 @@
 	},
 	{
 		"trans": "kēluma",
-		"mrp1": "kēl-u=ma @ wohl sein; wohl machen @ MED=CON @ verb @ ",
-		"mrp2": "kēl-o-m=ma @ wohl sein; wohl machen @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "kēl-o=ma @ wohl sein; wohl machen @ MOD.PAT=CON @ verb @ "
+		"mrp1": "kēl-o+m+ai @ wohl sein; wohl machen @ CVB @ verb @ ",
+		"mrp2": "kēl-u=ma @ wohl sein; wohl machen @ MED=CON @ verb @ ",
+		"mrp3": "kēl-o-m=ma @ wohl sein; wohl machen @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "kēl-o=ma @ wohl sein; wohl machen @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "kēlu[m",
@@ -55134,9 +55161,10 @@
 	},
 	{
 		"trans": "keluma",
-		"mrp1": "kel-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "kel-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "kel-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "kel-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "kel-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "kel-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "kel-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "keluž",
@@ -63005,9 +63033,10 @@
 	},
 	{
 		"trans": "kōliuppuma",
-		"mrp1": "kōliupp-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "kōliupp-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "kōliupp-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "kōliupp-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "kōliupp-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "kōliupp-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "kōliupp-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "kōlugunan",
@@ -65065,7 +65094,8 @@
 	},
 	{
 		"trans": "mand]ukkaimma",
-		"mrp1": "mandukka-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "mandukka-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "mandukka-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "mandukka[ema",
@@ -65649,7 +65679,7 @@
 	},
 	{
 		"trans": "mema[i",
-		"mrp1": "mem-ae @  @ INS @ ADJ @ "
+		"mrp1": "me-o+m+ai @  @ CVB @ verb @ "
 	},
 	{
 		"trans": "medaġidan",
@@ -65701,7 +65731,7 @@
 	},
 	{
 		"trans": "memai",
-		"mrp1": "mem-ae @  @ INS @ ADJ @ "
+		"mrp1": "me-o+m+ai @  @ CVB @ verb @ "
 	},
 	{
 		"trans": "memi[škessi]",
@@ -71204,9 +71234,10 @@
 	},
 	{
 		"trans": "paġruma",
-		"mrp1": "paġr-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "paġr-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "paġr-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "paġr-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "paġr-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "paġr-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "paġr-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "paġrubādi",
@@ -71270,7 +71301,8 @@
 	},
 	{
 		"trans": "paġurimma",
-		"mrp1": "paġur-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "paġur-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "paġur-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "paġuri[m",
@@ -72998,9 +73030,10 @@
 	},
 	{
 		"trans": "parnaštuma",
-		"mrp1": "parnašt-u=ma @  @ MED=CON @ verb @ ",
-		"mrp2": "parnašt-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "parnašt-o=ma @  @ MOD.PAT=CON @ verb @ "
+		"mrp1": "parnašt-o+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "parnašt-u=ma @  @ MED=CON @ verb @ ",
+		"mrp3": "parnašt-o-m=ma @  @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "parnašt-o=ma @  @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "parni",
@@ -75960,7 +75993,8 @@
 	},
 	{
 		"trans": "tapsuġidimma",
-		"mrp1": "tapsuġid-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tapsuġid-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "tapsuġid-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "tapšedi",
@@ -78515,8 +78549,10 @@
 	},
 	{
 		"trans": "tunimma",
-		"mrp1": "tūn-i=mma @ vermögen; überwinden @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ ",
-		"mrp2": "ton-i=mma @ ausstatten @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "tūn-i+m+ai @ vermögen; überwinden @ CVB @ verb @ ",
+		"mrp2": "ton-i+m+ai @ ausstatten @ CVB @ verb @ ",
+		"mrp3": "tūn-i=mma @ vermögen; überwinden @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ ",
+		"mrp4": "ton-i=mma @ ausstatten @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "tunipp[ibina",
@@ -82109,9 +82145,10 @@
 	},
 	{
 		"trans": "faġrum[a",
-		"mrp1": "faġr-u=ma @ gut sein; gut machen @ MED=CON @ verb @ ",
-		"mrp2": "faġr-o-m=ma @ gut sein; gut machen @ TR.PFV-3A.SG=CON @ verb @ ",
-		"mrp3": "faġr-o=ma @ gut sein; gut machen @ MOD.PAT=CON @ verb @ "
+		"mrp1": "faġr-o+m+ai @ gut sein; gut machen @ CVB @ verb @ ",
+		"mrp2": "faġr-u=ma @ gut sein; gut machen @ MED=CON @ verb @ ",
+		"mrp3": "faġr-o-m=ma @ gut sein; gut machen @ TR.PFV-3A.SG=CON @ verb @ ",
+		"mrp4": "faġr-o=ma @ gut sein; gut machen @ MOD.PAT=CON @ verb @ "
 	},
 	{
 		"trans": "faġru[n",
@@ -82987,7 +83024,8 @@
 	},
 	{
 		"trans": "fōrilimma",
-		"mrp1": "fōril-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "fōril-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "fōril-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "fōrimi",
@@ -84735,7 +84773,8 @@
 	},
 	{
 		"trans": "sāžimma",
-		"mrp1": "sāž-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "sāž-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "sāž-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "sāžulia",
@@ -88909,11 +88948,13 @@
 	},
 	{
 		"trans": "šavala[ni]mma",
-		"mrp1": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "šavalan-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "šavalanimm[a]",
-		"mrp1": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "šavalan-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "šawri",
@@ -90027,7 +90068,8 @@
 	},
 	{
 		"trans": "šavalanimma",
-		"mrp1": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "šavalan-i+m+ai @  @ CVB @ verb @ ",
+		"mrp2": "šavalan-i=mma @  @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "šavūnia",
@@ -98633,8 +98675,10 @@
 	},
 	{
 		"trans": "ḫāžimma",
-		"mrp1": "ḫaž-i=mma @ hören @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ ",
-		"mrp2": "ḫāž-i=mma @ u.B. @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
+		"mrp1": "ḫaž-i+m+ai @ hören @ CVB @ verb @ ",
+		"mrp2": "ḫāž-i+m+ai @ u.B. @ CVB @ verb @ ",
+		"mrp3": "ḫaž-i=mma @ hören @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ ",
+		"mrp4": "ḫāž-i=mma @ u.B. @ { a → ANTIP=2SG.ABS} { b → TR.IMP=2SG.ABS} @ verb @ "
 	},
 	{
 		"trans": "ḫāžinduž",
@@ -103478,7 +103522,7 @@
 	},
 	{
 		"trans": "ḫugmāi",
-		"mrp1": "ḫugm-i-ai @  @ MOD.AG-PURP @ verb @ "
+		"mrp1": "ḫug-o+m+ai @  @ CVB @ verb @ "
 	},
 	{
 		"trans": "ḫulmab",

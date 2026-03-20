@@ -3940,6 +3940,10 @@
 		],
 		"uma": [
 			{
+				"segmentation": "-o+m+ai",
+				"morphTag": "CVB"
+			},
+			{
 				"segmentation": "-o-m=ma",
 				"morphTag": "TR.PFV-3A.SG=CON"
 			},
@@ -3950,6 +3954,16 @@
 			{
 				"segmentation": "-u=ma",
 				"morphTag": "MED=CON"
+			}
+		],
+		"umaīm": [
+			{
+				"segmentation": "-o+m+ai=m",
+				"morphTag": "CVB=2SG.ABS"
+			},
+			{
+				"segmentation": "-o+m+ai=m",
+				"morphTag": "CVB=CON"
 			}
 		],
 		"unna": [
@@ -4032,6 +4046,30 @@
 				"morphTag": "ol-MED"
 			}
 		],
+		"mai": [
+			{
+				"segmentation": "-o+m+ai",
+				"morphTag": "CVB"
+			}
+		],
+		"umain": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
+		"main": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
+		"umaīn": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
 		"umma": [
 			{
 				"segmentation": "-o-m=ma",
@@ -4064,6 +4102,36 @@
 				"morphTag": "CVB"
 			}
 		],
+		"māi": [
+			{
+				"segmentation": "-o+m+ai",
+				"morphTag": "CVB"
+			}
+		],
+		"umāin": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
+		"māin": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
+		"umāīn": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
+		"māīn": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			}
+		],
 		"wīb": [
 			{
 				"segmentation": "-i-b",
@@ -4092,6 +4160,12 @@
 			{
 				"segmentation": "-ol-a-šše",
 				"morphTag": "ol-3A.SG-NMLZ.ABS"
+			}
+		],
+		"ūmāin": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
 			}
 		],
 		"arillōm": [
@@ -4700,7 +4774,7 @@
 				"morphTag": "MOD.PAT-l-OPT"
 			}
 		],
-		"o+m+ailla": [
+		"omailla": [
 			{
 				"segmentation": "-o+m+ai=lla",
 				"morphTag": "CVB=3PL.ABS"
@@ -4830,6 +4904,12 @@
 			{
 				"segmentation": "-a=mma",
 				"morphTag": "INT=CON"
+			}
+		],
+		"umai": [
+			{
+				"segmentation": "-o+m+ai",
+				"morphTag": "CVB"
 			}
 		],
 		"ūlima": [
@@ -5272,6 +5352,16 @@
 				"morphTag": "RES-TR.IMP=3PL.ABS"
 			}
 		],
+		"īmāin": [
+			{
+				"segmentation": "-i+m+ai-n",
+				"morphTag": "CVB-n"
+			},
+			{
+				"segmentation": "-i+m+ai=n",
+				"morphTag": "CVB=3SG.ABS"
+			}
+		],
 		"enduž": [
 			{
 				"segmentation": "-ind-o-ež",
@@ -5291,6 +5381,10 @@
 			}
 		],
 		"imma": [
+			{
+				"segmentation": "-i+m+ai",
+				"morphTag": "CVB"
+			},
 			{
 				"segmentation": "-i=mma",
 				"morphTag": "ANTIP=2SG.ABS"
@@ -5726,6 +5820,12 @@
 			{
 				"segmentation": "-ur-o-m",
 				"morphTag": "ur-TR.PFV-3A.SG"
+			}
+		],
+		"imai": [
+			{
+				"segmentation": "-i+m+ai",
+				"morphTag": "CVB"
 			}
 		],
 		"annia": [
@@ -7418,6 +7518,16 @@
 				"morphTag": "MOD.PAT-l-PURP-ž"
 			}
 		],
+		"ōmain": [
+			{
+				"segmentation": "-o+m+ai-n",
+				"morphTag": "CVB-n"
+			},
+			{
+				"segmentation": "-o+m+ai=n",
+				"morphTag": "CVB=3SG.ABS"
+			}
+		],
 		"dukku": [
 			{
 				"segmentation": "-d-o-kko",
@@ -7476,6 +7586,12 @@
 			{
 				"segmentation": "-on-il-a",
 				"morphTag": "on-il-INT"
+			}
+		],
+		"ōmai": [
+			{
+				"segmentation": "-o+m+ai",
+				"morphTag": "CVB"
 			}
 		],
 		"ōšti": [
@@ -7882,6 +7998,18 @@
 				"morphTag": "až-il-1A.SG=2SG.ABS"
 			}
 		],
+		"immāl": [
+			{
+				"segmentation": "-i+m+ai=l",
+				"morphTag": "CVB=3PL.ABS"
+			}
+		],
+		"imāi": [
+			{
+				"segmentation": "-i+m+ai",
+				"morphTag": "CVB"
+			}
+		],
 		"aralla": [
 			{
 				"segmentation": "-ar-a=lla",
@@ -8032,6 +8160,12 @@
 				"morphTag": "MOD.AG-1JUSS"
 			}
 		],
+		"ulimāīn": [
+			{
+				"segmentation": "-ol-i+m+ai-n",
+				"morphTag": "ol-CVB-n"
+			}
+		],
 		"ōppul": [
 			{
 				"segmentation": "-uffu=l",
@@ -8078,10 +8212,22 @@
 				"morphTag": "až-MOD.AG-l-OPT"
 			}
 		],
+		"immal": [
+			{
+				"segmentation": "-i+m+ai=l",
+				"morphTag": "CVB=3PL.ABS"
+			}
+		],
 		"īdūl": [
 			{
 				"segmentation": "-id-o=l",
 				"morphTag": "PL.A-TR.PFV=3PL.ABS"
+			}
+		],
+		"īmai": [
+			{
+				"segmentation": "-i+m+ai",
+				"morphTag": "CVB"
 			}
 		],
 		"ištu": [
@@ -8108,6 +8254,12 @@
 			{
 				"segmentation": "-i+m+ai-n",
 				"morphTag": "CVB-n"
+			}
+		],
+		"emae": [
+			{
+				"segmentation": "-i+m+ai",
+				"morphTag": "CVB"
 			}
 		],
 		"oġoledaan": [
