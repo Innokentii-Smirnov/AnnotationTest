@@ -10,6 +10,9 @@ if tsc --outdir ../build; then
     "output/$dictionaryVersion.json" \
     "output/$dictionaryVersion-stems.json" \
     "output/$dictionaryVersion-suffix-chains.json" \
-    "output/$dictionaryVersion-stems.tsv" \
-    "output/$dictionaryVersion-suffix-chains.tsv"
+    "output/temp-stems.tsv" \
+    "output/temp-suffix-chains.tsv"
 fi
+sort --output="output/$dictionaryVersion-stems.tsv" "output/temp-stems.tsv"
+sort --output="output/$dictionaryVersion-suffix-chains.tsv" "output/temp-suffix-chains.tsv"
+rm output/temp-{stems,suffix-chains}.tsv
