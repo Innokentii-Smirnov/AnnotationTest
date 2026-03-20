@@ -15,6 +15,7 @@ import { SuffixChainInventories } from '../tlh/ui/src/xmlEditor/hur/segmentation
 const sep = ' ';
 const [
   dictionaryFilePath,
+  lookupConfigFilePath,
   infile,
   outfile,
   annotationsFileName,
@@ -45,12 +46,8 @@ const xmlWriteConfig: XmlWriteConfig = {
   }
 };
 
-const lookupConfig: LookupConfig = {
-  ignorePlene: false,
-  mergeLabials: false,
-  mergeMidAndHighVowels: false,
-  ignoreVoice: false,
-}
+const readLookupConfigString = fs.readFileSync(lookupConfigFilePath, 'utf8');
+const lookupConfig: LookupConfig = JSON.parse(readLookupConfigString);
 
 const lookupConfigString = JSON.stringify(lookupConfig);
 localStorage.setItem(lookupConfigKey, lookupConfigString);
