@@ -10,6 +10,7 @@ import { annotateHurrianWord, getLookupConfig, getStems, getSuffixChains }
 import { LookupConfig, lookupConfigKey } from '../tlh/ui/src/xmlEditor/lookupConfig';
 import { stringify } from 'csv-stringify';
 import { StemInventories } from '../tlh/ui/src/xmlEditor/hur/segmentation/stemInventories';
+import { SuffixChainInventories } from '../tlh/ui/src/xmlEditor/hur/segmentation/suffixChainInventories';
 
 const sep = ' ';
 const dictionaryFilePath = process.argv[2];
@@ -19,6 +20,7 @@ const annotationsFileName = process.argv[5];
 const stemsFileName = process.argv[6];
 const suffixChainsFileName = process.argv[7];
 const stemTableFileName = process.argv[8];
+const suffixChainTableFileName = process.argv[9];
 const emptyStringMarker = '[EMPTY]';
 const progressReportAfter = 1000;
 
@@ -98,7 +100,7 @@ const stems: StemInventories = getStems();
 const stemsString = JSON.stringify(stems, undefined, '\t');
 fs.writeFileSync(stemsFileName, stemsString);
 
-const suffixChains = getSuffixChains();
+const suffixChains: SuffixChainInventories = getSuffixChains();
 const suffixChainsString = JSON.stringify(suffixChains, undefined, '\t');
 fs.writeFileSync(suffixChainsFileName, suffixChainsString);
 
@@ -120,4 +122,24 @@ try {
   throw err;
 } finally {
   stemStringifier.end();
+}
+
+const suffixChainStringifier = stringify({
+  delimiter: '\t',
+});
+const suffixChainTableStream = fs.createWriteStream(suffixChainTableFileName, 'utf8');
+try {
+  for (const [pos, suffixChainInventory] of Object.entries(suffixChains)) {
+    for (const [surfaceForm, suffixChainOjects] of Object.entries(suffixChainInventory)) {
+      for (const suffixChainObject of suffixChainOjects) {
+        const { segmentation, morphTag } = suffixChainObject;
+        suffixChainStringifier.write([pos, surfaceForm, segmentation, morphTag]);
+      }
+    }
+  }
+  suffixChainStringifier.pipe(suffixChainTableStream);
+} catch(err) {
+  throw err;
+} finally {
+  suffixChainStringifier.end();
 }
