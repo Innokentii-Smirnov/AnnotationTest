@@ -8,6 +8,8 @@ import { LexicalData, setLexicalData } from '../tlh/ui/src/xmlEditor/hur/lexical
 import { annotateHurrianWord, getLookupConfig, getStems, getSuffixChains }
   from '../tlh/ui/src/xmlEditor/hur/dict/dictionary';
 import { LookupConfig, lookupConfigKey } from '../tlh/ui/src/xmlEditor/lookupConfig';
+import { stringify } from 'csv-stringify';
+import { StemInventories } from '../tlh/ui/src/xmlEditor/hur/segmentation/stemInventories';
 
 const sep = ' ';
 const dictionaryFilePath = process.argv[2];
@@ -16,6 +18,7 @@ const outfile = process.argv[4];
 const annotationsFileName = process.argv[5];
 const stemsFileName = process.argv[6];
 const suffixChainsFileName = process.argv[7];
+const stemTableFileName = process.argv[8];
 const emptyStringMarker = '[EMPTY]';
 const progressReportAfter = 1000;
 
@@ -91,10 +94,30 @@ try {
 const annotationsString = JSON.stringify(annotations, undefined, '\t');
 fs.writeFileSync(annotationsFileName, annotationsString);
 
-const stems = getStems();
+const stems: StemInventories = getStems();
 const stemsString = JSON.stringify(stems, undefined, '\t');
 fs.writeFileSync(stemsFileName, stemsString);
 
 const suffixChains = getSuffixChains();
 const suffixChainsString = JSON.stringify(suffixChains, undefined, '\t');
 fs.writeFileSync(suffixChainsFileName, suffixChainsString);
+
+const stemStringifier = stringify({
+  delimiter: '\t',
+});
+const stemTableStream = fs.createWriteStream(stemTableFileName, 'utf8');
+try {
+  for (const [pos, stemInventory] of Object.entries(stems)) {
+    for (const [surfaceForm, stemObjects] of Object.entries(stemInventory)) {
+      for (const stemObject of stemObjects) {
+        const { form, translation } = stemObject;
+        stemStringifier.write([pos, surfaceForm, form, translation]);
+      }
+    }
+  }
+  stemStringifier.pipe(stemTableStream);
+} catch(err) {
+  throw err;
+} finally {
+  stemStringifier.end();
+}
