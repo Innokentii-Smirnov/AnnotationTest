@@ -8705,7 +8705,7 @@
 <w trans="ab[i" mrp1="avi @ vor @ @ PREP @ " mrp2="avi @ Gesicht @ .ABS @ noun @ ">a-p<del_in/>í-</w>
 <w trans="ab[irēž" mrp1="abir-i-ež @ @ MOD.AG-OPT @ verb @ " mrp2="abir-e-ž @ @ 3POSS.SG-ERG @ noun @ ">a-p<del_in/>í-ri-e-eš</w>
 <w trans="abā[" mrp1="ab-a @ @ INT @ verb @ ">a-pa-<laes_in/>a<laes_fin/>-<del_in/></w>
-<w trans="abāba" mrp1="abā-va @ @ DAT @ noun @ " mrp2="abā-i-va @ @ 3POSS.SG-DAT @ noun @ " mrp3="abā-v-a @ @ 2POSS.SG-ESS @ noun @ " mrp4="abā-b-a @ @ b-INT @ verb @ ">a-pa-<laes_in/>a<laes_fin/>-pa</w>
+<w trans="abāba" mrp1="abā-b-a @ @ b-INT @ verb @ ">a-pa-<laes_in/>a<laes_fin/>-pa</w>
 <w trans="abāndala" mrp1="abānd-al-a @ @ { a → al-3A.SG} { b → al-INT} @ verb @ ">a-pa-a-an-ta-la</w>
 <w trans="abāb[i]" mrp1="abā-ve @ @ GEN @ noun @ " mrp2="abā-i-ve @ @ 3POSS.SG-GEN @ noun @ ">a-pa-a-p<del_in/>í<del_fin/></w>
 <w trans="abārikkuttāl" mrp1="abārikkutt-a=l @ @ INT=3PL.ABS @ verb @ ">a-pa-a-ri-ik-ku-ut-ta-a-al</w>

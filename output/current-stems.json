@@ -2438,7 +2438,7 @@
 				"translation": "stark; der Starke"
 			}
 		],
-		"adalšen": [
+		"adalžen": [
 			{
 				"form": "Adal.šen",
 				"translation": "DN"
@@ -8820,7 +8820,7 @@
 				"translation": "PN"
 			}
 		],
-		"tadoḫeba": [
+		"tadoġeba": [
 			{
 				"form": "Tado.Ḫeba",
 				"translation": "PN"
@@ -9245,12 +9245,6 @@
 			}
 		],
 		"tažmižarre": [
-			{
-				"form": "Tažmi.šarri",
-				"translation": "PN"
-			}
-		],
-		"tažmišarri": [
 			{
 				"form": "Tažmi.šarri",
 				"translation": "PN"
@@ -10782,7 +10776,7 @@
 				"translation": "Ea (DN)"
 			}
 		],
-		"eašarri": [
+		"eažarri": [
 			{
 				"form": "Ea.šarri",
 				"translation": "DN"

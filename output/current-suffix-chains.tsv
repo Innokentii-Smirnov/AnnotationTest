@@ -133,6 +133,7 @@ noun	až	-i-až	3POSS-PL.ABS
 noun	ažl	-až=l	ERG=3PL.ABS
 noun	ažnna	-až=nna	ERG=3SG.ABS
 noun	ažvenee	-až-ve-ne-e	PL-GEN-RELAT.SG-DIR/LOC
+noun	bāba	-va=ffa	DAT=2PL.ABS
 noun	bae	-ve-ae	GEN-INS
 noun	bāe	-ve-ae	GEN-INS
 noun	bāin	-ve-ae=n	GEN-INS=3SG.ABS
@@ -392,7 +393,6 @@ noun	nevema	-ne-ve=ma	RELAT.SG-GEN=CON
 noun	nevenaažadil	-ne-ve-na-až-a=dil	RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS=1PL.ABS
 noun	nevenaaža	-ne-ve-na-až-a	RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS
 noun	nevenaažož	-ne-ve-na-až-ož	RELAT.SG-GEN-RELAT.PL-PL-ERG
-noun	nevenaažve	-ne-ve-na-až-ve	RELAT.SG-GEN-RELAT.PL-PL-GEN
 noun	nevenama	-ne-ve-na=ma	RELAT.SG-GEN-RELAT.PL.ABS=CON
 noun	nevena	-ne-ve-na	RELAT.SG-GEN-RELAT.PL.ABS
 noun	nevenea	-ne-ve-ne-a	RELAT.SG-GEN-RELAT.SG-ESS
@@ -519,7 +519,6 @@ noun	ūwa	-u-a	MED-3A.SG
 noun	už	-i-ož	3POSS.SG-EQU
 noun	už	-ož	ERG
 noun	vaan	-va=an	DAT=CON
-noun	vaffa	-va=ffa	DAT=2PL.ABS
 noun	va	-i-va	3POSS.SG-DAT
 noun	valla	-va=lla	DAT=3PL.ABS
 noun	val	-va=l	DAT=3PL.ABS

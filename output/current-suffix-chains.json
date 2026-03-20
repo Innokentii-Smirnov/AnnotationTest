@@ -1758,12 +1758,6 @@
 				"morphTag": "ESS=3PL.ABS"
 			}
 		],
-		"nevenaažve": [
-			{
-				"segmentation": "-ne-ve-na-až-ve",
-				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-GEN"
-			}
-		],
 		"ašta": [
 			{
 				"segmentation": "-i-až-da",
@@ -3126,7 +3120,7 @@
 				"morphTag": "RELAT.SG-DAT=3PL.ABS"
 			}
 		],
-		"vaffa": [
+		"bāba": [
 			{
 				"segmentation": "-va=ffa",
 				"morphTag": "DAT=2PL.ABS"
