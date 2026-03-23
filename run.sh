@@ -1,4 +1,8 @@
 clear
+if [ -z "$1" ]; then
+  echo "Please, specify a dictionary version as the first argument."
+  exit
+fi
 cd src
 if tsc --outdir ../build; then
   cd ..
