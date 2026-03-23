@@ -3,12 +3,17 @@ if [ -z "$1" ]; then
   echo "Please, specify a dictionary version as the first argument."
   exit
 fi
+if [ -z "$2" ]; then
+  echo "Please, specify a path to the dictionary file as the second argument."
+  exit
+fi
 cd src
 if tsc --outdir ../build; then
   cd ..
   dictionaryVersion="$1"
+  dictionaryFile="$2"
   node --localstorage-file=data/dict.sqlite \
-    build/src/annotate.js ~/"Tive/data/$dictionaryVersion/Dictionary.json" \
+    build/src/annotate.js "$dictionaryFile" \
     input/lookupConfig.json \
     input/transliterations.json \
     "output/$dictionaryVersion.txt" \
