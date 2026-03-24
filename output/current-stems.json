@@ -3044,12 +3044,6 @@
 				"translation": "Herr"
 			}
 		],
-		"evri": [
-			{
-				"form": "evri",
-				"translation": "Herr"
-			}
-		],
 		"ebri": [
 			{
 				"form": "evri",
@@ -5934,12 +5928,6 @@
 				"translation": "u.B."
 			}
 		],
-		"naie": [
-			{
-				"form": "nāie",
-				"translation": "u.B."
-			}
-		],
 		"naġmazuli": [
 			{
 				"form": "Naġmazuli",
@@ -6278,6 +6266,12 @@
 			{
 				"form": "nāū+nni",
 				"translation": "Weide"
+			}
+		],
+		"naie": [
+			{
+				"form": "nāie",
+				"translation": "u.B."
 			}
 		],
 		"nažarni": [
@@ -7902,16 +7896,6 @@
 				"translation": "GN"
 			}
 		],
-		"tal": [
-			{
-				"form": "tale",
-				"translation": "u.B."
-			},
-			{
-				"form": "tāle",
-				"translation": "Baum; Holz"
-			}
-		],
 		"tamari": [
 			{
 				"form": "tam+ar+i",
@@ -8356,18 +8340,6 @@
 				"translation": "u.B."
 			}
 		],
-		"teġid": [
-			{
-				"form": "teġidi",
-				"translation": "u.B."
-			}
-		],
-		"teġi": [
-			{
-				"form": "tēġi",
-				"translation": "u.B."
-			}
-		],
 		"teġri": [
 			{
 				"form": "teġri",
@@ -8453,12 +8425,6 @@
 			}
 		],
 		"ti": [
-			{
-				"form": "tiye",
-				"translation": "Wort; Sache"
-			}
-		],
-		"t": [
 			{
 				"form": "tiye",
 				"translation": "Wort; Sache"
@@ -8732,6 +8698,16 @@
 				"translation": "DN"
 			}
 		],
+		"tal": [
+			{
+				"form": "tale",
+				"translation": "u.B."
+			},
+			{
+				"form": "tāle",
+				"translation": "Baum; Holz"
+			}
+		],
 		"taluliž": [
 			{
 				"form": "tāl+ūl+ī+že",
@@ -8798,6 +8774,12 @@
 				"translation": "Geschenk?; Gabe?"
 			}
 		],
+		"t": [
+			{
+				"form": "tiye",
+				"translation": "Wort; Sache"
+			}
+		],
 		"teadi": [
 			{
 				"form": "tēi+ade",
@@ -8826,6 +8808,18 @@
 				"translation": "Wort; Name?"
 			}
 		],
+		"teġid": [
+			{
+				"form": "teġidi",
+				"translation": "u.B."
+			}
+		],
+		"teġi": [
+			{
+				"form": "tēġi",
+				"translation": "u.B."
+			}
+		],
 		"teġošše": [
 			{
 				"form": "tēġ+o+šše",
@@ -8835,12 +8829,6 @@
 		"tiye": [
 			{
 				"form": "tiye",
-				"translation": "Wort; Sache"
-			}
-		],
-		"tiv": [
-			{
-				"form": "tive",
 				"translation": "Wort; Sache"
 			}
 		],
@@ -8854,6 +8842,12 @@
 			{
 				"form": "tīvoli",
 				"translation": "u.B."
+			}
+		],
+		"tiv": [
+			{
+				"form": "tive",
+				"translation": "Wort; Sache"
 			}
 		],
 		"tob": [
@@ -9170,12 +9164,6 @@
 			{
 				"form": "umve",
 				"translation": "u.B."
-			}
-		],
-		"un": [
-			{
-				"form": "uw+o+ni",
-				"translation": "Brot?"
 			}
 		],
 		"univ": [
@@ -9784,6 +9772,12 @@
 				"translation": "Herrschaft"
 			}
 		],
+		"evri": [
+			{
+				"form": "evri",
+				"translation": "Herr"
+			}
+		],
 		"ebrin": [
 			{
 				"form": "ever+ni",
@@ -10390,12 +10384,6 @@
 			{
 				"form": "šena",
 				"translation": "Bruder"
-			}
-		],
-		"še": [
-			{
-				"form": "šiye",
-				"translation": "Wasser; Fluss"
 			}
 		],
 		"šend": [
@@ -11066,6 +11054,12 @@
 				"translation": "u.B."
 			}
 		],
+		"še": [
+			{
+				"form": "šiye",
+				"translation": "Wasser; Fluss"
+			}
+		],
 		"šen": [
 			{
 				"form": "šena",
@@ -11480,6 +11474,12 @@
 				"translation": "u.B."
 			}
 		],
+		"un": [
+			{
+				"form": "uw+o+ni",
+				"translation": "Brot?"
+			}
+		],
 		"urdašše": [
 			{
 				"form": "ūrd+a+šše",
@@ -11874,13 +11874,13 @@
 				"translation": "Öl"
 			}
 		],
-		"ḫažarri": [
+		"ḫažarr": [
 			{
 				"form": "ḫāž+arri",
 				"translation": "Öl"
 			}
 		],
-		"ḫažarr": [
+		"ḫažarri": [
 			{
 				"form": "ḫāž+arri",
 				"translation": "Öl"
@@ -12786,12 +12786,6 @@
 			{
 				"form": "NU.GÁL",
 				"translation": "nicht sein"
-			}
-		],
-		"ab": [
-			{
-				"form": "āb",
-				"translation": "u.B."
 			}
 		],
 		"ad": [
@@ -14630,12 +14624,6 @@
 				"translation": "u.B."
 			}
 		],
-		"t": [
-			{
-				"form": "te",
-				"translation": "sprechen"
-			}
-		],
 		"tib": [
 			{
 				"form": "tiv",
@@ -14685,12 +14673,6 @@
 		"tiz": [
 			{
 				"form": "tiz",
-				"translation": "u.B."
-			}
-		],
-		"tiž": [
-			{
-				"form": "tīž",
 				"translation": "u.B."
 			}
 		],
@@ -14756,6 +14738,18 @@
 			{
 				"form": "te",
 				"translation": "sprechen"
+			}
+		],
+		"t": [
+			{
+				"form": "te",
+				"translation": "sprechen"
+			}
+		],
+		"tiž": [
+			{
+				"form": "tīž",
+				"translation": "u.B."
 			}
 		],
 		"tomv": [
@@ -14980,6 +14974,12 @@
 				"translation": "u.B."
 			}
 		],
+		"ab": [
+			{
+				"form": "āb",
+				"translation": "u.B."
+			}
+		],
 		"alv": [
 			{
 				"form": "ālv",
@@ -15108,16 +15108,6 @@
 			{
 				"form": "šalġ",
 				"translation": "hören auf"
-			}
-		],
-		"šar": [
-			{
-				"form": "šār",
-				"translation": "u.B."
-			},
-			{
-				"form": "šār",
-				"translation": "wünschen"
 			}
 		],
 		"šarr": [
@@ -15356,6 +15346,16 @@
 				"translation": "u.B."
 			}
 		],
+		"šar": [
+			{
+				"form": "šār",
+				"translation": "u.B."
+			},
+			{
+				"form": "šār",
+				"translation": "wünschen"
+			}
+		],
 		"šaval": [
 			{
 				"form": "šāv+al",
@@ -15556,12 +15556,6 @@
 			{
 				"form": "ḫapš",
 				"translation": "werfen?"
-			}
-		],
-		"ḫar": [
-			{
-				"form": "ḫār",
-				"translation": "u.B."
 			}
 		],
 		"ḫatḫ": [
@@ -15766,6 +15760,12 @@
 			{
 				"form": "ḫān",
 				"translation": "gebären"
+			}
+		],
+		"ḫar": [
+			{
+				"form": "ḫār",
+				"translation": "u.B."
 			}
 		],
 		"ḫel": [
