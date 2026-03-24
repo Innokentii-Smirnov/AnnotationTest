@@ -97,9 +97,9 @@
 				]
 			}
 		],
-		"neva": [
+		"neba": [
 			{
-				"surfaceForm": "neva",
+				"surfaceForm": "neba",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -142,9 +142,9 @@
 				]
 			}
 		],
-		"naažveae": [
+		"naažbeae": [
 			{
-				"surfaceForm": "naažveae",
+				"surfaceForm": "naažbeae",
 				"segmentation": "-na-až-ve-ae",
 				"morphTag": "RELAT.PL-PL-GEN-INS",
 				"sources": [
@@ -196,8 +196,7 @@
 					"egunni @ eg+o+nni-ne-e @ rein?; süß?",
 					"pāġružini @ faġr+o+že-ne-e @ gut; schön",
 					"timarri @ timeri-ne-e @ dunkel",
-					"timerrē @ timeri-ne-e @ dunkel",
-					"ōlbīni @ olvi-ne-e @ fremd?"
+					"timerrē @ timeri-ne-e @ dunkel"
 				]
 			}
 		],
@@ -317,9 +316,9 @@
 				]
 			}
 		],
-		"naažve": [
+		"naažbe": [
 			{
-				"surfaceForm": "naažve",
+				"surfaceForm": "naažbe",
 				"segmentation": "-na-až-ve",
 				"morphTag": "RELAT.PL-PL-GEN",
 				"sources": [
@@ -363,6 +362,24 @@
 				]
 			}
 		],
+		"ni": [
+			{
+				"surfaceForm": "ni",
+				"segmentation": "-ne-e",
+				"morphTag": "RELAT.SG-DIR/LOC",
+				"sources": [
+					"ōlbīni @ olvi-ne-e @ fremd?"
+				]
+			},
+			{
+				"surfaceForm": "ni",
+				"segmentation": "-ne",
+				"morphTag": "ABL/INS",
+				"sources": [
+					"šummini @ šummi-ne @ ganz; gänzlich"
+				]
+			}
+		],
 		"ama": [
 			{
 				"surfaceForm": "ama",
@@ -390,16 +407,6 @@
 				"morphTag": "COM",
 				"sources": [
 					"šummera @ šummi-ra @ ganz; gänzlich"
-				]
-			}
-		],
-		"ni": [
-			{
-				"surfaceForm": "ni",
-				"segmentation": "-ne",
-				"morphTag": "ABL/INS",
-				"sources": [
-					"šummini @ šummi-ne @ ganz; gänzlich"
 				]
 			}
 		],
@@ -483,30 +490,13 @@
 				]
 			}
 		],
-		"m": [
+		"am": [
 			{
-				"surfaceForm": "m",
-				"segmentation": "=m",
-				"morphTag": "=2SG.ABS",
-				"sources": [
-					"šinim @ šini=m @ weiterhin; wieder; ferner"
-				]
-			},
-			{
-				"surfaceForm": "m",
+				"surfaceForm": "am",
 				"segmentation": "=m",
 				"morphTag": "=COM",
 				"sources": [
 					"abinam @ avi+n=m @ vorne"
-				]
-			},
-			{
-				"surfaceForm": "m",
-				"segmentation": "=m",
-				"morphTag": "=CON",
-				"sources": [
-					"šinim @ šini=m @ weiterhin; wieder; ferner",
-					"ḫinnim @ ḫenni=m @ jetzt"
 				]
 			}
 		],
@@ -641,6 +631,25 @@
 				"morphTag": "=3SG.ABS=CON",
 				"sources": [
 					"īnnannam @ īnna=nna=m @ so"
+				]
+			}
+		],
+		"m": [
+			{
+				"surfaceForm": "m",
+				"segmentation": "=m",
+				"morphTag": "=2SG.ABS",
+				"sources": [
+					"šinim @ šini=m @ weiterhin; wieder; ferner"
+				]
+			},
+			{
+				"surfaceForm": "m",
+				"segmentation": "=m",
+				"morphTag": "=CON",
+				"sources": [
+					"šinim @ šini=m @ weiterhin; wieder; ferner",
+					"ḫinnim @ ḫenni=m @ jetzt"
 				]
 			}
 		],
@@ -1037,9 +1046,9 @@
 				]
 			}
 		],
-		"neva": [
+		"neba": [
 			{
-				"surfaceForm": "neva",
+				"surfaceForm": "neba",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -1087,9 +1096,9 @@
 				]
 			}
 		],
-		"aev": [
+		"aeb": [
 			{
-				"surfaceForm": "aev",
+				"surfaceForm": "aeb",
 				"segmentation": "-ae=v",
 				"morphTag": "INS=2PL.ABS",
 				"sources": [
@@ -1216,14 +1225,13 @@
 				"segmentation": "-ž=nna",
 				"morphTag": "ERG=3SG.ABS",
 				"sources": [
-					"abiššā @ ave-ž=nna @ wer; jeder",
-					"pēšša @ fē-ž=nna @ 2PRON"
+					"abiššā @ ave-ž=nna @ wer; jeder"
 				]
 			}
 		],
-		"žd": [
+		"d": [
 			{
-				"surfaceForm": "žd",
+				"surfaceForm": "d",
 				"segmentation": "-ž=d",
 				"morphTag": "ERG=1SG.ABS",
 				"sources": [
@@ -1231,9 +1239,9 @@
 				]
 			}
 		],
-		"ždilla": [
+		"dilla": [
 			{
-				"surfaceForm": "ždilla",
+				"surfaceForm": "dilla",
 				"segmentation": "-ž=dilla",
 				"morphTag": "ERG=1PL.ABS",
 				"sources": [
@@ -1401,9 +1409,9 @@
 				]
 			}
 		],
-		"va": [
+		"ba": [
 			{
-				"surfaceForm": "va",
+				"surfaceForm": "ba",
 				"segmentation": "-va",
 				"morphTag": "DAT",
 				"sources": [
@@ -1582,9 +1590,9 @@
 				]
 			}
 		],
-		"ve": [
+		"bi": [
 			{
-				"surfaceForm": "ve",
+				"surfaceForm": "bi",
 				"segmentation": "-ve",
 				"morphTag": "GEN",
 				"sources": [
@@ -1592,9 +1600,19 @@
 				]
 			}
 		],
-		"affa": [
+		"šša": [
 			{
-				"surfaceForm": "affa",
+				"surfaceForm": "šša",
+				"segmentation": "-ž=nna",
+				"morphTag": "ERG=3SG.ABS",
+				"sources": [
+					"pēšša @ fē-ž=nna @ 2PRON"
+				]
+			}
+		],
+		"appa": [
+			{
+				"surfaceForm": "appa",
 				"segmentation": "-a=ffa",
 				"morphTag": "ESS=2PL.ABS",
 				"sources": [
@@ -1603,9 +1621,9 @@
 				]
 			}
 		],
-		"neva": [
+		"neba": [
 			{
-				"surfaceForm": "neva",
+				"surfaceForm": "neba",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -1671,9 +1689,9 @@
 				]
 			}
 		],
-		"niveninna": [
+		"nibeninna": [
 			{
-				"surfaceForm": "niveninna",
+				"surfaceForm": "nibeninna",
 				"segmentation": "-ne-ve-ne-nna",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-EQU2",
 				"sources": [
@@ -1681,9 +1699,9 @@
 				]
 			}
 		],
-		"vae": [
+		"bae": [
 			{
-				"surfaceForm": "vae",
+				"surfaceForm": "bae",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS",
 				"sources": [
@@ -1714,6 +1732,7 @@
 					"attai @ atta+i-i @ Vater",
 					"karži @ karži-i @ Lippen",
 					"kulumbi @ kulumbi-i @ u.B.",
+					"pāži @ fāži-i @ Mund",
 					"sālī @ sāli-i @ u.B.",
 					"ēlgi @ ēlgi-i @ Applikation",
 					"šumi @ šumi-i @ u.B.",
@@ -1860,7 +1879,6 @@
 					"forāna @ for+āna @ Vorzeichen",
 					"fārie @ fārē @ u.B.",
 					"fāġadi @ fāġadi @ u.B.",
-					"fāġie @ pāġi @ Kopf",
 					"fāġri @ faġri @ gut; Gutes",
 					"fāže @ fāži @ Mund",
 					"fāži @ fāži @ Mund",
@@ -2367,9 +2385,9 @@
 				]
 			}
 		],
-		"iva": [
+		"iba": [
 			{
-				"surfaceForm": "iva",
+				"surfaceForm": "iba",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT",
 				"sources": [
@@ -2377,13 +2395,10 @@
 					"KUR-ia @ omini-i-va @ Land",
 					"KUR-nia @ omini-i-va @ Land",
 					"ideba @ idi-i-va @ Körper; Bezug",
-					"pāžiba @ fāži-i-va @ Mund",
-					"pōriba @ fōri-i-va @ Blick",
 					"tāġiba @ tāġe-i-va @ Mann",
 					"tīva @ tiye-i-va @ Wort; Sache",
 					"uriba @ ori-i-va @ Fuß",
 					"āštīva @ āšte-i-va @ (Ehe)frau",
-					"ēbriva @ evri-i-va @ Herr",
 					"šeġurniba @ šeġor+ni-i-va @ Leben",
 					"ḫullurēva @ ḫull+o+re-i-va @ u.B."
 				]
@@ -2420,9 +2435,17 @@
 				]
 			}
 		],
-		"ve": [
+		"be": [
 			{
-				"surfaceForm": "ve",
+				"surfaceForm": "be",
+				"segmentation": "-i-ve",
+				"morphTag": "3POSS.SG-GEN",
+				"sources": [
+					"ēbrivē @ evri-i-ve @ Herr"
+				]
+			},
+			{
+				"surfaceForm": "be",
 				"segmentation": "-ve",
 				"morphTag": "GEN",
 				"sources": [
@@ -2524,28 +2547,39 @@
 				]
 			}
 		],
-		"va": [
+		"ba": [
 			{
-				"surfaceForm": "va",
+				"surfaceForm": "ba",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT",
 				"sources": [
 					"fāžīva @ fāži-i-va @ Mund",
 					"fāžīva @ fāži-i-va @ u.B.",
-					"izuziva @ izuzi-i-va @ Emmer"
+					"idiba @ idi-i-va @ Körper; Bezug",
+					"izuziva @ izuzi-i-va @ Emmer",
+					"pāġiba @ pāġi-i-va @ Kopf",
+					"pāžiba @ fāži-i-va @ Mund",
+					"pōriba @ fōri-i-va @ Blick",
+					"sibariba @ sib+ar+i-i-va @ u.B.",
+					"tuiba @ tui-i-va @ u.B.",
+					"āššaniba @ āššani-i-va @ u.B.",
+					"ēbriva @ evri-i-va @ Herr",
+					"šōniba @ šō+ni-i-va @ Hand"
 				]
 			},
 			{
-				"surfaceForm": "va",
+				"surfaceForm": "ba",
 				"segmentation": "-v-a",
 				"morphTag": "2POSS.SG-ESS",
 				"sources": [
 					"tīva @ tiye-v-a @ Wort; Sache",
-					"uriba @ ori-v-a @ Fuß"
+					"uriba @ ori-v-a @ Fuß",
+					"āššaniba @ āššani-v-a @ u.B.",
+					"šōniba @ šō+ni-v-a @ Hand"
 				]
 			},
 			{
-				"surfaceForm": "va",
+				"surfaceForm": "ba",
 				"segmentation": "-va",
 				"morphTag": "DAT",
 				"sources": [
@@ -2557,31 +2591,43 @@
 					"KUR @ omini-va @ Land",
 					"KUR-nia @ omini-va @ Land",
 					"ZÍ-a @ ažne-va @ Gallenblase",
+					"aigalduba @ Aigaldu-va @ DN",
 					"aiwpa @ Aiu-va @ DN",
+					"aranziġōba @ Aranziġō-va @ GN",
 					"ašḫužikkunniba @ āšḫ+ož+i+kk+o+nni-va @ Ritualherr(in)",
 					"ideba @ idi-va @ Körper; Bezug",
+					"idiba @ idi-va @ Körper; Bezug",
 					"izuziva @ izuzi-va @ Emmer",
 					"išḫuniba @ išḫoni-va @ Silber",
+					"išḫōniba @ išḫoni-va @ Silber",
 					"kummeniWA @ Kumme+ne-va @ GN",
 					"mužuniba @ Mužoni-va @ DN",
 					"namniva @ Namni-va @ GN",
+					"nigalōba @ Nigalo-va @ DN",
 					"ninuwava @ Ninuwa-va @ GN",
 					"ninuwāva @ Ninuwa-va @ GN",
+					"pāġiba @ pāġi-va @ Kopf",
 					"pāžiba @ fāži-va @ Mund",
 					"pōriba @ fōri-va @ Blick",
+					"sibariba @ sib+ar+i-va @ u.B.",
 					"taduġebāba @ Tado.Ḫeba-va @ PN",
+					"tažmižarriba @ Tažmi.šarri-va @ PN",
+					"tuiba @ tui-va @ u.B.",
 					"tāġiba @ tāġe-va @ Mann",
 					"tīva @ tiye-va @ Wort; Sache",
 					"uriba @ ori-va @ Fuß",
 					"āllaniva @ Āllāni-va @ DN",
 					"āštiba @ āšte-va @ (Ehe)frau",
+					"āššaniba @ āššani-va @ u.B.",
 					"ēblava @ Ēbla-va @ GN",
 					"īblaba @ Ēbla-va @ GN",
 					"ŠU.SI-nia @ urnir+ni-va @ Finger",
 					"ŠÀ-nia @ ištani-va @ Inneres",
 					"ŠÀ-nia @ tiž+ni-va @ Herz",
 					"šavuškava @ Šavoška-va @ DN",
+					"šaġurunuwaba @ Šaġurunuwa-va @ PN",
 					"šeġurniba @ šeġor+ni-va @ Leben",
+					"šōniba @ šō+ni-va @ Hand",
 					"ḫebapta @ Ḫebad-va @ DN",
 					"ḫullurēva @ ḫull+o+re-va @ u.B."
 				]
@@ -2597,9 +2643,9 @@
 				]
 			}
 		],
-		"vella": [
+		"bella": [
 			{
-				"surfaceForm": "vella",
+				"surfaceForm": "bella",
 				"segmentation": "-ve=lla",
 				"morphTag": "GEN=3PL.ABS",
 				"sources": [
@@ -2625,9 +2671,9 @@
 				]
 			}
 		],
-		"venež": [
+		"benež": [
 			{
-				"surfaceForm": "venež",
+				"surfaceForm": "benež",
 				"segmentation": "-ve-ne-ž",
 				"morphTag": "GEN-RELAT.SG-ERG",
 				"sources": [
@@ -2636,9 +2682,9 @@
 				]
 			}
 		],
-		"venaaža": [
+		"benaaža": [
 			{
-				"surfaceForm": "venaaža",
+				"surfaceForm": "benaaža",
 				"segmentation": "-ve-na-až-a",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -2648,9 +2694,9 @@
 				]
 			}
 		],
-		"venaažve": [
+		"benaažbe": [
 			{
-				"surfaceForm": "venaažve",
+				"surfaceForm": "benaažbe",
 				"segmentation": "-ve-na-až-ve",
 				"morphTag": "GEN-RELAT.PL-PL-GEN",
 				"sources": [
@@ -2658,9 +2704,9 @@
 				]
 			}
 		],
-		"veožl": [
+		"beožl": [
 			{
-				"surfaceForm": "veožl",
+				"surfaceForm": "beožl",
 				"segmentation": "-ve-ož=l",
 				"morphTag": "GEN-EQU=3PL.ABS",
 				"sources": [
@@ -2668,7 +2714,7 @@
 				]
 			},
 			{
-				"surfaceForm": "veožl",
+				"surfaceForm": "beožl",
 				"segmentation": "-ve-ož=l",
 				"morphTag": "GEN-ERG=3PL.ABS",
 				"sources": [
@@ -2676,9 +2722,9 @@
 				]
 			}
 		],
-		"veož": [
+		"beož": [
 			{
-				"surfaceForm": "veož",
+				"surfaceForm": "beož",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-EQU",
 				"sources": [
@@ -2687,7 +2733,7 @@
 				]
 			},
 			{
-				"surfaceForm": "veož",
+				"surfaceForm": "beož",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-ERG",
 				"sources": [
@@ -2779,6 +2825,7 @@
 				"sources": [
 					"abrīda @ abri-i-da @ u.B.",
 					"avida @ avi-i-da @ Gesicht",
+					"ebrida @ evri-i-da @ Herr",
 					"ennida @ enni-i-da @ u.B.",
 					"fōrida @ fōri-i-da @ Blick",
 					"fōrīda @ fōri-i-da @ Blick",
@@ -2801,7 +2848,9 @@
 					"piġida @ piġi-i-da @ u.B.",
 					"pāġida @ pāġi-i-da @ Kopf",
 					"pāġīda @ pāġi-i-da @ Kopf",
+					"pāžida @ fāži-i-da @ Mund",
 					"pīarida @ pīari-i-da @ u.B.",
+					"pōrida @ fōri-i-da @ Blick",
 					"tadanida @ tad+a+ni-i-da @ u.B.",
 					"tadida @ tādi-i-da @ Liebe",
 					"tamgarida @ tamgāri-i-da @ Händler",
@@ -2810,6 +2859,9 @@
 					"tīdida @ tidi-i-da @ u.B.",
 					"tōpšida @ tōpši-i-da @ u.B.",
 					"ušḫārīda @ ušḫ+ār+i-i-da @ u.B.",
+					"ābida @ avi-i-da @ Gesicht",
+					"ēbrida @ evri-i-da @ Herr",
+					"ēbrīda @ evri-i-da @ Herr",
 					"īštanida @ ištani-i-da @ Inneres",
 					"šabalanida @ šab+al+a+ni-i-da @ u.B.",
 					"šaderida @ šaderi-i-da @ u.B.",
@@ -2823,9 +2875,9 @@
 				]
 			}
 		],
-		"veae": [
+		"beae": [
 			{
-				"surfaceForm": "veae",
+				"surfaceForm": "beae",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS",
 				"sources": [
@@ -3179,6 +3231,7 @@
 					"pidia @ pīdi-i-a @ u.B.",
 					"pāinnia @ pā+i+nni-i-a @ u.B.",
 					"pāīnnia @ pā+i+nni-i-a @ u.B.",
+					"pāžia @ fāži-i-a @ Mund",
 					"pīdia @ pīdi-i-a @ u.B.",
 					"subnīa @ subni-i-a @ u.B.",
 					"tarria @ tarri-i-a @ u.B.",
@@ -3248,6 +3301,7 @@
 				"segmentation": "-i-n",
 				"morphTag": "3POSS.SG-ABL/INS",
 				"sources": [
+					"abin @ avi-i-n @ Gesicht",
 					"ubīn @ ubi-i-n @ Gerste",
 					"ubīn @ ubī-i-n @ u.B."
 				]
@@ -3619,9 +3673,9 @@
 				]
 			}
 		],
-		"naažvenež": [
+		"naažbenež": [
 			{
-				"surfaceForm": "naažvenež",
+				"surfaceForm": "naažbenež",
 				"segmentation": "-na-až-ve-ne-ž",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.SG-ERG",
 				"sources": [
@@ -3728,9 +3782,9 @@
 				]
 			}
 		],
-		"naažve": [
+		"naažbe": [
 			{
-				"surfaceForm": "naažve",
+				"surfaceForm": "naažbe",
 				"segmentation": "-na-až-ve",
 				"morphTag": "RELAT.PL-PL-GEN",
 				"sources": [
@@ -3756,9 +3810,9 @@
 				]
 			}
 		],
-		"naažvena": [
+		"naažbena": [
 			{
-				"surfaceForm": "naažvena",
+				"surfaceForm": "naažbena",
 				"segmentation": "-na-až-ve-na",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.PL.ABS",
 				"sources": [
@@ -3768,9 +3822,9 @@
 				]
 			}
 		],
-		"naažvene": [
+		"naažbene": [
 			{
-				"surfaceForm": "naažvene",
+				"surfaceForm": "naažbene",
 				"segmentation": "-na-až-ve-ne",
 				"morphTag": "RELAT.PL-PL-GEN-ABL/INS",
 				"sources": [
@@ -3778,9 +3832,9 @@
 				]
 			}
 		],
-		"naažvenaažož": [
+		"naažbenaažož": [
 			{
-				"surfaceForm": "naažvenaažož",
+				"surfaceForm": "naažbenaažož",
 				"segmentation": "-na-až-ve-na-až-ož",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.PL-PL-ERG",
 				"sources": [
@@ -3833,9 +3887,9 @@
 				]
 			}
 		],
-		"naažveae": [
+		"naažbeae": [
 			{
-				"surfaceForm": "naažveae",
+				"surfaceForm": "naažbeae",
 				"segmentation": "-na-až-ve-ae",
 				"morphTag": "RELAT.PL-PL-GEN-INS",
 				"sources": [
@@ -3849,9 +3903,9 @@
 				]
 			}
 		],
-		"nevenaažož": [
+		"nebenaažož": [
 			{
-				"surfaceForm": "nevenaažož",
+				"surfaceForm": "nebenaažož",
 				"segmentation": "-ne-ve-na-až-ož",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-ERG",
 				"sources": [
@@ -3994,9 +4048,9 @@
 				]
 			}
 		],
-		"val": [
+		"bal": [
 			{
-				"surfaceForm": "val",
+				"surfaceForm": "bal",
 				"segmentation": "-va=l",
 				"morphTag": "DAT=3PL.ABS",
 				"sources": [
@@ -4005,9 +4059,9 @@
 				]
 			}
 		],
-		"vena": [
+		"bena": [
 			{
-				"surfaceForm": "vena",
+				"surfaceForm": "bena",
 				"segmentation": "-ve-na",
 				"morphTag": "GEN-RELAT.PL.ABS",
 				"sources": [
@@ -4020,7 +4074,7 @@
 				]
 			},
 			{
-				"surfaceForm": "vena",
+				"surfaceForm": "bena",
 				"segmentation": "-ve-ne-a",
 				"morphTag": "GEN-RELAT.SG-ESS",
 				"sources": [
@@ -4028,9 +4082,9 @@
 				]
 			}
 		],
-		"veneda": [
+		"beneda": [
 			{
-				"surfaceForm": "veneda",
+				"surfaceForm": "beneda",
 				"segmentation": "-ve-ne-da",
 				"morphTag": "GEN-RELAT.SG-DIR",
 				"sources": [
@@ -4051,7 +4105,6 @@
 					"kēdadužei @ kēd+ad+o+že-i @ u.B.",
 					"neri @ nera-i @ Mutter",
 					"nēri @ nera-i @ Mutter",
-					"pāži @ fāži-i @ Mund",
 					"ārdi @ arde-i @ Stadt",
 					"āšti @ āšte-i @ (Ehe)frau",
 					"šēni @ šena-i @ Bruder"
@@ -4311,9 +4364,9 @@
 				]
 			}
 		],
-		"neve": [
+		"nebe": [
 			{
-				"surfaceForm": "neve",
+				"surfaceForm": "nebe",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN",
 				"sources": [
@@ -4422,7 +4475,6 @@
 					"URU-tida @ arde-i-da @ Stadt",
 					"ZAG-ta @ fand+a+ni-i-da @ recht, rechte Seite",
 					"ZAG-tida @ fandi-i-da @ recht, rechte Seite",
-					"ebrida @ evri-i-da @ Herr",
 					"edida @ idi-i-da @ Körper; Bezug",
 					"ideda @ idi-i-da @ Körper; Bezug",
 					"igida @ egi-i-da @ Inneres; Mitte; innere",
@@ -4438,16 +4490,11 @@
 					"nirīda @ neri-i-da @ gut; Güte",
 					"nērida @ nera-i-da @ Mutter",
 					"piduššida @ pid+o+šše-i-da @ u.B.",
-					"pāžida @ fāži-i-da @ Mund",
-					"pōrida @ fōri-i-da @ Blick",
 					"težuġarġida @ tež+uġ+ar+ġe-i-da @ u.B.",
 					"urida @ ori-i-da @ Fuß",
 					"urunnida @ or+o+nni-i-da @ hinterer; Rückseite",
 					"urīda @ ori-i-da @ Fuß",
-					"ābida @ avi-i-da @ Gesicht",
-					"ēbrida @ evri-i-da @ Herr",
 					"ēbrēda @ evri-i-da @ Herr",
-					"ēbrīda @ evri-i-da @ Herr",
 					"ŠÀ-nida @ ištani-i-da @ Inneres",
 					"šelužēda @ šel+o+že-i-da @ u.B.",
 					"šeġrulida @ šeġr+oli-i-da @ u.B.",
@@ -4468,9 +4515,9 @@
 				]
 			}
 		],
-		"ažvenee": [
+		"ažbenee": [
 			{
-				"surfaceForm": "ažvenee",
+				"surfaceForm": "ažbenee",
 				"segmentation": "-až-ve-ne-e",
 				"morphTag": "PL-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -4478,9 +4525,9 @@
 				]
 			}
 		],
-		"valla": [
+		"balla": [
 			{
-				"surfaceForm": "valla",
+				"surfaceForm": "balla",
 				"segmentation": "-va=lla",
 				"morphTag": "DAT=3PL.ABS",
 				"sources": [
@@ -4488,9 +4535,9 @@
 				]
 			}
 		],
-		"vama": [
+		"bama": [
 			{
-				"surfaceForm": "vama",
+				"surfaceForm": "bama",
 				"segmentation": "-va=ma",
 				"morphTag": "DAT=CON",
 				"sources": [
@@ -4498,9 +4545,9 @@
 				]
 			}
 		],
-		"ven": [
+		"ben": [
 			{
-				"surfaceForm": "ven",
+				"surfaceForm": "ben",
 				"segmentation": "-ve=n",
 				"morphTag": "GEN=3SG.ABS",
 				"sources": [
@@ -4508,7 +4555,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ven",
+				"surfaceForm": "ben",
 				"segmentation": "-ve=n",
 				"morphTag": "GEN=CON",
 				"sources": [
@@ -4613,16 +4660,15 @@
 				]
 			}
 		],
-		"venaažož": [
+		"benaažož": [
 			{
-				"surfaceForm": "venaažož",
+				"surfaceForm": "benaažož",
 				"segmentation": "-ve-na-až-ož",
 				"morphTag": "GEN-RELAT.PL-PL-ERG",
 				"sources": [
 					"IŠTAR-kabinažuž @ Šavoška-ve-na-až-ož @ DN",
 					"IŠTAR-kabināžuž @ Šavoška-ve-na-až-ož @ DN",
 					"nabarbinažuž @ Nabari-ve-na-až-ož @ DN",
-					"nabarvināžuž @ Nabarbi-ve-na-až-ož @ DN",
 					"ḫebattenažuž @ Ḫebad-ve-na-až-ož @ DN",
 					"ḫebattenāžōž @ Ḫebad-ve-na-až-ož @ DN"
 				]
@@ -4658,6 +4704,7 @@
 				"morphTag": "3POSS.SG-DIR/LOC",
 				"sources": [
 					"fārie @ fāri-i-e @ u.B.",
+					"fāġie @ pāġi-i-e @ Kopf",
 					"kumrie @ kumri-i-e @ ein Priester",
 					"munġīe @ munġi-i-e @ u.B.",
 					"murrīe @ murri-i-e @ u.B.",
@@ -4667,6 +4714,14 @@
 					"sassinīe @ sassi+ni-i-e @ u.B.",
 					"tūrīe @ tūri-i-e @ Unterseite?",
 					"ḫānie @ ḫāni-i-e @ Kind; Säugling"
+				]
+			},
+			{
+				"surfaceForm": "e",
+				"segmentation": "",
+				"morphTag": ".ABS",
+				"sources": [
+					"fāġie @ pāġi @ Kopf"
 				]
 			}
 		],
@@ -4678,7 +4733,6 @@
 				"sources": [
 					"KASKAL-rie @ ḫāri-i-e @ Weg",
 					"ZAG-nie @ fand+a+ni-i-e @ recht, rechte Seite",
-					"fāġie @ pāġi-i-e @ Kopf",
 					"fōrālīnie @ fōr+all+i+nni-i-e @ Opferschauer",
 					"fōrālīzie @ fōr+all+i+n+ze-i-e @ u.B.",
 					"nawnībuwe @ nau+ni-i-e @ Weide",
@@ -4687,9 +4741,9 @@
 				]
 			}
 		],
-		"neva": [
+		"neba": [
 			{
-				"surfaceForm": "neva",
+				"surfaceForm": "neba",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -4740,7 +4794,6 @@
 				"sources": [
 					"KUR-ia @ omini-i-a @ Land",
 					"KUR-nia @ omini-i-a @ Land",
-					"pāžia @ fāži-i-a @ Mund",
 					"pāžia @ pāže-i-a @ u.B.",
 					"tālia @ tale-i-a @ u.B.",
 					"tālia @ tāle-i-a @ Baum; Holz",
@@ -4819,9 +4872,9 @@
 				]
 			}
 		],
-		"nevema": [
+		"nebema": [
 			{
-				"surfaceForm": "nevema",
+				"surfaceForm": "nebema",
 				"segmentation": "-ne-ve=ma",
 				"morphTag": "RELAT.SG-GEN=CON",
 				"sources": [
@@ -4955,9 +5008,9 @@
 				]
 			}
 		],
-		"-fa": [
+		"-pa": [
 			{
-				"surfaceForm": "-fa",
+				"surfaceForm": "-pa",
 				"segmentation": "-va",
 				"morphTag": "DAT",
 				"sources": [
@@ -4999,8 +5052,7 @@
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS",
 				"sources": [
-					"MÚRU-ša @ egi-i-až-a @ Inneres; Mitte; innere",
-					"abiaža @ avi-i-až-a @ Gesicht"
+					"MÚRU-ša @ egi-i-až-a @ Inneres; Mitte; innere"
 				]
 			},
 			{
@@ -5012,9 +5064,9 @@
 				]
 			}
 		],
-		"nevaman": [
+		"nebaman": [
 			{
-				"surfaceForm": "nevaman",
+				"surfaceForm": "nebaman",
 				"segmentation": "-ne-va=m=an",
 				"morphTag": "RELAT.SG-DAT=2SG.ABS=CON",
 				"sources": [
@@ -5023,7 +5075,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nevaman",
+				"surfaceForm": "nebaman",
 				"segmentation": "-ne-va=man",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -5031,7 +5083,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nevaman",
+				"surfaceForm": "nebaman",
 				"segmentation": "-ne-va=mān",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -5039,21 +5091,20 @@
 				]
 			}
 		],
-		"ive": [
+		"ibe": [
 			{
-				"surfaceForm": "ive",
+				"surfaceForm": "ibe",
 				"segmentation": "-i-ve",
 				"morphTag": "3POSS.SG-GEN",
 				"sources": [
 					"URU-tive @ arde-i-ve @ Stadt",
-					"ZAG-nie @ fand+a+ni-i-ve @ recht, rechte Seite",
-					"ēbrivē @ evri-i-ve @ Herr"
+					"ZAG-nie @ fand+a+ni-i-ve @ recht, rechte Seite"
 				]
 			}
 		],
-		"nevena": [
+		"nebena": [
 			{
-				"surfaceForm": "nevena",
+				"surfaceForm": "nebena",
 				"segmentation": "-ne-ve-na",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS",
 				"sources": [
@@ -5071,9 +5122,9 @@
 				]
 			}
 		],
-		"nevenaaža": [
+		"nebenaaža": [
 			{
-				"surfaceForm": "nevenaaža",
+				"surfaceForm": "nebenaaža",
 				"segmentation": "-ne-ve-na-až-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -5299,13 +5350,17 @@
 				]
 			}
 		],
-		"in": [
+		"aža": [
 			{
-				"surfaceForm": "in",
-				"segmentation": "-i-n",
-				"morphTag": "3POSS.SG-ABL/INS",
+				"surfaceForm": "aža",
+				"segmentation": "-i-až-a",
+				"morphTag": "3POSS-PL-DAT/ESS",
 				"sources": [
-					"abin @ avi-i-n @ Gesicht"
+					"abiaža @ avi-i-až-a @ Gesicht",
+					"idiaža @ idi-i-až-a @ Körper; Bezug",
+					"pāġiaža @ pāġi-i-až-a @ Kopf",
+					"temgiaža @ tem+gi-i-až-a @ u.B.",
+					"teġiaža @ tēġi-i-až-a @ u.B."
 				]
 			}
 		],
@@ -5374,9 +5429,9 @@
 				]
 			}
 		],
-		"neveneella": [
+		"nebeneella": [
 			{
-				"surfaceForm": "neveneella",
+				"surfaceForm": "nebeneella",
 				"segmentation": "-ne-ve-ne-e=lla",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS",
 				"sources": [
@@ -5574,49 +5629,6 @@
 				]
 			}
 		],
-		"ba": [
-			{
-				"surfaceForm": "ba",
-				"segmentation": "-i-va",
-				"morphTag": "3POSS.SG-DAT",
-				"sources": [
-					"idiba @ idi-i-va @ Körper; Bezug",
-					"pāġiba @ pāġi-i-va @ Kopf",
-					"sibariba @ sib+ar+i-i-va @ u.B.",
-					"tuiba @ tui-i-va @ u.B.",
-					"āššaniba @ āššani-i-va @ u.B.",
-					"šōniba @ šō+ni-i-va @ Hand"
-				]
-			},
-			{
-				"surfaceForm": "ba",
-				"segmentation": "-v-a",
-				"morphTag": "2POSS.SG-ESS",
-				"sources": [
-					"āššaniba @ āššani-v-a @ u.B.",
-					"šōniba @ šō+ni-v-a @ Hand"
-				]
-			},
-			{
-				"surfaceForm": "ba",
-				"segmentation": "-va",
-				"morphTag": "DAT",
-				"sources": [
-					"aigalduba @ Aigaldu-va @ DN",
-					"aranziġōba @ Aranziġō-va @ GN",
-					"idiba @ idi-va @ Körper; Bezug",
-					"išḫōniba @ išḫoni-va @ Silber",
-					"nigalōba @ Nigalo-va @ DN",
-					"pāġiba @ pāġi-va @ Kopf",
-					"sibariba @ sib+ar+i-va @ u.B.",
-					"tažmižarriba @ Tažmi.šarri-va @ PN",
-					"tuiba @ tui-va @ u.B.",
-					"āššaniba @ āššani-va @ u.B.",
-					"šaġurunuwaba @ Šaġurunuwa-va @ PN",
-					"šōniba @ šō+ni-va @ Hand"
-				]
-			}
-		],
 		"ni": [
 			{
 				"surfaceForm": "ni",
@@ -5798,8 +5810,7 @@
 				"morphTag": "3POSS-PL-DAT/ESS=3PL.ABS",
 				"sources": [
 					"aliptiažal @ al+i+pte-i-až-a=l @ u.B.",
-					"kišḫiažal @ kešḫi-i-až-a=l @ Thron",
-					"pandiažal @ fandi-i-až-a=l @ recht, rechte Seite"
+					"kišḫiažal @ kešḫi-i-až-a=l @ Thron"
 				]
 			}
 		],
@@ -5824,11 +5835,16 @@
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
 					"amanniniba @ am+a+nni-ne-va @ u.B.",
+					"ašteniva @ āšte-ne-va @ (Ehe)frau",
+					"eženiva @ eže-ne-va @ Erde",
+					"keššeniva @ Kešše-ne-va @ PN",
 					"magaldiniba @ magaldi-ne-va @ ein Brot",
 					"pōranadeniba @ Pōranade-ne-va @ GN",
 					"tōġalziniba @ tōġal+zi-ne-va @ u.B.",
+					"āmmanniniva @ āmm+a+nni-ne-va @ u.B.",
 					"āšḫiniba @ āšḫi-ne-va @ u.B.",
-					"šarriniba @ šarri-ne-va @ Gottkönig"
+					"šarriniba @ šarri-ne-va @ Gottkönig",
+					"šūbīniva @ šubi-ne-va @ u.B."
 				]
 			}
 		],
@@ -5846,9 +5862,9 @@
 				]
 			}
 		],
-		"av": [
+		"ab": [
 			{
-				"surfaceForm": "av",
+				"surfaceForm": "ab",
 				"segmentation": "-a=v",
 				"morphTag": "ESS=2PL.ABS",
 				"sources": [
@@ -5856,11 +5872,19 @@
 					"šuppaššab @ šupp+a+šše-a=v @ u.B.",
 					"ūrġāb @ ūrġi-a=v @ wahr"
 				]
+			},
+			{
+				"surfaceForm": "ab",
+				"segmentation": "-i-a=m",
+				"morphTag": "3POSS.SG-ESS=CON",
+				"sources": [
+					"tidiāb @ tidi-i-a=m @ u.B."
+				]
 			}
 		],
-		"neveae": [
+		"nebeae": [
 			{
-				"surfaceForm": "neveae",
+				"surfaceForm": "nebeae",
 				"segmentation": "-ne-ve-ae",
 				"morphTag": "RELAT.SG-GEN-INS",
 				"sources": [
@@ -5902,24 +5926,33 @@
 				]
 			}
 		],
-		"vi": [
+		"bi": [
 			{
-				"surfaceForm": "vi",
+				"surfaceForm": "bi",
 				"segmentation": "-i-ve",
 				"morphTag": "3POSS.SG-GEN",
 				"sources": [
-					"attaivi @ atta+i-i-ve @ Vater"
+					"attaivi @ atta+i-i-ve @ Vater",
+					"idibi @ idi-i-ve @ Körper; Bezug",
+					"numribi @ numri-i-ve @ u.B."
 				]
 			},
 			{
-				"surfaceForm": "vi",
+				"surfaceForm": "bi",
 				"segmentation": "-ve",
 				"morphTag": "GEN",
 				"sources": [
 					"annivi @ anni-ve @ u.B.",
 					"attaivi @ atta+i-ve @ Vater",
+					"aštāgabi @ aštaga-ve @ Frau",
+					"eġlibi @ eġli-ve @ Rettung",
+					"idibi @ idi-ve @ Körper; Bezug",
+					"numribi @ numri-ve @ u.B.",
 					"nēravi @ nera-ve @ Mutter",
-					"purrāvi @ Purra-ve @ PN"
+					"purrābi @ Purra-ve @ PN",
+					"purrāvi @ Purra-ve @ PN",
+					"āššōribi @ āššōri-ve @ u.B.",
+					"šubribi @ šubri-ve @ u.B."
 				]
 			}
 		],
@@ -5957,9 +5990,9 @@
 				]
 			}
 		],
-		"venen": [
+		"benen": [
 			{
-				"surfaceForm": "venen",
+				"surfaceForm": "benen",
 				"segmentation": "-ve-ne-n",
 				"morphTag": "GEN-RELAT.SG-ABL/INS",
 				"sources": [
@@ -5999,20 +6032,29 @@
 				]
 			}
 		],
-		"ffa": [
+		"ppa": [
 			{
-				"surfaceForm": "ffa",
+				"surfaceForm": "ppa",
 				"segmentation": "-v-va",
 				"morphTag": "2POSS.SG-DAT",
 				"sources": [
 					"ariliffa @ arili-v-va @ u.B.",
+					"pāenippa @ pāeni-v-va @ u.B.",
 					"tōniliffa @ tōn+ili-v-va @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "ppa",
+				"segmentation": "-v=ma",
+				"morphTag": "2POSS.SG.ABS=CON",
+				"sources": [
+					"pāenippa @ pāeni-v=ma @ u.B."
 				]
 			}
 		],
-		"vin": [
+		"bin": [
 			{
-				"surfaceForm": "vin",
+				"surfaceForm": "bin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=3SG.ABS",
 				"sources": [
@@ -6020,7 +6062,7 @@
 				]
 			},
 			{
-				"surfaceForm": "vin",
+				"surfaceForm": "bin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=CON",
 				"sources": [
@@ -6028,9 +6070,9 @@
 				]
 			}
 		],
-		"ivenee": [
+		"ibenee": [
 			{
-				"surfaceForm": "ivenee",
+				"surfaceForm": "ibenee",
 				"segmentation": "-i-ve-ne-e",
 				"morphTag": "3POSS.SG-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -6038,9 +6080,9 @@
 				]
 			}
 		],
-		"venee": [
+		"benee": [
 			{
-				"surfaceForm": "venee",
+				"surfaceForm": "benee",
 				"segmentation": "-ve-ne-e",
 				"morphTag": "GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -6070,9 +6112,9 @@
 				]
 			}
 		],
-		"nevenea": [
+		"nebenea": [
 			{
-				"surfaceForm": "nevenea",
+				"surfaceForm": "nebenea",
 				"segmentation": "-ne-ve-ne-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ESS",
 				"sources": [
@@ -6095,9 +6137,9 @@
 				]
 			}
 		],
-		"neveož": [
+		"nebeož": [
 			{
-				"surfaceForm": "neveož",
+				"surfaceForm": "nebeož",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU",
 				"sources": [
@@ -6122,45 +6164,6 @@
 				"morphTag": "INS=1SG.ABS",
 				"sources": [
 					"aġrāid @ aġri-ae=d @ Weihrauch"
-				]
-			}
-		],
-		"niva": [
-			{
-				"surfaceForm": "niva",
-				"segmentation": "-ne-va",
-				"morphTag": "RELAT.SG-DAT",
-				"sources": [
-					"ašteniva @ āšte-ne-va @ (Ehe)frau",
-					"eženiva @ eže-ne-va @ Erde",
-					"keššeniva @ Kešše-ne-va @ PN",
-					"āmmanniniva @ āmm+a+nni-ne-va @ u.B.",
-					"šūbīniva @ šubi-ne-va @ u.B."
-				]
-			}
-		],
-		"bi": [
-			{
-				"surfaceForm": "bi",
-				"segmentation": "-i-ve",
-				"morphTag": "3POSS.SG-GEN",
-				"sources": [
-					"idibi @ idi-i-ve @ Körper; Bezug",
-					"numribi @ numri-i-ve @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "bi",
-				"segmentation": "-ve",
-				"morphTag": "GEN",
-				"sources": [
-					"aštāgabi @ aštaga-ve @ Frau",
-					"eġlibi @ eġli-ve @ Rettung",
-					"idibi @ idi-ve @ Körper; Bezug",
-					"numribi @ numri-ve @ u.B.",
-					"purrābi @ Purra-ve @ PN",
-					"āššōribi @ āššōri-ve @ u.B.",
-					"šubribi @ šubri-ve @ u.B."
 				]
 			}
 		],
@@ -6287,9 +6290,9 @@
 				]
 			}
 		],
-		"nevea": [
+		"nebea": [
 			{
-				"surfaceForm": "nevea",
+				"surfaceForm": "nebea",
 				"segmentation": "-ne-ve-a",
 				"morphTag": "RELAT.SG-GEN-ESS",
 				"sources": [
@@ -6343,9 +6346,9 @@
 				]
 			}
 		],
-		"nevad": [
+		"nebad": [
 			{
-				"surfaceForm": "nevad",
+				"surfaceForm": "nebad",
 				"segmentation": "-ne-va=d",
 				"morphTag": "RELAT.SG-DAT=1SG.ABS",
 				"sources": [
@@ -6404,9 +6407,9 @@
 				]
 			}
 		],
-		"p⸢fa?⸣an": [
+		"p⸢pa?⸣an": [
 			{
-				"surfaceForm": "p⸢fa?⸣an",
+				"surfaceForm": "p⸢pa?⸣an",
 				"segmentation": "-iffe-a=an",
 				"morphTag": "1POSS.SG-ESS=CON",
 				"sources": [
@@ -6414,7 +6417,7 @@
 				]
 			},
 			{
-				"surfaceForm": "p⸢fa?⸣an",
+				"surfaceForm": "p⸢pa?⸣an",
 				"segmentation": "-iffe-a=n",
 				"morphTag": "1POSS.SG-ESS=3SG.ABS",
 				"sources": [
@@ -6422,7 +6425,7 @@
 				]
 			},
 			{
-				"surfaceForm": "p⸢fa?⸣an",
+				"surfaceForm": "p⸢pa?⸣an",
 				"segmentation": "-v-va=an",
 				"morphTag": "2POSS.SG-DAT=CON",
 				"sources": [
@@ -6430,7 +6433,7 @@
 				]
 			},
 			{
-				"surfaceForm": "p⸢fa?⸣an",
+				"surfaceForm": "p⸢pa?⸣an",
 				"segmentation": "-v-va=n",
 				"morphTag": "2POSS.SG-DAT=3SG.ABS",
 				"sources": [
@@ -6438,9 +6441,9 @@
 				]
 			}
 		],
-		"vvenenem": [
+		"bbenenem": [
 			{
-				"surfaceForm": "vvenenem",
+				"surfaceForm": "bbenenem",
 				"segmentation": "-v-ve-ne-ne=m",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-ABL/INS=2SG.ABS",
 				"sources": [
@@ -6448,7 +6451,7 @@
 				]
 			},
 			{
-				"surfaceForm": "vvenenem",
+				"surfaceForm": "bbenenem",
 				"segmentation": "-v-ve-ne-ne=m",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-ABL/INS=CON",
 				"sources": [
@@ -6456,9 +6459,9 @@
 				]
 			}
 		],
-		"nevenedal": [
+		"nebenedal": [
 			{
-				"surfaceForm": "nevenedal",
+				"surfaceForm": "nebenedal",
 				"segmentation": "-ne-ve-ne-da=l",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS",
 				"sources": [
@@ -6531,6 +6534,7 @@
 					"irdōvānninibi @ irdōv+ā+nni-ne-ve @ u.B.",
 					"itkalzinibi @ itkal+zi-ne-ve @ Reinheit, Reinigung",
 					"mādinibi @ mādi-ne-ve @ Weisheit",
+					"mādinivi @ mādi-ne-ve @ Weisheit",
 					"nabarbinibi @ Nabarbi-ne-ve @ DN",
 					"tatḫinibi @ tatḫi-ne-ve @ u.B.",
 					"āštenibi @ āšte-ne-ve @ (Ehe)frau",
@@ -6539,9 +6543,9 @@
 				]
 			}
 		],
-		"nive": [
+		"nibe": [
 			{
-				"surfaceForm": "nive",
+				"surfaceForm": "nibe",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN",
 				"sources": [
@@ -6566,13 +6570,14 @@
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN",
 				"sources": [
-					"eženēbi @ eže-ne-ve @ Erde"
+					"eženēbi @ eže-ne-ve @ Erde",
+					"šārinevi @ šāri-ne-ve @ u.B."
 				]
 			}
 		],
-		"vema": [
+		"bema": [
 			{
-				"surfaceForm": "vema",
+				"surfaceForm": "bema",
 				"segmentation": "-ve=ma",
 				"morphTag": "GEN=CON",
 				"sources": [
@@ -6588,33 +6593,49 @@
 				"sources": [
 					"fadeġib @ fadeġi-v @ u.B.",
 					"futkib @ fut+ki-v @ Sohn",
+					"ideb @ idi-v @ Körper; Bezug",
 					"idib @ idi-v @ Körper; Bezug",
 					"idnib @ id+ni-v @ Körper",
 					"idīb @ idi-v @ Körper; Bezug",
+					"irdib @ irde-v @ Zunge",
 					"kadib @ kadi-v @ u.B.",
 					"karžib @ karži-v @ Lippen",
+					"kelda(-)ardib @ arde-v @ Stadt",
+					"kelda(-)ardib @ keld+ardi-v @ u.B.",
 					"kudunib @ kuduni-v @ Nacken?",
 					"kāržib @ karži-v @ Lippen",
 					"naktib @ nakti-v @ u.B.",
 					"neššib @ nešši-v @ Gabe",
+					"nīrib @ neri-v @ gut; Güte",
 					"pirrib @ pirri-v @ u.B.",
 					"purammib @ pura+mmi-v @ Sklave; Diener",
 					"pāenib @ pāeni-v @ u.B.",
+					"pāndib @ fandi-v @ recht, rechte Seite",
 					"pāġib @ pāġi-v @ Kopf",
+					"pāžib @ fāži-v @ Mund",
 					"pōnġib @ pōnġi-v @ Nase",
 					"pōššib @ pōšši-v @ u.B.",
 					"sōīb @ sōī-v @ u.B.",
 					"taššāmib @ taššāmi-v @ u.B.",
+					"tibib @ tive-v @ Wort; Sache",
 					"tižab @ tiža-v @ Herz",
+					"tīb @ tiye-v @ Wort; Sache",
 					"tīžab @ tiža-v @ Herz",
+					"uīb @ uwi-v @ Brot",
 					"āġrib @ aġri-v @ Weihrauch",
+					"īrdib @ irde-v @ Zunge",
 					"šapḫaldib @ šapḫaldi-v @ linke Seite; links",
 					"šib @ šī-v @ Auge",
 					"širnib @ šīr+ni-v @ u.B.",
 					"šārib @ šāri-v @ Wunsch",
 					"šīb @ šī-v @ Auge",
 					"šōnib @ šō+ni-v @ Hand",
+					"šūnib @ šō+ni-v @ Hand",
+					"ḫapsurib @ ḫapsōri-v @ Speichel",
 					"ḫapsōrib @ ḫapsōri-v @ Speichel",
+					"ḫābužib @ ḫāb+o+že-v @ u.B.",
+					"ḫābōžib @ ḫāb+o+že-v @ u.B.",
+					"ḫāžažib @ ḫāž+a+že-v @ u.B.",
 					"ḫōbrib @ ḫōbri-v @ u.B."
 				]
 			},
@@ -6751,9 +6772,9 @@
 				]
 			}
 		],
-		"važ": [
+		"baž": [
 			{
-				"surfaceForm": "važ",
+				"surfaceForm": "baž",
 				"segmentation": "-ve-až",
 				"morphTag": "GEN-ERG",
 				"sources": [
@@ -6772,9 +6793,9 @@
 				]
 			}
 		],
-		"ffan": [
+		"ppan": [
 			{
-				"surfaceForm": "ffan",
+				"surfaceForm": "ppan",
 				"segmentation": "-v-va=an",
 				"morphTag": "2POSS.SG-DAT=CON",
 				"sources": [
@@ -6782,7 +6803,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ffan",
+				"surfaceForm": "ppan",
 				"segmentation": "-v-va=n",
 				"morphTag": "2POSS.SG-DAT=3SG.ABS",
 				"sources": [
@@ -6838,34 +6859,9 @@
 				]
 			}
 		],
-		"v": [
+		"bož": [
 			{
-				"surfaceForm": "v",
-				"segmentation": "-v",
-				"morphTag": "2POSS.SG.ABS",
-				"sources": [
-					"ideb @ idi-v @ Körper; Bezug",
-					"irdib @ irde-v @ Zunge",
-					"kelda(-)ardib @ arde-v @ Stadt",
-					"kelda(-)ardib @ keld+ardi-v @ u.B.",
-					"nīrib @ neri-v @ gut; Güte",
-					"pāndib @ fandi-v @ recht, rechte Seite",
-					"pāžib @ fāži-v @ Mund",
-					"tibib @ tive-v @ Wort; Sache",
-					"tīb @ tiye-v @ Wort; Sache",
-					"uīb @ uwi-v @ Brot",
-					"īrdib @ irde-v @ Zunge",
-					"šūnib @ šō+ni-v @ Hand",
-					"ḫapsurib @ ḫapsōri-v @ Speichel",
-					"ḫābužib @ ḫāb+o+že-v @ u.B.",
-					"ḫābōžib @ ḫāb+o+že-v @ u.B.",
-					"ḫāžažib @ ḫāž+a+že-v @ u.B."
-				]
-			}
-		],
-		"vož": [
-			{
-				"surfaceForm": "vož",
+				"surfaceForm": "bož",
 				"segmentation": "-v-ož",
 				"morphTag": "2POSS.SG-EQU",
 				"sources": [
@@ -6873,7 +6869,7 @@
 				]
 			},
 			{
-				"surfaceForm": "vož",
+				"surfaceForm": "bož",
 				"segmentation": "-v-ož",
 				"morphTag": "2POSS.SG-ERG",
 				"sources": [
@@ -6881,9 +6877,9 @@
 				]
 			}
 		],
-		"vva": [
+		"bba": [
 			{
-				"surfaceForm": "vva",
+				"surfaceForm": "bba",
 				"segmentation": "-v-va",
 				"morphTag": "2POSS.SG-DAT",
 				"sources": [
@@ -6893,26 +6889,13 @@
 				]
 			}
 		],
-		"iffuda": [
+		"ippuda": [
 			{
-				"surfaceForm": "iffuda",
+				"surfaceForm": "ippuda",
 				"segmentation": "-iffu-da",
 				"morphTag": "1POSS.SG-DIR",
 				"sources": [
 					"ideppūda @ idi-iffu-da @ Körper; Bezug"
-				]
-			}
-		],
-		"aža": [
-			{
-				"surfaceForm": "aža",
-				"segmentation": "-i-až-a",
-				"morphTag": "3POSS-PL-DAT/ESS",
-				"sources": [
-					"idiaža @ idi-i-až-a @ Körper; Bezug",
-					"pāġiaža @ pāġi-i-až-a @ Kopf",
-					"temgiaža @ tem+gi-i-až-a @ u.B.",
-					"teġiaža @ tēġi-i-až-a @ u.B."
 				]
 			}
 		],
@@ -7063,9 +7046,9 @@
 				]
 			}
 		],
-		"ffamma": [
+		"ppamma": [
 			{
-				"surfaceForm": "ffamma",
+				"surfaceForm": "ppamma",
 				"segmentation": "-iffe=mma",
 				"morphTag": "1POSS.SG.ABS=2SG.ABS",
 				"sources": [
@@ -7073,7 +7056,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ffamma",
+				"surfaceForm": "ppamma",
 				"segmentation": "-v-va=mma",
 				"morphTag": "2POSS.SG-DAT=2SG.ABS",
 				"sources": [
@@ -7081,7 +7064,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ffamma",
+				"surfaceForm": "ppamma",
 				"segmentation": "-v-ve=mma",
 				"morphTag": "2POSS.SG-GEN=2SG.ABS",
 				"sources": [
@@ -7190,9 +7173,9 @@
 				]
 			}
 		],
-		"ovadi": [
+		"obadi": [
 			{
-				"surfaceForm": "ovadi",
+				"surfaceForm": "obadi",
 				"segmentation": "-o-vade",
 				"morphTag": "PAT-ADJ.NEG.ABS",
 				"sources": [
@@ -7259,9 +7242,9 @@
 				]
 			}
 		],
-		"ffaan": [
+		"ppaan": [
 			{
-				"surfaceForm": "ffaan",
+				"surfaceForm": "ppaan",
 				"segmentation": "=ffa=an",
 				"morphTag": ".ABS=2PL.ABS=CON",
 				"sources": [
@@ -7347,9 +7330,9 @@
 				]
 			}
 		],
-		"nivož": [
+		"nibož": [
 			{
-				"surfaceForm": "nivož",
+				"surfaceForm": "nibož",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU",
 				"sources": [
@@ -7357,7 +7340,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nivož",
+				"surfaceForm": "nibož",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-ERG",
 				"sources": [
@@ -7397,9 +7380,9 @@
 				]
 			}
 		],
-		"vež": [
+		"bež": [
 			{
-				"surfaceForm": "vež",
+				"surfaceForm": "bež",
 				"segmentation": "-ve-ž",
 				"morphTag": "GEN-ERG",
 				"sources": [
@@ -7440,9 +7423,9 @@
 				]
 			}
 		],
-		"nivenin": [
+		"nibenin": [
 			{
-				"surfaceForm": "nivenin",
+				"surfaceForm": "nibenin",
 				"segmentation": "-ne-ve-ne-e=n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3SG.ABS",
 				"sources": [
@@ -7450,7 +7433,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nivenin",
+				"surfaceForm": "nibenin",
 				"segmentation": "-ne-ve-ne-n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ABL/INS",
 				"sources": [
@@ -7458,9 +7441,9 @@
 				]
 			}
 		],
-		"affa": [
+		"appa": [
 			{
-				"surfaceForm": "affa",
+				"surfaceForm": "appa",
 				"segmentation": "-a=ffa",
 				"morphTag": "ESS=2PL.ABS",
 				"sources": [
@@ -7529,16 +7512,6 @@
 				]
 			}
 		],
-		"nivi": [
-			{
-				"surfaceForm": "nivi",
-				"segmentation": "-ne-ve",
-				"morphTag": "RELAT.SG-GEN",
-				"sources": [
-					"mādinivi @ mādi-ne-ve @ Weisheit"
-				]
-			}
-		],
 		"nibadel": [
 			{
 				"surfaceForm": "nibadel",
@@ -7549,9 +7522,9 @@
 				]
 			}
 		],
-		"iffuve": [
+		"ippube": [
 			{
-				"surfaceForm": "iffuve",
+				"surfaceForm": "ippube",
 				"segmentation": "-iffu-ve",
 				"morphTag": "1POSS.SG-GEN",
 				"sources": [
@@ -7581,29 +7554,31 @@
 				]
 			}
 		],
-		"ffi": [
+		"ppi": [
 			{
-				"surfaceForm": "ffi",
+				"surfaceForm": "ppi",
 				"segmentation": "-iffe",
 				"morphTag": "1POSS.SG.ABS",
 				"sources": [
 					"niviriffi @ niviri-iffe @ u.B.",
-					"niġeffi @ niġe-iffe @ u.B."
+					"niġeffi @ niġe-iffe @ u.B.",
+					"ērbirippi @ ērbiri-iffe @ u.B."
 				]
 			},
 			{
-				"surfaceForm": "ffi",
+				"surfaceForm": "ppi",
 				"segmentation": "-v-ve",
 				"morphTag": "2POSS.SG-GEN",
 				"sources": [
 					"niviriffi @ niviri-v-ve @ u.B.",
-					"niġeffi @ niġe-v-ve @ u.B."
+					"niġeffi @ niġe-v-ve @ u.B.",
+					"ērbirippi @ ērbiri-v-ve @ u.B."
 				]
 			}
 		],
-		"iffe": [
+		"ippe": [
 			{
-				"surfaceForm": "iffe",
+				"surfaceForm": "ippe",
 				"segmentation": "-iffe",
 				"morphTag": "1POSS.SG.ABS",
 				"sources": [
@@ -7616,9 +7591,9 @@
 				]
 			}
 		],
-		"vve": [
+		"bbe": [
 			{
-				"surfaceForm": "vve",
+				"surfaceForm": "bbe",
 				"segmentation": "-v-ve",
 				"morphTag": "2POSS.SG-GEN",
 				"sources": [
@@ -7626,9 +7601,9 @@
 				]
 			}
 		],
-		"ivaan": [
+		"ibaan": [
 			{
-				"surfaceForm": "ivaan",
+				"surfaceForm": "ibaan",
 				"segmentation": "-i-va=an",
 				"morphTag": "3POSS.SG-DAT=CON",
 				"sources": [
@@ -7637,9 +7612,9 @@
 				]
 			}
 		],
-		"ivan": [
+		"iban": [
 			{
-				"surfaceForm": "ivan",
+				"surfaceForm": "iban",
 				"segmentation": "-i-va=n",
 				"morphTag": "3POSS.SG-DAT=3SG.ABS",
 				"sources": [
@@ -7685,11 +7660,19 @@
 				"sources": [
 					"nēlaban @ nēla-v=an @ u.B."
 				]
+			},
+			{
+				"surfaceForm": "ban",
+				"segmentation": "-va=n",
+				"morphTag": "DAT=3SG.ABS",
+				"sources": [
+					"ḫuenivan @ ḫowe+ni-va=n @ u.B."
+				]
 			}
 		],
-		"avan": [
+		"aban": [
 			{
-				"surfaceForm": "avan",
+				"surfaceForm": "aban",
 				"segmentation": "-a=v=an",
 				"morphTag": "ESS=2PL.ABS=CON",
 				"sources": [
@@ -7718,9 +7701,9 @@
 				]
 			}
 		],
-		"ġeve": [
+		"ġebe": [
 			{
-				"surfaceForm": "ġeve",
+				"surfaceForm": "ġebe",
 				"segmentation": "-ġe-ve",
 				"morphTag": "ADJ-GEN",
 				"sources": [
@@ -7768,9 +7751,9 @@
 				]
 			}
 		],
-		"nevaan": [
+		"nebaan": [
 			{
-				"surfaceForm": "nevaan",
+				"surfaceForm": "nebaan",
 				"segmentation": "-ne-va=an",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -7780,9 +7763,9 @@
 				]
 			}
 		],
-		"nevan": [
+		"neban": [
 			{
-				"surfaceForm": "nevan",
+				"surfaceForm": "neban",
 				"segmentation": "-ne-va=n",
 				"morphTag": "RELAT.SG-DAT=3SG.ABS",
 				"sources": [
@@ -7808,6 +7791,7 @@
 				"segmentation": "-i-až-a=l",
 				"morphTag": "3POSS-PL-DAT/ESS=3PL.ABS",
 				"sources": [
+					"pandiažal @ fandi-i-až-a=l @ recht, rechte Seite",
 					"pandiažal @ pandi-i-až-a=l @ u.B."
 				]
 			}
@@ -7842,9 +7826,9 @@
 				]
 			}
 		],
-		"važa": [
+		"baža": [
 			{
-				"surfaceForm": "važa",
+				"surfaceForm": "baža",
 				"segmentation": "-v-až-a",
 				"morphTag": "2POSS-PL-DAT/ESS",
 				"sources": [
@@ -7852,9 +7836,9 @@
 				]
 			}
 		],
-		"neev": [
+		"neeb": [
 			{
-				"surfaceForm": "neev",
+				"surfaceForm": "neeb",
 				"segmentation": "-ne-e=v",
 				"morphTag": "RELAT.SG-DIR/LOC=2PL.ABS",
 				"sources": [
@@ -7862,9 +7846,9 @@
 				]
 			}
 		],
-		"nev": [
+		"neb": [
 			{
-				"surfaceForm": "nev",
+				"surfaceForm": "neb",
 				"segmentation": "-ne=v",
 				"morphTag": "ABL/INS=2PL.ABS",
 				"sources": [
@@ -7908,27 +7892,9 @@
 				]
 			}
 		],
-		"ppa": [
+		"nibinama": [
 			{
-				"surfaceForm": "ppa",
-				"segmentation": "-v-va",
-				"morphTag": "2POSS.SG-DAT",
-				"sources": [
-					"pāenippa @ pāeni-v-va @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "ppa",
-				"segmentation": "-v=ma",
-				"morphTag": "2POSS.SG.ABS=CON",
-				"sources": [
-					"pāenippa @ pāeni-v=ma @ u.B."
-				]
-			}
-		],
-		"nivinama": [
-			{
-				"surfaceForm": "nivinama",
+				"surfaceForm": "nibinama",
 				"segmentation": "-ne-ve-na=ma",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS=CON",
 				"sources": [
@@ -8018,9 +7984,9 @@
 				]
 			}
 		],
-		"iffea": [
+		"ippea": [
 			{
-				"surfaceForm": "iffea",
+				"surfaceForm": "ippea",
 				"segmentation": "-iffe-a",
 				"morphTag": "1POSS.SG-ESS",
 				"sources": [
@@ -8029,9 +7995,9 @@
 				]
 			}
 		],
-		"vma": [
+		"bma": [
 			{
-				"surfaceForm": "vma",
+				"surfaceForm": "bma",
 				"segmentation": "-v=ma",
 				"morphTag": "2POSS.SG.ABS=CON",
 				"sources": [
@@ -8040,9 +8006,9 @@
 				]
 			}
 		],
-		"nival": [
+		"nibal": [
 			{
-				"surfaceForm": "nival",
+				"surfaceForm": "nibal",
 				"segmentation": "-ne-va=l",
 				"morphTag": "RELAT.SG-DAT=3PL.ABS",
 				"sources": [
@@ -8070,19 +8036,9 @@
 				]
 			}
 		],
-		"ab": [
+		"bodam": [
 			{
-				"surfaceForm": "ab",
-				"segmentation": "-i-a=m",
-				"morphTag": "3POSS.SG-ESS=CON",
-				"sources": [
-					"tidiāb @ tidi-i-a=m @ u.B."
-				]
-			}
-		],
-		"vodam": [
-			{
-				"surfaceForm": "vodam",
+				"surfaceForm": "bodam",
 				"segmentation": "-v-oda=m",
 				"morphTag": "2POSS.SG-DIR=CON",
 				"sources": [
@@ -8126,9 +8082,9 @@
 				]
 			}
 		],
-		"nevenež": [
+		"nebenež": [
 			{
-				"surfaceForm": "nevenež",
+				"surfaceForm": "nebenež",
 				"segmentation": "-ne-ve-ne-ž",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ERG",
 				"sources": [
@@ -8146,9 +8102,9 @@
 				]
 			}
 		],
-		"nniva": [
+		"nniba": [
 			{
-				"surfaceForm": "nniva",
+				"surfaceForm": "nniba",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -8184,9 +8140,9 @@
 				]
 			}
 		],
-		"aev": [
+		"aeb": [
 			{
-				"surfaceForm": "aev",
+				"surfaceForm": "aeb",
 				"segmentation": "-ae=v",
 				"morphTag": "INS=2PL.ABS",
 				"sources": [
@@ -8206,9 +8162,9 @@
 				]
 			}
 		],
-		"nevel": [
+		"nebel": [
 			{
-				"surfaceForm": "nevel",
+				"surfaceForm": "nebel",
 				"segmentation": "-ne-ve=l",
 				"morphTag": "RELAT.SG-GEN=3PL.ABS",
 				"sources": [
@@ -8226,9 +8182,9 @@
 				]
 			}
 		],
-		"ivenežnna": [
+		"ibenežnna": [
 			{
-				"surfaceForm": "ivenežnna",
+				"surfaceForm": "ibenežnna",
 				"segmentation": "-i-ve-ne-ž=nna",
 				"morphTag": "3POSS.SG-GEN-RELAT.SG-ERG=3SG.ABS",
 				"sources": [
@@ -8236,9 +8192,9 @@
 				]
 			}
 		],
-		"iffužnna": [
+		"ippužnna": [
 			{
-				"surfaceForm": "iffužnna",
+				"surfaceForm": "ippužnna",
 				"segmentation": "-iffu-ž=nna",
 				"morphTag": "1POSS.SG-ERG=3SG.ABS",
 				"sources": [
@@ -8266,9 +8222,9 @@
 				]
 			}
 		],
-		"nivan": [
+		"niban": [
 			{
-				"surfaceForm": "nivan",
+				"surfaceForm": "niban",
 				"segmentation": "-ne-va=an",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -8276,7 +8232,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nivan",
+				"surfaceForm": "niban",
 				"segmentation": "-ne-va=n",
 				"morphTag": "RELAT.SG-DAT=3SG.ABS",
 				"sources": [
@@ -8284,9 +8240,9 @@
 				]
 			}
 		],
-		"neveneda": [
+		"nebeneda": [
 			{
-				"surfaceForm": "neveneda",
+				"surfaceForm": "nebeneda",
 				"segmentation": "-ne-ve-ne-da",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR",
 				"sources": [
@@ -8314,9 +8270,9 @@
 				]
 			}
 		],
-		"nevenama": [
+		"nebenama": [
 			{
-				"surfaceForm": "nevenama",
+				"surfaceForm": "nebenama",
 				"segmentation": "-ne-ve-na=ma",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS=CON",
 				"sources": [
@@ -8334,27 +8290,9 @@
 				]
 			}
 		],
-		"ppi": [
+		"bbeneed": [
 			{
-				"surfaceForm": "ppi",
-				"segmentation": "-iffe",
-				"morphTag": "1POSS.SG.ABS",
-				"sources": [
-					"ērbirippi @ ērbiri-iffe @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "ppi",
-				"segmentation": "-v-ve",
-				"morphTag": "2POSS.SG-GEN",
-				"sources": [
-					"ērbirippi @ ērbiri-v-ve @ u.B."
-				]
-			}
-		],
-		"vveneed": [
-			{
-				"surfaceForm": "vveneed",
+				"surfaceForm": "bbeneed",
 				"segmentation": "-v-ve-ne-e=d",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS",
 				"sources": [
@@ -8460,9 +8398,9 @@
 				]
 			}
 		],
-		"nevenee": [
+		"nebenee": [
 			{
-				"surfaceForm": "nevenee",
+				"surfaceForm": "nebenee",
 				"segmentation": "-ne-ve-ne-e",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -8564,16 +8502,6 @@
 				]
 			}
 		],
-		"nevi": [
-			{
-				"surfaceForm": "nevi",
-				"segmentation": "-ne-ve",
-				"morphTag": "RELAT.SG-GEN",
-				"sources": [
-					"šārinevi @ šāri-ne-ve @ u.B."
-				]
-			}
-		],
 		"nema": [
 			{
 				"surfaceForm": "nema",
@@ -8627,9 +8555,9 @@
 				]
 			}
 		],
-		"venaažaan": [
+		"benaažaan": [
 			{
-				"surfaceForm": "venaažaan",
+				"surfaceForm": "benaažaan",
 				"segmentation": "-ve-na-až-a=an",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=CON",
 				"sources": [
@@ -8637,9 +8565,9 @@
 				]
 			}
 		],
-		"venaažan": [
+		"benaažan": [
 			{
-				"surfaceForm": "venaažan",
+				"surfaceForm": "benaažan",
 				"segmentation": "-ve-na-až-a=n",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=3SG.ABS",
 				"sources": [
@@ -8657,9 +8585,9 @@
 				]
 			}
 		],
-		"fa": [
+		"pa": [
 			{
-				"surfaceForm": "fa",
+				"surfaceForm": "pa",
 				"segmentation": "-va",
 				"morphTag": "DAT",
 				"sources": [
@@ -8677,9 +8605,9 @@
 				]
 			}
 		],
-		"veneval": [
+		"benebal": [
 			{
-				"surfaceForm": "veneval",
+				"surfaceForm": "benebal",
 				"segmentation": "-ve-ne-va=l",
 				"morphTag": "GEN-RELAT.SG-DAT=3PL.ABS",
 				"sources": [
@@ -8707,9 +8635,9 @@
 				]
 			}
 		],
-		"vaan": [
+		"baan": [
 			{
-				"surfaceForm": "vaan",
+				"surfaceForm": "baan",
 				"segmentation": "-va=an",
 				"morphTag": "DAT=CON",
 				"sources": [
@@ -8717,19 +8645,9 @@
 				]
 			}
 		],
-		"van": [
+		"beaem": [
 			{
-				"surfaceForm": "van",
-				"segmentation": "-va=n",
-				"morphTag": "DAT=3SG.ABS",
-				"sources": [
-					"ḫuenivan @ ḫowe+ni-va=n @ u.B."
-				]
-			}
-		],
-		"veaem": [
-			{
-				"surfaceForm": "veaem",
+				"surfaceForm": "beaem",
 				"segmentation": "-ve-ae=m",
 				"morphTag": "GEN-INS=2SG.ABS",
 				"sources": [
@@ -8738,9 +8656,9 @@
 				]
 			}
 		],
-		"veaev": [
+		"beaeb": [
 			{
-				"surfaceForm": "veaev",
+				"surfaceForm": "beaeb",
 				"segmentation": "-ve-ae=v",
 				"morphTag": "GEN-INS=2PL.ABS",
 				"sources": [
@@ -8816,9 +8734,9 @@
 				]
 			}
 		],
-		"eva": [
+		"eba": [
 			{
-				"surfaceForm": "eva",
+				"surfaceForm": "eba",
 				"segmentation": "-e-va",
 				"morphTag": "3POSS.SG-DAT",
 				"sources": [
@@ -9389,6 +9307,7 @@
 					"pendu @ pend-o @ zurückbringen; zurückkehren; zurückkommen; zurückschicken",
 					"piduġu @ pīd+uġ-o @ u.B.",
 					"pōssu @ pōss-o @ u.B.",
+					"pūdu @ fud-o @ waschen, reinigen",
 					"tarbu @ tarb-o @ u.B.",
 					"telu @ tel-o @ vermehren",
 					"ukku @ ukk-o @ u.B.",
@@ -9548,6 +9467,7 @@
 					"itkidu @ itk-id-o @ reinigen",
 					"iškidu @ išk-id-o @ u.B.",
 					"pendidu @ pend-id-o @ zurückbringen; zurückkehren; zurückkommen; zurückschicken",
+					"pāžidu @ faž-id-o @ eintreten; hineinbringen",
 					"sūlidu @ sūl-id-o @ binden",
 					"talaḫḫidu @ tal+āḫḫ-id-o @ herausziehen",
 					"tūnidu @ tūn-id-o @ vermögen; überwinden",
@@ -10273,7 +10193,9 @@
 				"sources": [
 					"aruri @ ar-o-re @ geben",
 					"ažuri @ až-o-re @ abwischen, reinigen",
-					"ažūri @ až-o-re @ abwischen, reinigen"
+					"ažūri @ až-o-re @ abwischen, reinigen",
+					"pudūri @ fud-o-re @ waschen, reinigen",
+					"pūduri @ fud-o-re @ waschen, reinigen"
 				]
 			},
 			{
@@ -10347,6 +10269,8 @@
 					"itkuž @ itk-o-ež @ reinigen",
 					"kažluž @ kažl-o-ež @ stark sein",
 					"munuž @ mun-o-ež @ u.B.",
+					"paġruž @ faġr-o-ež @ gut sein; gut machen",
+					"puduž @ fud-o-ež @ waschen, reinigen",
 					"unuž @ un-o-ež @ kommen; bringen",
 					"āšḫuž @ āšḫ-o-ež @ opfern",
 					"šeġaluž @ šeġal-o-ež @ rein sein; reinigen",
@@ -10443,9 +10367,9 @@
 				]
 			}
 		],
-		"vin": [
+		"bin": [
 			{
-				"surfaceForm": "vin",
+				"surfaceForm": "bin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=3SG.ABS",
 				"sources": [
@@ -10453,7 +10377,7 @@
 				]
 			},
 			{
-				"surfaceForm": "vin",
+				"surfaceForm": "bin",
 				"segmentation": "-i-ve=n",
 				"morphTag": "3POSS.SG-GEN=CON",
 				"sources": [
@@ -10538,9 +10462,9 @@
 				]
 			}
 		],
-		"anova": [
+		"anoba": [
 			{
-				"surfaceForm": "anova",
+				"surfaceForm": "anoba",
 				"segmentation": "-an-o-eva",
 				"morphTag": "an-MOD.PAT-POT",
 				"sources": [
@@ -10570,9 +10494,9 @@
 				]
 			}
 		],
-		"wfa": [
+		"wpa": [
 			{
-				"surfaceForm": "wfa",
+				"surfaceForm": "wpa",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG",
 				"sources": [
@@ -10723,7 +10647,6 @@
 				"sources": [
 					"ašḫō @ āšḫ-o @ opfern",
 					"fōdu @ fud-o @ waschen, reinigen",
-					"pūdu @ fud-o @ waschen, reinigen",
 					"uru @ or-o @ u.B."
 				]
 			}
@@ -10900,7 +10823,8 @@
 				"segmentation": "-o-re-i-ž",
 				"morphTag": "PAT-PTCP-3POSS.SG-ERG",
 				"sources": [
-					"ažurež @ až-o-re-i-ž @ abwischen, reinigen"
+					"ažurež @ až-o-re-i-ž @ abwischen, reinigen",
+					"pudūrež @ fud-o-re-i-ž @ waschen, reinigen"
 				]
 			},
 			{
@@ -10908,7 +10832,8 @@
 				"segmentation": "-o-re-ž",
 				"morphTag": "PAT-PTCP-ERG",
 				"sources": [
-					"ažurež @ až-o-re-ž @ abwischen, reinigen"
+					"ažurež @ až-o-re-ž @ abwischen, reinigen",
+					"pudūrež @ fud-o-re-ž @ waschen, reinigen"
 				]
 			}
 		],
@@ -11066,7 +10991,6 @@
 				"morphTag": "PL.A-TR.PFV",
 				"sources": [
 					"egiptu @ egib-id-o @ u.B.",
-					"pāžidu @ faž-id-o @ eintreten; hineinbringen",
 					"tunidu @ ton-id-o @ ausstatten"
 				]
 			}
@@ -11150,9 +11074,7 @@
 				"segmentation": "-o-ež",
 				"morphTag": "MOD.PAT-OPT",
 				"sources": [
-					"eguššuž @ eg+o+šš-o-ež @ rein sein / machen",
-					"paġruž @ faġr-o-ež @ gut sein; gut machen",
-					"puduž @ fud-o-ež @ waschen, reinigen"
+					"eguššuž @ eg+o+šš-o-ež @ rein sein / machen"
 				]
 			}
 		],
@@ -11216,9 +11138,9 @@
 				]
 			}
 		],
-		"oliva": [
+		"oliba": [
 			{
-				"surfaceForm": "oliva",
+				"surfaceForm": "oliba",
 				"segmentation": "-o-l-eva",
 				"morphTag": "MOD.PAT-l-POT",
 				"sources": [
@@ -11238,9 +11160,9 @@
 				]
 			}
 		],
-		"ilevažnna": [
+		"ilebažnna": [
 			{
-				"surfaceForm": "ilevažnna",
+				"surfaceForm": "ilebažnna",
 				"segmentation": "-i-l-eva-ž=nna",
 				"morphTag": "MOD.AG-l-POT-ž=3SG.ABS",
 				"sources": [
@@ -11417,9 +11339,9 @@
 				]
 			}
 		],
-		"ivaenima": [
+		"ibaenima": [
 			{
-				"surfaceForm": "ivaenima",
+				"surfaceForm": "ibaenima",
 				"segmentation": "-i-va-en-i=ma",
 				"morphTag": "MOD.AG-NEG-3JUSS-EPNTH=CON",
 				"sources": [
@@ -11962,9 +11884,9 @@
 				]
 			}
 		],
-		"offor": [
+		"oppor": [
 			{
-				"surfaceForm": "offor",
+				"surfaceForm": "oppor",
 				"segmentation": "-o-vor",
 				"morphTag": "INT-NEG",
 				"sources": [
@@ -12260,9 +12182,9 @@
 				]
 			}
 		],
-		"ilivaž": [
+		"ilibaž": [
 			{
-				"surfaceForm": "ilivaž",
+				"surfaceForm": "ilibaž",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž",
 				"sources": [
@@ -12424,9 +12346,9 @@
 				]
 			}
 		],
-		"ievad": [
+		"iebad": [
 			{
-				"surfaceForm": "ievad",
+				"surfaceForm": "iebad",
 				"segmentation": "-i-eva=d",
 				"morphTag": "MOD.AG-POT=1SG.ABS",
 				"sources": [
@@ -12440,18 +12362,18 @@
 				"segmentation": "-o-l-ai-ž=nna",
 				"morphTag": "MOD.PAT-l-PURP-ž=3SG.ABS",
 				"sources": [
-					"kibulaēšša @ kev-o-l-ai-ž=nna @ setzen; stellen; legen",
-					"kēbulāešša @ kev-o-l-ai-ž=nna @ setzen; stellen; legen"
+					"kibulaēšša @ kev-o-l-ai-ž=nna @ setzen; stellen; legen"
 				]
 			}
 		],
-		"uffu": [
+		"uppu": [
 			{
-				"surfaceForm": "uffu",
+				"surfaceForm": "uppu",
 				"segmentation": "-uffu",
 				"morphTag": "1A.SG.NEG",
 				"sources": [
-					"kibuppu @ kev-uffu @ setzen; stellen; legen"
+					"kibuppu @ kev-uffu @ setzen; stellen; legen",
+					"nakkuppu @ nakk-uffu @ freilassen; gewähren"
 				]
 			}
 		],
@@ -12483,9 +12405,9 @@
 				]
 			}
 		],
-		"uffa": [
+		"uppa": [
 			{
-				"surfaceForm": "uffa",
+				"surfaceForm": "uppa",
 				"segmentation": "-uff-a",
 				"morphTag": "uff-3A.SG",
 				"sources": [
@@ -12493,12 +12415,32 @@
 				]
 			},
 			{
-				"surfaceForm": "uffa",
+				"surfaceForm": "uppa",
 				"segmentation": "-uff-a",
 				"morphTag": "uff-INT",
 				"sources": [
 					"kiluffa @ kēl-uff-a @ wohl sein; wohl machen",
 					"nāuffa @ nā-uff-a @ weiden"
+				]
+			},
+			{
+				"surfaceForm": "uppa",
+				"segmentation": "-upp-a",
+				"morphTag": "upp-3A.SG",
+				"sources": [
+					"kulmuppa @ kulm-upp-a @ u.B.",
+					"kuruppa @ kur-upp-a @ erwidern",
+					"kuruppa @ kur-upp-a @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "uppa",
+				"segmentation": "-upp-a",
+				"morphTag": "upp-INT",
+				"sources": [
+					"kulmuppa @ kulm-upp-a @ u.B.",
+					"kuruppa @ kur-upp-a @ erwidern",
+					"kuruppa @ kur-upp-a @ u.B."
 				]
 			}
 		],
@@ -12617,9 +12559,7 @@
 				"segmentation": "-o-re",
 				"morphTag": "PAT-PTCP.ABS",
 				"sources": [
-					"kivori @ kev-o-re @ setzen; stellen; legen",
-					"pudūri @ fud-o-re @ waschen, reinigen",
-					"pūduri @ fud-o-re @ waschen, reinigen"
+					"kivori @ kev-o-re @ setzen; stellen; legen"
 				]
 			}
 		],
@@ -12819,28 +12759,6 @@
 				]
 			}
 		],
-		"uppa": [
-			{
-				"surfaceForm": "uppa",
-				"segmentation": "-upp-a",
-				"morphTag": "upp-3A.SG",
-				"sources": [
-					"kulmuppa @ kulm-upp-a @ u.B.",
-					"kuruppa @ kur-upp-a @ erwidern",
-					"kuruppa @ kur-upp-a @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "uppa",
-				"segmentation": "-upp-a",
-				"morphTag": "upp-INT",
-				"sources": [
-					"kulmuppa @ kulm-upp-a @ u.B.",
-					"kuruppa @ kur-upp-a @ erwidern",
-					"kuruppa @ kur-upp-a @ u.B."
-				]
-			}
-		],
 		"užašši": [
 			{
 				"surfaceForm": "užašši",
@@ -12955,13 +12873,25 @@
 				]
 			}
 		],
-		"ova": [
+		"oba": [
 			{
-				"surfaceForm": "ova",
+				"surfaceForm": "oba",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG",
 				"sources": [
 					"kādōva @ kad-u-a @ sagen; sprechen"
+				]
+			}
+		],
+		"ulaešša": [
+			{
+				"surfaceForm": "ulaešša",
+				"segmentation": "-o-l-ai-ž=nna",
+				"morphTag": "MOD.PAT-l-PURP-ž=3SG.ABS",
+				"sources": [
+					"kēbulāešša @ kev-o-l-ai-ž=nna @ setzen; stellen; legen",
+					"šeġalulāešša @ šeġal-o-l-ai-ž=nna @ rein sein; reinigen",
+					"šēġalulaešša @ šeġal-o-l-ai-ž=nna @ rein sein; reinigen"
 				]
 			}
 		],
@@ -13361,9 +13291,9 @@
 				]
 			}
 		],
-		"ioffuž": [
+		"ioppuž": [
 			{
-				"surfaceForm": "ioffuž",
+				"surfaceForm": "ioppuž",
 				"segmentation": "-i-uffu-ž",
 				"morphTag": "TR-1A.NEG-PL",
 				"sources": [
@@ -13378,16 +13308,6 @@
 				"morphTag": "TR-2A.PL.NEG=3SG.ABS",
 				"sources": [
 					"nakkiōššunā @ nakk-i-oššo=nna @ freilassen; gewähren"
-				]
-			}
-		],
-		"uppu": [
-			{
-				"surfaceForm": "uppu",
-				"segmentation": "-uffu",
-				"morphTag": "1A.SG.NEG",
-				"sources": [
-					"nakkuppu @ nakk-uffu @ freilassen; gewähren"
 				]
 			}
 		],
@@ -13669,9 +13589,9 @@
 				]
 			}
 		],
-		"ovalla": [
+		"oballa": [
 			{
-				"surfaceForm": "ovalla",
+				"surfaceForm": "oballa",
 				"segmentation": "-u-a=lla",
 				"morphTag": "MED-3A.SG=3PL.ABS",
 				"sources": [
@@ -13699,9 +13619,9 @@
 				]
 			}
 		],
-		"ilevaž": [
+		"ilebaž": [
 			{
-				"surfaceForm": "ilevaž",
+				"surfaceForm": "ilebaž",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž",
 				"sources": [
@@ -13737,33 +13657,13 @@
 				]
 			}
 		],
-		"uliniai": [
+		"ulinai": [
 			{
-				"surfaceForm": "uliniai",
+				"surfaceForm": "ulinai",
 				"segmentation": "-ul-in-i-ai",
 				"morphTag": "ul-in-MOD.AG-PURP",
 				"sources": [
 					"pudulināi @ fud-ul-in-i-ai @ waschen, reinigen"
-				]
-			}
-		],
-		"oreiž": [
-			{
-				"surfaceForm": "oreiž",
-				"segmentation": "-o-re-i-ž",
-				"morphTag": "PAT-PTCP-3POSS.SG-ERG",
-				"sources": [
-					"pudūrež @ fud-o-re-i-ž @ waschen, reinigen"
-				]
-			}
-		],
-		"orež": [
-			{
-				"surfaceForm": "orež",
-				"segmentation": "-o-re-ž",
-				"morphTag": "PAT-PTCP-ERG",
-				"sources": [
-					"pudūrež @ fud-o-re-ž @ waschen, reinigen"
 				]
 			}
 		],
@@ -13837,9 +13737,9 @@
 				]
 			}
 		],
-		"oštugariža": [
+		"uštugariža": [
 			{
-				"surfaceForm": "oštugariža",
+				"surfaceForm": "uštugariža",
 				"segmentation": "-ošt-ugar-iž-a",
 				"morphTag": "RES-RECIP-iž-3A.SG",
 				"sources": [
@@ -14114,18 +14014,9 @@
 				"morphTag": "RES-MOD.AG-1JUSS",
 				"sources": [
 					"tabaštili @ tab-ašt-i-le @ u.B.",
+					"tabaštili @ tav-ašt-i-le @ gießen",
 					"talmaštīli @ talm-ašt-i-le @ groß sein / machen",
 					"ḫažaštili @ ḫaž-ašt-i-le @ hören"
-				]
-			}
-		],
-		"aštile": [
-			{
-				"surfaceForm": "aštile",
-				"segmentation": "-ašt-i-le",
-				"morphTag": "RES-MOD.AG-1JUSS",
-				"sources": [
-					"tabaštili @ tav-ašt-i-le @ gießen"
 				]
 			}
 		],
@@ -14376,9 +14267,9 @@
 				]
 			}
 		],
-		"ivadeae": [
+		"ibadeae": [
 			{
-				"surfaceForm": "ivadeae",
+				"surfaceForm": "ibadeae",
 				"segmentation": "-i-vade-ae",
 				"morphTag": "AG-ADJ.NEG-INS",
 				"sources": [
@@ -14386,9 +14277,9 @@
 				]
 			}
 		],
-		"ivadai": [
+		"ibadai": [
 			{
-				"surfaceForm": "ivadai",
+				"surfaceForm": "ibadai",
 				"segmentation": "-i-vade-ae",
 				"morphTag": "AG-ADJ.NEG-INS",
 				"sources": [
@@ -14551,9 +14442,9 @@
 				]
 			}
 		],
-		"ivade": [
+		"ibade": [
 			{
-				"surfaceForm": "ivade",
+				"surfaceForm": "ibade",
 				"segmentation": "-i-vade",
 				"morphTag": "AG-ADJ.NEG.ABS",
 				"sources": [
@@ -14588,9 +14479,9 @@
 				]
 			}
 		],
-		"iliffa": [
+		"ilippa": [
 			{
-				"surfaceForm": "iliffa",
+				"surfaceForm": "ilippa",
 				"segmentation": "-i-le=ffa",
 				"morphTag": "MOD.AG-1JUSS=2PL.ABS",
 				"sources": [
@@ -14953,9 +14844,9 @@
 				]
 			}
 		],
-		"ivadan": [
+		"ibadan": [
 			{
-				"surfaceForm": "ivadan",
+				"surfaceForm": "ibadan",
 				"segmentation": "-i-eva=d=an",
 				"morphTag": "MOD.AG-POT=1SG.ABS=CON",
 				"sources": [
@@ -14963,9 +14854,9 @@
 				]
 			}
 		],
-		"ivatta": [
+		"ibatta": [
 			{
-				"surfaceForm": "ivatta",
+				"surfaceForm": "ibatta",
 				"segmentation": "-i-eva=tta",
 				"morphTag": "MOD.AG-POT=1SG.ABS",
 				"sources": [
@@ -15052,9 +14943,9 @@
 				]
 			}
 		],
-		"rivaž": [
+		"ribaž": [
 			{
-				"surfaceForm": "rivaž",
+				"surfaceForm": "ribaž",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž",
 				"sources": [
@@ -15313,17 +15204,6 @@
 				]
 			}
 		],
-		"ulaešša": [
-			{
-				"surfaceForm": "ulaešša",
-				"segmentation": "-o-l-ai-ž=nna",
-				"morphTag": "MOD.PAT-l-PURP-ž=3SG.ABS",
-				"sources": [
-					"šeġalulāešša @ šeġal-o-l-ai-ž=nna @ rein sein; reinigen",
-					"šēġalulaešša @ šeġal-o-l-ai-ž=nna @ rein sein; reinigen"
-				]
-			}
-		],
 		"ummalla": [
 			{
 				"surfaceForm": "ummalla",
@@ -15432,9 +15312,9 @@
 				]
 			}
 		],
-		"urivain": [
+		"uribain": [
 			{
-				"surfaceForm": "urivain",
+				"surfaceForm": "uribain",
 				"segmentation": "-ur-i-va-en",
 				"morphTag": "ur-MOD.AG-NEG-3JUSS",
 				"sources": [
@@ -15723,9 +15603,9 @@
 				]
 			}
 		],
-		"umaššiniva": [
+		"umaššiniba": [
 			{
-				"surfaceForm": "umaššiniva",
+				"surfaceForm": "umaššiniba",
 				"segmentation": "-o-m-ašše-ne-va",
 				"morphTag": "TR.PFV-3A.SG-NMLZ-RELAT.SG-DAT",
 				"sources": [
@@ -15929,9 +15809,9 @@
 				]
 			}
 		],
-		"ureva": [
+		"ureba": [
 			{
-				"surfaceForm": "ureva",
+				"surfaceForm": "ureba",
 				"segmentation": "-ur-i-eva",
 				"morphTag": "ur-MOD.AG-POT",
 				"sources": [

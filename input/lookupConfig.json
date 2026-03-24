@@ -1,6 +1,6 @@
 {
   "ignorePlene": true,
-  "mergeLabials": false,
+  "mergeLabials": true,
   "mergeMidAndHighVowels": false,
   "ignoreVoice": false
 }
