@@ -956,8 +956,8 @@
 <w trans="IŠTAR-pi" mrp1="IŠTAR-p-i @ @ { a → ANTIP} { b → TR.IMP} @ verb @ " mrp2="IŠTAR-p-i @ @ 3POSS.SG.ABS @ noun @ " mrp3="IŠTAR-p-e @ @ 3POSS.SG.ABS @ noun @ " mrp4="IŠTAR-p-i-e @ @ 3POSS.SG-DIR/LOC @ noun @ " mrp5="IŠTAR-p-i-en @ @ MOD.AG-3JUSS @ verb @ " mrp6="IŠTAR-p-e @ @ STAT @ verb @ " mrp7="IŠTAR-p-ae @ @ INS @ noun @ " mrp8="IŠTAR-p-ve @ @ GEN @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-pí</w>
 <w trans="IŠTAR-uška" mrp1="IŠTAR-ušk-a @ @ { a → ESS} { b → INT} @ noun @ " mrp2="IŠTAR-ušk-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="IŠTAR-ušk-i-a @ @ 3POSS.SG-ESS @ noun @ " mrp4="IŠTAR-ušk-i-a @ @ TR-3A.SG @ verb @ " mrp5="IŠTAR-ušk-a @ @ ESS @ ADJ @ "><d>D</d><aGr>IŠTAR</aGr>-uš-ga</w>
 <w trans="IŠTAR-f]e" mrp1="IŠTAR-f-i @ @ { a → ANTIP} { b → TR.IMP} @ verb @ " mrp2="IŠTAR-f-i @ @ 3POSS.SG.ABS @ noun @ " mrp3="IŠTAR-f-e @ @ 3POSS.SG.ABS @ noun @ " mrp4="IŠTAR-f-i-e @ @ 3POSS.SG-DIR/LOC @ noun @ " mrp5="IŠTAR-f-i-en @ @ MOD.AG-3JUSS @ verb @ " mrp6="IŠTAR-f-e @ @ STAT @ verb @ " mrp7="IŠTAR-f-ae @ @ INS @ noun @ " mrp8="IŠTAR-f-ve @ @ GEN @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-w<del_fin/>e<subscr c="e"/></w>
-<w trans="IŠTAR-f[a" mrp1="IŠTAR-va @ @ DAT @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-w<del_in/>a</w>
-<w trans="IŠTAR-fa" mrp1="IŠTAR-va @ @ DAT @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-wa<subscr c="a"/></w>
+<w trans="IŠTAR-f[a" mrp1="Šavoška-va @ DN @ DAT @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-w<del_in/>a</w>
+<w trans="IŠTAR-fa" mrp1="Šavoška-va @ DN @ DAT @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-wa<subscr c="a"/></w>
 <w trans="IŠTAR-fe" mrp1="IŠTAR-f-i @ @ { a → ANTIP} { b → TR.IMP} @ verb @ " mrp2="IŠTAR-f-i @ @ 3POSS.SG.ABS @ noun @ " mrp3="IŠTAR-f-e @ @ 3POSS.SG.ABS @ noun @ " mrp4="IŠTAR-f-i-e @ @ 3POSS.SG-DIR/LOC @ noun @ " mrp5="IŠTAR-f-i-en @ @ MOD.AG-3JUSS @ verb @ " mrp6="IŠTAR-f-e @ @ STAT @ verb @ " mrp7="IŠTAR-f-ae @ @ INS @ noun @ " mrp8="IŠTAR-f-ve @ @ GEN @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-we<subscr c="e"/></w>
 <w trans="IŠTAR-fena" mrp1="IŠTAR-fe-na @ @ RELAT.PL.ABS @ noun @ " mrp2="IŠTAR-fe-na @ @ RELAT.PL.ABS @ ADJ @ " mrp3="IŠTAR-fe-ne-a @ @ RELAT.SG-ESS @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-we<subscr c="e"/>-na</w>
 <w trans="IŠTAR-fi" mrp1="IŠTAR-f-i @ @ { a → ANTIP} { b → TR.IMP} @ verb @ " mrp2="IŠTAR-f-i @ @ 3POSS.SG.ABS @ noun @ " mrp3="IŠTAR-f-e @ @ 3POSS.SG.ABS @ noun @ " mrp4="IŠTAR-f-i-e @ @ 3POSS.SG-DIR/LOC @ noun @ " mrp5="IŠTAR-f-i-en @ @ MOD.AG-3JUSS @ verb @ " mrp6="IŠTAR-f-e @ @ STAT @ verb @ " mrp7="IŠTAR-f-ae @ @ INS @ noun @ " mrp8="IŠTAR-f-ve @ @ GEN @ noun @ "><d>D</d><aGr>IŠTAR</aGr>-wi<subscr c="i"/></w>
@@ -976,15 +976,15 @@
 <w trans="É-A-pia" mrp1="É-A-pi-a @ Haus @ { a → ESS} { b → DAT} @ noun @ " mrp2="É-A-pi-a @ @ INT @ verb @ "><d>D</d><aGr>É-A</aGr>-pí-ia</w>
 <w trans="É-A-pini" mrp1="Ea-ve-ne-e @ DN @ GEN-RELAT.SG-DIR/LOC @ noun @ "><d>D</d><aGr>É-A</aGr>-pí-ni</w>
 <w trans="É-A-pini(-)[" mrp1="Ea-ve-ne-e @ DN @ GEN-RELAT.SG-DIR/LOC @ noun @ "><d>D</d><aGr>É-A</aGr>-pí-ni(-)<del_in/></w>
-<w trans="É-A-ta" mrp1="É-A--ta @ Haus @ .ABS-DIR @ noun @ " mrp2="É-A-t-a @ @ INT @ verb @ "><d>D</d><aGr>É-A</aGr>-ta</w>
-<w trans="É-A-fa" mrp1="É-A-f-a @ Haus @ { a → ESS} { b → DAT} @ noun @ " mrp2="É-A-f-a @ @ INT @ verb @ "><d>D</d><aGr>É-A</aGr>-wa<subscr c="a"/></w>
+<w trans="É-A-ta" mrp1="Ea-da @ DN @ DIR @ noun @ "><d>D</d><aGr>É-A</aGr>-ta</w>
+<w trans="É-A-fa" mrp1="Ea-va @ DN @ DAT @ noun @ " mrp2="Ea-va @ DN @ DAT @ noun @ "><d>D</d><aGr>É-A</aGr>-wa<subscr c="a"/></w>
 <w trans="É-A-šarrinīel" mrp1="Ea.šarri-ne-ž=l @ DN @ RELAT.SG-ERG=3PL.ABS @ noun @ "><d>D</d><aGr>É-A</aGr>-šar-ri-ni-i-el</w>
 <w trans="É-A]" mrp1="Ea @ DN @ @ noun @ " mrp2="Ea @ DN @ .ABS @ noun @ "><d>D</d><aGr>É-A</aGr><del_fin/></w>
 <w trans="É-A[" mrp1="Ea @ DN @ @ noun @ " mrp2="Ea @ DN @ .ABS @ noun @ "><d>D</d><aGr>É-A</aGr><del_in/></w>
 <w trans="É]-A" mrp1="Ea @ DN @ @ noun @ " mrp2="Ea @ DN @ .ABS @ noun @ "><d>D</d><aGr>É<del_fin/>-<laes_in/>A<laes_fin/></aGr></w>
 <w trans="ḫadni" mrp1="ḫad-ne @ @ ABL/INS @ noun @ " mrp2="ḫad-ne-e @ @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ " mrp3="ḫad-ne-e @ @ RELAT.SG-DIR/LOC @ ADJ @ " mrp4="ḫad-ne-ž @ @ RELAT.SG-ERG @ noun @ " mrp5="ḫad-e-ne @ @ 3POSS.SG-ABL/INS @ noun @ " mrp6="ḫad-ne @ @ ABL/INS @ ADJ @ " mrp7="ḫad-i-ne @ @ 3POSS.SG-ABL/INS @ noun @ " mrp8="ḫad-i-ne-e @ @ 3POSS.SG-RELAT.SG-DIR/LOC @ noun @ " mrp9="ḫad-na @ @ RELAT.PL.ABS @ noun @ "><d>D</d><corr c="!"/><note c="Text: ŠI." n="1"/>ḫa-at-ni</w>
 <w trans="ḫebat[tena" mrp1="ḫebat[te-na @ @ RELAT.PL.ABS @ noun @ " mrp2="ḫebat[te-na @ @ RELAT.PL.ABS @ ADJ @ " mrp3="ḫebat[te-ne-a @ @ RELAT.SG-ESS @ noun @ "><d>D</d><corr c="!"/>ḫé-pát-<del_in/>te-na</w>
-<w trans="]É-A-pa" mrp1="]É-A-va @ @ DAT @ noun @ "><d>D</d><del_fin/><aGr><laes_in/>É<laes_fin/>-A</aGr>-pa</w>
+<w trans="]É-A-pa" mrp1="Ea-va @ DN @ DAT @ noun @ " mrp2="Ea-va @ DN @ DAT @ noun @ "><d>D</d><del_fin/><aGr><laes_in/>É<laes_fin/>-A</aGr>-pa</w>
 <w trans="]abaduž" mrp1="]abad-o-ež @ @ MOD.PAT-OPT @ verb @ " mrp2="]abad-ož @ @ { a → EQU} { b → ERG} @ noun @ " mrp3="]abad-i-ož @ @ 3POSS.SG-EQU @ noun @ " mrp4="]abad-ož @ @ EQU @ ADJ @ "><d>D</d><del_fin/><laes_in/>a<laes_fin/>-ba-du-uš</w>
 <w trans="]adamma" mrp1="atta=mma @ Vater? @ { a → .ABS=2SG.ABS} { b → .ABS=CON} @ noun @ " mrp2="ade-a=mma @ u.B. @ { a → ESS=CON} { b → ESS=2SG.ABS} @ noun @ " mrp3="ad-a=mma @ herabkommen?; herabbringen? @ { a → INT=2SG.ABS} { b → INT.IMP=2SG.ABS} { c → INT=CON} @ verb @ " mrp4="ad-a=mma @ u.B. @ { a → INT=2SG.ABS} { b → INT.IMP=2SG.ABS} { c → INT=CON} @ verb @ "><d>D</d><del_fin/><laes_in/>a<laes_fin/>-dam-ma</w>
 <w trans="]ī[aia" mrp1="Ea-i-a @ DN @ 3POSS.SG-ESS @ noun @ " mrp2="Ea-e-a @ DN @ 3POSS.SG-ESS @ noun @ "><d>D</d><del_fin/><laes_in/>i<corr c="?"/><laes_fin/>-i<del_in/>a<corr c="?"/>-ia</w>
@@ -7812,15 +7812,15 @@
 <w trans="UD]U" mrp1="UDU @ Schaf @ @ noun @ "><sGr>UD<del_fin/>U</sGr></w>
 <w trans="UDU.ŠIR" mrp1="UDU.ŠIR @ @ .ABS @ noun @ "><sGr>UDU.ŠIR</sGr></w>
 <w trans="UGU-iž" mrp1="UGU-i-ež @ @ MOD.AG-OPT @ verb @ " mrp2="UGU-i-ž @ @ 3POSS.SG-ERG @ noun @ "><sGr>UGU</sGr>-iš</w>
-<w trans="URU-[nivina" mrp1="URU-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-<del_in/>ni-wi<subscr c="i"/>-na</w>
-<w trans="URU-nevi" mrp1="URU-ne-ve @ @ RELAT.SG-GEN @ noun @ "><sGr>URU</sGr>-ne-wi<subscr c="i"/></w>
+<w trans="URU-[nivina" mrp1="arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-<del_in/>ni-wi<subscr c="i"/>-na</w>
+<w trans="URU-nevi" mrp1="arde-ne-ve @ Stadt @ RELAT.SG-GEN @ noun @ "><sGr>URU</sGr>-ne-wi<subscr c="i"/></w>
 <w trans="URU-ni" mrp1="arde-ne @ Stadt @ ABL/INS @ noun @ "><sGr>URU</sGr>-ni</w>
-<w trans="URU-nibina" mrp1="URU-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-pí-na</w>
-<w trans="URU-nibina" mrp1="URU-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-pí<laes_fin/>-na</w>
+<w trans="URU-nibina" mrp1="arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-pí-na</w>
+<w trans="URU-nibina" mrp1="arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-pí<laes_fin/>-na</w>
 <w trans="URU-nivamān" mrp1="arde-ne-va=m=an @ Stadt @ RELAT.SG-DAT=2SG.ABS=CON @ noun @ " mrp2="arde-ne-va=man @ Stadt @ RELAT.SG-DAT=CON @ noun @ " mrp3="arde-ne-va=mān @ Stadt @ RELAT.SG-DAT=CON @ noun @ "><sGr>URU</sGr>-ni-wa<subscr c="a"/>-ma-a-an</w>
 <w trans="URU-nivaman" mrp1="arde-ne-va=m=an @ Stadt @ RELAT.SG-DAT=2SG.ABS=CON @ noun @ " mrp2="arde-ne-va=man @ Stadt @ RELAT.SG-DAT=CON @ noun @ " mrp3="arde-ne-va=mān @ Stadt @ RELAT.SG-DAT=CON @ noun @ "><sGr>URU</sGr>-ni-wa<subscr c="a"/>-ma-an</w>
-<w trans="URU-nivin]a" mrp1="URU-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-wi<subscr c="i"/>-n<del_fin/>a</w>
-<w trans="URU-nivina" mrp1="URU-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-wi<subscr c="i"/>-na</w>
+<w trans="URU-nivin]a" mrp1="arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-wi<subscr c="i"/>-n<del_fin/>a</w>
+<w trans="URU-nivina" mrp1="arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-ni-wi<subscr c="i"/>-na</w>
 <w trans="URU-nix[" mrp1="URU-nix[ @ @ @ noun @ "><sGr>URU</sGr>-ni-x<del_in/></w>
 <w trans="URU-ten[ēve" mrp1="arde-ne-ve @ Stadt @ RELAT.SG-GEN @ noun @ "><sGr>URU</sGr>-te-n<del_in/>e-e-we<subscr c="e"/></w>
 <w trans="URU-tenive[na" mrp1="arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><sGr>URU</sGr>-te-ni-we<subscr c="e"/>-<del_in/>na</w>
@@ -7852,15 +7852,15 @@
 <w trans="Í[D-na]" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>Í<del_in/>D</sGr><d>MEŠ</d>-na<del_fin/></w>
 <w trans="ÍD" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr></w>
 <w trans="ÍD-na(-)x[" mrp1="ÍD-na(-)x[ @ @ @ noun @ "><sGr>ÍD</sGr>-<laes_in/>na<laes_fin/>(-)x<del_in/></w>
-<w trans="ÍD-ni" mrp1="ÍD-ne @ @ ABL/INS @ noun @ " mrp2="ÍD-ne-e @ @ RELAT.SG-DIR/LOC @ noun @ "><sGr>ÍD</sGr>-<ras_in/>ni<ras_fin/></w>
+<w trans="ÍD-ni" mrp1="šiye-ne @ Wasser; Fluss @ ABL/INS @ noun @ " mrp2="šiye-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ " mrp3="šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ " mrp4="šiye-e-ne @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ " mrp5="šiye-i-ne @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ " mrp6="šiye-i-ne-e @ Wasser; Fluss @ 3POSS.SG-RELAT.SG-DIR/LOC @ noun @ " mrp7="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr>-<ras_in/>ni<ras_fin/></w>
 <w trans="ÍD-na" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr>-na</w>
-<w trans="ÍD-niba" mrp1="ÍD-ne-va @ @ RELAT.SG-DAT @ noun @ " mrp2="ÍD-ne-ve-a @ @ RELAT.SG-GEN-ESS @ noun @ "><sGr>ÍD</sGr>-ni-pa</w>
+<w trans="ÍD-niba" mrp1="šiye-ne-va @ Wasser; Fluss @ RELAT.SG-DAT @ noun @ " mrp2="šiye-ne-ve-a @ Wasser; Fluss @ RELAT.SG-GEN-ESS @ noun @ "><sGr>ÍD</sGr>-ni-pa</w>
 <w trans="ÍD-na" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr><d>ME.EŠ</d>-na</w>
 <w trans="ÍD" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d></w>
 <w trans="ÍD-[na" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d>-<del_in/>na</w>
 <w trans="ÍD-ia" mrp1="šiye-a @ Wasser; Fluss @ ESS @ noun @ " mrp2="šiye @ Wasser; Fluss @ .ABS @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d>-ia</w>
 <w trans="ÍD-na" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d>-na</w>
-<w trans="ÍD-naža" mrp1="ÍD-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ noun @ " mrp2="ÍD-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ ADJ @ "><sGr>ÍD</sGr><d>MEŠ</d>-na-<laes_in/>ša<laes_fin/></w>
+<w trans="ÍD-naža" mrp1="šiye-na-až-a @ Wasser; Fluss @ RELAT.PL-PL-DAT/ESS @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d>-na-<laes_in/>ša<laes_fin/></w>
 <w trans="ÍD-nāži" mrp1="šiye-na-až-ve @ Wasser; Fluss @ RELAT.PL-PL-GEN @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d>-na-a-ši</w>
 <w trans="ÍD-na]" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr><d>MEŠ</d>-na<del_fin/></w>
 <w trans="ÍD[" mrp1="šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "><sGr>ÍD</sGr><laes_fin/><del_in/></w>

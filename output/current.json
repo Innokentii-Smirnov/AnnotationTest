@@ -5915,11 +5915,11 @@
 	},
 	{
 		"trans": "IŠTAR-f[a",
-		"mrp1": "IŠTAR-va @  @ DAT @ noun @ "
+		"mrp1": "Šavoška-va @ DN @ DAT @ noun @ "
 	},
 	{
 		"trans": "IŠTAR-fa",
-		"mrp1": "IŠTAR-va @  @ DAT @ noun @ "
+		"mrp1": "Šavoška-va @ DN @ DAT @ noun @ "
 	},
 	{
 		"trans": "IŠTAR-fe",
@@ -6019,13 +6019,12 @@
 	},
 	{
 		"trans": "É-A-ta",
-		"mrp1": "É-A--ta @ Haus @ .ABS-DIR @ noun @ ",
-		"mrp2": "É-A-t-a @  @ INT @ verb @ "
+		"mrp1": "Ea-da @ DN @ DIR @ noun @ "
 	},
 	{
 		"trans": "É-A-fa",
-		"mrp1": "É-A-f-a @ Haus @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "É-A-f-a @  @ INT @ verb @ "
+		"mrp1": "Ea-va @ DN @ DAT @ noun @ ",
+		"mrp2": "Ea-va @ DN @ DAT @ noun @ "
 	},
 	{
 		"trans": "É-A-šarrinīel",
@@ -6066,7 +6065,8 @@
 	},
 	{
 		"trans": "]É-A-pa",
-		"mrp1": "]É-A-va @  @ DAT @ noun @ "
+		"mrp1": "Ea-va @ DN @ DAT @ noun @ ",
+		"mrp2": "Ea-va @ DN @ DAT @ noun @ "
 	},
 	{
 		"trans": "]abaduž",
@@ -44441,11 +44441,11 @@
 	},
 	{
 		"trans": "URU-[nivina",
-		"mrp1": "URU-ne-ve-na @  @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
+		"mrp1": "arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "URU-nevi",
-		"mrp1": "URU-ne-ve @  @ RELAT.SG-GEN @ noun @ "
+		"mrp1": "arde-ne-ve @ Stadt @ RELAT.SG-GEN @ noun @ "
 	},
 	{
 		"trans": "URU-ni",
@@ -44453,11 +44453,11 @@
 	},
 	{
 		"trans": "URU-nibina",
-		"mrp1": "URU-ne-ve-na @  @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
+		"mrp1": "arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "URU-nibina",
-		"mrp1": "URU-ne-ve-na @  @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
+		"mrp1": "arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "URU-nivamān",
@@ -44473,11 +44473,11 @@
 	},
 	{
 		"trans": "URU-nivin]a",
-		"mrp1": "URU-ne-ve-na @  @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
+		"mrp1": "arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "URU-nivina",
-		"mrp1": "URU-ne-ve-na @  @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
+		"mrp1": "arde-ne-ve-na @ Stadt @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "URU-nix[",
@@ -44618,8 +44618,13 @@
 	},
 	{
 		"trans": "ÍD-ni",
-		"mrp1": "ÍD-ne @  @ ABL/INS @ noun @ ",
-		"mrp2": "ÍD-ne-e @  @ RELAT.SG-DIR/LOC @ noun @ "
+		"mrp1": "šiye-ne @ Wasser; Fluss @ ABL/INS @ noun @ ",
+		"mrp2": "šiye-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
+		"mrp3": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp4": "šiye-e-ne @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
+		"mrp5": "šiye-i-ne @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
+		"mrp6": "šiye-i-ne-e @ Wasser; Fluss @ 3POSS.SG-RELAT.SG-DIR/LOC @ noun @ ",
+		"mrp7": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "ÍD-na",
@@ -44627,8 +44632,8 @@
 	},
 	{
 		"trans": "ÍD-niba",
-		"mrp1": "ÍD-ne-va @  @ RELAT.SG-DAT @ noun @ ",
-		"mrp2": "ÍD-ne-ve-a @  @ RELAT.SG-GEN-ESS @ noun @ "
+		"mrp1": "šiye-ne-va @ Wasser; Fluss @ RELAT.SG-DAT @ noun @ ",
+		"mrp2": "šiye-ne-ve-a @ Wasser; Fluss @ RELAT.SG-GEN-ESS @ noun @ "
 	},
 	{
 		"trans": "ÍD-na",
@@ -44653,8 +44658,7 @@
 	},
 	{
 		"trans": "ÍD-naža",
-		"mrp1": "ÍD-na-až-a @  @ RELAT.PL-PL-DAT/ESS @ noun @ ",
-		"mrp2": "ÍD-na-až-a @  @ RELAT.PL-PL-DAT/ESS @ ADJ @ "
+		"mrp1": "šiye-na-až-a @ Wasser; Fluss @ RELAT.PL-PL-DAT/ESS @ noun @ "
 	},
 	{
 		"trans": "ÍD-nāži",
