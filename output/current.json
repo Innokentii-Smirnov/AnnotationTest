@@ -93677,7 +93677,7 @@
 	},
 	{
 		"trans": "faġn[ībi]",
-		"mrp1": "faġ-ne-ve @  @ RELAT.SG-GEN @ noun @ "
+		"mrp1": "pāġi-ne-ve @ Kopf @ RELAT.SG-GEN @ noun @ "
 	},
 	{
 		"trans": "fažudu",
@@ -103956,8 +103956,8 @@
 	},
 	{
 		"trans": "šēġnaža",
-		"mrp1": "šēġ-na-až-a @  @ RELAT.PL-PL-DAT/ESS @ noun @ ",
-		"mrp2": "šēġ-na-až-a @  @ RELAT.PL-PL-DAT/ESS @ ADJ @ "
+		"mrp1": "šēġa-na-až-a @ Tor @ RELAT.PL-PL-DAT/ESS @ noun @ ",
+		"mrp2": "šīġi-na-až-a @ u.B. @ RELAT.PL-PL-DAT/ESS @ noun @ "
 	},
 	{
 		"trans": "šēḫḫavobinibuž",
@@ -104873,7 +104873,11 @@
 		"mrp3": "šeġr-a @ angenehm / großzügig sein @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
 		"mrp4": "šeġri-i-a @ angenehm; großzügig @ 3POSS.SG-ESS @ noun @ ",
 		"mrp5": "šeġr-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp6": "šeġr-i-a @ angenehm / großzügig sein @ TR-3A.SG @ verb @ "
+		"mrp6": "šeġr-i-a @ angenehm / großzügig sein @ TR-3A.SG @ verb @ ",
+		"mrp7": "šēġa-ra @ Tor @ COM @ noun @ ",
+		"mrp8": "šīġi-ra @ u.B. @ COM @ noun @ ",
+		"mrp9": "šēġa-i-ra @ Tor @ 3POSS.SG-COM @ noun @ ",
+		"mrp10": "šīġi-i-ra @ u.B. @ 3POSS.SG-COM @ noun @ "
 	},
 	{
 		"trans": "šeġra",
@@ -104882,7 +104886,11 @@
 		"mrp3": "šeġr-a @ angenehm / großzügig sein @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
 		"mrp4": "šeġri-i-a @ angenehm; großzügig @ 3POSS.SG-ESS @ noun @ ",
 		"mrp5": "šeġr-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp6": "šeġr-i-a @ angenehm / großzügig sein @ TR-3A.SG @ verb @ "
+		"mrp6": "šeġr-i-a @ angenehm / großzügig sein @ TR-3A.SG @ verb @ ",
+		"mrp7": "šēġa-ra @ Tor @ COM @ noun @ ",
+		"mrp8": "šīġi-ra @ u.B. @ COM @ noun @ ",
+		"mrp9": "šēġa-i-ra @ Tor @ 3POSS.SG-COM @ noun @ ",
+		"mrp10": "šīġi-i-ra @ u.B. @ 3POSS.SG-COM @ noun @ "
 	},
 	{
 		"trans": "šeġram",
