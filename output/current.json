@@ -924,10 +924,11 @@
 		"mrp7": "ēnġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "inġ-i-en @ u.B. @ MOD.AG-3JUSS @ verb @ ",
 		"mrp9": "inġ-e @ u.B. @ STAT @ verb @ ",
-		"mrp10": "inġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp11": "ēnġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "inġi-ve @ u.B. @ GEN @ noun @ ",
-		"mrp13": "ēnġi-ve @ u.B. @ GEN @ noun @ "
+		"mrp10": "eni-ġe @ Gottheit @ ADJ.ABS @ noun @ ",
+		"mrp11": "inġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp12": "ēnġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp13": "inġi-ve @ u.B. @ GEN @ noun @ ",
+		"mrp14": "ēnġi-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "e]ž",
@@ -15638,7 +15639,7 @@
 	},
 	{
 		"trans": "]šanġina",
-		"mrp1": "]šan-ġe-na @  @ ADJ-RELAT.PL.ABS @ noun @ "
+		"mrp1": "šāni-ġe-na @ u.B. @ ADJ-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "]ša",
@@ -32170,8 +32171,11 @@
 		"mrp3": "parġi-e @ Hof @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "parġi-ž @ Hof @ ERG @ noun @ ",
 		"mrp5": "parġi-i-e @ Hof @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp6": "parġi-ae @ Hof @ INS @ noun @ ",
-		"mrp7": "parġi-ve @ Hof @ GEN @ noun @ "
+		"mrp6": "fāri-ġe @ u.B. @ ADJ.ABS @ noun @ ",
+		"mrp7": "pāri-ġe @ u.B. @ ADJ.ABS @ noun @ ",
+		"mrp8": "pari-ġe @ Stirnlocke? @ ADJ.ABS @ noun @ ",
+		"mrp9": "parġi-ae @ Hof @ INS @ noun @ ",
+		"mrp10": "parġi-ve @ Hof @ GEN @ noun @ "
 	},
 	{
 		"trans": "",
@@ -34436,10 +34440,11 @@
 		"mrp7": "ēnġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "inġ-i-en @ u.B. @ MOD.AG-3JUSS @ verb @ ",
 		"mrp9": "inġ-e @ u.B. @ STAT @ verb @ ",
-		"mrp10": "inġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp11": "ēnġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "inġi-ve @ u.B. @ GEN @ noun @ ",
-		"mrp13": "ēnġi-ve @ u.B. @ GEN @ noun @ "
+		"mrp10": "eni-ġe @ Gottheit @ ADJ.ABS @ noun @ ",
+		"mrp11": "inġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp12": "ēnġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp13": "inġi-ve @ u.B. @ GEN @ noun @ ",
+		"mrp14": "ēnġi-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "e[",
@@ -36404,8 +36409,10 @@
 		"mrp1": "nirġi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp2": "nirġi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "nirġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "nirġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp5": "nirġi-ve @ u.B. @ GEN @ noun @ "
+		"mrp4": "nera-ġe @ Mutter @ ADJ.ABS @ noun @ ",
+		"mrp5": "neri-ġe @ gut; Güte @ ADJ.ABS @ noun @ ",
+		"mrp6": "nirġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp7": "nirġi-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "nix-x[",
@@ -44642,7 +44649,7 @@
 	},
 	{
 		"trans": "ārġe[",
-		"mrp1": "ār-ġe @  @ ADJ.ABS @ noun @ "
+		"mrp1": "āri-ġe @ das Böse @ ADJ.ABS @ noun @ "
 	},
 	{
 		"trans": "āttaniv[a",
@@ -70944,7 +70951,7 @@
 	},
 	{
 		"trans": "manġi",
-		"mrp1": "man-ġe @  @ ADJ.ABS @ noun @ "
+		"mrp1": "māni-ġe @ u.B. @ ADJ.ABS @ noun @ "
 	},
 	{
 		"trans": "mattaraži",
@@ -71508,7 +71515,7 @@
 	},
 	{
 		"trans": "mērġīe",
-		"mrp1": "mēr-ġe @  @ ADJ.ABS @ noun @ "
+		"mrp1": "mēri-ġe @ u.B. @ ADJ.ABS @ noun @ "
 	},
 	{
 		"trans": "mēru[",
@@ -73995,7 +74002,8 @@
 	},
 	{
 		"trans": "nerġinā",
-		"mrp1": "ner-ġe-na @  @ ADJ-RELAT.PL.ABS @ noun @ "
+		"mrp1": "nera-ġe-na @ Mutter @ ADJ-RELAT.PL.ABS @ noun @ ",
+		"mrp2": "neri-ġe-na @ gut; Güte @ ADJ-RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "ness[i",
@@ -74586,8 +74594,10 @@
 		"mrp1": "nirġi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp2": "nirġi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "nirġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "nirġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp5": "nirġi-ve @ u.B. @ GEN @ noun @ "
+		"mrp4": "nera-ġe @ Mutter @ ADJ.ABS @ noun @ ",
+		"mrp5": "neri-ġe @ gut; Güte @ ADJ.ABS @ noun @ ",
+		"mrp6": "nirġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp7": "nirġi-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "nirġiašši",
@@ -79005,8 +79015,9 @@
 		"mrp4": "purġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "purġ-i-en @ u.B. @ MOD.AG-3JUSS @ verb @ ",
 		"mrp6": "purġ-e @ u.B. @ STAT @ verb @ ",
-		"mrp7": "purġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp8": "purġi-ve @ u.B. @ GEN @ noun @ "
+		"mrp7": "fōri-ġe @ Blick @ ADJ.ABS @ noun @ ",
+		"mrp8": "purġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "purġi-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "purni",
@@ -102169,10 +102180,11 @@
 		"mrp4": "šerġi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "šer+ġe-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "šerġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp7": "šer+ġe-ae @ u.B. @ INS @ noun @ ",
-		"mrp8": "šerġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp9": "šer+ġe-ve @ u.B. @ GEN @ noun @ ",
-		"mrp10": "šerġi-ve @ u.B. @ GEN @ noun @ "
+		"mrp7": "šēri-ġe @ jeder? @ ADJ.ABS @ noun @ ",
+		"mrp8": "šer+ġe-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "šerġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp10": "šer+ġe-ve @ u.B. @ GEN @ noun @ ",
+		"mrp11": "šerġi-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "šīž",
@@ -106499,7 +106511,7 @@
 	},
 	{
 		"trans": "ḫ]arġi",
-		"mrp1": "ḫ]ar-ġe @  @ ADJ.ABS @ noun @ "
+		"mrp1": "ḫāri-ġe @ Weg @ ADJ.ABS @ noun @ "
 	},
 	{
 		"trans": "ḫ]alōža",
@@ -108616,7 +108628,7 @@
 	},
 	{
 		"trans": "ḫarġi",
-		"mrp1": "ḫar-ġe @  @ ADJ.ABS @ noun @ "
+		"mrp1": "ḫāri-ġe @ Weg @ ADJ.ABS @ noun @ "
 	},
 	{
 		"trans": "ḫad[",
