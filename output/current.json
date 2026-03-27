@@ -640,15 +640,13 @@
 		"mrp5": "ade-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "ad-i-a @ herabkommen?; herabbringen? @ TR-3A.SG @ verb @ ",
 		"mrp7": "ad-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "a-d-a @ u.B. @ d-INT @ verb @ ",
-		"mrp9": "atta-ž @ Vater? @ ERG @ noun @ "
+		"mrp8": "a-d-a @ u.B. @ d-INT @ verb @ "
 	},
 	{
 		"trans": "a]tta",
 		"mrp1": "atta+i @ Vater @ .ABS @ noun @ ",
 		"mrp2": "att-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
-		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp4": "atta+i-ž @ Vater @ ERG @ noun @ "
+		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ "
 	},
 	{
 		"trans": "a]tti",
@@ -741,10 +739,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "t]ašša",
@@ -790,8 +786,7 @@
 		"trans": "t]u",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "t]uma",
@@ -843,8 +838,7 @@
 		"trans": "t]u",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "t]uni",
@@ -942,10 +936,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "e]nni",
@@ -955,10 +948,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "e]ndēl",
@@ -1179,9 +1171,7 @@
 	{
 		"trans": "i]kki",
 		"mrp1": "egi @ Inneres; Mitte; innere @ .ABS @ noun @ ",
-		"mrp2": "ēkke @ u.B. @ .ABS @ noun @ ",
-		"mrp3": "egi-ž @ Inneres; Mitte; innere @ ERG @ noun @ ",
-		"mrp4": "ēkke-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "ēkke @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "i]kkunnivi",
@@ -1227,10 +1217,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "i]nnia",
@@ -1372,8 +1361,7 @@
 		"trans": "i]rġi",
 		"mrp1": "erġi @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ērġ-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "erġi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ērġ-e @ u.B. @ STAT @ verb @ "
+		"mrp3": "ērġ-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "i]d",
@@ -1875,8 +1863,7 @@
 		"trans": "m]ōri",
 		"mrp1": "mōri @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "mor-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "mōri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "mor-e @ u.B. @ STAT @ verb @ "
+		"mrp3": "mor-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "m]umma",
@@ -2061,8 +2048,7 @@
 		"trans": "n]ani",
 		"mrp1": "nāni @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nān-i @ schlagen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "nāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "nān-e @ schlagen @ STAT @ verb @ "
+		"mrp3": "nān-e @ schlagen @ STAT @ verb @ "
 	},
 	{
 		"trans": "n]avāġi",
@@ -2344,9 +2330,7 @@
 		"mrp1": "nai @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nāie @ u.B. @ .ABS @ noun @ ",
 		"mrp3": "nā-i @ weiden @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp4": "nai-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "nāie-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "nā-e @ weiden @ STAT @ verb @ "
+		"mrp4": "nā-e @ weiden @ STAT @ verb @ "
 	},
 	{
 		"trans": "n]āži",
@@ -3285,8 +3269,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "t]iġia",
@@ -3777,8 +3760,7 @@
 	},
 	{
 		"trans": "f]ue",
-		"mrp1": "powe @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "powe-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "powe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "f]uda",
@@ -3788,8 +3770,7 @@
 	},
 	{
 		"trans": "f]uwi",
-		"mrp1": "powe @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "powe-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "powe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "f]ā",
@@ -4249,13 +4230,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "š]ida",
@@ -4397,13 +4376,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "š]ia",
@@ -4574,18 +4551,16 @@
 		"trans": "ḫ]i",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫ]ib",
 		"mrp1": "ḫib @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫē-v @ u.B. @ 2POSS.SG.ABS @ noun @ ",
 		"mrp3": "ḫa-i-b @ nehmen @ ANTIP-b @ verb @ ",
-		"mrp4": "ḫib-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "ḫa-i=v @ nehmen @ { a → ANTIP=2PL.ABS} { b → TR.IMP=2PL.ABS} @ verb @ ",
-		"mrp6": "ḫē=m @ u.B. @ .ABS=CON @ noun @ ",
-		"mrp7": "ḫa-i=m @ nehmen @ ANTIP=CON @ verb @ "
+		"mrp4": "ḫa-i=v @ nehmen @ { a → ANTIP=2PL.ABS} { b → TR.IMP=2PL.ABS} @ verb @ ",
+		"mrp5": "ḫē=m @ u.B. @ .ABS=CON @ noun @ ",
+		"mrp6": "ḫa-i=m @ nehmen @ ANTIP=CON @ verb @ "
 	},
 	{
 		"trans": "ḫ]iž",
@@ -4641,11 +4616,9 @@
 		"mrp5": "ḫōri-e @ Schoß @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "ḫōri-i-e @ Schoß @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "ḫōri-i @ Schoß @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "ḫōri-ž @ Schoß @ ERG @ noun @ ",
-		"mrp9": "ḫōri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "ḫōr-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
-		"mrp12": "ḫōri-ae @ Schoß @ INS @ noun @ "
+		"mrp8": "ḫōr-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
+		"mrp10": "ḫōri-ae @ Schoß @ INS @ noun @ "
 	},
 	{
 		"trans": "ḫ]urida",
@@ -4709,8 +4682,7 @@
 		"trans": "ḫ]e",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫārre]ž",
@@ -5286,8 +5258,7 @@
 	},
 	{
 		"trans": "ḪAR[",
-		"mrp1": "ḪAR @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ḪAR-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "ḪAR @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḪARmiž",
@@ -5381,8 +5352,7 @@
 	},
 	{
 		"trans": "aġru]šḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "k]eššenīe[l",
@@ -6400,8 +6370,7 @@
 	},
 	{
 		"trans": "ku[baba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kumarbiž",
@@ -6464,8 +6433,7 @@
 	},
 	{
 		"trans": "ḫassi",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫōdāi",
@@ -6824,8 +6792,7 @@
 	},
 	{
 		"trans": "10-š[ub",
-		"mrp1": "Teššob @ DN @ .ABS @ noun @ ",
-		"mrp2": "Teššob-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Teššob @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "10-šu[",
@@ -6862,8 +6829,7 @@
 	},
 	{
 		"trans": "10-šub",
-		"mrp1": "Teššob @ DN @ .ABS @ noun @ ",
-		"mrp2": "Teššob-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Teššob @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "10-šuppa",
@@ -7766,8 +7732,7 @@
 	},
 	{
 		"trans": "allanzu",
-		"mrp1": "Allanzō @ DN @ .ABS @ noun @ ",
-		"mrp2": "Allanzō-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Allanzō @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "allān[i",
@@ -7910,8 +7875,7 @@
 	},
 	{
 		"trans": "aġruš]ḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "pižažapḫi",
@@ -7944,10 +7908,9 @@
 		"trans": "ta[gidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "tā[r",
@@ -7977,10 +7940,9 @@
 		"trans": "tagidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "tam[gina",
@@ -8037,11 +7999,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "edinnive",
@@ -8549,23 +8509,19 @@
 	},
 	{
 		"trans": "kub]aba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kuba[ba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kubāba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kubaba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kubaba[ž",
@@ -8581,13 +8537,11 @@
 	},
 	{
 		"trans": "kubaba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kubaba",
-		"mrp1": "Kubaba @ DN @ .ABS @ noun @ ",
-		"mrp2": "Kubaba-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Kubaba @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kunzizi",
@@ -9099,8 +9053,7 @@
 	},
 	{
 		"trans": "nigal[u",
-		"mrp1": "Nigalo @ DN @ .ABS @ noun @ ",
-		"mrp2": "Nigalo-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Nigalo @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "nīnattax[",
@@ -9260,10 +9213,9 @@
 		"trans": "tāgidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "t[ēmu",
@@ -9299,10 +9251,9 @@
 		"trans": "tā[gi]du",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "tažmi[š]pia",
@@ -9329,10 +9280,9 @@
 		"trans": "tagidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "tapkinnaž",
@@ -9847,9 +9797,8 @@
 	{
 		"trans": "š]arrumma",
 		"mrp1": "Šarrumma @ DN @ .ABS @ noun @ ",
-		"mrp2": "Šarrumma-ž @ DN @ ERG @ noun @ ",
-		"mrp3": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
-		"mrp4": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
+		"mrp2": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
 	},
 	{
 		"trans": "š]ur[zi",
@@ -9878,8 +9827,7 @@
 	},
 	{
 		"trans": "š[imi",
-		"mrp1": "šimi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šimi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "šimi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šaušk[a",
@@ -9922,8 +9870,7 @@
 	},
 	{
 		"trans": "šabuška",
-		"mrp1": "Šavoška @ DN @ .ABS @ noun @ ",
-		"mrp2": "Šavoška-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Šavoška @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šaōška",
@@ -10039,9 +9986,8 @@
 	{
 		"trans": "šar[rumm]a",
 		"mrp1": "Šarrumma @ DN @ .ABS @ noun @ ",
-		"mrp2": "Šarrumma-ž @ DN @ ERG @ noun @ ",
-		"mrp3": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
-		"mrp4": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
+		"mrp2": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
 	},
 	{
 		"trans": "šarrin]ašta",
@@ -10090,16 +10036,14 @@
 	{
 		"trans": "šarrumma",
 		"mrp1": "Šarrumma @ DN @ .ABS @ noun @ ",
-		"mrp2": "Šarrumma-ž @ DN @ ERG @ noun @ ",
-		"mrp3": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
-		"mrp4": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
+		"mrp2": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
 	},
 	{
 		"trans": "šarrummā[",
 		"mrp1": "Šarrumma @ DN @ .ABS @ noun @ ",
-		"mrp2": "Šarrumma-ž @ DN @ ERG @ noun @ ",
-		"mrp3": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
-		"mrp4": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
+		"mrp2": "šarr-umme-a @ u.B. @ INF-ESS @ verb @ ",
+		"mrp3": "šarr-o-m=ma @ u.B. @ TR.PFV-3A.SG=CON @ verb @ "
 	},
 	{
 		"trans": "šarrumma[n]",
@@ -10227,8 +10171,7 @@
 	},
 	{
 		"trans": "šōvala]",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šukkuweni]",
@@ -11050,8 +10993,7 @@
 	},
 	{
 		"trans": "10-[",
-		"mrp1": "Teššob @ DN @ .ABS @ noun @ ",
-		"mrp2": "Teššob-ž @ DN @ ERG @ noun @ "
+		"mrp1": "Teššob @ DN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "10-uppa",
@@ -11074,23 +11016,19 @@
 	},
 	{
 		"trans": "aġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āġrušḫ[i",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "aġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "",
@@ -11139,9 +11077,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "inx[",
@@ -11232,9 +11169,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "tad]uġebaž",
@@ -11395,13 +11331,11 @@
 	},
 	{
 		"trans": "šenda[menni",
-		"mrp1": "Šendamenni @ PN @ .ABS @ noun @ ",
-		"mrp2": "Šendamenni-ž @ PN @ ERG @ noun @ "
+		"mrp1": "Šendamenni @ PN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šendame[nni",
-		"mrp1": "Šendamenni @ PN @ .ABS @ noun @ ",
-		"mrp2": "Šendamenni-ž @ PN @ ERG @ noun @ "
+		"mrp1": "Šendamenni @ PN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šendaminni(-)[",
@@ -11651,11 +11585,9 @@
 		"mrp5": "pā+i+nni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "pā+i+nni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "pā+i+nni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "paīnni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "pā+i+nni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "paini-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "pā+i+nni-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "paini-na @ u.B. @ RELAT.PL.ABS @ noun @ "
+		"mrp8": "paini-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "pā+i+nni-ae @ u.B. @ INS @ noun @ ",
+		"mrp10": "paini-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "pā[īn",
@@ -11717,13 +11649,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šāmanni",
@@ -12067,19 +11997,16 @@
 	{
 		"trans": "ela[mi",
 		"mrp1": "Elami @ GN @ .ABS @ noun @ ",
-		"mrp2": "Elami-ž @ GN @ ERG @ noun @ ",
-		"mrp3": "il-am-i @ u.B. @ FACT-ANTIP @ verb @ "
+		"mrp2": "il-am-i @ u.B. @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "elami[",
 		"mrp1": "Elami @ GN @ .ABS @ noun @ ",
-		"mrp2": "Elami-ž @ GN @ ERG @ noun @ ",
-		"mrp3": "il-am-i @ u.B. @ FACT-ANTIP @ verb @ "
+		"mrp2": "il-am-i @ u.B. @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "ežebāb[u",
-		"mrp1": "Ežeb.Ābu @ PN @ .ABS @ noun @ ",
-		"mrp2": "Ežeb.Ābu-ž @ PN @ ERG @ noun @ "
+		"mrp1": "Ežeb.Ābu @ PN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ilāmiġō[rr]al",
@@ -12213,8 +12140,7 @@
 		"trans": "paibi[bla",
 		"mrp1": "Paib.Ebla @ PN @ .ABS @ noun @ ",
 		"mrp2": "Paib.Ebla-a @ PN @ { a → ESS} { b → INT} @ noun @ ",
-		"mrp3": "Paib.Ebla-i-a @ PN @ 3POSS.SG-ESS @ noun @ ",
-		"mrp4": "Paib.Ebla-ž @ PN @ ERG @ noun @ "
+		"mrp3": "Paib.Ebla-i-a @ PN @ 3POSS.SG-ESS @ noun @ "
 	},
 	{
 		"trans": "paibiblan",
@@ -12469,8 +12395,7 @@
 		"trans": "ullō[",
 		"mrp1": "Ūllu @ PN @ .ABS @ noun @ ",
 		"mrp2": "oll-u @ zurückhalten; niederdrücken @ MED @ verb @ ",
-		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "Ūllu-ž @ PN @ ERG @ noun @ "
+		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "fāzanigarvaž",
@@ -12566,8 +12491,7 @@
 		"trans": "ūllu[",
 		"mrp1": "Ūllu @ PN @ .ABS @ noun @ ",
 		"mrp2": "oll-u @ zurückhalten; niederdrücken @ MED @ verb @ ",
-		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "Ūllu-ž @ PN @ ERG @ noun @ "
+		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "ūllu[š(-)",
@@ -13212,8 +13136,7 @@
 	{
 		"trans": "nenuwa",
 		"mrp1": "Ninuwa @ GN @ .ABS @ noun @ ",
-		"mrp2": "nīn-u-a @ u.B. @ MED-3A.SG @ verb @ ",
-		"mrp3": "Ninuwa-ž @ GN @ ERG @ noun @ "
+		"mrp2": "nīn-u-a @ u.B. @ MED-3A.SG @ verb @ "
 	},
 	{
 		"trans": "nenuan",
@@ -13738,8 +13661,7 @@
 		"mrp1": "Ḫalba @ GN @ .ABS @ noun @ ",
 		"mrp2": "Ḫalba-a @ GN @ { a → ESS} { b → INT} @ noun @ ",
 		"mrp3": "Ḫalba-i-a @ GN @ 3POSS.SG-ESS @ noun @ ",
-		"mrp4": "Ḫalba-ž @ GN @ ERG @ noun @ ",
-		"mrp5": "ḫāl-b-a @ wegtragen @ b-INT @ verb @ "
+		"mrp4": "ḫāl-b-a @ wegtragen @ b-INT @ verb @ "
 	},
 	{
 		"trans": "ḫalbāba",
@@ -15211,8 +15133,7 @@
 	},
 	{
 		"trans": "]ḪAR",
-		"mrp1": "ḪAR @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ḪAR-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "ḪAR @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "]ā",
@@ -15723,9 +15644,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "]tax[",
@@ -15735,8 +15655,7 @@
 		"trans": "]tu",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "]tōma",
@@ -15879,11 +15798,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "]ena",
@@ -16393,8 +16310,7 @@
 		"mrp3": "nāie-a @ u.B. @ { a → ESS} { b → INT} @ noun @ ",
 		"mrp4": "nā-i-a @ weiden @ TR-3A.SG @ verb @ ",
 		"mrp5": "nai-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
-		"mrp6": "nāie-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
-		"mrp7": "naīa-ž @ u.B. @ ERG @ noun @ "
+		"mrp6": "nāie-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ "
 	},
 	{
 		"trans": "]neġax[",
@@ -16463,8 +16379,7 @@
 	},
 	{
 		"trans": "]puwi",
-		"mrp1": "powe @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "powe-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "powe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "]punnuġatta",
@@ -16476,8 +16391,7 @@
 		"mrp1": "pili @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "fēl-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp3": "pa-i-le @ bauen @ MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "pili-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "fēl-e @ u.B. @ STAT @ verb @ "
+		"mrp4": "fēl-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "]pi",
@@ -17179,13 +17093,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "]ši",
@@ -17200,13 +17112,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "]ši[a",
@@ -17253,18 +17163,16 @@
 		"trans": "]ḫi",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "]ḫīb",
 		"mrp1": "ḫib @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫē-v @ u.B. @ 2POSS.SG.ABS @ noun @ ",
 		"mrp3": "ḫa-i-b @ nehmen @ ANTIP-b @ verb @ ",
-		"mrp4": "ḫib-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "ḫa-i=v @ nehmen @ { a → ANTIP=2PL.ABS} { b → TR.IMP=2PL.ABS} @ verb @ ",
-		"mrp6": "ḫē=m @ u.B. @ .ABS=CON @ noun @ ",
-		"mrp7": "ḫa-i=m @ nehmen @ ANTIP=CON @ verb @ "
+		"mrp4": "ḫa-i=v @ nehmen @ { a → ANTIP=2PL.ABS} { b → TR.IMP=2PL.ABS} @ verb @ ",
+		"mrp5": "ḫē=m @ u.B. @ .ABS=CON @ noun @ ",
+		"mrp6": "ḫa-i=m @ nehmen @ ANTIP=CON @ verb @ "
 	},
 	{
 		"trans": "]ḫinin",
@@ -17742,8 +17650,7 @@
 		"trans": "]atta",
 		"mrp1": "atta+i @ Vater @ .ABS @ noun @ ",
 		"mrp2": "att-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
-		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp4": "atta+i-ž @ Vater @ ERG @ noun @ "
+		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ "
 	},
 	{
 		"trans": "]attenina",
@@ -17930,8 +17837,7 @@
 		"trans": "]tu",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "]tu(-)[",
@@ -18121,10 +18027,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "]enzōri",
@@ -18153,8 +18058,7 @@
 	{
 		"trans": "]kāmi",
 		"mrp1": "kamme @ ein Tier @ .ABS @ noun @ ",
-		"mrp2": "kamme-ž @ ein Tier @ ERG @ noun @ ",
-		"mrp3": "ke-am-i @ setzen; stellen; legen @ FACT-ANTIP @ verb @ "
+		"mrp2": "ke-am-i @ setzen; stellen; legen @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "]kārain",
@@ -18876,18 +18780,14 @@
 		"mrp1": "nai @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nāie @ u.B. @ .ABS @ noun @ ",
 		"mrp3": "nā-i @ weiden @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp4": "nai-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "nāie-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "nā-e @ weiden @ STAT @ verb @ "
+		"mrp4": "nā-e @ weiden @ STAT @ verb @ "
 	},
 	{
 		"trans": "]nāi",
 		"mrp1": "nai @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nāie @ u.B. @ .ABS @ noun @ ",
 		"mrp3": "nā-i @ weiden @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp4": "nai-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "nāie-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "nā-e @ weiden @ STAT @ verb @ "
+		"mrp4": "nā-e @ weiden @ STAT @ verb @ "
 	},
 	{
 		"trans": "]nāža",
@@ -18909,9 +18809,7 @@
 		"mrp1": "nai @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nāie @ u.B. @ .ABS @ noun @ ",
 		"mrp3": "nā-i @ weiden @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp4": "nai-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "nāie-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "nā-e @ weiden @ STAT @ verb @ "
+		"mrp4": "nā-e @ weiden @ STAT @ verb @ "
 	},
 	{
 		"trans": "]nama",
@@ -19427,11 +19325,10 @@
 		"mrp6": "Pēri-i-e @ GN @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "piri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "Pēri-i @ GN @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "piri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "pir-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "piri-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "Pēri-ae @ GN @ INS @ noun @ ",
-		"mrp13": "pa-i-re @ bauen @ AG-PTCP.ABS @ verb @ "
+		"mrp9": "pir-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "piri-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "Pēri-ae @ GN @ INS @ noun @ ",
+		"mrp12": "pa-i-re @ bauen @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "]ra",
@@ -19861,8 +19758,7 @@
 		"trans": "]tu",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "]tu(-)ōn(-)tu(-)māna",
@@ -19872,8 +19768,7 @@
 		"trans": "]tō",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "]tux",
@@ -20465,8 +20360,7 @@
 		"trans": "]ūllu",
 		"mrp1": "Ūllu @ PN @ .ABS @ noun @ ",
 		"mrp2": "oll-u @ zurückhalten; niederdrücken @ MED @ verb @ ",
-		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "Ūllu-ž @ PN @ ERG @ noun @ "
+		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "]ūž",
@@ -20586,13 +20480,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "]šē(-)šilā",
@@ -20659,13 +20551,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "]šīal",
@@ -20750,13 +20640,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "]šu",
@@ -20845,9 +20733,8 @@
 		"mrp6": "ši-u-a @ u.B. @ MED-3A.SG @ verb @ ",
 		"mrp7": "šī-u-a @ beobachten @ MED-3A.SG @ verb @ ",
 		"mrp8": "eġ+epš-u-a @ lähmen? @ MED-3A.SG @ verb @ ",
-		"mrp9": "šowa-ž @ Tag @ ERG @ noun @ ",
-		"mrp10": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
-		"mrp11": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
+		"mrp9": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
+		"mrp10": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
 	},
 	{
 		"trans": "]ḫa",
@@ -20910,8 +20797,7 @@
 		"trans": "]ḫi",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "]ḫi[a",
@@ -20979,8 +20865,7 @@
 		"trans": "]ḫi",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "]ḫima",
@@ -29649,8 +29534,7 @@
 	},
 	{
 		"trans": "[āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[t]aduġebāba",
@@ -30058,8 +29942,7 @@
 	},
 	{
 		"trans": "[ā]ġrušḫ[i",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[āk]kanni",
@@ -30155,8 +30038,7 @@
 	},
 	{
 		"trans": "[āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[abadanna",
@@ -30431,14 +30313,12 @@
 	{
 		"trans": "[az]alli",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[aza]lli",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[azumaššia",
@@ -30815,8 +30695,7 @@
 	{
 		"trans": "[ašḫu]mai",
 		"mrp1": "āšḫ+ō+m+ai @ opfernd @ .ABS @ noun @ ",
-		"mrp2": "āšḫ+ō+m+ai-ž @ opfernd @ ERG @ noun @ ",
-		"mrp3": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
+		"mrp2": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
 	},
 	{
 		"trans": "[ašḫu]žikkunnini[bi",
@@ -30829,8 +30708,7 @@
 	},
 	{
 		"trans": "[aš]tašḫi",
-		"mrp1": "āšt+a+šḫe @ weiblicher Attribute @ .ABS @ noun @ ",
-		"mrp2": "āšt+a+šḫe-ž @ weiblicher Attribute @ ERG @ noun @ "
+		"mrp1": "āšt+a+šḫe @ weiblicher Attribute @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[aš]ḫužikkunnivina",
@@ -31547,10 +31425,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "[i]nni[m",
@@ -31645,8 +31522,7 @@
 	{
 		"trans": "[iškāri",
 		"mrp1": "ešk+ar+i @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ešk+ar+i-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
+		"mrp2": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
 	},
 	{
 		"trans": "[k]āmāḫḫinež",
@@ -32370,8 +32246,7 @@
 	},
 	{
 		"trans": "[n]āmni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[n]aktippa",
@@ -32456,8 +32331,7 @@
 	},
 	{
 		"trans": "[nāmni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[nā]li",
@@ -32494,8 +32368,7 @@
 		"mrp2": "natḫi-e @ Bett @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "natḫi-i-e @ Bett @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "natḫi-i @ Bett @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "natḫi-ž @ Bett @ ERG @ noun @ ",
-		"mrp6": "natḫi-ae @ Bett @ INS @ noun @ "
+		"mrp5": "natḫi-ae @ Bett @ INS @ noun @ "
 	},
 	{
 		"trans": "[nat]ḫi",
@@ -32503,8 +32376,7 @@
 		"mrp2": "natḫi-e @ Bett @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "natḫi-i-e @ Bett @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "natḫi-i @ Bett @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "natḫi-ž @ Bett @ ERG @ noun @ ",
-		"mrp6": "natḫi-ae @ Bett @ INS @ noun @ "
+		"mrp5": "natḫi-ae @ Bett @ INS @ noun @ "
 	},
 	{
 		"trans": "[našta]",
@@ -32562,8 +32434,7 @@
 	},
 	{
 		"trans": "[n]āmni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[n]āngine[",
@@ -32580,8 +32451,7 @@
 	},
 	{
 		"trans": "[n]amni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[n]aḫḫubaduššā",
@@ -32893,10 +32763,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "[t]appi",
@@ -33094,8 +32962,7 @@
 		"mrp2": "tarm+a+ni-e @ Quelle @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "tarm+a+ni-i-e @ Quelle @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "tarm+a+ni-i @ Quelle @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "tarm+a+ni-ž @ Quelle @ ERG @ noun @ ",
-		"mrp6": "tarm+a+ni-ae @ Quelle @ INS @ noun @ "
+		"mrp5": "tarm+a+ni-ae @ Quelle @ INS @ noun @ "
 	},
 	{
 		"trans": "[tarniaž]a",
@@ -33168,13 +33035,11 @@
 		"mrp4": "tiye-e @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "tiye-i @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "tē-ž @ Wort; Sache; Name? @ ERG @ noun @ ",
-		"mrp8": "tive-ž @ Wort; Sache @ ERG @ noun @ ",
-		"mrp9": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp10": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp11": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp12": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
-		"mrp13": "tiye-ae @ Wort; Sache @ INS @ noun @ "
+		"mrp7": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp8": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp9": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp10": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
+		"mrp11": "tiye-ae @ Wort; Sache @ INS @ noun @ "
 	},
 	{
 		"trans": "[tīen]a",
@@ -33196,13 +33061,11 @@
 		"mrp4": "tiye-e @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "tiye-i @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "tē-ž @ Wort; Sache; Name? @ ERG @ noun @ ",
-		"mrp8": "tive-ž @ Wort; Sache @ ERG @ noun @ ",
-		"mrp9": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp10": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp11": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp12": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
-		"mrp13": "tiye-ae @ Wort; Sache @ INS @ noun @ "
+		"mrp7": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp8": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp9": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp10": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
+		"mrp11": "tiye-ae @ Wort; Sache @ INS @ noun @ "
 	},
 	{
 		"trans": "[ti]ari",
@@ -34003,11 +33866,10 @@
 		"mrp5": "šindi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "šindi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "šindi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "šindi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šend-e @ u.B. @ STAT @ verb @ ",
-		"mrp10": "šind-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
-		"mrp12": "šindi-ae @ u.B. @ INS @ noun @ "
+		"mrp8": "šend-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "šind-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
+		"mrp11": "šindi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "[š]inim",
@@ -34541,23 +34403,19 @@
 	},
 	{
 		"trans": "[šōvāl]a",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[šōvāla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[šōvala",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[šōvalā",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[šōvalada",
@@ -34579,8 +34437,7 @@
 	},
 	{
 		"trans": "[šō]vāla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "[šu]lluž",
@@ -35147,11 +35004,10 @@
 		"mrp2": "parġi-e @ Hof @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "parġi-i-e @ Hof @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "parġi-i @ Hof @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "parġi-ž @ Hof @ ERG @ noun @ ",
-		"mrp6": "fāri-ġe @ u.B. @ ADJ.ABS @ noun @ ",
-		"mrp7": "pāri-ġe @ u.B. @ ADJ.ABS @ noun @ ",
-		"mrp8": "pari-ġe @ Stirnlocke? @ ADJ.ABS @ noun @ ",
-		"mrp9": "parġi-ae @ Hof @ INS @ noun @ "
+		"mrp5": "fāri-ġe @ u.B. @ ADJ.ABS @ noun @ ",
+		"mrp6": "pāri-ġe @ u.B. @ ADJ.ABS @ noun @ ",
+		"mrp7": "pari-ġe @ Stirnlocke? @ ADJ.ABS @ noun @ ",
+		"mrp8": "parġi-ae @ Hof @ INS @ noun @ "
 	},
 	{
 		"trans": "",
@@ -35240,10 +35096,9 @@
 		"trans": "[tagidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "[š]āuškāenāe",
@@ -35796,10 +35651,9 @@
 		"trans": "tagidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "šimegauž",
@@ -36296,8 +36150,7 @@
 	},
 	{
 		"trans": "abunde",
-		"mrp1": "abundi @ Feld @ .ABS @ noun @ ",
-		"mrp2": "abundi-ž @ Feld @ ERG @ noun @ "
+		"mrp1": "abundi @ Feld @ .ABS @ noun @ "
 	},
 	{
 		"trans": "abippanella",
@@ -36399,11 +36252,10 @@
 		"mrp3": "āššani-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "āšši-i-ane @ u.B. @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp5": "āššani-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "āššani-ž @ u.B. @ ERG @ noun @ ",
-		"mrp7": "āšš-an-i @ (ab)waschen, reinigen @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp8": "āšš-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp9": "āššani-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "āšši-an-i @ u.B. @ an-ANTIP @ noun @ "
+		"mrp6": "āšš-an-i @ (ab)waschen, reinigen @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp7": "āšš-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp8": "āššani-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "āšši-an-i @ u.B. @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "alu[",
@@ -36627,8 +36479,7 @@
 	},
 	{
 		"trans": "āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āḫx[",
@@ -37413,8 +37264,7 @@
 		"trans": "tu[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tuidu",
@@ -37613,11 +37463,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ebi",
@@ -37728,11 +37576,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "e[nōž",
@@ -37767,8 +37613,7 @@
 	},
 	{
 		"trans": "eari[",
-		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ ",
-		"mrp2": "ēyari-ž @ Löwe @ ERG @ noun @ "
+		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ "
 	},
 	{
 		"trans": "eama[r",
@@ -38179,10 +38024,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "eġlibinibinā",
@@ -38219,9 +38063,8 @@
 		"mrp3": "kažli-e @ stark, Stärke @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "kažli-i-e @ stark, Stärke @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "kažli-i @ stark, Stärke @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kažli-ž @ stark, Stärke @ ERG @ noun @ ",
-		"mrp7": "kažl-e @ stark sein @ STAT @ verb @ ",
-		"mrp8": "kažli-ae @ stark, Stärke @ INS @ noun @ "
+		"mrp6": "kažl-e @ stark sein @ STAT @ verb @ ",
+		"mrp7": "kažli-ae @ stark, Stärke @ INS @ noun @ "
 	},
 	{
 		"trans": "kēaženi",
@@ -38410,8 +38253,7 @@
 	},
 	{
 		"trans": "ī[āri]",
-		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ ",
-		"mrp2": "ēyari-ž @ Löwe @ ERG @ noun @ "
+		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ī[nza]rra",
@@ -38472,8 +38314,7 @@
 	},
 	{
 		"trans": "īāri",
-		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ ",
-		"mrp2": "ēyari-ž @ Löwe @ ERG @ noun @ "
+		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ "
 	},
 	{
 		"trans": "īan",
@@ -38512,11 +38353,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ilōli",
@@ -39155,13 +38994,12 @@
 		"mrp6": "kuli-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "kuli-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "kuli-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "kuli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
-		"mrp11": "kul-e @ sprechen @ STAT @ verb @ ",
-		"mrp12": "kul-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "mal-e @ u.B. @ STAT @ verb @ ",
-		"mrp14": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
-		"mrp15": "kuli-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
+		"mrp10": "kul-e @ sprechen @ STAT @ verb @ ",
+		"mrp11": "kul-e @ u.B. @ STAT @ verb @ ",
+		"mrp12": "mal-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
+		"mrp14": "kuli-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "kuldim",
@@ -39526,8 +39364,7 @@
 	},
 	{
 		"trans": "nā[mni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "nālla",
@@ -40185,9 +40022,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "tā[dia]",
@@ -40420,8 +40256,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "temgiaža",
@@ -40452,13 +40287,11 @@
 		"mrp4": "tiye-e @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "tiye-i @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "tē-ž @ Wort; Sache; Name? @ ERG @ noun @ ",
-		"mrp8": "tive-ž @ Wort; Sache @ ERG @ noun @ ",
-		"mrp9": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp10": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp11": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp12": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
-		"mrp13": "tiye-ae @ Wort; Sache @ INS @ noun @ "
+		"mrp7": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp8": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp9": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp10": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
+		"mrp11": "tiye-ae @ Wort; Sache @ INS @ noun @ "
 	},
 	{
 		"trans": "tēgōžab",
@@ -40533,13 +40366,11 @@
 		"mrp4": "tiye-e @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "tiye-i @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "tē-ž @ Wort; Sache; Name? @ ERG @ noun @ ",
-		"mrp8": "tive-ž @ Wort; Sache @ ERG @ noun @ ",
-		"mrp9": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp10": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp11": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp12": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
-		"mrp13": "tiye-ae @ Wort; Sache @ INS @ noun @ "
+		"mrp7": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp8": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp9": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp10": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
+		"mrp11": "tiye-ae @ Wort; Sache @ INS @ noun @ "
 	},
 	{
 		"trans": "tī[",
@@ -40626,8 +40457,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "tiāri",
@@ -40681,8 +40511,7 @@
 		"mrp3": "tōbi-e @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "tōbi-i-e @ Beschwörung @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tōbi-i @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tōbi-ž @ Beschwörung @ ERG @ noun @ ",
-		"mrp7": "tōbi-ae @ Beschwörung @ INS @ noun @ "
+		"mrp6": "tōbi-ae @ Beschwörung @ INS @ noun @ "
 	},
 	{
 		"trans": "tōbināžuž",
@@ -40723,8 +40552,7 @@
 		"trans": "tu[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tu[ēnni",
@@ -40873,8 +40701,7 @@
 		"trans": "tū[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tuppulāe",
@@ -41220,8 +41047,7 @@
 	{
 		"trans": "fōrall[enni",
 		"mrp1": "fōr+all+i+nni @ Opferschauer @ .ABS @ noun @ ",
-		"mrp2": "fōr+all+i+nni-ž @ Opferschauer @ ERG @ noun @ ",
-		"mrp3": "pōralli-nni @ u.B. @ ASS @ noun @ "
+		"mrp2": "pōralli-nni @ u.B. @ ASS @ noun @ "
 	},
 	{
 		"trans": "fōrida",
@@ -41480,8 +41306,7 @@
 	},
 	{
 		"trans": "suppi",
-		"mrp1": "suppi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "suppi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "suppi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "sukkinām",
@@ -42356,13 +42181,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šīenažuž",
@@ -42429,8 +42252,7 @@
 	},
 	{
 		"trans": "šōval[a",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōg[ui",
@@ -42520,8 +42342,7 @@
 	},
 	{
 		"trans": "šōvāla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōvanunna",
@@ -42689,8 +42510,7 @@
 	},
 	{
 		"trans": "ḫassi[",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫassiz[i",
@@ -42924,8 +42744,7 @@
 		"trans": "ḫe[",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫeššiniž",
@@ -42940,8 +42759,7 @@
 		"trans": "ḫī",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫīli",
@@ -42997,8 +42815,7 @@
 		"trans": "ḫi[",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫibradannira",
@@ -43443,8 +43260,7 @@
 	},
 	{
 		"trans": "ḫassi",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šaōškan",
@@ -43466,8 +43282,7 @@
 	},
 	{
 		"trans": "n[amni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kibiššia",
@@ -44906,8 +44721,7 @@
 	},
 	{
 		"trans": "DINGIR-[",
-		"mrp1": "eni @ Gottheit @ .ABS @ noun @ ",
-		"mrp2": "eni-ž @ Gottheit @ ERG @ noun @ "
+		"mrp1": "eni @ Gottheit @ .ABS @ noun @ "
 	},
 	{
 		"trans": "DINGIR-[n]a",
@@ -48064,8 +47878,7 @@
 	},
 	{
 		"trans": "āġ[r]ušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āġra",
@@ -48073,8 +47886,7 @@
 	},
 	{
 		"trans": "āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "aba[de",
@@ -49614,10 +49426,9 @@
 		"mrp6": "āšḫi-i-e @ Fell, Haut @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "āšḫi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "āšḫi-i @ Fell, Haut @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "āšḫi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "āšḫ-e @ opfern @ STAT @ verb @ ",
-		"mrp11": "āšḫi-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "āšḫi-ae @ Fell, Haut @ INS @ noun @ "
+		"mrp9": "āšḫ-e @ opfern @ STAT @ verb @ ",
+		"mrp10": "āšḫi-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "āšḫi-ae @ Fell, Haut @ INS @ noun @ "
 	},
 	{
 		"trans": "āšḫidukku",
@@ -49770,10 +49581,9 @@
 		"mrp6": "āšḫi-i-e @ Fell, Haut @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "āšḫi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "āšḫi-i @ Fell, Haut @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "āšḫi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "āšḫ-e @ opfern @ STAT @ verb @ ",
-		"mrp11": "āšḫi-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "āšḫi-ae @ Fell, Haut @ INS @ noun @ "
+		"mrp9": "āšḫ-e @ opfern @ STAT @ verb @ ",
+		"mrp10": "āšḫi-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "āšḫi-ae @ Fell, Haut @ INS @ noun @ "
 	},
 	{
 		"trans": "āš]ḫuwa",
@@ -49799,8 +49609,7 @@
 	},
 	{
 		"trans": "āġru[šḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āġaštetta",
@@ -49880,13 +49689,11 @@
 	},
 	{
 		"trans": "āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āġrušḫ[i",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āġrušḫ[ia",
@@ -49895,8 +49702,7 @@
 	},
 	{
 		"trans": "āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "āḫx-x[",
@@ -49918,8 +49724,7 @@
 	},
 	{
 		"trans": "āġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ab]adenna",
@@ -50093,8 +49898,7 @@
 		"mrp5": "ade-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "ad-i-a @ herabkommen?; herabbringen? @ TR-3A.SG @ verb @ ",
 		"mrp7": "ad-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "a-d-a @ u.B. @ d-INT @ verb @ ",
-		"mrp9": "atta-ž @ Vater? @ ERG @ noun @ "
+		"mrp8": "a-d-a @ u.B. @ d-INT @ verb @ "
 	},
 	{
 		"trans": "ad[ani]",
@@ -51389,10 +51193,9 @@
 	{
 		"trans": "amanni",
 		"mrp1": "am+a+nni @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "am+a+nni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "am-i-anni @ ansehen @ MOD.AG-DESID @ verb @ ",
-		"mrp4": "am-i-anni @ verbrennen @ MOD.AG-DESID @ verb @ ",
-		"mrp5": "am-i-anni @ u.B. @ MOD.AG-DESID @ verb @ "
+		"mrp2": "am-i-anni @ ansehen @ MOD.AG-DESID @ verb @ ",
+		"mrp3": "am-i-anni @ verbrennen @ MOD.AG-DESID @ verb @ ",
+		"mrp4": "am-i-anni @ u.B. @ MOD.AG-DESID @ verb @ "
 	},
 	{
 		"trans": "amanniniba",
@@ -51777,8 +51580,7 @@
 	},
 	{
 		"trans": "ananarešk[i",
-		"mrp1": "an+an+ar+i+ški @ Freude? @ .ABS @ noun @ ",
-		"mrp2": "an+an+ar+i+ški-ž @ Freude? @ ERG @ noun @ "
+		"mrp1": "an+an+ar+i+ški @ Freude? @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ananareceškinibāe",
@@ -53441,8 +53243,7 @@
 	{
 		"trans": "auli",
 		"mrp1": "aoli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "aoli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "a-ol-i @ u.B. @ ol-ANTIP @ verb @ "
+		"mrp2": "a-ol-i @ u.B. @ ol-ANTIP @ verb @ "
 	},
 	{
 		"trans": "auliž",
@@ -53783,14 +53584,12 @@
 	{
 		"trans": "az]ālli",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "az]alli",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "az]amēna",
@@ -53806,8 +53605,7 @@
 	{
 		"trans": "azālli",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "aza]mmina",
@@ -53838,8 +53636,7 @@
 	{
 		"trans": "azalli",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "azallin",
@@ -53852,8 +53649,7 @@
 	{
 		"trans": "azalli]",
 		"mrp1": "azalli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "azalli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "az-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "azalda",
@@ -54705,8 +54501,7 @@
 	},
 	{
 		"trans": "āġru[šḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "aden",
@@ -56815,8 +56610,7 @@
 		"trans": "att[a",
 		"mrp1": "atta+i @ Vater @ .ABS @ noun @ ",
 		"mrp2": "att-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
-		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp4": "atta+i-ž @ Vater @ ERG @ noun @ "
+		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ "
 	},
 	{
 		"trans": "att[annevena",
@@ -56830,8 +56624,7 @@
 		"trans": "att[a",
 		"mrp1": "atta+i @ Vater @ .ABS @ noun @ ",
 		"mrp2": "att-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
-		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp4": "atta+i-ž @ Vater @ ERG @ noun @ "
+		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ "
 	},
 	{
 		"trans": "att[e",
@@ -56842,15 +56635,13 @@
 		"trans": "atta",
 		"mrp1": "atta+i @ Vater @ .ABS @ noun @ ",
 		"mrp2": "att-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
-		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp4": "atta+i-ž @ Vater @ ERG @ noun @ "
+		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ "
 	},
 	{
 		"trans": "atta[",
 		"mrp1": "atta+i @ Vater @ .ABS @ noun @ ",
 		"mrp2": "att-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
-		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp4": "atta+i-ž @ Vater @ ERG @ noun @ "
+		"mrp3": "att-i-a @ u.B. @ TR-3A.SG @ verb @ "
 	},
 	{
 		"trans": "attanneven[a",
@@ -57444,8 +57235,7 @@
 	},
 	{
 		"trans": "aštašḫi",
-		"mrp1": "āšt+a+šḫe @ weiblicher Attribute @ .ABS @ noun @ ",
-		"mrp2": "āšt+a+šḫe-ž @ weiblicher Attribute @ ERG @ noun @ "
+		"mrp1": "āšt+a+šḫe @ weiblicher Attribute @ .ABS @ noun @ "
 	},
 	{
 		"trans": "aštae",
@@ -57769,8 +57559,7 @@
 	{
 		"trans": "ašḫumāe",
 		"mrp1": "āšḫ+ō+m+ai @ opfernd @ .ABS @ noun @ ",
-		"mrp2": "āšḫ+ō+m+ai-ž @ opfernd @ ERG @ noun @ ",
-		"mrp3": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
+		"mrp2": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
 	},
 	{
 		"trans": "ašḫumāīb",
@@ -57782,9 +57571,8 @@
 		"mrp1": "āšḫ+ō+m+ai+ni @ opfernd @ .ABS @ noun @ ",
 		"mrp2": "āšḫ+ō+m+ai-ne @ opfernd @ ABL/INS @ noun @ ",
 		"mrp3": "āšḫ+ō+m+ai-ne-e @ opfernd @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
-		"mrp4": "āšḫ+ō+m+ai+ni-ž @ opfernd @ ERG @ noun @ ",
-		"mrp5": "āšḫ+ō+m+ai-ne-ž @ opfernd @ RELAT.SG-ERG @ noun @ ",
-		"mrp6": "āšḫ+ō+m+ai-na @ opfernd @ RELAT.PL.ABS @ noun @ "
+		"mrp4": "āšḫ+ō+m+ai-ne-ž @ opfernd @ RELAT.SG-ERG @ noun @ ",
+		"mrp5": "āšḫ+ō+m+ai-na @ opfernd @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "ašḫumāib",
@@ -57820,17 +57608,15 @@
 	{
 		"trans": "ašḫōmai",
 		"mrp1": "āšḫ+ō+m+ai @ opfernd @ .ABS @ noun @ ",
-		"mrp2": "āšḫ+ō+m+ai-ž @ opfernd @ ERG @ noun @ ",
-		"mrp3": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
+		"mrp2": "āšḫ-o+m+ai @ opfern @ CVB @ verb @ "
 	},
 	{
 		"trans": "ašḫōmainē",
 		"mrp1": "āšḫ+ō+m+ai+ni @ opfernd @ .ABS @ noun @ ",
 		"mrp2": "āšḫ+ō+m+ai-ne @ opfernd @ ABL/INS @ noun @ ",
 		"mrp3": "āšḫ+ō+m+ai-ne-e @ opfernd @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
-		"mrp4": "āšḫ+ō+m+ai+ni-ž @ opfernd @ ERG @ noun @ ",
-		"mrp5": "āšḫ+ō+m+ai-ne-ž @ opfernd @ RELAT.SG-ERG @ noun @ ",
-		"mrp6": "āšḫ+ō+m+ai-na @ opfernd @ RELAT.PL.ABS @ noun @ "
+		"mrp4": "āšḫ+ō+m+ai-ne-ž @ opfernd @ RELAT.SG-ERG @ noun @ ",
+		"mrp5": "āšḫ+ō+m+ai-na @ opfernd @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "ašḫōnan",
@@ -58192,8 +57978,7 @@
 	},
 	{
 		"trans": "aġrušḫi",
-		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ ",
-		"mrp2": "aġr+o+šḫe-ž @ Räucherschale @ ERG @ noun @ "
+		"mrp1": "aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "
 	},
 	{
 		"trans": "aġrušḫini",
@@ -58297,10 +58082,9 @@
 		"trans": "t]āgidu",
 		"mrp1": "Tāgidu @ DN @ .ABS @ noun @ ",
 		"mrp2": "tag-id-o @ hell / makellos sein; leuchten @ PL.A-TR.PFV @ verb @ ",
-		"mrp3": "Tāgidu-ž @ DN @ ERG @ noun @ ",
-		"mrp4": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
-		"mrp5": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
-		"mrp6": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
+		"mrp3": "tag-ed-o @ hell / makellos sein; leuchten @ FUT-2A.SG @ verb @ ",
+		"mrp4": "tag-ed-aw @ hell / makellos sein; leuchten @ FUT-1A.SG @ verb @ ",
+		"mrp5": "tag-ed-u @ hell / makellos sein; leuchten @ FUT-MED @ verb @ "
 	},
 	{
 		"trans": "t]ālaġulzia",
@@ -58471,8 +58255,7 @@
 		"trans": "t[u",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "t[ur]u[ḫ]ḫina",
@@ -58488,8 +58271,7 @@
 		"trans": "t[u",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "ta[",
@@ -58631,9 +58413,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "tāžāi",
@@ -59209,10 +58990,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāž[ia",
@@ -59232,10 +59011,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāžēni",
@@ -59252,10 +59029,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāžia",
@@ -59286,10 +59061,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāġanna",
@@ -59431,8 +59204,7 @@
 		"trans": "tatti",
 		"mrp1": "tatti @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "tatt-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "tatti-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "tatt-e @ u.B. @ STAT @ verb @ "
+		"mrp3": "tatt-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "tatḫinibi",
@@ -59873,9 +59645,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "tadunāiž",
@@ -60126,8 +59897,7 @@
 		"trans": "tu[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tu[wālanni",
@@ -60155,8 +59925,7 @@
 		"trans": "tū[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tū[n]i",
@@ -60185,8 +59954,7 @@
 		"mrp3": "tōbi-e @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "tōbi-i-e @ Beschwörung @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tōbi-i @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tōbi-ž @ Beschwörung @ ERG @ noun @ ",
-		"mrp7": "tōbi-ae @ Beschwörung @ INS @ noun @ "
+		"mrp6": "tōbi-ae @ Beschwörung @ INS @ noun @ "
 	},
 	{
 		"trans": "tud[u",
@@ -60823,8 +60591,7 @@
 		"trans": "tū[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tuwennun",
@@ -61205,11 +60972,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "eli[ž",
@@ -61232,11 +60997,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "enumaž[i",
@@ -61627,9 +61390,8 @@
 		"mrp2": "ind+a+ni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "ind+a+ni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "ind+a+ni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "ind+a+ni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "ind-an-i @ u.B @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp7": "ind+a+ni-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "ind-an-i @ u.B @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp6": "ind+a+ni-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ēnzāri",
@@ -61939,8 +61701,7 @@
 		"trans": "ēġli",
 		"mrp1": "eġli @ Rettung @ .ABS @ noun @ ",
 		"mrp2": "eġl-i @ retten @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "eġli-ž @ Rettung @ ERG @ noun @ ",
-		"mrp4": "eġl-e @ retten @ STAT @ verb @ "
+		"mrp3": "eġl-e @ retten @ STAT @ verb @ "
 	},
 	{
 		"trans": "ēḫḫi",
@@ -61948,15 +61709,13 @@
 		"mrp2": "ēḫḫi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "ēḫḫi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "ēḫḫi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "ēḫḫi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "ēḫḫi-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "ēḫḫi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ēġl[i",
 		"mrp1": "eġli @ Rettung @ .ABS @ noun @ ",
 		"mrp2": "eġl-i @ retten @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "eġli-ž @ Rettung @ ERG @ noun @ ",
-		"mrp4": "eġl-e @ retten @ STAT @ verb @ "
+		"mrp3": "eġl-e @ retten @ STAT @ verb @ "
 	},
 	{
 		"trans": "ēḫḫa",
@@ -61972,8 +61731,7 @@
 		"mrp2": "ēḫḫi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "ēḫḫi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "ēḫḫi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "ēḫḫi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "ēḫḫi-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "ēḫḫi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ēḫḫinež",
@@ -62667,11 +62425,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "el[i",
@@ -62684,11 +62440,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ela",
@@ -62715,8 +62469,7 @@
 	{
 		"trans": "elame",
 		"mrp1": "Elami @ GN @ .ABS @ noun @ ",
-		"mrp2": "Elami-ž @ GN @ ERG @ noun @ ",
-		"mrp3": "il-am-i @ u.B. @ FACT-ANTIP @ verb @ "
+		"mrp2": "il-am-i @ u.B. @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "elamia",
@@ -62739,8 +62492,7 @@
 		"mrp4": "ela-va @ Schwester @ DAT @ noun @ ",
 		"mrp5": "elabi-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "Ilāvā-i-a @ GN @ 3POSS.SG-ESS @ noun @ ",
-		"mrp7": "Ilāvā-ž @ GN @ ERG @ noun @ ",
-		"mrp8": "ela-v-a @ Schwester @ 2POSS.SG-ESS @ noun @ "
+		"mrp7": "ela-v-a @ Schwester @ 2POSS.SG-ESS @ noun @ "
 	},
 	{
 		"trans": "elabum",
@@ -62760,8 +62512,7 @@
 		"mrp4": "ela-va @ Schwester @ DAT @ noun @ ",
 		"mrp5": "elabi-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "Ilāvā-i-a @ GN @ 3POSS.SG-ESS @ noun @ ",
-		"mrp7": "Ilāvā-ž @ GN @ ERG @ noun @ ",
-		"mrp8": "ela-v-a @ Schwester @ 2POSS.SG-ESS @ noun @ "
+		"mrp7": "ela-v-a @ Schwester @ 2POSS.SG-ESS @ noun @ "
 	},
 	{
 		"trans": "elax[",
@@ -62811,11 +62562,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "eli(-)[",
@@ -62832,11 +62581,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "elili",
@@ -64464,10 +64211,9 @@
 		"mrp4": "enni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "enni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "enni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "enni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
-		"mrp9": "enni-ae @ u.B. @ INS @ noun @ ",
-		"mrp10": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
+		"mrp7": "eni-ne-ž @ Gottheit @ RELAT.SG-ERG @ noun @ ",
+		"mrp8": "enni-ae @ u.B. @ INS @ noun @ ",
+		"mrp9": "eni-na @ Gottheit @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "endum",
@@ -64552,8 +64298,7 @@
 	{
 		"trans": "eškari",
 		"mrp1": "ešk+ar+i @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ešk+ar+i-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
+		"mrp2": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
 	},
 	{
 		"trans": "eškarri",
@@ -64626,8 +64371,7 @@
 		"trans": "eġli[",
 		"mrp1": "eġli @ Rettung @ .ABS @ noun @ ",
 		"mrp2": "eġl-i @ retten @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "eġli-ž @ Rettung @ ERG @ noun @ ",
-		"mrp4": "eġl-e @ retten @ STAT @ verb @ "
+		"mrp3": "eġl-e @ retten @ STAT @ verb @ "
 	},
 	{
 		"trans": "eġliġia[",
@@ -65261,9 +65005,8 @@
 		"mrp3": "kažli-e @ stark, Stärke @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "kažli-i-e @ stark, Stärke @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "kažli-i @ stark, Stärke @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kažli-ž @ stark, Stärke @ ERG @ noun @ ",
-		"mrp7": "kažl-e @ stark sein @ STAT @ verb @ ",
-		"mrp8": "kažli-ae @ stark, Stärke @ INS @ noun @ "
+		"mrp6": "kažl-e @ stark sein @ STAT @ verb @ ",
+		"mrp7": "kažli-ae @ stark, Stärke @ INS @ noun @ "
 	},
 	{
 		"trans": "kažliž",
@@ -65718,10 +65461,9 @@
 		"mrp6": "kāze-i-e @ Becher @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "kāži-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "kāze-i @ Becher @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "kāze-ž @ Becher @ ERG @ noun @ ",
-		"mrp10": "kāž-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "kāži-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "kāze-ae @ Becher @ INS @ noun @ "
+		"mrp9": "kāž-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "kāži-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "kāze-ae @ Becher @ INS @ noun @ "
 	},
 	{
 		"trans": "kaži]arrel",
@@ -66746,8 +66488,7 @@
 	},
 	{
 		"trans": "īāri",
-		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ ",
-		"mrp2": "ēyari-ž @ Löwe @ ERG @ noun @ "
+		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ "
 	},
 	{
 		"trans": "īād",
@@ -66824,8 +66565,7 @@
 	},
 	{
 		"trans": "īari",
-		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ ",
-		"mrp2": "ēyari-ž @ Löwe @ ERG @ noun @ "
+		"mrp1": "ēyari @ Löwe @ .ABS @ noun @ "
 	},
 	{
 		"trans": "īariž",
@@ -67260,11 +67000,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ilan",
@@ -67345,11 +67083,9 @@
 		"mrp7": "ili-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "eli-i @ Fest @ 3POSS.SG.ABS @ noun @ ",
 		"mrp9": "ili-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp10": "ele-ž @ u.B. @ ERG @ noun @ ",
-		"mrp11": "eli-ž @ Fest @ ERG @ noun @ ",
-		"mrp12": "il-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "eli-ae @ Fest @ INS @ noun @ ",
-		"mrp14": "ili-ae @ u.B. @ INS @ noun @ "
+		"mrp10": "il-e @ u.B. @ STAT @ verb @ ",
+		"mrp11": "eli-ae @ Fest @ INS @ noun @ ",
+		"mrp12": "ili-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ileška",
@@ -68600,8 +68336,7 @@
 	},
 	{
 		"trans": "i]tḫe",
-		"mrp1": "itḫi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "itḫi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "itḫi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "i]ššiffe",
@@ -69827,8 +69562,7 @@
 	},
 	{
 		"trans": "itḫi",
-		"mrp1": "itḫi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "itḫi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "itḫi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "itḫikki",
@@ -69949,20 +69683,17 @@
 	{
 		"trans": "iškari",
 		"mrp1": "ešk+ar+i @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ešk+ar+i-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
+		"mrp2": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
 	},
 	{
 		"trans": "iškār[i",
 		"mrp1": "ešk+ar+i @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ešk+ar+i-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
+		"mrp2": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
 	},
 	{
 		"trans": "iškāri",
 		"mrp1": "ešk+ar+i @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ešk+ar+i-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
+		"mrp2": "išk-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
 	},
 	{
 		"trans": "išk[alli",
@@ -70285,9 +70016,8 @@
 		"mrp3": "iški-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "iški-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "iški-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "iški-ž @ u.B. @ ERG @ noun @ ",
-		"mrp7": "išk-e @ u.B. @ STAT @ verb @ ",
-		"mrp8": "iški-ae @ u.B. @ INS @ noun @ "
+		"mrp6": "išk-e @ u.B. @ STAT @ verb @ ",
+		"mrp7": "iški-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "iškinež",
@@ -70707,8 +70437,7 @@
 	{
 		"trans": "kāl[",
 		"mrp1": "kal @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ke-a=l @ setzen; stellen; legen @ INT=3PL.ABS @ verb @ ",
-		"mrp3": "kal-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "ke-a=l @ setzen; stellen; legen @ INT=3PL.ABS @ verb @ "
 	},
 	{
 		"trans": "kādala",
@@ -70983,10 +70712,9 @@
 		"mrp6": "kāze-i-e @ Becher @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "kāži-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "kāze-i @ Becher @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "kāze-ž @ Becher @ ERG @ noun @ ",
-		"mrp10": "kāž-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "kāži-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "kāze-ae @ Becher @ INS @ noun @ "
+		"mrp9": "kāž-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "kāži-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "kāze-ae @ Becher @ INS @ noun @ "
 	},
 	{
 		"trans": "kāžuž",
@@ -70999,8 +70727,7 @@
 	{
 		"trans": "ka[l",
 		"mrp1": "kal @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ke-a=l @ setzen; stellen; legen @ INT=3PL.ABS @ verb @ ",
-		"mrp3": "kal-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "ke-a=l @ setzen; stellen; legen @ INT=3PL.ABS @ verb @ "
 	},
 	{
 		"trans": "ka[m",
@@ -71578,9 +71305,8 @@
 		"mrp3": "kapši-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "kapši-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "kapši-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kapši-ž @ u.B. @ ERG @ noun @ ",
-		"mrp7": "kapš-e @ u.B. @ STAT @ verb @ ",
-		"mrp8": "kapši-ae @ u.B. @ INS @ noun @ "
+		"mrp6": "kapš-e @ u.B. @ STAT @ verb @ ",
+		"mrp7": "kapši-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "ka]r[ži",
@@ -71788,8 +71514,7 @@
 		"trans": "kambē",
 		"mrp1": "kamve @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "kamv-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "kamve-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "kamv-e @ u.B. @ STAT @ verb @ "
+		"mrp3": "kamv-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "kambidu",
@@ -71805,9 +71530,8 @@
 		"mrp3": "kabli-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "kabli-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "kabli-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kabli-ž @ Kupfer @ ERG @ noun @ ",
-		"mrp7": "kabl-e @ u.B. @ STAT @ verb @ ",
-		"mrp8": "kabli-ae @ u.B. @ INS @ noun @ "
+		"mrp6": "kabl-e @ u.B. @ STAT @ verb @ ",
+		"mrp7": "kabli-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "kablāi",
@@ -71852,9 +71576,8 @@
 		"mrp3": "kapši-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "kapši-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "kapši-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kapši-ž @ u.B. @ ERG @ noun @ ",
-		"mrp7": "kapš-e @ u.B. @ STAT @ verb @ ",
-		"mrp8": "kapši-ae @ u.B. @ INS @ noun @ "
+		"mrp6": "kapš-e @ u.B. @ STAT @ verb @ ",
+		"mrp7": "kapši-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "kapšinina",
@@ -72679,15 +72402,13 @@
 		"mrp10": "kēri-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp11": "kiri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp12": "kēri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp13": "kire-ž @ u.B. @ ERG @ noun @ ",
-		"mrp14": "kērē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp15": "kir-e @ u.B. @ STAT @ verb @ ",
-		"mrp16": "kir-e @ freilassen @ STAT @ verb @ ",
-		"mrp17": "kēr-e @ u.B. @ STAT @ verb @ ",
-		"mrp18": "ker-e @ lang / dauerhaft sein @ STAT @ verb @ ",
-		"mrp19": "kiri-ae @ u.B. @ INS @ noun @ ",
-		"mrp20": "kēri-ae @ u.B. @ INS @ noun @ ",
-		"mrp21": "ke-i-re @ setzen; stellen; legen @ AG-PTCP.ABS @ verb @ "
+		"mrp13": "kir-e @ u.B. @ STAT @ verb @ ",
+		"mrp14": "kir-e @ freilassen @ STAT @ verb @ ",
+		"mrp15": "kēr-e @ u.B. @ STAT @ verb @ ",
+		"mrp16": "ker-e @ lang / dauerhaft sein @ STAT @ verb @ ",
+		"mrp17": "kiri-ae @ u.B. @ INS @ noun @ ",
+		"mrp18": "kēri-ae @ u.B. @ INS @ noun @ ",
+		"mrp19": "ke-i-re @ setzen; stellen; legen @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "kēr[ibenne",
@@ -73140,9 +72861,7 @@
 	{
 		"trans": "kipp[i]",
 		"mrp1": "kippi @ Macht? @ .ABS @ noun @ ",
-		"mrp2": "kippe @ u.B. @ .ABS @ noun @ ",
-		"mrp3": "kippi-ž @ Macht? @ ERG @ noun @ ",
-		"mrp4": "kippe-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "kippe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kississa(-)avāi",
@@ -73364,15 +73083,13 @@
 		"mrp10": "kēri-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp11": "kiri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp12": "kēri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp13": "kire-ž @ u.B. @ ERG @ noun @ ",
-		"mrp14": "kērē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp15": "kir-e @ u.B. @ STAT @ verb @ ",
-		"mrp16": "kir-e @ freilassen @ STAT @ verb @ ",
-		"mrp17": "kēr-e @ u.B. @ STAT @ verb @ ",
-		"mrp18": "ker-e @ lang / dauerhaft sein @ STAT @ verb @ ",
-		"mrp19": "kiri-ae @ u.B. @ INS @ noun @ ",
-		"mrp20": "kēri-ae @ u.B. @ INS @ noun @ ",
-		"mrp21": "ke-i-re @ setzen; stellen; legen @ AG-PTCP.ABS @ verb @ "
+		"mrp13": "kir-e @ u.B. @ STAT @ verb @ ",
+		"mrp14": "kir-e @ freilassen @ STAT @ verb @ ",
+		"mrp15": "kēr-e @ u.B. @ STAT @ verb @ ",
+		"mrp16": "ker-e @ lang / dauerhaft sein @ STAT @ verb @ ",
+		"mrp17": "kiri-ae @ u.B. @ INS @ noun @ ",
+		"mrp18": "kēri-ae @ u.B. @ INS @ noun @ ",
+		"mrp19": "ke-i-re @ setzen; stellen; legen @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "kīriladu",
@@ -73620,9 +73337,7 @@
 	{
 		"trans": "kippi",
 		"mrp1": "kippi @ Macht? @ .ABS @ noun @ ",
-		"mrp2": "kippe @ u.B. @ .ABS @ noun @ ",
-		"mrp3": "kippi-ž @ Macht? @ ERG @ noun @ ",
-		"mrp4": "kippe-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "kippe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kippia",
@@ -73653,8 +73368,7 @@
 	},
 	{
 		"trans": "kibri[",
-		"mrp1": "kevri @ Ältester @ .ABS @ noun @ ",
-		"mrp2": "kevri-ž @ Ältester @ ERG @ noun @ "
+		"mrp1": "kevri @ Ältester @ .ABS @ noun @ "
 	},
 	{
 		"trans": "kibridad",
@@ -74454,15 +74168,13 @@
 		"mrp10": "kēri-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp11": "kiri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp12": "kēri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp13": "kire-ž @ u.B. @ ERG @ noun @ ",
-		"mrp14": "kērē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp15": "kir-e @ u.B. @ STAT @ verb @ ",
-		"mrp16": "kir-e @ freilassen @ STAT @ verb @ ",
-		"mrp17": "kēr-e @ u.B. @ STAT @ verb @ ",
-		"mrp18": "ker-e @ lang / dauerhaft sein @ STAT @ verb @ ",
-		"mrp19": "kiri-ae @ u.B. @ INS @ noun @ ",
-		"mrp20": "kēri-ae @ u.B. @ INS @ noun @ ",
-		"mrp21": "ke-i-re @ setzen; stellen; legen @ AG-PTCP.ABS @ verb @ "
+		"mrp13": "kir-e @ u.B. @ STAT @ verb @ ",
+		"mrp14": "kir-e @ freilassen @ STAT @ verb @ ",
+		"mrp15": "kēr-e @ u.B. @ STAT @ verb @ ",
+		"mrp16": "ker-e @ lang / dauerhaft sein @ STAT @ verb @ ",
+		"mrp17": "kiri-ae @ u.B. @ INS @ noun @ ",
+		"mrp18": "kēri-ae @ u.B. @ INS @ noun @ ",
+		"mrp19": "ke-i-re @ setzen; stellen; legen @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "kiridupkināža",
@@ -74926,8 +74638,7 @@
 	{
 		"trans": "kudōn[i",
 		"mrp1": "kuduni @ Nacken? @ .ABS @ noun @ ",
-		"mrp2": "kuduni-ž @ Nacken? @ ERG @ noun @ ",
-		"mrp3": "kud-on-i @ fallen; niederwerfen @ on-ANTIP @ verb @ "
+		"mrp2": "kud-on-i @ fallen; niederwerfen @ on-ANTIP @ verb @ "
 	},
 	{
 		"trans": "kudukku",
@@ -75147,13 +74858,12 @@
 		"mrp6": "kuli-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "kuli-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "kuli-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "kuli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
-		"mrp11": "kul-e @ sprechen @ STAT @ verb @ ",
-		"mrp12": "kul-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "mal-e @ u.B. @ STAT @ verb @ ",
-		"mrp14": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
-		"mrp15": "kuli-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
+		"mrp10": "kul-e @ sprechen @ STAT @ verb @ ",
+		"mrp11": "kul-e @ u.B. @ STAT @ verb @ ",
+		"mrp12": "mal-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
+		"mrp14": "kuli-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "kulē[na",
@@ -75436,9 +75146,8 @@
 		"mrp2": "kubaġi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "kubaġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "kubaġi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "kubāġi-ž @ eine Kopfbedeckung @ ERG @ noun @ ",
-		"mrp6": "kubaġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp7": "kub-aġ-i @ u.B. @ aġ-ANTIP @ verb @ "
+		"mrp5": "kubaġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp6": "kub-aġ-i @ u.B. @ aġ-ANTIP @ verb @ "
 	},
 	{
 		"trans": "kubaġāe",
@@ -75600,13 +75309,12 @@
 		"mrp6": "kuli-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "kuli-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "kuli-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "kuli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
-		"mrp11": "kul-e @ sprechen @ STAT @ verb @ ",
-		"mrp12": "kul-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "mal-e @ u.B. @ STAT @ verb @ ",
-		"mrp14": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
-		"mrp15": "kuli-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
+		"mrp10": "kul-e @ sprechen @ STAT @ verb @ ",
+		"mrp11": "kul-e @ u.B. @ STAT @ verb @ ",
+		"mrp12": "mal-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
+		"mrp14": "kuli-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "kōliamma",
@@ -76398,13 +76106,12 @@
 		"mrp6": "kuli-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "kuli-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "kuli-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "kuli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
-		"mrp11": "kul-e @ sprechen @ STAT @ verb @ ",
-		"mrp12": "kul-e @ u.B. @ STAT @ verb @ ",
-		"mrp13": "mal-e @ u.B. @ STAT @ verb @ ",
-		"mrp14": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
-		"mrp15": "kuli-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "kol-e @ ablassen; beiseite lassen @ STAT @ verb @ ",
+		"mrp10": "kul-e @ sprechen @ STAT @ verb @ ",
+		"mrp11": "kul-e @ u.B. @ STAT @ verb @ ",
+		"mrp12": "mal-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "ke-ol-i @ setzen; stellen; legen @ ol-ANTIP @ verb @ ",
+		"mrp14": "kuli-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "kūli[a",
@@ -76583,8 +76290,7 @@
 	{
 		"trans": "kūdādi",
 		"mrp1": "kūdade @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "kud-ad-i @ fallen; niederwerfen @ ad-ANTIP @ verb @ ",
-		"mrp3": "kūdade-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "kud-ad-i @ fallen; niederwerfen @ ad-ANTIP @ verb @ "
 	},
 	{
 		"trans": "kūdan",
@@ -76609,9 +76315,8 @@
 		"mrp2": "kubaġi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "kubaġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "kubaġi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "kubāġi-ž @ eine Kopfbedeckung @ ERG @ noun @ ",
-		"mrp6": "kubaġi-ae @ u.B. @ INS @ noun @ ",
-		"mrp7": "kub-aġ-i @ u.B. @ aġ-ANTIP @ verb @ "
+		"mrp5": "kubaġi-ae @ u.B. @ INS @ noun @ ",
+		"mrp6": "kub-aġ-i @ u.B. @ aġ-ANTIP @ verb @ "
 	},
 	{
 		"trans": "ku]lubadena",
@@ -76866,8 +76571,7 @@
 	},
 	{
 		"trans": "lallari",
-		"mrp1": "lallari @ Klagepriester @ .ABS @ noun @ ",
-		"mrp2": "lallari-ž @ Klagepriester @ ERG @ noun @ "
+		"mrp1": "lallari @ Klagepriester @ .ABS @ noun @ "
 	},
 	{
 		"trans": "lallava",
@@ -77382,8 +77086,7 @@
 		"trans": "m[ur]i",
 		"mrp1": "mōri @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "mor-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "mōri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "mor-e @ u.B. @ STAT @ verb @ "
+		"mrp3": "mor-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "maḪARšia",
@@ -78712,8 +78415,7 @@
 	},
 	{
 		"trans": "marni",
-		"mrp1": "marne @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "marne-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "marne @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "marninel",
@@ -79724,8 +79426,7 @@
 		"trans": "n[āni",
 		"mrp1": "nāni @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nān-i @ schlagen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "nāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "nān-e @ schlagen @ STAT @ verb @ "
+		"mrp3": "nān-e @ schlagen @ STAT @ verb @ "
 	},
 	{
 		"trans": "n[akki",
@@ -79861,8 +79562,7 @@
 		"mrp2": "natḫi-e @ Bett @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "natḫi-i-e @ Bett @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "natḫi-i @ Bett @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "natḫi-ž @ Bett @ ERG @ noun @ ",
-		"mrp6": "natḫi-ae @ Bett @ INS @ noun @ "
+		"mrp5": "natḫi-ae @ Bett @ INS @ noun @ "
 	},
 	{
 		"trans": "nāla",
@@ -79935,8 +79635,7 @@
 	},
 	{
 		"trans": "nāmni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "nāngināža",
@@ -79977,8 +79676,7 @@
 		"mrp2": "natḫi-e @ Bett @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "natḫi-i-e @ Bett @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "natḫi-i @ Bett @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "natḫi-ž @ Bett @ ERG @ noun @ ",
-		"mrp6": "natḫi-ae @ Bett @ INS @ noun @ "
+		"mrp5": "natḫi-ae @ Bett @ INS @ noun @ "
 	},
 	{
 		"trans": "nāḫḫ[a",
@@ -80021,9 +79719,7 @@
 		"mrp1": "nai @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nāie @ u.B. @ .ABS @ noun @ ",
 		"mrp3": "nā-i @ weiden @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp4": "nai-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "nāie-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "nā-e @ weiden @ STAT @ verb @ "
+		"mrp4": "nā-e @ weiden @ STAT @ verb @ "
 	},
 	{
 		"trans": "nāēnāža",
@@ -80423,8 +80119,7 @@
 	},
 	{
 		"trans": "na[mni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "na[šta",
@@ -80620,8 +80315,7 @@
 	},
 	{
 		"trans": "namni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "namġe",
@@ -80762,8 +80456,7 @@
 		"mrp2": "natḫi-e @ Bett @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "natḫi-i-e @ Bett @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "natḫi-i @ Bett @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "natḫi-ž @ Bett @ ERG @ noun @ ",
-		"mrp6": "natḫi-ae @ Bett @ INS @ noun @ "
+		"mrp5": "natḫi-ae @ Bett @ INS @ noun @ "
 	},
 	{
 		"trans": "naž",
@@ -81332,8 +81025,7 @@
 	},
 	{
 		"trans": "n]āmni",
-		"mrp1": "Namni @ GN @ .ABS @ noun @ ",
-		"mrp2": "Namni-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Namni @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "n]abrī[",
@@ -81374,8 +81066,7 @@
 		"mrp2": "namli-e @ Bett @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "namli-i-e @ Bett @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "namli-i @ Bett @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "namli-ž @ Bett @ ERG @ noun @ ",
-		"mrp6": "namli-ae @ Bett @ INS @ noun @ "
+		"mrp5": "namli-ae @ Bett @ INS @ noun @ "
 	},
 	{
 		"trans": "namlīdān",
@@ -82350,8 +82041,7 @@
 	{
 		"trans": "ninuwa",
 		"mrp1": "Ninuwa @ GN @ .ABS @ noun @ ",
-		"mrp2": "nīn-u-a @ u.B. @ MED-3A.SG @ verb @ ",
-		"mrp3": "Ninuwa-ž @ GN @ ERG @ noun @ "
+		"mrp2": "nīn-u-a @ u.B. @ MED-3A.SG @ verb @ "
 	},
 	{
 		"trans": "ninuwanna",
@@ -82393,9 +82083,8 @@
 		"mrp2": "niviri-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "niviri-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "niviri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "niviri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "niviri-ae @ u.B. @ INS @ noun @ ",
-		"mrp7": "niv-i-re @ schreiben? @ AG-PTCP.ABS @ verb @ "
+		"mrp5": "niviri-ae @ u.B. @ INS @ noun @ ",
+		"mrp6": "niv-i-re @ schreiben? @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "nibiž[",
@@ -83001,8 +82690,7 @@
 		"trans": "nōbani",
 		"mrp1": "nūv+a+ni @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "nōvi-i-ane @ u.B. @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp3": "nūv+a+ni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "nōvi-an-i @ u.B. @ an-ANTIP @ noun @ "
+		"mrp3": "nōvi-an-i @ u.B. @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "nōbanižēlla",
@@ -85325,10 +85013,8 @@
 		"mrp3": "pa+i+re-e @ Erbauer @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "pa+i+re-i-e @ Erbauer @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "pa+i+re-i @ Erbauer @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "pa+i+re-ž @ Erbauer @ ERG @ noun @ ",
-		"mrp7": "pāiri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "pa+i+re-ae @ Erbauer @ INS @ noun @ ",
-		"mrp9": "fa-i-re @ u.B. @ AG-PTCP.ABS @ verb @ "
+		"mrp6": "pa+i+re-ae @ Erbauer @ INS @ noun @ ",
+		"mrp7": "fa-i-re @ u.B. @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "pairima",
@@ -86240,9 +85926,8 @@
 	{
 		"trans": "pura[mme",
 		"mrp1": "pura+mmi @ Sklave; Diener @ .ABS @ noun @ ",
-		"mrp2": "pura+mmi-ž @ Sklave; Diener @ ERG @ noun @ ",
-		"mrp3": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
-		"mrp4": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
+		"mrp2": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
+		"mrp3": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "purāna",
@@ -86258,9 +85943,8 @@
 	{
 		"trans": "puralli",
 		"mrp1": "pōralli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "pōralli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "for-al-i-le @ sehen @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "fūr-al-i-le @ sehen? @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "for-al-i-le @ sehen @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "fūr-al-i-le @ sehen? @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "puramm[ib",
@@ -86281,9 +85965,8 @@
 	{
 		"trans": "purammi[",
 		"mrp1": "pura+mmi @ Sklave; Diener @ .ABS @ noun @ ",
-		"mrp2": "pura+mmi-ž @ Sklave; Diener @ ERG @ noun @ ",
-		"mrp3": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
-		"mrp4": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
+		"mrp2": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
+		"mrp3": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "purammie",
@@ -86982,8 +86665,7 @@
 	},
 	{
 		"trans": "puwi",
-		"mrp1": "powe @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "powe-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "powe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "puwīnni",
@@ -87534,17 +87216,15 @@
 		"trans": "pērrē[",
 		"mrp1": "pirri @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "pirr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "pirri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "pirr-e @ u.B. @ STAT @ verb @ ",
-		"mrp5": "pir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
+		"mrp3": "pirr-e @ u.B. @ STAT @ verb @ ",
+		"mrp4": "pir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "pērri",
 		"mrp1": "pirri @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "pirr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "pirri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "pirr-e @ u.B. @ STAT @ verb @ ",
-		"mrp5": "pir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
+		"mrp3": "pirr-e @ u.B. @ STAT @ verb @ ",
+		"mrp4": "pir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "pēržužiž",
@@ -87904,11 +87584,10 @@
 		"mrp6": "Pēri-i-e @ GN @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "piri-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "Pēri-i @ GN @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "piri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "pir-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "piri-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "Pēri-ae @ GN @ INS @ noun @ ",
-		"mrp13": "pa-i-re @ bauen @ AG-PTCP.ABS @ verb @ "
+		"mrp9": "pir-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "piri-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "Pēri-ae @ GN @ INS @ noun @ ",
+		"mrp12": "pa-i-re @ bauen @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "pīe",
@@ -88918,8 +88597,7 @@
 		"mrp3": "tōbi-e @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "tōbi-i-e @ Beschwörung @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tōbi-i @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tōbi-ž @ Beschwörung @ ERG @ noun @ ",
-		"mrp7": "tōbi-ae @ Beschwörung @ INS @ noun @ "
+		"mrp6": "tōbi-ae @ Beschwörung @ INS @ noun @ "
 	},
 	{
 		"trans": "t]ummanna",
@@ -89115,8 +88793,7 @@
 		"trans": "t[u",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "t[ubināžuž]",
@@ -89610,9 +89287,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "tāda",
@@ -89668,9 +89344,8 @@
 		"mrp4": "tādi-i-e @ Liebe @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tādi-i @ Liebe @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "te-ad-i @ sprechen @ ad-ANTIP @ verb @ ",
-		"mrp7": "tādi-ž @ Liebe @ ERG @ noun @ ",
-		"mrp8": "tad-e @ lieben @ STAT @ verb @ ",
-		"mrp9": "tādi-ae @ Liebe @ INS @ noun @ "
+		"mrp7": "tad-e @ lieben @ STAT @ verb @ ",
+		"mrp8": "tādi-ae @ Liebe @ INS @ noun @ "
 	},
 	{
 		"trans": "tādiašši",
@@ -89724,10 +89399,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāž[i",
@@ -89737,10 +89410,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāže",
@@ -89750,10 +89421,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tāženēra",
@@ -89932,8 +89601,7 @@
 	},
 	{
 		"trans": "talmušši",
-		"mrp1": "Talmošše @ GN @ .ABS @ noun @ ",
-		"mrp2": "Talmošše-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Talmošše @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "talġināža",
@@ -90549,11 +90217,10 @@
 		"mrp2": "tab+i+re-e @ Gießer @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "tab+i+re-i-e @ Gießer @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "tab+i+re-i @ Gießer @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "tab+i+re-ž @ Gießer @ ERG @ noun @ ",
-		"mrp6": "tab+i+re-ae @ Gießer @ INS @ noun @ ",
-		"mrp7": "tab-i-re @ u.B. @ AG-PTCP.ABS @ verb @ ",
-		"mrp8": "tav-i-re @ gießen @ AG-PTCP.ABS @ verb @ ",
-		"mrp9": "tav-i-re @ u.B. @ AG-PTCP.ABS @ verb @ "
+		"mrp5": "tab+i+re-ae @ Gießer @ INS @ noun @ ",
+		"mrp6": "tab-i-re @ u.B. @ AG-PTCP.ABS @ verb @ ",
+		"mrp7": "tav-i-re @ gießen @ AG-PTCP.ABS @ verb @ ",
+		"mrp8": "tav-i-re @ u.B. @ AG-PTCP.ABS @ verb @ "
 	},
 	{
 		"trans": "tabirīma",
@@ -90833,10 +90500,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "taženi",
@@ -90853,10 +90518,8 @@
 		"mrp4": "taže-e @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "taže-i-e @ Geschenk?; Gabe? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "taže-i @ Geschenk?; Gabe? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "taže-ž @ Geschenk?; Gabe? @ ERG @ noun @ ",
-		"mrp8": "tāže-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "taž-e @ hinzufügen? @ STAT @ verb @ ",
-		"mrp10": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
+		"mrp7": "taž-e @ hinzufügen? @ STAT @ verb @ ",
+		"mrp8": "taže-ae @ Geschenk?; Gabe? @ INS @ noun @ "
 	},
 	{
 		"trans": "tažiliribi",
@@ -91126,8 +90789,7 @@
 	},
 	{
 		"trans": "talmušši",
-		"mrp1": "Talmošše @ GN @ .ABS @ noun @ ",
-		"mrp2": "Talmošše-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Talmošše @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "talmuššini",
@@ -91135,8 +90797,7 @@
 	},
 	{
 		"trans": "talmušši",
-		"mrp1": "Talmošše @ GN @ .ABS @ noun @ ",
-		"mrp2": "Talmošše-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Talmošše @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "talniġia",
@@ -91468,8 +91129,7 @@
 		"mrp2": "tarm+a+ni-e @ Quelle @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "tarm+a+ni-i-e @ Quelle @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "tarm+a+ni-i @ Quelle @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "tarm+a+ni-ž @ Quelle @ ERG @ noun @ ",
-		"mrp6": "tarm+a+ni-ae @ Quelle @ INS @ noun @ "
+		"mrp5": "tarm+a+ni-ae @ Quelle @ INS @ noun @ "
 	},
 	{
 		"trans": "tarmanida[",
@@ -92092,8 +91752,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "tēžennež",
@@ -92150,8 +91809,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "temmāni",
@@ -92216,8 +91874,7 @@
 	},
 	{
 		"trans": "težni",
-		"mrp1": "tiž+ni @ Herz @ .ABS @ noun @ ",
-		"mrp2": "tiž+ni-ž @ Herz @ ERG @ noun @ "
+		"mrp1": "tiž+ni @ Herz @ .ABS @ noun @ "
 	},
 	{
 		"trans": "tešš[i]u",
@@ -92767,12 +92424,11 @@
 		"mrp6": "tidi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "tidi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "tidi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "tidi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "tīd-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "tīd-e @ zählen @ STAT @ verb @ ",
-		"mrp12": "tīd-e @ angreifen @ STAT @ verb @ ",
-		"mrp13": "te-id-en @ sprechen @ PL.A-3JUSS @ verb @ ",
-		"mrp14": "tidi-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "tīd-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "tīd-e @ zählen @ STAT @ verb @ ",
+		"mrp11": "tīd-e @ angreifen @ STAT @ verb @ ",
+		"mrp12": "te-id-en @ sprechen @ PL.A-3JUSS @ verb @ ",
+		"mrp13": "tidi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "tedan",
@@ -92920,8 +92576,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "težāW[A(-)",
@@ -93005,10 +92660,9 @@
 		"mrp3": "tēġi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "tēġi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tēġi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tēġi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp7": "teġ-e @ heranwachsen @ STAT @ verb @ ",
-		"mrp8": "tiye-ġe @ Wort; Sache @ ADJ.ABS @ noun @ ",
-		"mrp9": "tēġi-ae @ u.B. @ INS @ noun @ "
+		"mrp6": "teġ-e @ heranwachsen @ STAT @ verb @ ",
+		"mrp7": "tiye-ġe @ Wort; Sache @ ADJ.ABS @ noun @ ",
+		"mrp8": "tēġi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "teġanzāi",
@@ -93160,13 +92814,11 @@
 		"mrp4": "tiye-e @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "tiye-i @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "tē-ž @ Wort; Sache; Name? @ ERG @ noun @ ",
-		"mrp8": "tive-ž @ Wort; Sache @ ERG @ noun @ ",
-		"mrp9": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp10": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp11": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp12": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
-		"mrp13": "tiye-ae @ Wort; Sache @ INS @ noun @ "
+		"mrp7": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp8": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp9": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp10": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
+		"mrp11": "tiye-ae @ Wort; Sache @ INS @ noun @ "
 	},
 	{
 		"trans": "tīa",
@@ -93299,13 +92951,11 @@
 		"mrp4": "tiye-e @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
 		"mrp5": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp6": "tiye-i @ Wort; Sache @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "tē-ž @ Wort; Sache; Name? @ ERG @ noun @ ",
-		"mrp8": "tive-ž @ Wort; Sache @ ERG @ noun @ ",
-		"mrp9": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp10": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp11": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp12": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
-		"mrp13": "tiye-ae @ Wort; Sache @ INS @ noun @ "
+		"mrp7": "tei-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp8": "tiye-i-e @ Wort; Sache @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp9": "tē-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp10": "te-i-en @ sprechen @ MOD.AG-3JUSS @ verb @ ",
+		"mrp11": "tiye-ae @ Wort; Sache @ INS @ noun @ "
 	},
 	{
 		"trans": "tīena",
@@ -94091,12 +93741,11 @@
 		"mrp6": "tidi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "tidi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "tidi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "tidi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "tīd-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "tīd-e @ zählen @ STAT @ verb @ ",
-		"mrp12": "tīd-e @ angreifen @ STAT @ verb @ ",
-		"mrp13": "te-id-en @ sprechen @ PL.A-3JUSS @ verb @ ",
-		"mrp14": "tidi-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "tīd-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "tīd-e @ zählen @ STAT @ verb @ ",
+		"mrp11": "tīd-e @ angreifen @ STAT @ verb @ ",
+		"mrp12": "te-id-en @ sprechen @ PL.A-3JUSS @ verb @ ",
+		"mrp13": "tidi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "tidi[v]āduḫḫa",
@@ -94259,8 +93908,7 @@
 		"mrp5": "teži-i-a @ u.B. @ 3POSS.SG-ESS @ noun @ ",
 		"mrp6": "tiža-i-a @ Herz @ 3POSS.SG-ESS @ noun @ ",
 		"mrp7": "tīž-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp8": "tiža-ž @ Herz @ ERG @ noun @ ",
-		"mrp9": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
+		"mrp8": "te-iž-a @ sprechen @ { a → iž-3A.SG} { b → iž-INT} { c → iž-INT.IMP} @ verb @ "
 	},
 	{
 		"trans": "tižaffe",
@@ -94427,8 +94075,7 @@
 		"trans": "tu[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tō[vilež",
@@ -94464,8 +94111,7 @@
 		"trans": "tū[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "turuḫḫi",
@@ -94695,8 +94341,7 @@
 		"trans": "tō[",
 		"mrp1": "tui @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "te-u @ sprechen @ MED @ verb @ ",
-		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "tui-ž @ u.B. @ ERG @ noun @ "
+		"mrp3": "te-o @ sprechen @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "tō[ni",
@@ -94753,8 +94398,7 @@
 		"mrp2": "tui-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "tui-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "tui-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "tui-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "tui-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "tui-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "tōēnni",
@@ -95058,8 +94702,7 @@
 		"mrp3": "tōbi-e @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "tōbi-i-e @ Beschwörung @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tōbi-i @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tōbi-ž @ Beschwörung @ ERG @ noun @ ",
-		"mrp7": "tōbi-ae @ Beschwörung @ INS @ noun @ "
+		"mrp6": "tōbi-ae @ Beschwörung @ INS @ noun @ "
 	},
 	{
 		"trans": "tōbiž",
@@ -95185,8 +94828,7 @@
 		"mrp3": "tōbi-e @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
 		"mrp4": "tōbi-i-e @ Beschwörung @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp5": "tōbi-i @ Beschwörung @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tōbi-ž @ Beschwörung @ ERG @ noun @ ",
-		"mrp7": "tōbi-ae @ Beschwörung @ INS @ noun @ "
+		"mrp6": "tōbi-ae @ Beschwörung @ INS @ noun @ "
 	},
 	{
 		"trans": "tōvaššini",
@@ -95475,8 +95117,7 @@
 	},
 	{
 		"trans": "tuġal[zi",
-		"mrp1": "tōġal+zi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "tōġal+zi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "tōġal+zi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "tuġōže[",
@@ -95549,9 +95190,8 @@
 	{
 		"trans": "tuppi",
 		"mrp1": "tuppi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "tuppi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "tui-v-ve @ u.B. @ 2POSS.SG-GEN @ noun @ ",
-		"mrp4": "te-upp-i @ sprechen @ upp-ANTIP @ verb @ "
+		"mrp2": "tui-v-ve @ u.B. @ 2POSS.SG-GEN @ noun @ ",
+		"mrp3": "te-upp-i @ sprechen @ upp-ANTIP @ verb @ "
 	},
 	{
 		"trans": "tuppešḫi",
@@ -95982,8 +95622,7 @@
 		"mrp2": "omini-e @ Land @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "omini-i-e @ Land @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "omini-i @ Land @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "omini-ž @ Land @ ERG @ noun @ ",
-		"mrp6": "omini-ae @ Land @ INS @ noun @ "
+		"mrp5": "omini-ae @ Land @ INS @ noun @ "
 	},
 	{
 		"trans": "uminēbad[",
@@ -97050,9 +96689,8 @@
 		"mrp1": "už+o+nni @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "už+o+ni-ne @ u.B. @ ABL/INS @ noun @ ",
 		"mrp3": "už+o+ni-ne-e @ u.B. @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
-		"mrp4": "už+o+nni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "už+o+ni-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp6": "už+o+ni-na @ u.B. @ RELAT.PL.ABS @ noun @ "
+		"mrp4": "už+o+ni-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp5": "už+o+ni-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "užun[",
@@ -97139,8 +96777,7 @@
 		"trans": "u]llu",
 		"mrp1": "Ūllu @ PN @ .ABS @ noun @ ",
 		"mrp2": "oll-u @ zurückhalten; niederdrücken @ MED @ verb @ ",
-		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "Ūllu-ž @ PN @ ERG @ noun @ "
+		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "u]lluġamma",
@@ -97173,8 +96810,7 @@
 		"trans": "u]štašši",
 		"mrp1": "ošt+a+šše @ Heldentum @ .ABS @ noun @ ",
 		"mrp2": "ošt-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ INT-NMLZ.ABS @ verb @ ",
-		"mrp3": "ošt+a+šše-ž @ Heldentum @ ERG @ noun @ ",
-		"mrp4": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
+		"mrp3": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
 	},
 	{
 		"trans": "u]štedašše",
@@ -97304,8 +96940,7 @@
 		"trans": "ull[u",
 		"mrp1": "Ūllu @ PN @ .ABS @ noun @ ",
 		"mrp2": "oll-u @ zurückhalten; niederdrücken @ MED @ verb @ ",
-		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ ",
-		"mrp4": "Ūllu-ž @ PN @ ERG @ noun @ "
+		"mrp3": "oll-o @ zurückhalten; niederdrücken @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "
 	},
 	{
 		"trans": "ull[uġa]mm[a",
@@ -97785,8 +97420,7 @@
 		"trans": "uštī",
 		"mrp1": "ūšte @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ošt-i @ aufstehen; erheben; fortbringen; herausgehen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ūšte-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ošt-e @ aufstehen; erheben; fortbringen; herausgehen @ STAT @ verb @ "
+		"mrp3": "ošt-e @ aufstehen; erheben; fortbringen; herausgehen @ STAT @ verb @ "
 	},
 	{
 		"trans": "uššala[baw",
@@ -97836,15 +97470,13 @@
 		"trans": "ušt[ašši",
 		"mrp1": "ošt+a+šše @ Heldentum @ .ABS @ noun @ ",
 		"mrp2": "ošt-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ INT-NMLZ.ABS @ verb @ ",
-		"mrp3": "ošt+a+šše-ž @ Heldentum @ ERG @ noun @ ",
-		"mrp4": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
+		"mrp3": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
 	},
 	{
 		"trans": "ušt[e",
 		"mrp1": "ūšte @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ošt-i @ aufstehen; erheben; fortbringen; herausgehen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ūšte-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ošt-e @ aufstehen; erheben; fortbringen; herausgehen @ STAT @ verb @ "
+		"mrp3": "ošt-e @ aufstehen; erheben; fortbringen; herausgehen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ušt[iġi",
@@ -97863,8 +97495,7 @@
 		"trans": "uštašši",
 		"mrp1": "ošt+a+šše @ Heldentum @ .ABS @ noun @ ",
 		"mrp2": "ošt-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ INT-NMLZ.ABS @ verb @ ",
-		"mrp3": "ošt+a+šše-ž @ Heldentum @ ERG @ noun @ ",
-		"mrp4": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
+		"mrp3": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
 	},
 	{
 		"trans": "uštaššin",
@@ -98080,8 +97711,7 @@
 		"trans": "ušta[š]ši",
 		"mrp1": "ošt+a+šše @ Heldentum @ .ABS @ noun @ ",
 		"mrp2": "ošt-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ INT-NMLZ.ABS @ verb @ ",
-		"mrp3": "ošt+a+šše-ž @ Heldentum @ ERG @ noun @ ",
-		"mrp4": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
+		"mrp3": "ošt-i-a-šše @ aufstehen; erheben; fortbringen; herausgehen @ TR-3A.SG-NMLZ.ABS @ verb @ "
 	},
 	{
 		"trans": "ušḫōnōḫḫa",
@@ -98181,14 +97811,12 @@
 	{
 		"trans": "f]ōralli[nni",
 		"mrp1": "fōr+all+i+nni @ Opferschauer @ .ABS @ noun @ ",
-		"mrp2": "fōr+all+i+nni-ž @ Opferschauer @ ERG @ noun @ ",
-		"mrp3": "pōralli-nni @ u.B. @ ASS @ noun @ "
+		"mrp2": "pōralli-nni @ u.B. @ ASS @ noun @ "
 	},
 	{
 		"trans": "f]ōrallinni",
 		"mrp1": "fōr+all+i+nni @ Opferschauer @ .ABS @ noun @ ",
-		"mrp2": "fōr+all+i+nni-ž @ Opferschauer @ ERG @ noun @ ",
-		"mrp3": "pōralli-nni @ u.B. @ ASS @ noun @ "
+		"mrp2": "pōralli-nni @ u.B. @ ASS @ noun @ "
 	},
 	{
 		"trans": "f]ūnu",
@@ -100086,14 +99714,12 @@
 		"mrp2": "fōr+all+i+n+ze-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "fōr+all+i+n+ze-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "fōr+all+i+n+ze-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "fōr+all+i+n+ze-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "fōr+all+i+n+ze-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "fōr+all+i+n+ze-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "fōrallenni",
 		"mrp1": "fōr+all+i+nni @ Opferschauer @ .ABS @ noun @ ",
-		"mrp2": "fōr+all+i+nni-ž @ Opferschauer @ ERG @ noun @ ",
-		"mrp3": "pōralli-nni @ u.B. @ ASS @ noun @ "
+		"mrp2": "pōralli-nni @ u.B. @ ASS @ noun @ "
 	},
 	{
 		"trans": "fōrammina",
@@ -100691,13 +100317,11 @@
 	},
 	{
 		"trans": "fuwi",
-		"mrp1": "powe @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "powe-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "powe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "fuwi",
-		"mrp1": "powe @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "powe-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "powe @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "fūgi",
@@ -100721,16 +100345,14 @@
 	{
 		"trans": "fūrammi",
 		"mrp1": "pura+mmi @ Sklave; Diener @ .ABS @ noun @ ",
-		"mrp2": "pura+mmi-ž @ Sklave; Diener @ ERG @ noun @ ",
-		"mrp3": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
-		"mrp4": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
+		"mrp2": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
+		"mrp3": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "fūrammi",
 		"mrp1": "pura+mmi @ Sklave; Diener @ .ABS @ noun @ ",
-		"mrp2": "pura+mmi-ž @ Sklave; Diener @ ERG @ noun @ ",
-		"mrp3": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
-		"mrp4": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
+		"mrp2": "for-amm-i @ sehen @ FACT-ANTIP @ verb @ ",
+		"mrp3": "fūr-amm-i @ sehen? @ FACT-ANTIP @ verb @ "
 	},
 	{
 		"trans": "fūru",
@@ -102687,8 +102309,7 @@
 		"mrp2": "sabal+gi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "sabal+gi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "sabal+gi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "sabal+gi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "sabal+gi-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "sabal+gi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "sabalgina",
@@ -103599,8 +103220,7 @@
 	{
 		"trans": "sōluži",
 		"mrp1": "sul+ō+že @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "sūl-ož-i @ binden @ PST-ANTIP @ verb @ ",
-		"mrp3": "sul+ō+že-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "sūl-ož-i @ binden @ PST-ANTIP @ verb @ "
 	},
 	{
 		"trans": "sōmux[",
@@ -106231,8 +105851,7 @@
 	},
 	{
 		"trans": "ūrrugi",
-		"mrp1": "ūrrugi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ūrrugi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "ūrrugi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ūrġa(-)[",
@@ -106286,10 +105905,9 @@
 		"mrp6": "uw+o+že-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "uži-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "uw+o+že-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "uže-ž @ Fleisch? @ ERG @ noun @ ",
-		"mrp10": "už-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "uži-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "uw+o+že-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "už-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "uži-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "uw+o+že-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "užebini",
@@ -106324,10 +105942,9 @@
 		"mrp6": "uw+o+že-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "uži-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "uw+o+že-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "uže-ž @ Fleisch? @ ERG @ noun @ ",
-		"mrp10": "už-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "uži-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "uw+o+že-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "už-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "uži-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "uw+o+že-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "uži[",
@@ -106339,10 +105956,9 @@
 		"mrp6": "uw+o+že-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "uži-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp8": "uw+o+že-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "uže-ž @ Fleisch? @ ERG @ noun @ ",
-		"mrp10": "už-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "uži-ae @ u.B. @ INS @ noun @ ",
-		"mrp12": "uw+o+že-ae @ u.B. @ INS @ noun @ "
+		"mrp9": "už-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "uži-ae @ u.B. @ INS @ noun @ ",
+		"mrp11": "uw+o+že-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "užitḫi",
@@ -106883,9 +106499,8 @@
 		"mrp6": "ši-u-a @ u.B. @ MED-3A.SG @ verb @ ",
 		"mrp7": "šī-u-a @ beobachten @ MED-3A.SG @ verb @ ",
 		"mrp8": "eġ+epš-u-a @ lähmen? @ MED-3A.SG @ verb @ ",
-		"mrp9": "šowa-ž @ Tag @ ERG @ noun @ ",
-		"mrp10": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
-		"mrp11": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
+		"mrp9": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
+		"mrp10": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
 	},
 	{
 		"trans": "š]ōni",
@@ -106974,13 +106589,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "š[e]llibinaža",
@@ -107004,16 +106617,15 @@
 		"mrp5": "šiya-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
 		"mrp6": "šiye-i-ane @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp7": "šī-i-ane @ Auge @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp8": "šiāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp10": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp12": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp13": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp14": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp15": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp16": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
-		"mrp17": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
+		"mrp8": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp11": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp12": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp13": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp14": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp15": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
+		"mrp16": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "š[i",
@@ -107028,13 +106640,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "š[i",
@@ -107049,13 +106659,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "š[īenaža]",
@@ -107138,13 +106746,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "š[i",
@@ -107159,13 +106765,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šīena",
@@ -107212,8 +106816,7 @@
 	},
 	{
 		"trans": "š[ōvala",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "š[ōvaliž",
@@ -107550,9 +107153,8 @@
 		"mrp2": "šab+al+a+ni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šab+al+a+ni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šab+al+a+ni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šab+al+a+ni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "šāv+al-an-i @ einsteigen? @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp7": "šab+al+a+ni-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "šāv+al-an-i @ einsteigen? @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp6": "šab+al+a+ni-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šābižani",
@@ -107757,8 +107359,7 @@
 	{
 		"trans": "šāžari",
 		"mrp1": "šažari @ Säge @ .ABS @ noun @ ",
-		"mrp2": "šažari-ž @ Säge @ ERG @ noun @ ",
-		"mrp3": "šaž-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
+		"mrp2": "šaž-ar-i @ u.B. @ ITER-ANTIP @ verb @ "
 	},
 	{
 		"trans": "šāžarri",
@@ -107999,8 +107600,7 @@
 		"mrp2": "šavli-e @ Jahr @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šavli-i-e @ Jahr @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šavli-i @ Jahr @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šavli-ž @ Jahr @ ERG @ noun @ ",
-		"mrp6": "šavli-ae @ Jahr @ INS @ noun @ "
+		"mrp5": "šavli-ae @ Jahr @ INS @ noun @ "
 	},
 	{
 		"trans": "šabl[ia",
@@ -108041,8 +107641,7 @@
 		"mrp2": "šavli-e @ Jahr @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šavli-i-e @ Jahr @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šavli-i @ Jahr @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šavli-ž @ Jahr @ ERG @ noun @ ",
-		"mrp6": "šavli-ae @ Jahr @ INS @ noun @ "
+		"mrp5": "šavli-ae @ Jahr @ INS @ noun @ "
 	},
 	{
 		"trans": "šabli[a",
@@ -109188,8 +108787,7 @@
 	},
 	{
 		"trans": "šapḫa[ldi]",
-		"mrp1": "šapḫaldi @ linke Seite; links @ .ABS @ noun @ ",
-		"mrp2": "šapḫaldi-ž @ linke Seite; links @ ERG @ noun @ "
+		"mrp1": "šapḫaldi @ linke Seite; links @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šapḫalla]",
@@ -109562,13 +109160,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šē[ri",
@@ -109602,16 +109198,15 @@
 		"mrp5": "šiya-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
 		"mrp6": "šiye-i-ane @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp7": "šī-i-ane @ Auge @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp8": "šiāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp10": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp12": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp13": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp14": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp15": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp16": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
-		"mrp17": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
+		"mrp8": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp11": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp12": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp13": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp14": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp15": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
+		"mrp16": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "šēġaludiž",
@@ -109630,13 +109225,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šē[neššia",
@@ -109729,13 +109322,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šē[rammin]a",
@@ -109867,16 +109458,15 @@
 		"mrp5": "šiya-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
 		"mrp6": "šiye-i-ane @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp7": "šī-i-ane @ Auge @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp8": "šiāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp10": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp12": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp13": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp14": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp15": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp16": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
-		"mrp17": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
+		"mrp8": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp11": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp12": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp13": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp14": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp15": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
+		"mrp16": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "šēani]",
@@ -109887,16 +109477,15 @@
 		"mrp5": "šiya-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
 		"mrp6": "šiye-i-ane @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp7": "šī-i-ane @ Auge @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp8": "šiāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp10": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp12": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp13": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp14": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp15": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp16": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
-		"mrp17": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
+		"mrp8": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp11": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp12": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp13": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp14": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp15": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
+		"mrp16": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "šēllin",
@@ -110507,8 +110096,7 @@
 		"mrp2": "šermin+ġe-e @ Zypresse? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šermin+ġe-i-e @ Zypresse? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šermin+ġe-i @ Zypresse? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šermin+ġe-ž @ Zypresse? @ ERG @ noun @ ",
-		"mrp6": "šermin+ġe-ae @ Zypresse? @ INS @ noun @ "
+		"mrp5": "šermin+ġe-ae @ Zypresse? @ INS @ noun @ "
 	},
 	{
 		"trans": "šerminġinež",
@@ -110638,8 +110226,7 @@
 		"mrp2": "šermin+ġe-e @ Zypresse? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šermin+ġe-i-e @ Zypresse? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šermin+ġe-i @ Zypresse? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šermin+ġe-ž @ Zypresse? @ ERG @ noun @ ",
-		"mrp6": "šermin+ġe-ae @ Zypresse? @ INS @ noun @ "
+		"mrp5": "šermin+ġe-ae @ Zypresse? @ INS @ noun @ "
 	},
 	{
 		"trans": "šetḫi",
@@ -110720,8 +110307,7 @@
 	},
 	{
 		"trans": "šešte",
-		"mrp1": "šešti @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šešti-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "šešti @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šeġl[i(-)",
@@ -111234,10 +110820,9 @@
 	{
 		"trans": "šeuli[",
 		"mrp1": "šīūli @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šīūli-ž @ u.B. @ ERG @ noun @ ",
-		"mrp3": "ši-ol-i @ u.B. @ ol-ANTIP @ verb @ ",
-		"mrp4": "šī-ol-i @ beobachten @ ol-ANTIP @ verb @ ",
-		"mrp5": "šē-ol-i @ u.B. @ ol-ANTIP @ verb @ "
+		"mrp2": "ši-ol-i @ u.B. @ ol-ANTIP @ verb @ ",
+		"mrp3": "šī-ol-i @ beobachten @ ol-ANTIP @ verb @ ",
+		"mrp4": "šē-ol-i @ u.B. @ ol-ANTIP @ verb @ "
 	},
 	{
 		"trans": "ševerrāže",
@@ -111438,9 +111023,8 @@
 	{
 		"trans": "šeġe[lli",
 		"mrp1": "šeġli @ rein; Reinheit @ .ABS @ noun @ ",
-		"mrp2": "šeġli-ž @ rein; Reinheit @ ERG @ noun @ ",
-		"mrp3": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šeġe[llibinažuž",
@@ -111456,9 +111040,8 @@
 	{
 		"trans": "šeġel[li",
 		"mrp1": "šeġli @ rein; Reinheit @ .ABS @ noun @ ",
-		"mrp2": "šeġli-ž @ rein; Reinheit @ ERG @ noun @ ",
-		"mrp3": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šeġel[libināžuž",
@@ -111484,16 +111067,14 @@
 	{
 		"trans": "šeġelli",
 		"mrp1": "šeġli @ rein; Reinheit @ .ABS @ noun @ ",
-		"mrp2": "šeġli-ž @ rein; Reinheit @ ERG @ noun @ ",
-		"mrp3": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šeġelli[",
 		"mrp1": "šeġli @ rein; Reinheit @ .ABS @ noun @ ",
-		"mrp2": "šeġli-ž @ rein; Reinheit @ ERG @ noun @ ",
-		"mrp3": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šeġelli[bina",
@@ -111681,9 +111262,8 @@
 	{
 		"trans": "šeġe[lli",
 		"mrp1": "šeġli @ rein; Reinheit @ .ABS @ noun @ ",
-		"mrp2": "šeġli-ž @ rein; Reinheit @ ERG @ noun @ ",
-		"mrp3": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
-		"mrp4": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp2": "šīġ-il-i-le @ u.B. @ il-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šēġ-il-i-le @ eintreten @ il-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šeġellivenaža",
@@ -111708,13 +111288,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šena[",
@@ -111744,8 +111322,7 @@
 		"mrp2": "šermin+ġe-e @ Zypresse? @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šermin+ġe-i-e @ Zypresse? @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šermin+ġe-i @ Zypresse? @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šermin+ġe-ž @ Zypresse? @ ERG @ noun @ ",
-		"mrp6": "šermin+ġe-ae @ Zypresse? @ INS @ noun @ "
+		"mrp5": "šermin+ġe-ae @ Zypresse? @ INS @ noun @ "
 	},
 	{
 		"trans": "še]ġālum",
@@ -111811,13 +111388,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "ši[",
@@ -111832,13 +111407,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "ši[",
@@ -111853,13 +111426,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "ši[",
@@ -111874,13 +111445,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šī[n]imma",
@@ -111964,13 +111533,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šī[enāžuž",
@@ -112051,8 +111618,7 @@
 	},
 	{
 		"trans": "šimi[",
-		"mrp1": "šimi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šimi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "šimi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šinimma",
@@ -112320,11 +111886,10 @@
 		"mrp5": "šindi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "šindi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "šindi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "šindi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šend-e @ u.B. @ STAT @ verb @ ",
-		"mrp10": "šind-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
-		"mrp12": "šindi-ae @ u.B. @ INS @ noun @ "
+		"mrp8": "šend-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "šind-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
+		"mrp11": "šindi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šendiššēni",
@@ -112376,8 +111941,7 @@
 		"mrp2": "šig+adi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šig+adi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šig+adi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šig+adi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "šig+adi-ae @ u.B. @ INS @ noun @ "
+		"mrp5": "šig+adi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šī",
@@ -112392,13 +111956,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šī[",
@@ -112413,13 +111975,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "šī[ena",
@@ -112514,16 +112074,15 @@
 		"mrp5": "šiya-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
 		"mrp6": "šiye-i-ane @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp7": "šī-i-ane @ Auge @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp8": "šiāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp10": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp12": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp13": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp14": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp15": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp16": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
-		"mrp17": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
+		"mrp8": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp11": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp12": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp13": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp14": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp15": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
+		"mrp16": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "šīlva",
@@ -112950,10 +112509,9 @@
 	{
 		"trans": "šīkki",
 		"mrp1": "šikki @ Pflock?; Balken? @ .ABS @ noun @ ",
-		"mrp2": "šikki-ž @ Pflock?; Balken? @ ERG @ noun @ ",
-		"mrp3": "ši-i-kki @ u.B. @ ANTIP-NEG @ verb @ ",
-		"mrp4": "šī-i-kki @ beobachten @ ANTIP-NEG @ verb @ ",
-		"mrp5": "eġ+epš-i-kki @ lähmen? @ ANTIP-NEG @ verb @ "
+		"mrp2": "ši-i-kki @ u.B. @ ANTIP-NEG @ verb @ ",
+		"mrp3": "šī-i-kki @ beobachten @ ANTIP-NEG @ verb @ ",
+		"mrp4": "eġ+epš-i-kki @ lähmen? @ ANTIP-NEG @ verb @ "
 	},
 	{
 		"trans": "šīl",
@@ -113515,16 +113073,15 @@
 		"mrp5": "šiya-ne-e @ Wasser; Fluss @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
 		"mrp6": "šiye-i-ane @ Wasser; Fluss @ 3POSS.SG-ABL/INS @ noun @ ",
 		"mrp7": "šī-i-ane @ Auge @ 3POSS.SG-ABL/INS @ noun @ ",
-		"mrp8": "šiāni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp10": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp12": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp13": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
-		"mrp14": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp15": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
-		"mrp16": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
-		"mrp17": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
+		"mrp8": "šiye-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp9": "šiya-ne-ž @ Wasser; Fluss @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ši-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp11": "šī-an-i @ beobachten @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp12": "šē-an-i @ u.B. @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ ",
+		"mrp13": "šiye-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp14": "šiya-na @ Wasser; Fluss @ RELAT.PL.ABS @ noun @ ",
+		"mrp15": "šiye-an-i @ Wasser; Fluss @ an-ANTIP @ noun @ ",
+		"mrp16": "šī-an-i @ Auge @ an-ANTIP @ noun @ "
 	},
 	{
 		"trans": "šiax[",
@@ -113551,10 +113108,9 @@
 	{
 		"trans": "šikki",
 		"mrp1": "šikki @ Pflock?; Balken? @ .ABS @ noun @ ",
-		"mrp2": "šikki-ž @ Pflock?; Balken? @ ERG @ noun @ ",
-		"mrp3": "ši-i-kki @ u.B. @ ANTIP-NEG @ verb @ ",
-		"mrp4": "šī-i-kki @ beobachten @ ANTIP-NEG @ verb @ ",
-		"mrp5": "eġ+epš-i-kki @ lähmen? @ ANTIP-NEG @ verb @ "
+		"mrp2": "ši-i-kki @ u.B. @ ANTIP-NEG @ verb @ ",
+		"mrp3": "šī-i-kki @ beobachten @ ANTIP-NEG @ verb @ ",
+		"mrp4": "eġ+epš-i-kki @ lähmen? @ ANTIP-NEG @ verb @ "
 	},
 	{
 		"trans": "šikkinnan[a",
@@ -113671,11 +113227,10 @@
 		"mrp5": "šindi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "šindi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "šindi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "šindi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šend-e @ u.B. @ STAT @ verb @ ",
-		"mrp10": "šind-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
-		"mrp12": "šindi-ae @ u.B. @ INS @ noun @ "
+		"mrp8": "šend-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "šind-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
+		"mrp11": "šindi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šinda",
@@ -113716,11 +113271,10 @@
 		"mrp5": "šindi-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "šindi-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "šindi-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "šindi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šend-e @ u.B. @ STAT @ verb @ ",
-		"mrp10": "šind-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
-		"mrp12": "šindi-ae @ u.B. @ INS @ noun @ "
+		"mrp8": "šend-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "šind-e @ u.B. @ STAT @ verb @ ",
+		"mrp10": "šēn-d-i @ u.B. @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
+		"mrp11": "šindi-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šindibāni",
@@ -113996,13 +113550,11 @@
 		"mrp4": "šel-ož-i @ u.B. @ PST-ANTIP @ verb @ ",
 		"mrp5": "šil-ož-i @ u.B. @ PST-ANTIP @ verb @ ",
 		"mrp6": "šel+o+že-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp7": "šel+o+žē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp8": "šel+o+že-ae @ u.B. @ INS @ noun @ "
+		"mrp7": "šel+o+že-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šim[i",
-		"mrp1": "šimi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šimi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "šimi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šime[gai",
@@ -114033,8 +113585,7 @@
 	},
 	{
 		"trans": "šimi",
-		"mrp1": "šimi @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šimi-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "šimi @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šimiga[",
@@ -114335,8 +113886,7 @@
 	},
 	{
 		"trans": "šinutḫi",
-		"mrp1": "Šinutḫi @ GN @ .ABS @ noun @ ",
-		"mrp2": "Šinutḫi-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Šinutḫi @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šinux[",
@@ -114695,13 +114245,11 @@
 		"mrp9": "šī-i-e @ Auge @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp10": "šiye-i @ Wasser; Fluss @ 3POSS.SG.ABS @ noun @ ",
 		"mrp11": "šī-i @ Auge @ 3POSS.SG.ABS @ noun @ ",
-		"mrp12": "šiye-ž @ Wasser; Fluss @ ERG @ noun @ ",
-		"mrp13": "šī-ž @ Auge @ ERG @ noun @ ",
-		"mrp14": "ši-e @ u.B. @ STAT @ verb @ ",
-		"mrp15": "šī-e @ beobachten @ STAT @ verb @ ",
-		"mrp16": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
-		"mrp17": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
-		"mrp18": "šī-ae @ Auge @ INS @ noun @ "
+		"mrp12": "ši-e @ u.B. @ STAT @ verb @ ",
+		"mrp13": "šī-e @ beobachten @ STAT @ verb @ ",
+		"mrp14": "eġ+epš-e @ lähmen? @ STAT @ verb @ ",
+		"mrp15": "šiye-ae @ Wasser; Fluss @ INS @ noun @ ",
+		"mrp16": "šī-ae @ Auge @ INS @ noun @ "
 	},
 	{
 		"trans": "ši]daġenan",
@@ -115444,8 +114992,7 @@
 	},
 	{
 		"trans": "šōvāla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōġuri",
@@ -115751,9 +115298,8 @@
 		"mrp2": "šowa-e @ Tag @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šowa-i-e @ Tag @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šowa-i @ Tag @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šubi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "šo-ve @ 1PRON @ GEN @ PRON @ ",
-		"mrp7": "šowa-ae @ Tag @ INS @ noun @ "
+		"mrp5": "šo-ve @ 1PRON @ GEN @ PRON @ ",
+		"mrp6": "šowa-ae @ Tag @ INS @ noun @ "
 	},
 	{
 		"trans": "šōbix[",
@@ -115791,8 +115337,7 @@
 	},
 	{
 		"trans": "šōratḫe",
-		"mrp1": "šur+a+tḫe @ eine Baumart @ .ABS @ noun @ ",
-		"mrp2": "šur+a+tḫe-ž @ eine Baumart @ ERG @ noun @ "
+		"mrp1": "šur+a+tḫe @ eine Baumart @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōraššella",
@@ -115925,9 +115470,8 @@
 		"mrp1": "šumm+a+nni @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "šumm+a+ni-ne @ u.B. @ ABL/INS @ noun @ ",
 		"mrp3": "šumm+a+ni-ne-e @ u.B. @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
-		"mrp4": "šumm+a+nni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "šumm+a+ni-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp6": "šumm+a+ni-na @ u.B. @ RELAT.PL.ABS @ noun @ "
+		"mrp4": "šumm+a+ni-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp5": "šumm+a+ni-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "šōmmu",
@@ -116001,8 +115545,7 @@
 	},
 	{
 		"trans": "šōv[āla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōva",
@@ -116011,8 +115554,7 @@
 	},
 	{
 		"trans": "šōvāla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōvālannix[",
@@ -116031,8 +115573,7 @@
 	},
 	{
 		"trans": "šōvāl[a",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōvāl[ēž",
@@ -116042,8 +115583,7 @@
 	},
 	{
 		"trans": "šōvāla",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōva[ndena",
@@ -116069,8 +115609,7 @@
 	},
 	{
 		"trans": "šōvala",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōvalaž",
@@ -116087,8 +115626,7 @@
 	},
 	{
 		"trans": "šōvala]",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šōvalež",
@@ -116209,8 +115747,7 @@
 	},
 	{
 		"trans": "šō]vala",
-		"mrp1": "šowala @ Wein @ .ABS @ noun @ ",
-		"mrp2": "šowala-ž @ Wein @ ERG @ noun @ "
+		"mrp1": "šowala @ Wein @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šu]kkēna",
@@ -116618,8 +116155,7 @@
 	},
 	{
 		"trans": "šubri",
-		"mrp1": "šubri @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "šubri-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "šubri @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "šubrib[in]ažad",
@@ -116800,9 +116336,8 @@
 		"mrp6": "ši-u-a @ u.B. @ MED-3A.SG @ verb @ ",
 		"mrp7": "šī-u-a @ beobachten @ MED-3A.SG @ verb @ ",
 		"mrp8": "eġ+epš-u-a @ lähmen? @ MED-3A.SG @ verb @ ",
-		"mrp9": "šowa-ž @ Tag @ ERG @ noun @ ",
-		"mrp10": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
-		"mrp11": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
+		"mrp9": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
+		"mrp10": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
 	},
 	{
 		"trans": "šuwa[",
@@ -116814,9 +116349,8 @@
 		"mrp6": "ši-u-a @ u.B. @ MED-3A.SG @ verb @ ",
 		"mrp7": "šī-u-a @ beobachten @ MED-3A.SG @ verb @ ",
 		"mrp8": "eġ+epš-u-a @ lähmen? @ MED-3A.SG @ verb @ ",
-		"mrp9": "šowa-ž @ Tag @ ERG @ noun @ ",
-		"mrp10": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
-		"mrp11": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
+		"mrp9": "šiye-u-a @ Wasser; Fluss @ MED-3A.SG @ noun @ ",
+		"mrp10": "šī-u-a @ Auge @ MED-3A.SG @ noun @ "
 	},
 	{
 		"trans": "šuwā[lāe",
@@ -117082,9 +116616,8 @@
 		"mrp2": "šowa-e @ Tag @ 3POSS.SG.ABS @ noun @ ",
 		"mrp3": "šowa-i-e @ Tag @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp4": "šowa-i @ Tag @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "šubi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "šo-ve @ 1PRON @ GEN @ PRON @ ",
-		"mrp7": "šowa-ae @ Tag @ INS @ noun @ "
+		"mrp5": "šo-ve @ 1PRON @ GEN @ PRON @ ",
+		"mrp6": "šowa-ae @ Tag @ INS @ noun @ "
 	},
 	{
 		"trans": "šūbīniva",
@@ -117248,8 +116781,7 @@
 		"mrp5": "šī-ož-i @ beobachten @ PST-ANTIP @ verb @ ",
 		"mrp6": "eġ+epš-ož-i @ lähmen? @ PST-ANTIP @ verb @ ",
 		"mrp7": "šūži-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "šūži-ž @ u.B. @ ERG @ noun @ ",
-		"mrp9": "šūži-ae @ u.B. @ INS @ noun @ "
+		"mrp8": "šūži-ae @ u.B. @ INS @ noun @ "
 	},
 	{
 		"trans": "šūžiž",
@@ -117549,9 +117081,8 @@
 		"mrp1": "šumm+a+nni @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "šumm+a+ni-ne @ u.B. @ ABL/INS @ noun @ ",
 		"mrp3": "šumm+a+ni-ne-e @ u.B. @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ ",
-		"mrp4": "šumm+a+nni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "šumm+a+ni-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp6": "šumm+a+ni-na @ u.B. @ RELAT.PL.ABS @ noun @ "
+		"mrp4": "šumm+a+ni-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp5": "šumm+a+ni-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "šummanniž",
@@ -117748,8 +117279,7 @@
 	},
 	{
 		"trans": "ḫ]amr[i",
-		"mrp1": "ḫamri @ ein Heiligtum @ .ABS @ noun @ ",
-		"mrp2": "ḫamri-ž @ ein Heiligtum @ ERG @ noun @ "
+		"mrp1": "ḫamri @ ein Heiligtum @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫ]andebi",
@@ -118051,8 +117581,7 @@
 		"trans": "ḫ[i",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫ[u",
@@ -118112,8 +117641,7 @@
 		"trans": "ḫ[e",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫ[ēarunna]",
@@ -119300,8 +118828,7 @@
 	},
 	{
 		"trans": "ḫāžaži",
-		"mrp1": "ḫāž+a+že @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ḫāž+a+že-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "ḫāž+a+že @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫāžažimmi",
@@ -119773,8 +119300,7 @@
 	},
 	{
 		"trans": "ḫamri",
-		"mrp1": "ḫamri @ ein Heiligtum @ .ABS @ noun @ ",
-		"mrp2": "ḫamri-ž @ ein Heiligtum @ ERG @ noun @ "
+		"mrp1": "ḫamri @ ein Heiligtum @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫamria",
@@ -120093,13 +119619,11 @@
 	},
 	{
 		"trans": "ḫassi",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫass]i",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫass[i(-)",
@@ -120107,8 +119631,7 @@
 	},
 	{
 		"trans": "ḫass[i",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫass[iza]",
@@ -120117,8 +119640,7 @@
 	},
 	{
 		"trans": "ḫassi",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫassin",
@@ -120184,8 +119706,7 @@
 	},
 	{
 		"trans": "ḫassi]",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫassuwani",
@@ -120199,8 +119720,7 @@
 	},
 	{
 		"trans": "ḫassi",
-		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ ",
-		"mrp2": "Ḫassī-ž @ GN @ ERG @ noun @ "
+		"mrp1": "Ḫassī @ GN @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫaž[",
@@ -120705,9 +120225,7 @@
 	{
 		"trans": "ḫabōži",
 		"mrp1": "ḫāb+o+že @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ḫāv+ō+že @ u.B. @ .ABS @ noun @ ",
-		"mrp3": "ḫāb+o+že-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫāv+ō+že-ž @ u.B. @ ERG @ noun @ "
+		"mrp2": "ḫāv+ō+že @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫabō[",
@@ -121348,8 +120866,7 @@
 	},
 	{
 		"trans": "ḫažāži",
-		"mrp1": "ḫāž+a+že @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ḫāž+a+že-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "ḫāž+a+že @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫažarrimaššiž",
@@ -121381,8 +120898,7 @@
 	},
 	{
 		"trans": "ḫažāži",
-		"mrp1": "ḫāž+a+že @ u.B. @ .ABS @ noun @ ",
-		"mrp2": "ḫāž+a+že-ž @ u.B. @ ERG @ noun @ "
+		"mrp1": "ḫāž+a+že @ u.B. @ .ABS @ noun @ "
 	},
 	{
 		"trans": "ḫažarrāe",
@@ -122186,8 +121702,7 @@
 		"trans": "ḫi[",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫi[aruḫḫi",
@@ -122213,8 +121728,7 @@
 		"trans": "ḫī[",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫiaruḫḫi",
@@ -123186,12 +122700,11 @@
 		"mrp6": "ḫiri+ni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "ḫiri+ni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "ḫiri+ni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "ḫiri+ni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "ḫeri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ḫiri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp12": "ḫiri+ni-ae @ u.B. @ INS @ noun @ ",
-		"mrp13": "ḫeri-na @ u.B. @ RELAT.PL.ABS @ noun @ ",
-		"mrp14": "ḫiri-na @ u.B. @ RELAT.PL.ABS @ noun @ "
+		"mrp9": "ḫeri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ḫiri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp11": "ḫiri+ni-ae @ u.B. @ INS @ noun @ ",
+		"mrp12": "ḫeri-na @ u.B. @ RELAT.PL.ABS @ noun @ ",
+		"mrp13": "ḫiri-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "ḫirida",
@@ -123224,9 +122737,8 @@
 		"mrp1": "ḫide @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫīd-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp3": "ḫa-ed-i @ nehmen @ FUT-ANTIP @ verb @ ",
-		"mrp4": "ḫide-ž @ u.B. @ ERG @ noun @ ",
-		"mrp5": "ḫīd-e @ u.B. @ STAT @ verb @ ",
-		"mrp6": "ḫa-id-en @ nehmen @ PL.A-3JUSS @ verb @ "
+		"mrp4": "ḫīd-e @ u.B. @ STAT @ verb @ ",
+		"mrp5": "ḫa-id-en @ nehmen @ PL.A-3JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫideneve",
@@ -123544,8 +123056,7 @@
 		"mrp3": "ḫōr-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
 		"mrp4": "ḫōri-i-a @ Schoß @ 3POSS.SG-ESS @ noun @ ",
 		"mrp5": "ḫōr-i-a @ u.B. @ TR-3A.SG @ verb @ ",
-		"mrp6": "ḫōra-ž @ Schoß @ ERG @ noun @ ",
-		"mrp7": "ḫa-ur-a @ nehmen @ ur-INT @ verb @ "
+		"mrp6": "ḫa-ur-a @ nehmen @ ur-INT @ verb @ "
 	},
 	{
 		"trans": "ḫurani",
@@ -123575,11 +123086,9 @@
 		"mrp5": "ḫōri-e @ Schoß @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "ḫōri-i-e @ Schoß @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "ḫōri-i @ Schoß @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "ḫōri-ž @ Schoß @ ERG @ noun @ ",
-		"mrp9": "ḫōri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "ḫōr-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
-		"mrp12": "ḫōri-ae @ Schoß @ INS @ noun @ "
+		"mrp8": "ḫōr-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
+		"mrp10": "ḫōri-ae @ Schoß @ INS @ noun @ "
 	},
 	{
 		"trans": "ḫurida",
@@ -123829,11 +123338,9 @@
 		"mrp5": "ḫōri-e @ Schoß @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "ḫōri-i-e @ Schoß @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "ḫōri-i @ Schoß @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "ḫōri-ž @ Schoß @ ERG @ noun @ ",
-		"mrp9": "ḫōri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "ḫōr-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
-		"mrp12": "ḫōri-ae @ Schoß @ INS @ noun @ "
+		"mrp8": "ḫōr-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
+		"mrp10": "ḫōri-ae @ Schoß @ INS @ noun @ "
 	},
 	{
 		"trans": "ḫōbi",
@@ -123841,10 +123348,9 @@
 		"mrp2": "ḫub-i @ zerbrechen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp3": "ḫōb-i @ zerbrechen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp4": "ḫōb-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp5": "ḫōbi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "ḫub-e @ zerbrechen @ STAT @ verb @ ",
-		"mrp7": "ḫōb-e @ zerbrechen @ STAT @ verb @ ",
-		"mrp8": "ḫōb-e @ u.B. @ STAT @ verb @ "
+		"mrp5": "ḫub-e @ zerbrechen @ STAT @ verb @ ",
+		"mrp6": "ḫōb-e @ zerbrechen @ STAT @ verb @ ",
+		"mrp7": "ḫōb-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫōbīdi",
@@ -124161,10 +123667,9 @@
 		"mrp2": "ḫub-i @ zerbrechen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp3": "ḫōb-i @ zerbrechen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp4": "ḫōb-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp5": "ḫōbi-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "ḫub-e @ zerbrechen @ STAT @ verb @ ",
-		"mrp7": "ḫōb-e @ zerbrechen @ STAT @ verb @ ",
-		"mrp8": "ḫōb-e @ u.B. @ STAT @ verb @ "
+		"mrp5": "ḫub-e @ zerbrechen @ STAT @ verb @ ",
+		"mrp6": "ḫōb-e @ zerbrechen @ STAT @ verb @ ",
+		"mrp7": "ḫōb-e @ u.B. @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫōb[idu",
@@ -124397,11 +123902,9 @@
 		"mrp5": "ḫōri-e @ Schoß @ 3POSS.SG.ABS @ noun @ ",
 		"mrp6": "ḫōri-i-e @ Schoß @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp7": "ḫōri-i @ Schoß @ 3POSS.SG.ABS @ noun @ ",
-		"mrp8": "ḫōri-ž @ Schoß @ ERG @ noun @ ",
-		"mrp9": "ḫōri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "ḫōr-e @ u.B. @ STAT @ verb @ ",
-		"mrp11": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
-		"mrp12": "ḫōri-ae @ Schoß @ INS @ noun @ "
+		"mrp8": "ḫōr-e @ u.B. @ STAT @ verb @ ",
+		"mrp9": "ḫa-ur-i @ nehmen @ ur-ANTIP @ verb @ ",
+		"mrp10": "ḫōri-ae @ Schoß @ INS @ noun @ "
 	},
 	{
 		"trans": "ḫōriaža",
@@ -124510,11 +124013,9 @@
 		"mrp1": "Ḫōde @ DN @ .ABS @ noun @ ",
 		"mrp2": "ḫōde @ u.B. @ .ABS @ noun @ ",
 		"mrp3": "ḫōd-i @ beten; preisen; segnen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp4": "Ḫōde-ž @ DN @ ERG @ noun @ ",
-		"mrp5": "ḫōde-ž @ u.B. @ ERG @ noun @ ",
-		"mrp6": "ḫōd-e @ beten; preisen; segnen @ STAT @ verb @ ",
-		"mrp7": "ḫō-d-i @ rufen @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
-		"mrp8": "ḫa-ud-i @ nehmen @ { a → ud-ANTIP} { b → ud-TR.IMP} @ verb @ "
+		"mrp4": "ḫōd-e @ beten; preisen; segnen @ STAT @ verb @ ",
+		"mrp5": "ḫō-d-i @ rufen @ { a → d-ANTIP} { b → d-TR.IMP} @ verb @ ",
+		"mrp6": "ḫa-ud-i @ nehmen @ { a → ud-ANTIP} { b → ud-TR.IMP} @ verb @ "
 	},
 	{
 		"trans": "ḫōdenažuž",
@@ -125774,8 +125275,7 @@
 		"trans": "ḫe[",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫe[iarunna",
@@ -125855,8 +125355,7 @@
 		"trans": "ḫē[",
 		"mrp1": "ḫē @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "ḫa-i @ nehmen @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp3": "ḫē-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "ḫa-e @ nehmen @ STAT @ verb @ "
+		"mrp3": "ḫa-e @ nehmen @ STAT @ verb @ "
 	},
 	{
 		"trans": "ḫē]arun[na]",
@@ -125909,12 +125408,11 @@
 		"mrp6": "ḫiri+ni-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
 		"mrp7": "ḫiri+ni-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
 		"mrp8": "ḫiri+ni-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp9": "ḫiri+ni-ž @ u.B. @ ERG @ noun @ ",
-		"mrp10": "ḫeri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp11": "ḫiri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
-		"mrp12": "ḫiri+ni-ae @ u.B. @ INS @ noun @ ",
-		"mrp13": "ḫeri-na @ u.B. @ RELAT.PL.ABS @ noun @ ",
-		"mrp14": "ḫiri-na @ u.B. @ RELAT.PL.ABS @ noun @ "
+		"mrp9": "ḫeri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp10": "ḫiri-ne-ž @ u.B. @ RELAT.SG-ERG @ noun @ ",
+		"mrp11": "ḫiri+ni-ae @ u.B. @ INS @ noun @ ",
+		"mrp12": "ḫeri-na @ u.B. @ RELAT.PL.ABS @ noun @ ",
+		"mrp13": "ḫiri-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 	},
 	{
 		"trans": "ḫērida",

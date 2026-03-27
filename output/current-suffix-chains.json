@@ -1595,15 +1595,6 @@
 		"": [
 			{
 				"surfaceForm": "",
-				"segmentation": "-ž",
-				"morphTag": "ERG",
-				"sources": [
-					"ḫāžarri @ ḫāž+arri-ž @ Öl",
-					"ḫāžarrī @ ḫāž+arri-ž @ Öl"
-				]
-			},
-			{
-				"surfaceForm": "",
 				"segmentation": "",
 				"morphTag": ".ABS",
 				"sources": [
@@ -7027,16 +7018,6 @@
 				]
 			}
 		],
-		"⸢pa⸣ša": [
-			{
-				"surfaceForm": "⸢pa⸣ša",
-				"segmentation": "-v-až-a",
-				"morphTag": "2POSS-PL-DAT/ESS",
-				"sources": [
-					"pidari⸢fa⸣ša @ ped+ar+i-v-až-a @ Rind"
-				]
-			}
-		],
 		"niib": [
 			{
 				"surfaceForm": "niib",
@@ -7722,16 +7703,6 @@
 				"morphTag": "3POSS.SG-DIR=CON",
 				"sources": [
 					"ḫōderna(-)aš(-)tōġulēdan @ tōġuli-e-da=an @ u.B."
-				]
-			}
-		],
-		"(-)aš(-)tuġulidan": [
-			{
-				"surfaceForm": "(-)aš(-)tuġulidan",
-				"segmentation": "-ž",
-				"morphTag": "ERG",
-				"sources": [
-					"ḫōderna(-)aš(-)tōġulēdan @ ḫōder+na-ž @ u.B."
 				]
 			}
 		],
