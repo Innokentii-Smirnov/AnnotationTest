@@ -130,8 +130,7 @@
 	{
 		"trans": "(-)n]erae",
 		"mrp1": "(-)n]er-ae @  @ INS @ noun @ ",
-		"mrp2": "(-)n]er-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "(-)n]er-ae @  @ INS @ ADJ @ "
+		"mrp2": "(-)n]er-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "(-)n]igassa",
@@ -587,9 +586,8 @@
 	},
 	{
 		"trans": "a]rriž",
-		"mrp1": "a]rr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "a]rr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "a]rr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ar-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ ",
+		"mrp2": "ar-i-l-ež @ geben @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "a]rriva",
@@ -642,14 +640,8 @@
 	},
 	{
 		"trans": "a]rri",
-		"mrp1": "a]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "a]rr @  @ .ABS @ noun @ ",
-		"mrp3": "a]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "a]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "a]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "a]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "a]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "a]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "ar-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ar-i-le @ geben @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "a]da",
@@ -1104,14 +1096,7 @@
 	},
 	{
 		"trans": "k]alārri",
-		"mrp1": "k]alārr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "k]alārr @  @ .ABS @ noun @ ",
-		"mrp3": "k]alārr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "k]alārr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "k]alārr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "k]alārr-e @  @ STAT @ verb @ ",
-		"mrp7": "k]alārr-ae @  @ INS @ noun @ ",
-		"mrp8": "k]alārr-ve @  @ GEN @ noun @ "
+		"mrp1": "k]alār-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ēni]",
@@ -1153,14 +1138,7 @@
 	},
 	{
 		"trans": "i]arri",
-		"mrp1": "i]arr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "i]arr @  @ .ABS @ noun @ ",
-		"mrp3": "i]arr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "i]arr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "i]arr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "i]arr-e @  @ STAT @ verb @ ",
-		"mrp7": "i]arr-ae @  @ INS @ noun @ ",
-		"mrp8": "i]arr-ve @  @ GEN @ noun @ "
+		"mrp1": "i]ar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "i]až",
@@ -1314,14 +1292,8 @@
 	},
 	{
 		"trans": "i]nri",
-		"mrp1": "i]nr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "i]nr @  @ .ABS @ noun @ ",
-		"mrp3": "i]nr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "i]nr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "i]nr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "i]nr-e @  @ STAT @ verb @ ",
-		"mrp7": "i]nr-ae @  @ INS @ noun @ ",
-		"mrp8": "i]nr-ve @  @ GEN @ noun @ "
+		"mrp1": "en-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "in-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "i]n",
@@ -1414,14 +1386,9 @@
 	},
 	{
 		"trans": "i]rri",
-		"mrp1": "i]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "i]rr @  @ .ABS @ noun @ ",
-		"mrp3": "i]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "i]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "i]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "i]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "i]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "i]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "er-i-le @ gedeihen lassen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ēr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "i]rrēva",
@@ -1848,14 +1815,7 @@
 	},
 	{
 		"trans": "lā]rri",
-		"mrp1": "lā]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "lā]rr @  @ .ABS @ noun @ ",
-		"mrp3": "lā]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "lā]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "lā]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "lā]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "lā]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "lā]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "lā]r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "li]mmāid",
@@ -3634,14 +3594,11 @@
 	},
 	{
 		"trans": "u]rri",
-		"mrp1": "u]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "u]rr @  @ .ABS @ noun @ ",
-		"mrp3": "u]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "u]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "u]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "u]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "u]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "u]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "ur-i-le @ existieren @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ur-i-le @ wünschen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "ur-i-le @ zeigen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "or-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "u]d",
@@ -4047,14 +4004,11 @@
 	},
 	{
 		"trans": "u]rri",
-		"mrp1": "u]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "u]rr @  @ .ABS @ noun @ ",
-		"mrp3": "u]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "u]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "u]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "u]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "u]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "u]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "ur-i-le @ existieren @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ur-i-le @ wünschen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "ur-i-le @ zeigen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "or-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "š]a",
@@ -4670,15 +4624,11 @@
 	},
 	{
 		"trans": "ḫ]ārrež",
-		"mrp1": "ḫ]ārr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ḫ]ārr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ḫ]ārr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ḫār-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ḫ]ārrež",
-		"mrp1": "ḫ]ārr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ḫ]ārr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ḫ]ārr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ḫār-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ḫ]āx[",
@@ -4868,9 +4818,7 @@
 	},
 	{
 		"trans": "ḫārre]ž",
-		"mrp1": "ḫārr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ḫārr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ḫārr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ḫār-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ḫāi",
@@ -8332,14 +8280,12 @@
 	},
 	{
 		"trans": "ilali[",
-		"mrp1": "ilal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ilal @  @ .ABS @ noun @ ",
-		"mrp3": "ilal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ilal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ilal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ilal-e @  @ STAT @ verb @ ",
-		"mrp7": "ilal-ae @  @ INS @ noun @ ",
-		"mrp8": "ilal-ve @  @ GEN @ noun @ "
+		"mrp1": "ilal @  @ .ABS @ noun @ ",
+		"mrp2": "ilal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ilal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ilal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ilal-ae @  @ INS @ noun @ ",
+		"mrp6": "ilal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ix[",
@@ -9147,14 +9093,12 @@
 	},
 	{
 		"trans": "mudri",
-		"mrp1": "mudr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "mudr @  @ .ABS @ noun @ ",
-		"mrp3": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "mudr-e @  @ STAT @ verb @ ",
-		"mrp7": "mudr-ae @  @ INS @ noun @ ",
-		"mrp8": "mudr-ve @  @ GEN @ noun @ "
+		"mrp1": "mudr @  @ .ABS @ noun @ ",
+		"mrp2": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "mudr-ae @  @ INS @ noun @ ",
+		"mrp6": "mudr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "mun[dār]a",
@@ -9594,14 +9538,7 @@
 	},
 	{
 		"trans": "tapšuwa[rri",
-		"mrp1": "tapšuwa[rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "tapšuwa[rr @  @ .ABS @ noun @ ",
-		"mrp3": "tapšuwa[rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "tapšuwa[rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "tapšuwa[rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tapšuwa[rr-e @  @ STAT @ verb @ ",
-		"mrp7": "tapšuwa[rr-ae @  @ INS @ noun @ ",
-		"mrp8": "tapšuwa[rr-ve @  @ GEN @ noun @ "
+		"mrp1": "tapšuwa[r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "tapšuwarrīe[l",
@@ -10418,9 +10355,10 @@
 	},
 	{
 		"trans": "šerrež",
-		"mrp1": "šerr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "šerr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "šerr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "šer-i-l-ež @ zugrunde richten @ MOD.AG-l-OPT @ verb @ ",
+		"mrp2": "šēr-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ ",
+		"mrp3": "šīr-i-l-ež @ genügen; entsprechen @ MOD.AG-l-OPT @ verb @ ",
+		"mrp4": "šīr-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "šerri",
@@ -10888,7 +10826,8 @@
 	{
 		"trans": "ḫōrri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫōdena",
@@ -10912,12 +10851,14 @@
 	{
 		"trans": "ḫur[ri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫurr[i",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫussi]",
@@ -12069,7 +12010,8 @@
 	{
 		"trans": "ḫ[urri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "akkaduġeda",
@@ -13043,14 +12985,7 @@
 	},
 	{
 		"trans": "sippirri",
-		"mrp1": "sippirr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "sippirr @  @ .ABS @ noun @ ",
-		"mrp3": "sippirr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "sippirr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "sippirr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "sippirr-e @  @ STAT @ verb @ ",
-		"mrp7": "sippirr-ae @  @ INS @ noun @ ",
-		"mrp8": "sippirr-ve @  @ GEN @ noun @ "
+		"mrp1": "sippir-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ēbla",
@@ -14130,9 +14065,7 @@
 	},
 	{
 		"trans": "[t]ažmeššarrež",
-		"mrp1": "[t]ažmeššarr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "[t]ažmeššarr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "[t]ažmeššarr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "[t]ažmeššar-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "āžnōr[i(-)",
@@ -14263,7 +14196,8 @@
 	},
 	{
 		"trans": "ellāi",
-		"mrp1": "īll-i-ai @ u.B. @ MOD.AG-PURP @ verb @ "
+		"mrp1": "īll-i-ai @ u.B. @ MOD.AG-PURP @ verb @ ",
+		"mrp2": "il-i-l-ai @ u.B. @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "i[lla",
@@ -14379,14 +14313,12 @@
 	},
 	{
 		"trans": "ērzia[li",
-		"mrp1": "ērzia[l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ērzia[l @  @ .ABS @ noun @ ",
-		"mrp3": "ērzia[l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ērzia[l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ērzia[l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ērzia[l-e @  @ STAT @ verb @ ",
-		"mrp7": "ērzia[l-ae @  @ INS @ noun @ ",
-		"mrp8": "ērzia[l-ve @  @ GEN @ noun @ "
+		"mrp1": "ērzia[l @  @ .ABS @ noun @ ",
+		"mrp2": "ērzia[l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ērzia[l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ērzia[l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ērzia[l-ae @  @ INS @ noun @ ",
+		"mrp6": "ērzia[l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "enadarzia",
@@ -14432,14 +14364,12 @@
 	},
 	{
 		"trans": "kamma[li",
-		"mrp1": "kamma[l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kamma[l @  @ .ABS @ noun @ ",
-		"mrp3": "kamma[l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kamma[l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kamma[l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kamma[l-e @  @ STAT @ verb @ ",
-		"mrp7": "kamma[l-ae @  @ INS @ noun @ ",
-		"mrp8": "kamma[l-ve @  @ GEN @ noun @ "
+		"mrp1": "kamma[l @  @ .ABS @ noun @ ",
+		"mrp2": "kamma[l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kamma[l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kamma[l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kamma[l-ae @  @ INS @ noun @ ",
+		"mrp6": "kamma[l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "labažunuwa[",
@@ -14459,14 +14389,12 @@
 	},
 	{
 		"trans": "nabrī",
-		"mrp1": "nabr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "nabr @  @ .ABS @ noun @ ",
-		"mrp3": "nabr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "nabr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "nabr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "nabr-e @  @ STAT @ verb @ ",
-		"mrp7": "nabr-ae @  @ INS @ noun @ ",
-		"mrp8": "nabr-ve @  @ GEN @ noun @ "
+		"mrp1": "nabr @  @ .ABS @ noun @ ",
+		"mrp2": "nabr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "nabr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "nabr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "nabr-ae @  @ INS @ noun @ ",
+		"mrp6": "nabr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "pōruwa",
@@ -14907,14 +14835,7 @@
 	},
 	{
 		"trans": "](-)ārri",
-		"mrp1": "](-)ārr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "](-)ārr @  @ .ABS @ noun @ ",
-		"mrp3": "](-)ārr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "](-)ārr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "](-)ārr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "](-)ārr-e @  @ STAT @ verb @ ",
-		"mrp7": "](-)ārr-ae @  @ INS @ noun @ ",
-		"mrp8": "](-)ārr-ve @  @ GEN @ noun @ "
+		"mrp1": "](-)ār-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "](-)aga(-)arušḫiā(-)[",
@@ -15925,7 +15846,10 @@
 	{
 		"trans": "]alli",
 		"mrp1": "all-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "all-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "all-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "al-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "al-i-le @ trinken; tränken @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "al-i-le @ sprechen @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]alzi",
@@ -15943,7 +15867,10 @@
 	{
 		"trans": "]alli",
 		"mrp1": "all-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "all-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "all-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "al-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "al-i-le @ trinken; tränken @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "al-i-le @ sprechen @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]alx[",
@@ -16106,7 +16033,8 @@
 	{
 		"trans": "]ēlli",
 		"mrp1": "īll-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "īll-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "īll-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "il-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]eir",
@@ -16645,42 +16573,34 @@
 	},
 	{
 		"trans": "]ližarlāi",
-		"mrp1": "]ližarl-ae @  @ INS @ noun @ ",
-		"mrp2": "]ližarl-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "]ližarl-ae @  @ INS @ ADJ @ "
+		"mrp1": "]ližar-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "]li[",
-		"mrp1": "]l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]l @  @ .ABS @ noun @ ",
-		"mrp3": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]l-e @  @ STAT @ verb @ ",
-		"mrp7": "]l-ae @  @ INS @ noun @ ",
-		"mrp8": "]l-ve @  @ GEN @ noun @ "
+		"mrp1": "]l @  @ .ABS @ noun @ ",
+		"mrp2": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]l-ae @  @ INS @ noun @ ",
+		"mrp6": "]l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]li",
-		"mrp1": "]l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]l @  @ .ABS @ noun @ ",
-		"mrp3": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]l-e @  @ STAT @ verb @ ",
-		"mrp7": "]l-ae @  @ INS @ noun @ ",
-		"mrp8": "]l-ve @  @ GEN @ noun @ "
+		"mrp1": "]l @  @ .ABS @ noun @ ",
+		"mrp2": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]l-ae @  @ INS @ noun @ ",
+		"mrp6": "]l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]li[",
-		"mrp1": "]l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]l @  @ .ABS @ noun @ ",
-		"mrp3": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]l-e @  @ STAT @ verb @ ",
-		"mrp7": "]l-ae @  @ INS @ noun @ ",
-		"mrp8": "]l-ve @  @ GEN @ noun @ "
+		"mrp1": "]l @  @ .ABS @ noun @ ",
+		"mrp2": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]l-ae @  @ INS @ noun @ ",
+		"mrp6": "]l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]lib",
@@ -16719,14 +16639,8 @@
 	},
 	{
 		"trans": "]marri",
-		"mrp1": "]marr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]marr @  @ .ABS @ noun @ ",
-		"mrp3": "]marr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]marr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]marr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]marr-e @  @ STAT @ verb @ ",
-		"mrp7": "]marr-ae @  @ INS @ noun @ ",
-		"mrp8": "]marr-ve @  @ GEN @ noun @ "
+		"mrp1": "mar-i-le @ erkranken? @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "mar-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]mižan",
@@ -16909,26 +16823,22 @@
 	},
 	{
 		"trans": "]rež",
-		"mrp1": "]r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]rež",
-		"mrp1": "]r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]rē",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]rin",
@@ -16942,25 +16852,21 @@
 	},
 	{
 		"trans": "]ri",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]ri",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]rum",
@@ -17187,14 +17093,11 @@
 	},
 	{
 		"trans": "]ūrrī",
-		"mrp1": "]ūrr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]ūrr @  @ .ABS @ noun @ ",
-		"mrp3": "]ūrr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]ūrr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]ūrr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]ūrr-e @  @ STAT @ verb @ ",
-		"mrp7": "]ūrr-ae @  @ INS @ noun @ ",
-		"mrp8": "]ūrr-ve @  @ GEN @ noun @ "
+		"mrp1": "ur-i-le @ existieren @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ur-i-le @ wünschen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "ur-i-le @ zeigen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "or-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]ullad[",
@@ -17568,7 +17471,9 @@
 		"mrp2": "šarrē-ž @ u.B. @ ERG @ noun @ ",
 		"mrp3": "šarr-i-ež @ u.B. @ MOD.AG-OPT @ verb @ ",
 		"mrp4": "šarri-i-ž @ Gottkönig @ 3POSS.SG-ERG @ noun @ ",
-		"mrp5": "šarri-e-ž @ Gottkönig @ 3POSS.SG-ERG @ noun @ "
+		"mrp5": "šarri-e-ž @ Gottkönig @ 3POSS.SG-ERG @ noun @ ",
+		"mrp6": "šār-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ ",
+		"mrp7": "šār-i-l-ež @ wünschen @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "]šešteni",
@@ -17834,14 +17739,12 @@
 	},
 	{
 		"trans": "]amuġli",
-		"mrp1": "]amuġl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]amuġl @  @ .ABS @ noun @ ",
-		"mrp3": "]amuġl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]amuġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]amuġl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]amuġl-e @  @ STAT @ verb @ ",
-		"mrp7": "]amuġl-ae @  @ INS @ noun @ ",
-		"mrp8": "]amuġl-ve @  @ GEN @ noun @ "
+		"mrp1": "]amuġl @  @ .ABS @ noun @ ",
+		"mrp2": "]amuġl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]amuġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]amuġl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]amuġl-ae @  @ INS @ noun @ ",
+		"mrp6": "]amuġl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]an[a(-)",
@@ -18721,7 +18624,8 @@
 	{
 		"trans": "]illi",
 		"mrp1": "īll-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "īll-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "īll-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "il-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]ildademma",
@@ -18809,9 +18713,9 @@
 	},
 	{
 		"trans": "]irriž",
-		"mrp1": "]irr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]irr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]irr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "er-i-l-ež @ gedeihen lassen @ MOD.AG-l-OPT @ verb @ ",
+		"mrp2": "ir-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ ",
+		"mrp3": "ēr-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "]irvōli",
@@ -18931,8 +18835,7 @@
 	{
 		"trans": "]lāe",
 		"mrp1": "]l-ae @  @ INS @ noun @ ",
-		"mrp2": "]l-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "]l-ae @  @ INS @ ADJ @ "
+		"mrp2": "]l-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "]lāve",
@@ -18992,14 +18895,12 @@
 	},
 	{
 		"trans": "]li",
-		"mrp1": "]l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]l @  @ .ABS @ noun @ ",
-		"mrp3": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]l-e @  @ STAT @ verb @ ",
-		"mrp7": "]l-ae @  @ INS @ noun @ ",
-		"mrp8": "]l-ve @  @ GEN @ noun @ "
+		"mrp1": "]l @  @ .ABS @ noun @ ",
+		"mrp2": "]l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]l-ae @  @ INS @ noun @ ",
+		"mrp6": "]l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]li[v]e",
@@ -19057,9 +18958,8 @@
 	},
 	{
 		"trans": "]lugariž",
-		"mrp1": "]lugar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]lugar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]lugar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]lugar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]lugar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]lub[a",
@@ -19762,7 +19662,9 @@
 	},
 	{
 		"trans": "]palli",
-		"mrp1": "pa-al-i-le @ bauen @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "fal-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "pal-i-le @ kennen; wissen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "pa-al-i-le @ bauen @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]pu",
@@ -19936,8 +19838,7 @@
 	{
 		"trans": "]rai",
 		"mrp1": "]r-ae @  @ INS @ noun @ ",
-		"mrp2": "]r-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "]r-ae @  @ INS @ ADJ @ "
+		"mrp2": "]r-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "]rabināx[",
@@ -19960,14 +19861,12 @@
 	},
 	{
 		"trans": "]ri",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]ridāni",
@@ -19977,14 +19876,12 @@
 	},
 	{
 		"trans": "]rī",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]ria",
@@ -20024,9 +19921,8 @@
 	},
 	{
 		"trans": "]riž",
-		"mrp1": "]r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]rišši",
@@ -20085,25 +19981,21 @@
 	},
 	{
 		"trans": "]ri",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]ri",
-		"mrp1": "]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]r @  @ .ABS @ noun @ ",
-		"mrp3": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]r-e @  @ STAT @ verb @ ",
-		"mrp7": "]r-ae @  @ INS @ noun @ ",
-		"mrp8": "]r-ve @  @ GEN @ noun @ "
+		"mrp1": "]r @  @ .ABS @ noun @ ",
+		"mrp2": "]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]r-ae @  @ INS @ noun @ ",
+		"mrp6": "]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]rumi",
@@ -20488,14 +20380,12 @@
 	},
 	{
 		"trans": "]umri",
-		"mrp1": "]umr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]umr @  @ .ABS @ noun @ ",
-		"mrp3": "]umr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]umr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]umr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]umr-e @  @ STAT @ verb @ ",
-		"mrp7": "]umr-ae @  @ INS @ noun @ ",
-		"mrp8": "]umr-ve @  @ GEN @ noun @ "
+		"mrp1": "]umr @  @ .ABS @ noun @ ",
+		"mrp2": "]umr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]umr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]umr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]umr-ae @  @ INS @ noun @ ",
+		"mrp6": "]umr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]un",
@@ -20529,14 +20419,12 @@
 	},
 	{
 		"trans": "]undali",
-		"mrp1": "]undal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]undal @  @ .ABS @ noun @ ",
-		"mrp3": "]undal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]undal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]undal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]undal-e @  @ STAT @ verb @ ",
-		"mrp7": "]undal-ae @  @ INS @ noun @ ",
-		"mrp8": "]undal-ve @  @ GEN @ noun @ "
+		"mrp1": "]undal @  @ .ABS @ noun @ ",
+		"mrp2": "]undal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]undal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]undal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]undal-ae @  @ INS @ noun @ ",
+		"mrp6": "]undal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]unden",
@@ -20561,14 +20449,11 @@
 	},
 	{
 		"trans": "]urri",
-		"mrp1": "]urr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]urr @  @ .ABS @ noun @ ",
-		"mrp3": "]urr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]urr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]urr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]urr-e @  @ STAT @ verb @ ",
-		"mrp7": "]urr-ae @  @ INS @ noun @ ",
-		"mrp8": "]urr-ve @  @ GEN @ noun @ "
+		"mrp1": "ur-i-le @ existieren @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ur-i-le @ wünschen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "ur-i-le @ zeigen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "or-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]urdeba",
@@ -21000,14 +20885,11 @@
 	},
 	{
 		"trans": "]urri",
-		"mrp1": "]urr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]urr @  @ .ABS @ noun @ ",
-		"mrp3": "]urr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]urr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]urr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]urr-e @  @ STAT @ verb @ ",
-		"mrp7": "]urr-ae @  @ INS @ noun @ ",
-		"mrp8": "]urr-ve @  @ GEN @ noun @ "
+		"mrp1": "ur-i-le @ existieren @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ur-i-le @ wünschen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "ur-i-le @ zeigen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "or-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]š[a",
@@ -21499,14 +21381,12 @@
 	},
 	{
 		"trans": "]ḫiža(-)šali",
-		"mrp1": "]ḫiža(-)šal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]ḫiža(-)šal @  @ .ABS @ noun @ ",
-		"mrp3": "]ḫiža(-)šal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]ḫiža(-)šal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]ḫiža(-)šal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]ḫiža(-)šal-e @  @ STAT @ verb @ ",
-		"mrp7": "]ḫiža(-)šal-ae @  @ INS @ noun @ ",
-		"mrp8": "]ḫiža(-)šal-ve @  @ GEN @ noun @ "
+		"mrp1": "]ḫiža(-)šal @  @ .ABS @ noun @ ",
+		"mrp2": "]ḫiža(-)šal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]ḫiža(-)šal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]ḫiža(-)šal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]ḫiža(-)šal-ae @  @ INS @ noun @ ",
+		"mrp6": "]ḫiža(-)šal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]ḫi",
@@ -21722,14 +21602,12 @@
 	},
 	{
 		"trans": "]x-ri",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x",
@@ -21967,14 +21845,12 @@
 	},
 	{
 		"trans": "]x(-)nabri",
-		"mrp1": "]x(-)nabr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x(-)nabr @  @ .ABS @ noun @ ",
-		"mrp3": "]x(-)nabr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x(-)nabr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x(-)nabr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x(-)nabr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x(-)nabr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x(-)nabr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x(-)nabr @  @ .ABS @ noun @ ",
+		"mrp2": "]x(-)nabr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x(-)nabr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x(-)nabr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x(-)nabr-ae @  @ INS @ noun @ ",
+		"mrp6": "]x(-)nabr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x(-)ni(-)x[",
@@ -22032,9 +21908,7 @@
 	},
 	{
 		"trans": "]x(-)tirriž",
-		"mrp1": "]x(-)tirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x(-)tirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x(-)tirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x(-)tir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "]x(-)tinamma",
@@ -22047,9 +21921,8 @@
 	},
 	{
 		"trans": "]x(-)uderiž",
-		"mrp1": "]x(-)uder-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x(-)uder-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x(-)uder-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x(-)uder-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x(-)uder-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x(-)ull[a",
@@ -22094,14 +21967,12 @@
 	},
 	{
 		"trans": "]x(-)uruppug[li",
-		"mrp1": "]x(-)uruppug[l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x(-)uruppug[l @  @ .ABS @ noun @ ",
-		"mrp3": "]x(-)uruppug[l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x(-)uruppug[l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x(-)uruppug[l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x(-)uruppug[l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x(-)uruppug[l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x(-)uruppug[l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x(-)uruppug[l @  @ .ABS @ noun @ ",
+		"mrp2": "]x(-)uruppug[l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x(-)uruppug[l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x(-)uruppug[l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x(-)uruppug[l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x(-)uruppug[l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x(-)šalla",
@@ -22158,14 +22029,7 @@
 	},
 	{
 		"trans": "]x(-)ḫurri",
-		"mrp1": "]x(-)ḫurr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x(-)ḫurr @  @ .ABS @ noun @ ",
-		"mrp3": "]x(-)ḫurr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x(-)ḫurr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x(-)ḫurr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x(-)ḫurr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x(-)ḫurr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x(-)ḫurr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x(-)ḫur-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]x(-)ḫōl[i",
@@ -22193,14 +22057,12 @@
 	},
 	{
 		"trans": "]x-[r]i",
-		"mrp1": "]x-[r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-[r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-[r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-[r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-[r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-[r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-[r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-[r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-[r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-[r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-[r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-[r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-[r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-[r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-[t]an",
@@ -22810,8 +22672,7 @@
 	{
 		"trans": "]x-lai",
 		"mrp1": "]x-l-ae @  @ INS @ noun @ ",
-		"mrp2": "]x-l-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "]x-l-ae @  @ INS @ ADJ @ "
+		"mrp2": "]x-l-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "]x-laburižāi",
@@ -22850,25 +22711,21 @@
 	},
 	{
 		"trans": "]x-li[",
-		"mrp1": "]x-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-l @  @ .ABS @ noun @ ",
-		"mrp3": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-l @  @ .ABS @ noun @ ",
+		"mrp2": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-li",
-		"mrp1": "]x-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-l @  @ .ABS @ noun @ ",
-		"mrp3": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-l @  @ .ABS @ noun @ ",
+		"mrp2": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-li(-)x[",
@@ -23139,14 +22996,12 @@
 	},
 	{
 		"trans": "]x-ri",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-ru",
@@ -23356,9 +23211,7 @@
 	},
 	{
 		"trans": "]x-urrež",
-		"mrp1": "]x-urr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-urr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-urr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-ur-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "]x-už",
@@ -23827,14 +23680,12 @@
 	},
 	{
 		"trans": "]x-ali",
-		"mrp1": "]x-al-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-al @  @ .ABS @ noun @ ",
-		"mrp3": "]x-al-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-al-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-al-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-al-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-al-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-al-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-al @  @ .ABS @ noun @ ",
+		"mrp2": "]x-al-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-al-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-al-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-al-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-al-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-alix[",
@@ -24333,14 +24184,7 @@
 	},
 	{
 		"trans": "]x-arr[i",
-		"mrp1": "]x-arr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-arr @  @ .ABS @ noun @ ",
-		"mrp3": "]x-arr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-arr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-arr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-arr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-arr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-arr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-ar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]x-arra",
@@ -24842,9 +24686,8 @@
 	},
 	{
 		"trans": "]x-en[ar]iž",
-		"mrp1": "]x-en[ar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-en[ar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-en[ar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-en[ar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x-en[ar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x-ena",
@@ -25559,14 +25402,12 @@
 	},
 	{
 		"trans": "]x-ibri",
-		"mrp1": "]x-ibr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-ibr @  @ .ABS @ noun @ ",
-		"mrp3": "]x-ibr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-ibr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-ibr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-ibr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-ibr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-ibr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-ibr @  @ .ABS @ noun @ ",
+		"mrp2": "]x-ibr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-ibr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-ibr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-ibr-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-ibr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-iptad",
@@ -25753,14 +25594,7 @@
 	},
 	{
 		"trans": "]x-kamlurri",
-		"mrp1": "]x-kamlurr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-kamlurr @  @ .ABS @ noun @ ",
-		"mrp3": "]x-kamlurr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-kamlurr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-kamlurr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-kamlurr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-kamlurr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-kamlurr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-kamlur-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]x-kammanna",
@@ -26005,14 +25839,12 @@
 	},
 	{
 		"trans": "]x-li",
-		"mrp1": "]x-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-l @  @ .ABS @ noun @ ",
-		"mrp3": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-l @  @ .ABS @ noun @ ",
+		"mrp2": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-li(-)[",
@@ -26020,14 +25852,12 @@
 	},
 	{
 		"trans": "]x-li[",
-		"mrp1": "]x-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-l @  @ .ABS @ noun @ ",
-		"mrp3": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-l @  @ .ABS @ noun @ ",
+		"mrp2": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-liadex[",
@@ -26115,14 +25945,12 @@
 	},
 	{
 		"trans": "]x-li",
-		"mrp1": "]x-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-l @  @ .ABS @ noun @ ",
-		"mrp3": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-l @  @ .ABS @ noun @ ",
+		"mrp2": "]x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-lu",
@@ -26264,9 +26092,8 @@
 	},
 	{
 		"trans": "]x-marež",
-		"mrp1": "]x-mar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-mar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-mar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-mar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x-mar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x-madiax-[m]a",
@@ -26456,14 +26283,7 @@
 	},
 	{
 		"trans": "]x-murri",
-		"mrp1": "]x-murr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-murr @  @ .ABS @ noun @ ",
-		"mrp3": "]x-murr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-murr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-murr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-murr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-murr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-murr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-mur-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]x-n[a]el",
@@ -26796,9 +26616,8 @@
 	},
 	{
 		"trans": "]x-nirež",
-		"mrp1": "]x-nir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-nir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-nir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-nir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x-nir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x-niri",
@@ -27030,14 +26849,7 @@
 	},
 	{
 		"trans": "]x-parri",
-		"mrp1": "]x-parr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-parr @  @ .ABS @ noun @ ",
-		"mrp3": "]x-parr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-parr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-parr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-parr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-parr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-parr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-par-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]x-pardiġia",
@@ -27200,14 +27012,12 @@
 	{
 		"trans": "]x-rāe",
 		"mrp1": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp2": "]x-r-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "]x-r-ae @  @ INS @ ADJ @ "
+		"mrp2": "]x-r-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "]x-rāi",
 		"mrp1": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp2": "]x-r-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "]x-r-ae @  @ INS @ ADJ @ "
+		"mrp2": "]x-r-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "]x-rāgīda",
@@ -27259,14 +27069,12 @@
 	},
 	{
 		"trans": "]x-rax-x-ri",
-		"mrp1": "]x-rax-x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-rax-x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-rax-x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-rax-x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-rax-x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-rax-x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-rax-x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-rax-x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-rax-x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-rax-x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-rax-x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-rax-x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-rax-x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-rax-x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-rax[",
@@ -27285,14 +27093,12 @@
 	},
 	{
 		"trans": "]x-rē",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-rēa",
@@ -27347,25 +27153,21 @@
 	},
 	{
 		"trans": "]x-ri",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-ri[",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-ridi",
@@ -27436,9 +27238,8 @@
 	},
 	{
 		"trans": "]x-riž",
-		"mrp1": "]x-r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x-r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x-ril[i",
@@ -27486,25 +27287,21 @@
 	},
 	{
 		"trans": "]x-ri",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-ri",
-		"mrp1": "]x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-ruġia",
@@ -27638,14 +27435,12 @@
 	},
 	{
 		"trans": "]x-tali",
-		"mrp1": "]x-tal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-tal @  @ .ABS @ noun @ ",
-		"mrp3": "]x-tal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-tal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-tal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-tal-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-tal-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-tal-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-tal @  @ .ABS @ noun @ ",
+		"mrp2": "]x-tal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-tal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-tal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-tal-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-tal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-tani(-)x[",
@@ -28104,9 +27899,8 @@
 	},
 	{
 		"trans": "]x-ubariž",
-		"mrp1": "]x-ubar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-ubar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-ubar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-ubar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x-ubar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x-ōkkel(-)[",
@@ -28627,14 +28421,7 @@
 	},
 	{
 		"trans": "]x-x-karri",
-		"mrp1": "]x-x-karr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-x-karr @  @ .ABS @ noun @ ",
-		"mrp3": "]x-x-karr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-x-karr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-x-karr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-x-karr-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-x-karr-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-x-karr-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-x-kar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "]x-x-lī[a",
@@ -28761,14 +28548,12 @@
 	},
 	{
 		"trans": "]x-x-li",
-		"mrp1": "]x-x-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-x-l @  @ .ABS @ noun @ ",
-		"mrp3": "]x-x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-x-l-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-x-l-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-x-l-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-x-l @  @ .ABS @ noun @ ",
+		"mrp2": "]x-x-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-x-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-x-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-x-l-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-x-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-x-limma[",
@@ -28817,14 +28602,12 @@
 	},
 	{
 		"trans": "]x-x-ri",
-		"mrp1": "]x-x-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "]x-x-r @  @ .ABS @ noun @ ",
-		"mrp3": "]x-x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "]x-x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "]x-x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "]x-x-r-e @  @ STAT @ verb @ ",
-		"mrp7": "]x-x-r-ae @  @ INS @ noun @ ",
-		"mrp8": "]x-x-r-ve @  @ GEN @ noun @ "
+		"mrp1": "]x-x-r @  @ .ABS @ noun @ ",
+		"mrp2": "]x-x-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "]x-x-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "]x-x-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "]x-x-r-ae @  @ INS @ noun @ ",
+		"mrp6": "]x-x-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "]x-x-rukku",
@@ -29835,9 +29618,8 @@
 	},
 	{
 		"trans": "]x-ḫiriž",
-		"mrp1": "]x-ḫir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "]x-ḫir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "]x-ḫir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "]x-ḫir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "]x-ḫir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "]x-ḫida",
@@ -30368,14 +30150,8 @@
 	},
 	{
 		"trans": "[surri",
-		"mrp1": "[surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[surr @  @ .ABS @ noun @ ",
-		"mrp3": "[surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[surr-e @  @ STAT @ verb @ ",
-		"mrp7": "[surr-ae @  @ INS @ noun @ ",
-		"mrp8": "[surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[šau]škai",
@@ -30521,7 +30297,8 @@
 	{
 		"trans": "[ḫurri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[m]ittanni",
@@ -31205,9 +30982,8 @@
 	},
 	{
 		"trans": "[ab]irēž",
-		"mrp1": "[ab]ir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "[ab]ir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "[ab]ir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "[ab]ir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "[ab]ir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "[aba]lġi",
@@ -31795,14 +31571,12 @@
 	},
 	{
 		"trans": "[tabunnali",
-		"mrp1": "[tabunnal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[tabunnal @  @ .ABS @ noun @ ",
-		"mrp3": "[tabunnal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[tabunnal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[tabunnal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[tabunnal-e @  @ STAT @ verb @ ",
-		"mrp7": "[tabunnal-ae @  @ INS @ noun @ ",
-		"mrp8": "[tabunnal-ve @  @ GEN @ noun @ "
+		"mrp1": "[tabunnal @  @ .ABS @ noun @ ",
+		"mrp2": "[tabunnal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "[tabunnal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "[tabunnal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "[tabunnal-ae @  @ INS @ noun @ ",
+		"mrp6": "[tabunnal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "[tar]iž",
@@ -32171,9 +31945,8 @@
 	},
 	{
 		"trans": "[ež]rež",
-		"mrp1": "[ež]r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "[ež]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "[ež]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "[ež]r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "[ež]r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "[k]ādimmaššadel",
@@ -32357,14 +32130,7 @@
 	},
 	{
 		"trans": "[iġa]rri",
-		"mrp1": "[iġa]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[iġa]rr @  @ .ABS @ noun @ ",
-		"mrp3": "[iġa]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[iġa]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[iġa]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[iġa]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "[iġa]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "[iġa]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "[iġa]r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[iġalz]i",
@@ -32791,9 +32557,7 @@
 	},
 	{
 		"trans": "[kē]sserrae",
-		"mrp1": "[kē]sserr-ae @  @ INS @ noun @ ",
-		"mrp2": "[kē]sserr-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "[kē]sserr-ae @  @ INS @ ADJ @ "
+		"mrp1": "[kē]sser-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "[kēladuženn]āe",
@@ -33723,14 +33487,7 @@
 	},
 	{
 		"trans": "[pēd]arri",
-		"mrp1": "[pēd]arr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[pēd]arr @  @ .ABS @ noun @ ",
-		"mrp3": "[pēd]arr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[pēd]arr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[pēd]arr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[pēd]arr-e @  @ STAT @ verb @ ",
-		"mrp7": "[pēd]arr-ae @  @ INS @ noun @ ",
-		"mrp8": "[pēd]arr-ve @  @ GEN @ noun @ "
+		"mrp1": "[pēd]ar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[pendun]",
@@ -34107,15 +33864,13 @@
 	},
 	{
 		"trans": "[tiari]ž",
-		"mrp1": "[tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "[tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "[tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "[tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "[tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "[tiariž",
-		"mrp1": "[tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "[tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "[tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "[tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "[tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "[tib]ina",
@@ -34609,19 +34364,17 @@
 	},
 	{
 		"trans": "[s]ālli",
-		"mrp1": "[s-al-i-le @  @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "sal-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[sellir]āi",
 		"mrp1": "[sellir-ae @  @ INS @ noun @ ",
-		"mrp2": "[sellir-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "[sellir-ae @  @ INS @ ADJ @ "
+		"mrp2": "[sellir-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "[sel]lirāi",
 		"mrp1": "[sel]lir-ae @  @ INS @ noun @ ",
-		"mrp2": "[sel]lir-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "[sel]lir-ae @  @ INS @ ADJ @ "
+		"mrp2": "[sel]lir-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "[siarunna",
@@ -34659,14 +34412,8 @@
 	},
 	{
 		"trans": "[su]rrī",
-		"mrp1": "[su]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[su]rr @  @ .ABS @ noun @ ",
-		"mrp3": "[su]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[su]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[su]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[su]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "[su]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "[su]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[surgia]",
@@ -34675,14 +34422,8 @@
 	},
 	{
 		"trans": "[surrī",
-		"mrp1": "[surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[surr @  @ .ABS @ noun @ ",
-		"mrp3": "[surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[surr-e @  @ STAT @ verb @ ",
-		"mrp7": "[surr-ae @  @ INS @ noun @ ",
-		"mrp8": "[surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "[uene]ž",
@@ -34842,14 +34583,12 @@
 	},
 	{
 		"trans": "[š]egli",
-		"mrp1": "[š]egl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[š]egl @  @ .ABS @ noun @ ",
-		"mrp3": "[š]egl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[š]egl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[š]egl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[š]egl-e @  @ STAT @ verb @ ",
-		"mrp7": "[š]egl-ae @  @ INS @ noun @ ",
-		"mrp8": "[š]egl-ve @  @ GEN @ noun @ "
+		"mrp1": "[š]egl @  @ .ABS @ noun @ ",
+		"mrp2": "[š]egl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "[š]egl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "[š]egl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "[š]egl-ae @  @ INS @ noun @ ",
+		"mrp6": "[š]egl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "[š]errāža",
@@ -35212,9 +34951,7 @@
 	},
 	{
 		"trans": "[šeġellā]i",
-		"mrp1": "[šeġell-ae @  @ INS @ noun @ ",
-		"mrp2": "[šeġell-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "[šeġell-ae @  @ INS @ ADJ @ "
+		"mrp1": "[šeġel-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "[šeġellibin]āžuž",
@@ -35732,14 +35469,12 @@
 	},
 	{
 		"trans": "[ḫā]ruġli",
-		"mrp1": "[ḫā]ruġl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "[ḫā]ruġl @  @ .ABS @ noun @ ",
-		"mrp3": "[ḫā]ruġl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "[ḫā]ruġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "[ḫā]ruġl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "[ḫā]ruġl-e @  @ STAT @ verb @ ",
-		"mrp7": "[ḫā]ruġl-ae @  @ INS @ noun @ ",
-		"mrp8": "[ḫā]ruġl-ve @  @ GEN @ noun @ "
+		"mrp1": "[ḫā]ruġl @  @ .ABS @ noun @ ",
+		"mrp2": "[ḫā]ruġl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "[ḫā]ruġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "[ḫā]ruġl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "[ḫā]ruġl-ae @  @ INS @ noun @ ",
+		"mrp6": "[ḫā]ruġl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "[ḫa]pti",
@@ -36441,7 +36176,8 @@
 	{
 		"trans": "ḫurri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫēžōi",
@@ -36981,14 +36717,12 @@
 	},
 	{
 		"trans": "BI-ural[i",
-		"mrp1": "BI-ural-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "BI-ural @  @ .ABS @ noun @ ",
-		"mrp3": "BI-ural-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "BI-ural-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "BI-ural-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "BI-ural-e @  @ STAT @ verb @ ",
-		"mrp7": "BI-ural-ae @  @ INS @ noun @ ",
-		"mrp8": "BI-ural-ve @  @ GEN @ noun @ "
+		"mrp1": "BI-ural @  @ .ABS @ noun @ ",
+		"mrp2": "BI-ural-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "BI-ural-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "BI-ural-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "BI-ural-ae @  @ INS @ noun @ ",
+		"mrp6": "BI-ural-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "DINGIR-na",
@@ -37424,8 +37158,8 @@
 	},
 	{
 		"trans": "ārrāe",
-		"mrp1": "ārr-ae @  @ INS @ noun @ ",
-		"mrp2": "ārr-ae @  @ INS @ ADJ @ "
+		"mrp1": "ar-i-l-ai @ u.B. @ MOD.AG-l-PURP @ verb @ ",
+		"mrp2": "ar-i-l-ai @ geben @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "agaštežam",
@@ -37613,9 +37347,8 @@
 	},
 	{
 		"trans": "agulliriž",
-		"mrp1": "agullir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "agullir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "agullir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "agullir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "agullir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "ai",
@@ -38648,9 +38381,7 @@
 	},
 	{
 		"trans": "ē[ll]ārrēž",
-		"mrp1": "ē[ll]ārr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ē[ll]ārr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ē[ll]ārr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ē[ll]ār-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ē[mmanzeneva]",
@@ -41044,14 +40775,8 @@
 	},
 	{
 		"trans": "purre[",
-		"mrp1": "purr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "purr @  @ .ABS @ noun @ ",
-		"mrp3": "purr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "purr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "purr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "purr-e @  @ STAT @ verb @ ",
-		"mrp7": "purr-ae @  @ INS @ noun @ ",
-		"mrp8": "purr-ve @  @ GEN @ noun @ "
+		"mrp1": "for-i-le @ sehen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "fūr-i-le @ sehen? @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "purni",
@@ -41312,9 +41037,7 @@
 	},
 	{
 		"trans": "tamarrēž",
-		"mrp1": "tamarr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tamarr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tamarr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tamar-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "tanānna",
@@ -41685,9 +41408,8 @@
 	},
 	{
 		"trans": "tiariž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tilulax[",
@@ -42135,14 +41857,7 @@
 	},
 	{
 		"trans": "ušḫuwarr[i]",
-		"mrp1": "ušḫuwarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ušḫuwarr @  @ .ABS @ noun @ ",
-		"mrp3": "ušḫuwarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ušḫuwarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ušḫuwarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ušḫuwarr-e @  @ STAT @ verb @ ",
-		"mrp7": "ušḫuwarr-ae @  @ INS @ noun @ ",
-		"mrp8": "ušḫuwarr-ve @  @ GEN @ noun @ "
+		"mrp1": "ušḫuwar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "fāra[ō]rži",
@@ -42281,9 +41996,8 @@
 	},
 	{
 		"trans": "forugariž",
-		"mrp1": "forugar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "forugar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "forugar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "forugar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "forugar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "foru[lla]",
@@ -43619,7 +43333,10 @@
 		"mrp3": "šōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp4": "šurr-e @ eilen @ STAT @ verb @ ",
 		"mrp5": "šōrr-e @ eilen? @ STAT @ verb @ ",
-		"mrp6": "šōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp6": "šōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp7": "šōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp8": "šūr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp9": "šūr-i-le @ abstechen @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šōvāla",
@@ -43750,14 +43467,12 @@
 	},
 	{
 		"trans": "ḫā[r]u[ġ]li",
-		"mrp1": "ḫā[r]u[ġ]l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫā[r]u[ġ]l @  @ .ABS @ noun @ ",
-		"mrp3": "ḫā[r]u[ġ]l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ḫā[r]u[ġ]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ḫā[r]u[ġ]l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ḫā[r]u[ġ]l-e @  @ STAT @ verb @ ",
-		"mrp7": "ḫā[r]u[ġ]l-ae @  @ INS @ noun @ ",
-		"mrp8": "ḫā[r]u[ġ]l-ve @  @ GEN @ noun @ "
+		"mrp1": "ḫā[r]u[ġ]l @  @ .ABS @ noun @ ",
+		"mrp2": "ḫā[r]u[ġ]l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ḫā[r]u[ġ]l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ḫā[r]u[ġ]l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ḫā[r]u[ġ]l-ae @  @ INS @ noun @ ",
+		"mrp6": "ḫā[r]u[ġ]l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ḫā[uža",
@@ -46577,9 +46292,8 @@
 	},
 	{
 		"trans": "DINGIR-sarež",
-		"mrp1": "DINGIR-sar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "DINGIR-sar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "DINGIR-sar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "DINGIR-sar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "DINGIR-sar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "DINGIR-ša",
@@ -46844,25 +46558,21 @@
 	},
 	{
 		"trans": "GI-ri",
-		"mrp1": "GI-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "GI-r @  @ .ABS @ noun @ ",
-		"mrp3": "GI-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "GI-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "GI-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "GI-r-e @  @ STAT @ verb @ ",
-		"mrp7": "GI-r-ae @  @ INS @ noun @ ",
-		"mrp8": "GI-r-ve @  @ GEN @ noun @ "
+		"mrp1": "GI-r @  @ .ABS @ noun @ ",
+		"mrp2": "GI-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "GI-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "GI-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "GI-r-ae @  @ INS @ noun @ ",
+		"mrp6": "GI-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "GI-ri",
-		"mrp1": "GI-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "GI-r @  @ .ABS @ noun @ ",
-		"mrp3": "GI-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "GI-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "GI-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "GI-r-e @  @ STAT @ verb @ ",
-		"mrp7": "GI-r-ae @  @ INS @ noun @ ",
-		"mrp8": "GI-r-ve @  @ GEN @ noun @ "
+		"mrp1": "GI-r @  @ .ABS @ noun @ ",
+		"mrp2": "GI-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "GI-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "GI-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "GI-r-ae @  @ INS @ noun @ ",
+		"mrp6": "GI-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "GI[G(-)",
@@ -47847,14 +47557,12 @@
 	},
 	{
 		"trans": "URU-r[i",
-		"mrp1": "URU-r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "URU-r @  @ .ABS @ noun @ ",
-		"mrp3": "URU-r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "URU-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "URU-r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "URU-r-e @  @ STAT @ verb @ ",
-		"mrp7": "URU-r-ae @  @ INS @ noun @ ",
-		"mrp8": "URU-r-ve @  @ GEN @ noun @ "
+		"mrp1": "URU-r @  @ .ABS @ noun @ ",
+		"mrp2": "URU-r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "URU-r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "URU-r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "URU-r-ae @  @ INS @ noun @ ",
+		"mrp6": "URU-r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "UZ",
@@ -49206,14 +48914,12 @@
 	},
 	{
 		"trans": "āškalē",
-		"mrp1": "āškal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "āškal @  @ .ABS @ noun @ ",
-		"mrp3": "āškal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "āškal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "āškal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "āškal-e @  @ STAT @ verb @ ",
-		"mrp7": "āškal-ae @  @ INS @ noun @ ",
-		"mrp8": "āškal-ve @  @ GEN @ noun @ "
+		"mrp1": "āškal @  @ .ABS @ noun @ ",
+		"mrp2": "āškal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "āškal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "āškal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "āškal-ae @  @ INS @ noun @ ",
+		"mrp6": "āškal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "āšḫun",
@@ -49460,14 +49166,12 @@
 	},
 	{
 		"trans": "āudri",
-		"mrp1": "āudr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "āudr @  @ .ABS @ noun @ ",
-		"mrp3": "āudr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "āudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "āudr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "āudr-e @  @ STAT @ verb @ ",
-		"mrp7": "āudr-ae @  @ INS @ noun @ ",
-		"mrp8": "āudr-ve @  @ GEN @ noun @ "
+		"mrp1": "āudr @  @ .ABS @ noun @ ",
+		"mrp2": "āudr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "āudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "āudr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "āudr-ae @  @ INS @ noun @ ",
+		"mrp6": "āudr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ānōž",
@@ -49679,9 +49383,8 @@
 	},
 	{
 		"trans": "ābirež",
-		"mrp1": "ābir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ābir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ābir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ābir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "ābir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "ābiri",
@@ -50390,14 +50093,8 @@
 	},
 	{
 		"trans": "ārr[i",
-		"mrp1": "ārr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ārr @  @ .ABS @ noun @ ",
-		"mrp3": "ārr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ārr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ārr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ārr-e @  @ STAT @ verb @ ",
-		"mrp7": "ārr-ae @  @ INS @ noun @ ",
-		"mrp8": "ārr-ve @  @ GEN @ noun @ "
+		"mrp1": "ar-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ar-i-le @ geben @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ārr[i]e",
@@ -50409,14 +50106,8 @@
 	},
 	{
 		"trans": "ārri",
-		"mrp1": "ārr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ārr @  @ .ABS @ noun @ ",
-		"mrp3": "ārr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ārr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ārr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ārr-e @  @ STAT @ verb @ ",
-		"mrp7": "ārr-ae @  @ INS @ noun @ ",
-		"mrp8": "ārr-ve @  @ GEN @ noun @ "
+		"mrp1": "ar-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ar-i-le @ geben @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ārrivaž",
@@ -53313,9 +53004,8 @@
 	},
 	{
 		"trans": "ab[irēž",
-		"mrp1": "ab[ir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ab[ir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ab[ir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ab[ir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "ab[ir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "ab[iva]",
@@ -53977,8 +53667,7 @@
 	{
 		"trans": "ararae",
 		"mrp1": "arar-ae @  @ INS @ noun @ ",
-		"mrp2": "arar-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "arar-ae @  @ INS @ ADJ @ "
+		"mrp2": "arar-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "arari",
@@ -56385,14 +56074,12 @@
 	},
 	{
 		"trans": "āžli",
-		"mrp1": "āžl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "āžl @  @ .ABS @ noun @ ",
-		"mrp3": "āžl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "āžl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "āžl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "āžl-e @  @ STAT @ verb @ ",
-		"mrp7": "āžl-ae @  @ INS @ noun @ ",
-		"mrp8": "āžl-ve @  @ GEN @ noun @ "
+		"mrp1": "āžl @  @ .ABS @ noun @ ",
+		"mrp2": "āžl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "āžl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "āžl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "āžl-ae @  @ INS @ noun @ ",
+		"mrp6": "āžl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "agīl[i(-)",
@@ -57832,14 +57519,8 @@
 	},
 	{
 		"trans": "arr[i",
-		"mrp1": "arr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "arr @  @ .ABS @ noun @ ",
-		"mrp3": "arr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "arr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "arr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "arr-e @  @ STAT @ verb @ ",
-		"mrp7": "arr-ae @  @ INS @ noun @ ",
-		"mrp8": "arr-ve @  @ GEN @ noun @ "
+		"mrp1": "ar-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ar-i-le @ geben @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "arraimmanan",
@@ -57847,14 +57528,8 @@
 	},
 	{
 		"trans": "arri",
-		"mrp1": "arr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "arr @  @ .ABS @ noun @ ",
-		"mrp3": "arr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "arr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "arr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "arr-e @  @ STAT @ verb @ ",
-		"mrp7": "arr-ae @  @ INS @ noun @ ",
-		"mrp8": "arr-ve @  @ GEN @ noun @ "
+		"mrp1": "ar-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ar-i-le @ geben @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ard]enebina",
@@ -61079,14 +60754,12 @@
 	},
 	{
 		"trans": "tabunnali",
-		"mrp1": "tabunnal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "tabunnal @  @ .ABS @ noun @ ",
-		"mrp3": "tabunnal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "tabunnal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "tabunnal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tabunnal-e @  @ STAT @ verb @ ",
-		"mrp7": "tabunnal-ae @  @ INS @ noun @ ",
-		"mrp8": "tabunnal-ve @  @ GEN @ noun @ "
+		"mrp1": "tabunnal @  @ .ABS @ noun @ ",
+		"mrp2": "tabunnal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "tabunnal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "tabunnal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "tabunnal-ae @  @ INS @ noun @ ",
+		"mrp6": "tabunnal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "tabenduž",
@@ -62732,7 +62405,8 @@
 	{
 		"trans": "ēlli",
 		"mrp1": "īll-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "īll-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "īll-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "il-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ēlgi",
@@ -62751,20 +62425,11 @@
 	},
 	{
 		"trans": "ēllarri",
-		"mrp1": "ēllarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ēllarr @  @ .ABS @ noun @ ",
-		"mrp3": "ēllarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ēllarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ēllarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ēllarr-e @  @ STAT @ verb @ ",
-		"mrp7": "ēllarr-ae @  @ INS @ noun @ ",
-		"mrp8": "ēllarr-ve @  @ GEN @ noun @ "
+		"mrp1": "ēllar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ēllarriž",
-		"mrp1": "ēllarr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ēllarr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ēllarr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ēllar-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ēllariva[",
@@ -63247,14 +62912,12 @@
 	},
 	{
 		"trans": "ēzri",
-		"mrp1": "ēzr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ēzr @  @ .ABS @ noun @ ",
-		"mrp3": "ēzr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ēzr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ēzr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ēzr-e @  @ STAT @ verb @ ",
-		"mrp7": "ēzr-ae @  @ INS @ noun @ ",
-		"mrp8": "ēzr-ve @  @ GEN @ noun @ "
+		"mrp1": "ēzr @  @ .ABS @ noun @ ",
+		"mrp2": "ēzr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ēzr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ēzr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ēzr-ae @  @ INS @ noun @ ",
+		"mrp6": "ēzr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ēžni",
@@ -65148,14 +64811,12 @@
 	},
 	{
 		"trans": "edeġli",
-		"mrp1": "edeġl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "edeġl @  @ .ABS @ noun @ ",
-		"mrp3": "edeġl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "edeġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "edeġl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "edeġl-e @  @ STAT @ verb @ ",
-		"mrp7": "edeġl-ae @  @ INS @ noun @ ",
-		"mrp8": "edeġl-ve @  @ GEN @ noun @ "
+		"mrp1": "edeġl @  @ .ABS @ noun @ ",
+		"mrp2": "edeġl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "edeġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "edeġl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "edeġl-ae @  @ INS @ noun @ ",
+		"mrp6": "edeġl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "edežūda",
@@ -65981,15 +65642,13 @@
 	},
 	{
 		"trans": "ešp]irež",
-		"mrp1": "ešp]ir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ešp]ir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ešp]ir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ešp]ir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "ešp]ir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "ešpirež",
-		"mrp1": "ešpir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ešpir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ešpir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ešpir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "ešpir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "eštuženi[ž",
@@ -66767,14 +66426,12 @@
 	},
 	{
 		"trans": "kaššavožri",
-		"mrp1": "kaššavožr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kaššavožr @  @ .ABS @ noun @ ",
-		"mrp3": "kaššavožr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kaššavožr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kaššavožr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kaššavožr-e @  @ STAT @ verb @ ",
-		"mrp7": "kaššavožr-ae @  @ INS @ noun @ ",
-		"mrp8": "kaššavožr-ve @  @ GEN @ noun @ "
+		"mrp1": "kaššavožr @  @ .ABS @ noun @ ",
+		"mrp2": "kaššavožr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kaššavožr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kaššavožr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kaššavožr-ae @  @ INS @ noun @ ",
+		"mrp6": "kaššavožr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "kaššavožu",
@@ -67135,14 +66792,12 @@
 	},
 	{
 		"trans": "kažāli",
-		"mrp1": "kažāl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kažāl @  @ .ABS @ noun @ ",
-		"mrp3": "kažāl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kažāl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kažāl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kažāl-e @  @ STAT @ verb @ ",
-		"mrp7": "kažāl-ae @  @ INS @ noun @ ",
-		"mrp8": "kažāl-ve @  @ GEN @ noun @ "
+		"mrp1": "kažāl @  @ .ABS @ noun @ ",
+		"mrp2": "kažāl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kažāl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kažāl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kažāl-ae @  @ INS @ noun @ ",
+		"mrp6": "kažāl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "kažalla",
@@ -67865,7 +67520,11 @@
 		"trans": "kulli",
 		"mrp1": "ke-ol-i-le @ setzen; stellen; legen @ ol-MOD.AG-1JUSS @ verb @ ",
 		"mrp2": "ke-ulli @ setzen; stellen; legen @ ulli @ verb @ ",
-		"mrp3": "ke-ull-i @ setzen; stellen; legen @ ull-ANTIP @ verb @ "
+		"mrp3": "kol-i-le @ ablassen; beiseite lassen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "kul-i-le @ sprechen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "kul-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp6": "mal-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp7": "ke-ull-i @ setzen; stellen; legen @ ull-ANTIP @ verb @ "
 	},
 	{
 		"trans": "kullirina",
@@ -67980,9 +67639,7 @@
 	},
 	{
 		"trans": "ītterr[ež]",
-		"mrp1": "ītterr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ītterr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ītterr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ītter-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "igi",
@@ -68023,14 +67680,7 @@
 	},
 	{
 		"trans": "icirli",
-		"mrp1": "icirl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "icirl @  @ .ABS @ noun @ ",
-		"mrp3": "icirl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "icirl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "icirl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "icirl-e @  @ STAT @ verb @ ",
-		"mrp7": "icirl-ae @  @ INS @ noun @ ",
-		"mrp8": "icirl-ve @  @ GEN @ noun @ "
+		"mrp1": "icir-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "idedi",
@@ -68347,14 +67997,7 @@
 	},
 	{
 		"trans": "īnza[rri",
-		"mrp1": "īnza[rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "īnza[rr @  @ .ABS @ noun @ ",
-		"mrp3": "īnza[rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "īnza[rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "īnza[rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "īnza[rr-e @  @ STAT @ verb @ ",
-		"mrp7": "īnza[rr-ae @  @ INS @ noun @ ",
-		"mrp8": "īnza[rr-ve @  @ GEN @ noun @ "
+		"mrp1": "īnza[r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "īnzarra",
@@ -68366,14 +68009,7 @@
 	},
 	{
 		"trans": "īnzarri",
-		"mrp1": "īnzarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "īnzarr @  @ .ABS @ noun @ ",
-		"mrp3": "īnzarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "īnzarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "īnzarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "īnzarr-e @  @ STAT @ verb @ ",
-		"mrp7": "īnzarr-ae @  @ INS @ noun @ ",
-		"mrp8": "īnzarr-ve @  @ GEN @ noun @ "
+		"mrp1": "īnzar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "īnzari",
@@ -69291,14 +68927,7 @@
 	},
 	{
 		"trans": "irirri",
-		"mrp1": "irirr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "irirr @  @ .ABS @ noun @ ",
-		"mrp3": "irirr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "irirr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "irirr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "irirr-e @  @ STAT @ verb @ ",
-		"mrp7": "irirr-ae @  @ INS @ noun @ ",
-		"mrp8": "irirr-ve @  @ GEN @ noun @ "
+		"mrp1": "irir-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "irib]i",
@@ -69995,14 +69624,7 @@
 	},
 	{
 		"trans": "iġarr[i",
-		"mrp1": "iġarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "iġarr @  @ .ABS @ noun @ ",
-		"mrp3": "iġarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "iġarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "iġarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "iġarr-e @  @ STAT @ verb @ ",
-		"mrp7": "iġarr-ae @  @ INS @ noun @ ",
-		"mrp8": "iġarr-ve @  @ GEN @ noun @ "
+		"mrp1": "iġar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "iġōffōr",
@@ -70201,9 +69823,8 @@
 	},
 	{
 		"trans": "i[špirež",
-		"mrp1": "i[špir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "i[špir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "i[špir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "i[špir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "i[špir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "i[štan]i",
@@ -71320,21 +70941,15 @@
 	},
 	{
 		"trans": "itte[rriž",
-		"mrp1": "itte[rr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "itte[rr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "itte[rr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "itte[r-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "itti[rriž",
-		"mrp1": "itti[rr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "itti[rr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "itti[rr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "itti[r-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ittirriž",
-		"mrp1": "ittirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ittirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ittirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ittir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "ittil]ivaž",
@@ -71607,39 +71222,27 @@
 	},
 	{
 		"trans": "išpi[rrež",
-		"mrp1": "išpi[rr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "išpi[rr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "išpi[rr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "išpi[r-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "išpir[rež",
-		"mrp1": "išpir[r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "išpir[r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "išpir[r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "išpir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "išpirr]ež",
-		"mrp1": "išpirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "išpirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "išpirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "išpir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "išpirrež",
-		"mrp1": "išpirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "išpirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "išpirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "išpir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "išpirriž",
-		"mrp1": "išpirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "išpirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "išpirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "išpir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "išpirriž]",
-		"mrp1": "išpirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "išpirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "išpirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "išpir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "išt[a",
@@ -72007,9 +71610,8 @@
 	},
 	{
 		"trans": "k]užriž",
-		"mrp1": "k]užr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "k]užr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "k]užr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "k]užr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "k]užr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "k]upti",
@@ -73199,9 +72801,7 @@
 	},
 	{
 		"trans": "kallae",
-		"mrp1": "kall-ae @  @ INS @ noun @ ",
-		"mrp2": "kall-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "kall-ae @  @ INS @ ADJ @ "
+		"mrp1": "kāl-i-l-ai @ u.B. @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "kalladena",
@@ -74138,9 +73738,7 @@
 	},
 	{
 		"trans": "kēlōllāe",
-		"mrp1": "kēlōll-ae @  @ INS @ noun @ ",
-		"mrp2": "kēlōll-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "kēlōll-ae @  @ INS @ ADJ @ "
+		"mrp1": "kēlōl-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "kēlōġužilāin",
@@ -74157,9 +73755,7 @@
 	},
 	{
 		"trans": "kēlullāe",
-		"mrp1": "kēlull-ae @  @ INS @ noun @ ",
-		"mrp2": "kēlull-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "kēlull-ae @  @ INS @ ADJ @ "
+		"mrp1": "kēlul-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "kēlum",
@@ -74350,14 +73946,12 @@
 	},
 	{
 		"trans": "kēwli",
-		"mrp1": "kēwl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kēwl @  @ .ABS @ noun @ ",
-		"mrp3": "kēwl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kēwl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kēwl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kēwl-e @  @ STAT @ verb @ ",
-		"mrp7": "kēwl-ae @  @ INS @ noun @ ",
-		"mrp8": "kēwl-ve @  @ GEN @ noun @ "
+		"mrp1": "kēwl @  @ .ABS @ noun @ ",
+		"mrp2": "kēwl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kēwl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kēwl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kēwl-ae @  @ INS @ noun @ ",
+		"mrp6": "kēwl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "kēwu[l",
@@ -74685,9 +74279,7 @@
 	},
 	{
 		"trans": "k]ēzerrae",
-		"mrp1": "k]ēzerr-ae @  @ INS @ noun @ ",
-		"mrp2": "k]ēzerr-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "k]ēzerr-ae @  @ INS @ ADJ @ "
+		"mrp1": "k]ēzer-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "keldia",
@@ -74699,8 +74291,7 @@
 	{
 		"trans": "kēssirirā[e]",
 		"mrp1": "kēssirir-ae @  @ INS @ noun @ ",
-		"mrp2": "kēssirir-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "kēssirir-ae @  @ INS @ ADJ @ "
+		"mrp2": "kēssirir-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "kiWAni",
@@ -75640,7 +75231,7 @@
 	},
 	{
 		"trans": "kiligell[i",
-		"mrp1": "kilig-il-i-le @  @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "keli+gel-i-le @ hochlegen @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "kilīža",
@@ -75656,7 +75247,7 @@
 	},
 	{
 		"trans": "kiligelli",
-		"mrp1": "kilig-il-i-le @  @ il-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "keli+gel-i-le @ hochlegen @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "kilu[ž",
@@ -75708,8 +75299,7 @@
 	{
 		"trans": "kinarāi",
 		"mrp1": "kinar-ae @  @ INS @ noun @ ",
-		"mrp2": "kinar-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "kinar-ae @  @ INS @ ADJ @ "
+		"mrp2": "kinar-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "kinī[di",
@@ -76573,20 +76163,11 @@
 	},
 	{
 		"trans": "kudurri",
-		"mrp1": "kudurr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kudurr @  @ .ABS @ noun @ ",
-		"mrp3": "kudurr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kudurr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kudurr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kudurr-e @  @ STAT @ verb @ ",
-		"mrp7": "kudurr-ae @  @ INS @ noun @ ",
-		"mrp8": "kudurr-ve @  @ GEN @ noun @ "
+		"mrp1": "kudur-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "kuirriž",
-		"mrp1": "kuirr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "kuirr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "kuirr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "kuir-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "kuid",
@@ -77059,14 +76640,12 @@
 	},
 	{
 		"trans": "kunežli",
-		"mrp1": "kunežl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kunežl @  @ .ABS @ noun @ ",
-		"mrp3": "kunežl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kunežl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kunežl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kunežl-e @  @ STAT @ verb @ ",
-		"mrp7": "kunežl-ae @  @ INS @ noun @ ",
-		"mrp8": "kunežl-ve @  @ GEN @ noun @ "
+		"mrp1": "kunežl @  @ .ABS @ noun @ ",
+		"mrp2": "kunežl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kunežl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kunežl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kunežl-ae @  @ INS @ noun @ ",
+		"mrp6": "kunežl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "kubāġinel",
@@ -77493,14 +77072,12 @@
 	},
 	{
 		"trans": "kul(-)li[",
-		"mrp1": "kul(-)l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kul(-)l @  @ .ABS @ noun @ ",
-		"mrp3": "kul(-)l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kul(-)l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kul(-)l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kul(-)l-e @  @ STAT @ verb @ ",
-		"mrp7": "kul(-)l-ae @  @ INS @ noun @ ",
-		"mrp8": "kul(-)l-ve @  @ GEN @ noun @ "
+		"mrp1": "kul(-)l @  @ .ABS @ noun @ ",
+		"mrp2": "kul(-)l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kul(-)l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kul(-)l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kul(-)l-ae @  @ INS @ noun @ ",
+		"mrp6": "kul(-)l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "kul[",
@@ -77797,14 +77374,12 @@
 	},
 	{
 		"trans": "kuržax-li",
-		"mrp1": "kuržax-l-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "kuržax-l @  @ .ABS @ noun @ ",
-		"mrp3": "kuržax-l-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "kuržax-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "kuržax-l-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "kuržax-l-e @  @ STAT @ verb @ ",
-		"mrp7": "kuržax-l-ae @  @ INS @ noun @ ",
-		"mrp8": "kuržax-l-ve @  @ GEN @ noun @ "
+		"mrp1": "kuržax-l @  @ .ABS @ noun @ ",
+		"mrp2": "kuržax-l-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "kuržax-l-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "kuržax-l-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "kuržax-l-ae @  @ INS @ noun @ ",
+		"mrp6": "kuržax-l-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "kurġina",
@@ -78933,25 +78508,21 @@
 	},
 	{
 		"trans": "m]udri",
-		"mrp1": "m]udr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "m]udr @  @ .ABS @ noun @ ",
-		"mrp3": "m]udr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "m]udr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "m]udr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "m]udr-e @  @ STAT @ verb @ ",
-		"mrp7": "m]udr-ae @  @ INS @ noun @ ",
-		"mrp8": "m]udr-ve @  @ GEN @ noun @ "
+		"mrp1": "m]udr @  @ .ABS @ noun @ ",
+		"mrp2": "m]udr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "m]udr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "m]udr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "m]udr-ae @  @ INS @ noun @ ",
+		"mrp6": "m]udr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "m]ud[r]i",
-		"mrp1": "m]ud[r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "m]ud[r @  @ .ABS @ noun @ ",
-		"mrp3": "m]ud[r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "m]ud[r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "m]ud[r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "m]ud[r-e @  @ STAT @ verb @ ",
-		"mrp7": "m]ud[r-ae @  @ INS @ noun @ ",
-		"mrp8": "m]ud[r-ve @  @ GEN @ noun @ "
+		"mrp1": "m]ud[r @  @ .ABS @ noun @ ",
+		"mrp2": "m]ud[r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "m]ud[r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "m]ud[r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "m]ud[r-ae @  @ INS @ noun @ ",
+		"mrp6": "m]ud[r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "m]udebešša",
@@ -79918,9 +79489,8 @@
 	},
 	{
 		"trans": "magarež",
-		"mrp1": "magar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "magar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "magar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "magar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "magar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "magaldenibi",
@@ -80968,25 +80538,21 @@
 	},
 	{
 		"trans": "mu[dri",
-		"mrp1": "mu[dr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "mu[dr @  @ .ABS @ noun @ ",
-		"mrp3": "mu[dr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "mu[dr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "mu[dr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "mu[dr-e @  @ STAT @ verb @ ",
-		"mrp7": "mu[dr-ae @  @ INS @ noun @ ",
-		"mrp8": "mu[dr-ve @  @ GEN @ noun @ "
+		"mrp1": "mu[dr @  @ .ABS @ noun @ ",
+		"mrp2": "mu[dr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "mu[dr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "mu[dr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "mu[dr-ae @  @ INS @ noun @ ",
+		"mrp6": "mu[dr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "mudri",
-		"mrp1": "mudr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "mudr @  @ .ABS @ noun @ ",
-		"mrp3": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "mudr-e @  @ STAT @ verb @ ",
-		"mrp7": "mudr-ae @  @ INS @ noun @ ",
-		"mrp8": "mudr-ve @  @ GEN @ noun @ "
+		"mrp1": "mudr @  @ .ABS @ noun @ ",
+		"mrp2": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "mudr-ae @  @ INS @ noun @ ",
+		"mrp6": "mudr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "mudria",
@@ -81048,25 +80614,21 @@
 	},
 	{
 		"trans": "mudr[i]",
-		"mrp1": "mudr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "mudr @  @ .ABS @ noun @ ",
-		"mrp3": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "mudr-e @  @ STAT @ verb @ ",
-		"mrp7": "mudr-ae @  @ INS @ noun @ ",
-		"mrp8": "mudr-ve @  @ GEN @ noun @ "
+		"mrp1": "mudr @  @ .ABS @ noun @ ",
+		"mrp2": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "mudr-ae @  @ INS @ noun @ ",
+		"mrp6": "mudr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "mudri",
-		"mrp1": "mudr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "mudr @  @ .ABS @ noun @ ",
-		"mrp3": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "mudr-e @  @ STAT @ verb @ ",
-		"mrp7": "mudr-ae @  @ INS @ noun @ ",
-		"mrp8": "mudr-ve @  @ GEN @ noun @ "
+		"mrp1": "mudr @  @ .ABS @ noun @ ",
+		"mrp2": "mudr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "mudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "mudr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "mudr-ae @  @ INS @ noun @ ",
+		"mrp6": "mudr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "mudria",
@@ -81722,20 +81284,16 @@
 	},
 	{
 		"trans": "nārriž",
-		"mrp1": "nārr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "nārr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "nārr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "nār-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "nādri",
-		"mrp1": "nādr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "nādr @  @ .ABS @ noun @ ",
-		"mrp3": "nādr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "nādr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "nādr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "nādr-e @  @ STAT @ verb @ ",
-		"mrp7": "nādr-ae @  @ INS @ noun @ ",
-		"mrp8": "nādr-ve @  @ GEN @ noun @ "
+		"mrp1": "nādr @  @ .ABS @ noun @ ",
+		"mrp2": "nādr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "nādr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "nādr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "nādr-ae @  @ INS @ noun @ ",
+		"mrp6": "nādr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "nātḫa",
@@ -82962,14 +82520,12 @@
 	},
 	{
 		"trans": "nadiwli",
-		"mrp1": "nadiwl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "nadiwl @  @ .ABS @ noun @ ",
-		"mrp3": "nadiwl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "nadiwl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "nadiwl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "nadiwl-e @  @ STAT @ verb @ ",
-		"mrp7": "nadiwl-ae @  @ INS @ noun @ ",
-		"mrp8": "nadiwl-ve @  @ GEN @ noun @ "
+		"mrp1": "nadiwl @  @ .ABS @ noun @ ",
+		"mrp2": "nadiwl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "nadiwl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "nadiwl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "nadiwl-ae @  @ INS @ noun @ ",
+		"mrp6": "nadiwl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "naunnaža",
@@ -83135,14 +82691,12 @@
 	},
 	{
 		"trans": "n]abrī[",
-		"mrp1": "n]abr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "n]abr @  @ .ABS @ noun @ ",
-		"mrp3": "n]abr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "n]abr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "n]abr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "n]abr-e @  @ STAT @ verb @ ",
-		"mrp7": "n]abr-ae @  @ INS @ noun @ ",
-		"mrp8": "n]abr-ve @  @ GEN @ noun @ "
+		"mrp1": "n]abr @  @ .ABS @ noun @ ",
+		"mrp2": "n]abr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "n]abr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "n]abr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "n]abr-ae @  @ INS @ noun @ ",
+		"mrp6": "n]abr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "na]mma",
@@ -83369,14 +82923,12 @@
 	},
 	{
 		"trans": "ne]ġrī",
-		"mrp1": "ne]ġr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ne]ġr @  @ .ABS @ noun @ ",
-		"mrp3": "ne]ġr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ne]ġr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ne]ġr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ne]ġr-e @  @ STAT @ verb @ ",
-		"mrp7": "ne]ġr-ae @  @ INS @ noun @ ",
-		"mrp8": "ne]ġr-ve @  @ GEN @ noun @ "
+		"mrp1": "ne]ġr @  @ .ABS @ noun @ ",
+		"mrp2": "ne]ġr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ne]ġr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ne]ġr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ne]ġr-ae @  @ INS @ noun @ ",
+		"mrp6": "ne]ġr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "negri",
@@ -83632,12 +83184,8 @@
 	},
 	{
 		"trans": "nēll[i",
-		"mrp1": "nēll @  @ .ABS @ noun @ ",
-		"mrp2": "nēll-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp3": "nēll-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "nēll-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "nēll-ae @  @ INS @ noun @ ",
-		"mrp6": "nēll-ve @  @ GEN @ noun @ "
+		"mrp1": "nil-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "nēl-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "nivōžellandin",
@@ -83764,12 +83312,8 @@
 	},
 	{
 		"trans": "nelli",
-		"mrp1": "nell @  @ .ABS @ noun @ ",
-		"mrp2": "nell-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp3": "nell-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "nell-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "nell-ae @  @ INS @ noun @ ",
-		"mrp6": "nell-ve @  @ GEN @ noun @ "
+		"mrp1": "nil-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "nēl-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "nelx",
@@ -83884,14 +83428,12 @@
 	},
 	{
 		"trans": "nīġri",
-		"mrp1": "nīġr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "nīġr @ u.B. @ .ABS @ noun @ ",
-		"mrp3": "nīġr-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "nīġr-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "nīġr-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "nīġr-e @  @ STAT @ verb @ ",
-		"mrp7": "nīġr-ae @ u.B. @ INS @ noun @ ",
-		"mrp8": "nīġr-ve @ u.B. @ GEN @ noun @ "
+		"mrp1": "nīġr @ u.B. @ .ABS @ noun @ ",
+		"mrp2": "nīġr-e @ u.B. @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "nīġr-i-e @ u.B. @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "nīġr-i @ u.B. @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "nīġr-ae @ u.B. @ INS @ noun @ ",
+		"mrp6": "nīġr-ve @ u.B. @ GEN @ noun @ "
 	},
 	{
 		"trans": "nīġrīvināž[i(-)",
@@ -84507,25 +84049,11 @@
 	},
 	{
 		"trans": "niġā]rri",
-		"mrp1": "niġā]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "niġā]rr @  @ .ABS @ noun @ ",
-		"mrp3": "niġā]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "niġā]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "niġā]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "niġā]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "niġā]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "niġā]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "niġā]r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "niġā]rri",
-		"mrp1": "niġā]rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "niġā]rr @  @ .ABS @ noun @ ",
-		"mrp3": "niġā]rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "niġā]rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "niġā]rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "niġā]rr-e @  @ STAT @ verb @ ",
-		"mrp7": "niġā]rr-ae @  @ INS @ noun @ ",
-		"mrp8": "niġā]rr-ve @  @ GEN @ noun @ "
+		"mrp1": "niġā]r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "niġā[rži]",
@@ -84541,14 +84069,7 @@
 	},
 	{
 		"trans": "niġā[rri",
-		"mrp1": "niġā[rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "niġā[rr @  @ .ABS @ noun @ ",
-		"mrp3": "niġā[rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "niġā[rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "niġā[rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "niġā[rr-e @  @ STAT @ verb @ ",
-		"mrp7": "niġā[rr-ae @  @ INS @ noun @ ",
-		"mrp8": "niġā[rr-ve @  @ GEN @ noun @ "
+		"mrp1": "niġā[r-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "niġari",
@@ -84929,14 +84450,12 @@
 	},
 	{
 		"trans": "nōrbižr[i",
-		"mrp1": "nōrbižr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "nōrbižr @  @ .ABS @ noun @ ",
-		"mrp3": "nōrbižr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "nōrbižr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "nōrbižr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "nōrbižr-e @  @ STAT @ verb @ ",
-		"mrp7": "nōrbižr-ae @  @ INS @ noun @ ",
-		"mrp8": "nōrbižr-ve @  @ GEN @ noun @ "
+		"mrp1": "nōrbižr @  @ .ABS @ noun @ ",
+		"mrp2": "nōrbižr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "nōrbižr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "nōrbižr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "nōrbižr-ae @  @ INS @ noun @ ",
+		"mrp6": "nōrbižr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "nōġinduž",
@@ -86686,15 +86205,11 @@
 	},
 	{
 		"trans": "pann]errež",
-		"mrp1": "pann]err-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "pann]err-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "pann]err-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "pann]er-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "pannerrež",
-		"mrp1": "pannerr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "pannerr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "pannerr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "panner-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "pannira",
@@ -88476,14 +87991,12 @@
 	},
 	{
 		"trans": "pōruġli",
-		"mrp1": "pōruġl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "pōruġl @  @ .ABS @ noun @ ",
-		"mrp3": "pōruġl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "pōruġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "pōruġl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "pōruġl-e @  @ STAT @ verb @ ",
-		"mrp7": "pōruġl-ae @  @ INS @ noun @ ",
-		"mrp8": "pōruġl-ve @  @ GEN @ noun @ "
+		"mrp1": "pōruġl @  @ .ABS @ noun @ ",
+		"mrp2": "pōruġl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "pōruġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "pōruġl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "pōruġl-ae @  @ INS @ noun @ ",
+		"mrp6": "pōruġl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "pōrull[i",
@@ -88579,14 +88092,8 @@
 	},
 	{
 		"trans": "pōrr[i",
-		"mrp1": "pōrr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "pōrr @  @ .ABS @ noun @ ",
-		"mrp3": "pōrr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "pōrr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "pōrr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "pōrr-e @  @ STAT @ verb @ ",
-		"mrp7": "pōrr-ae @  @ INS @ noun @ ",
-		"mrp8": "pōrr-ve @  @ GEN @ noun @ "
+		"mrp1": "for-i-le @ sehen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "fūr-i-le @ sehen? @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "pōtkež",
@@ -89466,14 +88973,16 @@
 		"mrp1": "pirri @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "pirr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp3": "pirri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "pirr-e @ u.B. @ STAT @ verb @ "
+		"mrp4": "pirr-e @ u.B. @ STAT @ verb @ ",
+		"mrp5": "pir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "pērri",
 		"mrp1": "pirri @ u.B. @ .ABS @ noun @ ",
 		"mrp2": "pirr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp3": "pirri-ž @ u.B. @ ERG @ noun @ ",
-		"mrp4": "pirr-e @ u.B. @ STAT @ verb @ "
+		"mrp4": "pirr-e @ u.B. @ STAT @ verb @ ",
+		"mrp5": "pir-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "pēržužiž",
@@ -90323,14 +89832,7 @@
 	},
 	{
 		"trans": "pidarr[i",
-		"mrp1": "pidarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "pidarr @  @ .ABS @ noun @ ",
-		"mrp3": "pidarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "pidarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "pidarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "pidarr-e @  @ STAT @ verb @ ",
-		"mrp7": "pidarr-ae @  @ INS @ noun @ ",
-		"mrp8": "pidarr-ve @  @ GEN @ noun @ "
+		"mrp1": "pidar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "pidarrivab",
@@ -90773,9 +90275,8 @@
 	},
 	{
 		"trans": "t]iar[iž",
-		"mrp1": "t]iar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "t]iar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "t]iar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "t]iar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "t]iar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "t]iari",
@@ -92451,9 +91952,7 @@
 	},
 	{
 		"trans": "tamarri[ž",
-		"mrp1": "tamarr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tamarr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tamarr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tamar-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "tan]ānna",
@@ -92666,14 +92165,12 @@
 	},
 	{
 		"trans": "tarissu[ġli",
-		"mrp1": "tarissu[ġl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "tarissu[ġl @  @ .ABS @ noun @ ",
-		"mrp3": "tarissu[ġl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "tarissu[ġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "tarissu[ġl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tarissu[ġl-e @  @ STAT @ verb @ ",
-		"mrp7": "tarissu[ġl-ae @  @ INS @ noun @ ",
-		"mrp8": "tarissu[ġl-ve @  @ GEN @ noun @ "
+		"mrp1": "tarissu[ġl @  @ .ABS @ noun @ ",
+		"mrp2": "tarissu[ġl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "tarissu[ġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "tarissu[ġl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "tarissu[ġl-ae @  @ INS @ noun @ ",
+		"mrp6": "tarissu[ġl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "tarini",
@@ -95268,9 +94765,8 @@
 	},
 	{
 		"trans": "tiariž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tia[",
@@ -95703,9 +95199,8 @@
 	},
 	{
 		"trans": "ti]ariž",
-		"mrp1": "ti]ar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ti]ar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ti]ar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ti]ar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "ti]ar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "ti]žna",
@@ -95723,9 +95218,8 @@
 	},
 	{
 		"trans": "ti[ariž]",
-		"mrp1": "ti[ar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "ti[ar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "ti[ar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "ti[ar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "ti[ar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tia",
@@ -95745,9 +95239,7 @@
 	},
 	{
 		"trans": "tiarriž",
-		"mrp1": "tiarr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiarr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiarr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "tiā[r]ra",
@@ -95760,9 +95252,8 @@
 	},
 	{
 		"trans": "tiār[iž",
-		"mrp1": "tiār-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiār-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiār-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiār-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiār-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiāre[n]n[a",
@@ -95811,15 +95302,13 @@
 	},
 	{
 		"trans": "tiar]iž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiar[iž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiara",
@@ -95863,9 +95352,8 @@
 	},
 	{
 		"trans": "tiari[ž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiarinna",
@@ -95877,21 +95365,18 @@
 	},
 	{
 		"trans": "tiariž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiariž",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiariž]",
-		"mrp1": "tiar-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "tiar-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "tiar-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "tiarina",
@@ -97744,14 +97229,7 @@
 	},
 	{
 		"trans": "tagniarri",
-		"mrp1": "tagniarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "tagniarr @  @ .ABS @ noun @ ",
-		"mrp3": "tagniarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "tagniarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "tagniarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "tagniarr-e @  @ STAT @ verb @ ",
-		"mrp7": "tagniarr-ae @  @ INS @ noun @ ",
-		"mrp8": "tagniarr-ve @  @ GEN @ noun @ "
+		"mrp1": "tagniar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "tulburāe",
@@ -98484,14 +97962,12 @@
 	},
 	{
 		"trans": "urundal[i",
-		"mrp1": "urundal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "urundal @  @ .ABS @ noun @ ",
-		"mrp3": "urundal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "urundal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "urundal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "urundal-e @  @ STAT @ verb @ ",
-		"mrp7": "urundal-ae @  @ INS @ noun @ ",
-		"mrp8": "urundal-ve @  @ GEN @ noun @ "
+		"mrp1": "urundal @  @ .ABS @ noun @ ",
+		"mrp2": "urundal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "urundal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "urundal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "urundal-ae @  @ INS @ noun @ ",
+		"mrp6": "urundal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ururmilī[až",
@@ -98669,14 +98145,7 @@
 	},
 	{
 		"trans": "ōlluwarrē",
-		"mrp1": "ōlluwarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ōlluwarr @  @ .ABS @ noun @ ",
-		"mrp3": "ōlluwarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ōlluwarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ōlluwarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ōlluwarr-e @  @ STAT @ verb @ ",
-		"mrp7": "ōlluwarr-ae @  @ INS @ noun @ ",
-		"mrp8": "ōlluwarr-ve @  @ GEN @ noun @ "
+		"mrp1": "ōlluwar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ōllux[",
@@ -99181,14 +98650,11 @@
 	},
 	{
 		"trans": "ūrrī",
-		"mrp1": "ūrr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ūrr @  @ .ABS @ noun @ ",
-		"mrp3": "ūrr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ūrr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ūrr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ūrr-e @  @ STAT @ verb @ ",
-		"mrp7": "ūrr-ae @  @ INS @ noun @ ",
-		"mrp8": "ūrr-ve @  @ GEN @ noun @ "
+		"mrp1": "ur-i-le @ existieren @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "ur-i-le @ wünschen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "ur-i-le @ zeigen @ MOD.AG-1JUSS @ verb @ ",
+		"mrp5": "or-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "už]uni",
@@ -99486,14 +98952,12 @@
 	},
 	{
 		"trans": "ug]ri",
-		"mrp1": "ug]r-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ug]r @  @ .ABS @ noun @ ",
-		"mrp3": "ug]r-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ug]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ug]r-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ug]r-e @  @ STAT @ verb @ ",
-		"mrp7": "ug]r-ae @  @ INS @ noun @ ",
-		"mrp8": "ug]r-ve @  @ GEN @ noun @ "
+		"mrp1": "ug]r @  @ .ABS @ noun @ ",
+		"mrp2": "ug]r-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ug]r-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ug]r-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ug]r-ae @  @ INS @ noun @ ",
+		"mrp6": "ug]r-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ulli",
@@ -101630,9 +101094,7 @@
 	},
 	{
 		"trans": "faġarriž",
-		"mrp1": "faġarr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "faġarr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "faġarr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "faġar-i-l-ež @  @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "faġiab",
@@ -101926,9 +101388,8 @@
 	},
 	{
 		"trans": "firvi[riž",
-		"mrp1": "firvi[r-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "firvi[r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "firvi[r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "firvi[r-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "firvi[r-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "firvi[rištib]",
@@ -102235,9 +101696,7 @@
 	},
 	{
 		"trans": "forullāe[",
-		"mrp1": "forull-ae @  @ INS @ noun @ ",
-		"mrp2": "forull-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "forull-ae @  @ INS @ ADJ @ "
+		"mrp1": "forul-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "forulli",
@@ -102585,9 +102044,7 @@
 	},
 	{
 		"trans": "fōrullae",
-		"mrp1": "fōrull-ae @  @ INS @ noun @ ",
-		"mrp2": "fōrull-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "fōrull-ae @  @ INS @ ADJ @ "
+		"mrp1": "fōrul-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "fōrulli",
@@ -102903,14 +102360,12 @@
 	},
 	{
 		"trans": "fudri",
-		"mrp1": "fudr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "fudr @  @ .ABS @ noun @ ",
-		"mrp3": "fudr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "fudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "fudr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "fudr-e @  @ STAT @ verb @ ",
-		"mrp7": "fudr-ae @  @ INS @ noun @ ",
-		"mrp8": "fudr-ve @  @ GEN @ noun @ "
+		"mrp1": "fudr @  @ .ABS @ noun @ ",
+		"mrp2": "fudr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "fudr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "fudr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "fudr-ae @  @ INS @ noun @ ",
+		"mrp6": "fudr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "fušša",
@@ -104263,14 +103718,8 @@
 	},
 	{
 		"trans": "s]urri",
-		"mrp1": "s]urr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "s]urr @  @ .ABS @ noun @ ",
-		"mrp3": "s]urr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "s]urr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "s]urr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "s]urr-e @  @ STAT @ verb @ ",
-		"mrp7": "s]urr-ae @  @ INS @ noun @ ",
-		"mrp8": "s]urr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "s[a",
@@ -104451,12 +103900,7 @@
 	},
 	{
 		"trans": "sālli",
-		"mrp1": "sāll @  @ .ABS @ noun @ ",
-		"mrp2": "sāll-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp3": "sāll-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "sāll-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "sāll-ae @  @ INS @ noun @ ",
-		"mrp6": "sāll-ve @  @ GEN @ noun @ "
+		"mrp1": "sal-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "sāl[la",
@@ -104633,12 +104077,7 @@
 	},
 	{
 		"trans": "sall[i",
-		"mrp1": "sall @  @ .ABS @ noun @ ",
-		"mrp2": "sall-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp3": "sall-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "sall-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "sall-ae @  @ INS @ noun @ ",
-		"mrp6": "sall-ve @  @ GEN @ noun @ "
+		"mrp1": "sal-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "sallammura",
@@ -104650,12 +104089,7 @@
 	},
 	{
 		"trans": "salli",
-		"mrp1": "sall @  @ .ABS @ noun @ ",
-		"mrp2": "sall-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp3": "sall-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp4": "sall-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp5": "sall-ae @  @ INS @ noun @ ",
-		"mrp6": "sall-ve @  @ GEN @ noun @ "
+		"mrp1": "sal-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "salma",
@@ -104860,14 +104294,7 @@
 	},
 	{
 		"trans": "sasḫarr[i",
-		"mrp1": "sasḫarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "sasḫarr @  @ .ABS @ noun @ ",
-		"mrp3": "sasḫarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "sasḫarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "sasḫarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "sasḫarr-e @  @ STAT @ verb @ ",
-		"mrp7": "sasḫarr-ae @  @ INS @ noun @ ",
-		"mrp8": "sasḫarr-ve @  @ GEN @ noun @ "
+		"mrp1": "sasḫar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "sažramatta",
@@ -105143,8 +104570,7 @@
 	{
 		"trans": "sellirā[i",
 		"mrp1": "sellir-ae @  @ INS @ noun @ ",
-		"mrp2": "sellir-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "sellir-ae @  @ INS @ ADJ @ "
+		"mrp2": "sellir-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "selližanna",
@@ -106524,25 +105950,13 @@
 	},
 	{
 		"trans": "su[rri",
-		"mrp1": "su[rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "su[rr @  @ .ABS @ noun @ ",
-		"mrp3": "su[rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "su[rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "su[rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "su[rr-e @  @ STAT @ verb @ ",
-		"mrp7": "su[rr-ae @  @ INS @ noun @ ",
-		"mrp8": "su[rr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "su[rrī",
-		"mrp1": "su[rr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "su[rr @  @ .ABS @ noun @ ",
-		"mrp3": "su[rr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "su[rr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "su[rr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "su[rr-e @  @ STAT @ verb @ ",
-		"mrp7": "su[rr-ae @  @ INS @ noun @ ",
-		"mrp8": "su[rr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "surgi",
@@ -106550,14 +105964,8 @@
 	},
 	{
 		"trans": "surri",
-		"mrp1": "surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "surr @  @ .ABS @ noun @ ",
-		"mrp3": "surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "surr-e @  @ STAT @ verb @ ",
-		"mrp7": "surr-ae @  @ INS @ noun @ ",
-		"mrp8": "surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "surga",
@@ -106596,36 +106004,18 @@
 	},
 	{
 		"trans": "surr[i]",
-		"mrp1": "surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "surr @  @ .ABS @ noun @ ",
-		"mrp3": "surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "surr-e @  @ STAT @ verb @ ",
-		"mrp7": "surr-ae @  @ INS @ noun @ ",
-		"mrp8": "surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "surri",
-		"mrp1": "surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "surr @  @ .ABS @ noun @ ",
-		"mrp3": "surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "surr-e @  @ STAT @ verb @ ",
-		"mrp7": "surr-ae @  @ INS @ noun @ ",
-		"mrp8": "surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "surrī",
-		"mrp1": "surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "surr @  @ .ABS @ noun @ ",
-		"mrp3": "surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "surr-e @  @ STAT @ verb @ ",
-		"mrp7": "surr-ae @  @ INS @ noun @ ",
-		"mrp8": "surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "suġēruḫḫa",
@@ -106646,14 +106036,8 @@
 	},
 	{
 		"trans": "surrī",
-		"mrp1": "surr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "surr @  @ .ABS @ noun @ ",
-		"mrp3": "surr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "surr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "surr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "surr-e @  @ STAT @ verb @ ",
-		"mrp7": "surr-ae @  @ INS @ noun @ ",
-		"mrp8": "surr-ve @  @ GEN @ noun @ "
+		"mrp1": "sur-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "sōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "su[",
@@ -107240,8 +106624,7 @@
 	{
 		"trans": "uirāe",
 		"mrp1": "uir-ae @  @ INS @ noun @ ",
-		"mrp2": "uir-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "uir-ae @  @ INS @ ADJ @ "
+		"mrp2": "uir-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "uiram",
@@ -107531,9 +106914,8 @@
 	},
 	{
 		"trans": "unirež",
-		"mrp1": "unir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "unir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "unir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "unir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "unir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "unib",
@@ -107596,9 +106978,8 @@
 	},
 	{
 		"trans": "unirež",
-		"mrp1": "unir-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "unir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "unir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "unir-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
+		"mrp2": "unir-e-ž @  @ 3POSS.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "unirina",
@@ -108439,14 +107820,12 @@
 	},
 	{
 		"trans": "ūbri",
-		"mrp1": "ūbr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ūbr @  @ .ABS @ noun @ ",
-		"mrp3": "ūbr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ūbr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ūbr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ūbr-e @  @ STAT @ verb @ ",
-		"mrp7": "ūbr-ae @  @ INS @ noun @ ",
-		"mrp8": "ūbr-ve @  @ GEN @ noun @ "
+		"mrp1": "ūbr @  @ .ABS @ noun @ ",
+		"mrp2": "ūbr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ūbr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ūbr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ūbr-ae @  @ INS @ noun @ ",
+		"mrp6": "ūbr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ūpšīb",
@@ -108514,14 +107893,12 @@
 	},
 	{
 		"trans": "uwāli",
-		"mrp1": "uwāl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "uwāl @  @ .ABS @ noun @ ",
-		"mrp3": "uwāl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "uwāl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "uwāl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "uwāl-e @  @ STAT @ verb @ ",
-		"mrp7": "uwāl-ae @  @ INS @ noun @ ",
-		"mrp8": "uwāl-ve @  @ GEN @ noun @ "
+		"mrp1": "uwāl @  @ .ABS @ noun @ ",
+		"mrp2": "uwāl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "uwāl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "uwāl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "uwāl-ae @  @ INS @ noun @ ",
+		"mrp6": "uwāl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "uwal",
@@ -108821,14 +108198,7 @@
 	},
 	{
 		"trans": "užurri",
-		"mrp1": "užurr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "užurr @  @ .ABS @ noun @ ",
-		"mrp3": "užurr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "užurr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "užurr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "užurr-e @  @ STAT @ verb @ ",
-		"mrp7": "užurr-ae @  @ INS @ noun @ ",
-		"mrp8": "užurr-ve @  @ GEN @ noun @ "
+		"mrp1": "užur-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "uġarra",
@@ -110059,9 +109429,7 @@
 	},
 	{
 		"trans": "šāra+kullāi",
-		"mrp1": "šāra+kull-ae @  @ INS @ noun @ ",
-		"mrp2": "šāra+kull-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "šāra+kull-ae @  @ INS @ ADJ @ "
+		"mrp1": "šāra+kul-i-l-ai @  @ MOD.AG-l-PURP @ verb @ "
 	},
 	{
 		"trans": "šāri",
@@ -110350,14 +109718,12 @@
 	},
 	{
 		"trans": "šagrī",
-		"mrp1": "šagr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šagr @  @ .ABS @ noun @ ",
-		"mrp3": "šagr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šagr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šagr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šagr-e @  @ STAT @ verb @ ",
-		"mrp7": "šagr-ae @  @ INS @ noun @ ",
-		"mrp8": "šagr-ve @  @ GEN @ noun @ "
+		"mrp1": "šagr @  @ .ABS @ noun @ ",
+		"mrp2": "šagr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šagr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šagr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šagr-ae @  @ INS @ noun @ ",
+		"mrp6": "šagr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šal[",
@@ -110379,9 +109745,10 @@
 	},
 	{
 		"trans": "šalli",
-		"mrp1": "ši-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp2": "šī-al-i-le @ beobachten @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp3": "eġ+epš-al-i-le @ lähmen? @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "šāl-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ši-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šī-al-i-le @ beobachten @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "eġ+epš-al-i-le @ lähmen? @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šalliffina",
@@ -110619,25 +109986,21 @@
 	},
 	{
 		"trans": "šapḫali",
-		"mrp1": "šapḫal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šapḫal @  @ .ABS @ noun @ ",
-		"mrp3": "šapḫal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šapḫal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šapḫal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šapḫal-e @  @ STAT @ verb @ ",
-		"mrp7": "šapḫal-ae @  @ INS @ noun @ ",
-		"mrp8": "šapḫal-ve @  @ GEN @ noun @ "
+		"mrp1": "šapḫal @  @ .ABS @ noun @ ",
+		"mrp2": "šapḫal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šapḫal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šapḫal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šapḫal-ae @  @ INS @ noun @ ",
+		"mrp6": "šapḫal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šapḫali]",
-		"mrp1": "šapḫal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šapḫal @  @ .ABS @ noun @ ",
-		"mrp3": "šapḫal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šapḫal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šapḫal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šapḫal-e @  @ STAT @ verb @ ",
-		"mrp7": "šapḫal-ae @  @ INS @ noun @ ",
-		"mrp8": "šapḫal-ve @  @ GEN @ noun @ "
+		"mrp1": "šapḫal @  @ .ABS @ noun @ ",
+		"mrp2": "šapḫal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šapḫal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šapḫal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šapḫal-ae @  @ INS @ noun @ ",
+		"mrp6": "šapḫal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šardeda",
@@ -111227,14 +110590,7 @@
 	},
 	{
 		"trans": "šaurri",
-		"mrp1": "šaurr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šaurr @  @ .ABS @ noun @ ",
-		"mrp3": "šaurr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šaurr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šaurr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šaurr-e @  @ STAT @ verb @ ",
-		"mrp7": "šaurr-ae @  @ INS @ noun @ ",
-		"mrp8": "šaurr-ve @  @ GEN @ noun @ "
+		"mrp1": "šaur-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šauškāe",
@@ -111399,14 +110755,12 @@
 	},
 	{
 		"trans": "ša[br]i",
-		"mrp1": "ša[br-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ša[br @  @ .ABS @ noun @ ",
-		"mrp3": "ša[br-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ša[br-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ša[br-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ša[br-e @  @ STAT @ verb @ ",
-		"mrp7": "ša[br-ae @  @ INS @ noun @ ",
-		"mrp8": "ša[br-ve @  @ GEN @ noun @ "
+		"mrp1": "ša[br @  @ .ABS @ noun @ ",
+		"mrp2": "ša[br-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ša[br-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ša[br-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ša[br-ae @  @ INS @ noun @ ",
+		"mrp6": "ša[br-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ša[",
@@ -111475,14 +110829,7 @@
 	},
 	{
 		"trans": "ša]ōrri",
-		"mrp1": "ša]ōrr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ša]ōrr @  @ .ABS @ noun @ ",
-		"mrp3": "ša]ōrr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ša]ōrr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ša]ōrr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ša]ōrr-e @  @ STAT @ verb @ ",
-		"mrp7": "ša]ōrr-ae @  @ INS @ noun @ ",
-		"mrp8": "ša]ōrr-ve @  @ GEN @ noun @ "
+		"mrp1": "ša]ōr-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ša]rrašši",
@@ -111590,15 +110937,17 @@
 	},
 	{
 		"trans": "šalli",
-		"mrp1": "ši-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp2": "šī-al-i-le @ beobachten @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp3": "eġ+epš-al-i-le @ lähmen? @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "šāl-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ši-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šī-al-i-le @ beobachten @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "eġ+epš-al-i-le @ lähmen? @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šalli[",
-		"mrp1": "ši-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp2": "šī-al-i-le @ beobachten @ al-MOD.AG-1JUSS @ verb @ ",
-		"mrp3": "eġ+epš-al-i-le @ lähmen? @ al-MOD.AG-1JUSS @ verb @ "
+		"mrp1": "šāl-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp2": "ši-al-i-le @ u.B. @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp3": "šī-al-i-le @ beobachten @ al-MOD.AG-1JUSS @ verb @ ",
+		"mrp4": "eġ+epš-al-i-le @ lähmen? @ al-MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šalli[b",
@@ -111740,8 +111089,7 @@
 	{
 		"trans": "šapšalāe",
 		"mrp1": "šapšal-ae @  @ INS @ noun @ ",
-		"mrp2": "šapšal-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "šapšal-ae @  @ INS @ ADJ @ "
+		"mrp2": "šapšal-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "šapḫaldib",
@@ -111915,7 +111263,9 @@
 		"mrp2": "šarrē-ž @ u.B. @ ERG @ noun @ ",
 		"mrp3": "šarr-i-ež @ u.B. @ MOD.AG-OPT @ verb @ ",
 		"mrp4": "šarri-i-ž @ Gottkönig @ 3POSS.SG-ERG @ noun @ ",
-		"mrp5": "šarri-e-ž @ Gottkönig @ 3POSS.SG-ERG @ noun @ "
+		"mrp5": "šarri-e-ž @ Gottkönig @ 3POSS.SG-ERG @ noun @ ",
+		"mrp6": "šār-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ ",
+		"mrp7": "šār-i-l-ež @ wünschen @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "šarri",
@@ -112845,14 +112195,12 @@
 	},
 	{
 		"trans": "šegli",
-		"mrp1": "šegl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šegl @  @ .ABS @ noun @ ",
-		"mrp3": "šegl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šegl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šegl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šegl-e @  @ STAT @ verb @ ",
-		"mrp7": "šegl-ae @  @ INS @ noun @ ",
-		"mrp8": "šegl-ve @  @ GEN @ noun @ "
+		"mrp1": "šegl @  @ .ABS @ noun @ ",
+		"mrp2": "šegl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šegl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šegl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šegl-ae @  @ INS @ noun @ ",
+		"mrp6": "šegl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šellidan",
@@ -113105,9 +112453,10 @@
 	},
 	{
 		"trans": "šerrež",
-		"mrp1": "šerr-i-ež @  @ MOD.AG-OPT @ verb @ ",
-		"mrp2": "šerr-i-ž @  @ 3POSS.SG-ERG @ noun @ ",
-		"mrp3": "šerr-e-ž @  @ 3POSS.SG-ERG @ noun @ "
+		"mrp1": "šer-i-l-ež @ zugrunde richten @ MOD.AG-l-OPT @ verb @ ",
+		"mrp2": "šēr-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ ",
+		"mrp3": "šīr-i-l-ež @ genügen; entsprechen @ MOD.AG-l-OPT @ verb @ ",
+		"mrp4": "šīr-i-l-ež @ u.B. @ MOD.AG-l-OPT @ verb @ "
 	},
 	{
 		"trans": "šerri",
@@ -113558,8 +112907,7 @@
 	{
 		"trans": "šemirāi",
 		"mrp1": "šemir-ae @  @ INS @ noun @ ",
-		"mrp2": "šemir-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "šemir-ae @  @ INS @ ADJ @ "
+		"mrp2": "šemir-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "šena",
@@ -116212,14 +115560,12 @@
 	},
 	{
 		"trans": "šimri",
-		"mrp1": "šimr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šimr @  @ .ABS @ noun @ ",
-		"mrp3": "šimr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šimr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šimr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šimr-e @  @ STAT @ verb @ ",
-		"mrp7": "šimr-ae @  @ INS @ noun @ ",
-		"mrp8": "šimr-ve @  @ GEN @ noun @ "
+		"mrp1": "šimr @  @ .ABS @ noun @ ",
+		"mrp2": "šimr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šimr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šimr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šimr-ae @  @ INS @ noun @ ",
+		"mrp6": "šimr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šin[",
@@ -116272,14 +115618,12 @@
 	},
 	{
 		"trans": "šinnukkali",
-		"mrp1": "šinnukkal-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šinnukkal @  @ .ABS @ noun @ ",
-		"mrp3": "šinnukkal-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šinnukkal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šinnukkal-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šinnukkal-e @  @ STAT @ verb @ ",
-		"mrp7": "šinnukkal-ae @  @ INS @ noun @ ",
-		"mrp8": "šinnukkal-ve @  @ GEN @ noun @ "
+		"mrp1": "šinnukkal @  @ .ABS @ noun @ ",
+		"mrp2": "šinnukkal-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šinnukkal-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šinnukkal-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šinnukkal-ae @  @ INS @ noun @ ",
+		"mrp6": "šinnukkal-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šind[a(-)]",
@@ -118650,7 +117994,10 @@
 		"mrp3": "šōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
 		"mrp4": "šurr-e @ eilen @ STAT @ verb @ ",
 		"mrp5": "šōrr-e @ eilen? @ STAT @ verb @ ",
-		"mrp6": "šōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp6": "šōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp7": "šōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp8": "šūr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ ",
+		"mrp9": "šūr-i-le @ abstechen @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "šōrx[",
@@ -119062,14 +118409,12 @@
 	},
 	{
 		"trans": "šugri",
-		"mrp1": "šugr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "šugr @  @ .ABS @ noun @ ",
-		"mrp3": "šugr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "šugr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "šugr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "šugr-e @  @ STAT @ verb @ ",
-		"mrp7": "šugr-ae @  @ INS @ noun @ ",
-		"mrp8": "šugr-ve @  @ GEN @ noun @ "
+		"mrp1": "šugr @  @ .ABS @ noun @ ",
+		"mrp2": "šugr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "šugr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "šugr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "šugr-ae @  @ INS @ noun @ ",
+		"mrp6": "šugr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "šukx[",
@@ -119514,8 +118859,7 @@
 	{
 		"trans": "šuwā[lāe",
 		"mrp1": "šuwā[l-ae @  @ INS @ noun @ ",
-		"mrp2": "šuwā[l-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "šuwā[l-ae @  @ INS @ ADJ @ "
+		"mrp2": "šuwā[l-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "šuwa[rzia",
@@ -121361,14 +120705,12 @@
 	},
 	{
 		"trans": "ḫāžri",
-		"mrp1": "ḫāžr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫāžr @  @ .ABS @ noun @ ",
-		"mrp3": "ḫāžr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ḫāžr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ḫāžr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ḫāžr-e @  @ STAT @ verb @ ",
-		"mrp7": "ḫāžr-ae @  @ INS @ noun @ ",
-		"mrp8": "ḫāžr-ve @  @ GEN @ noun @ "
+		"mrp1": "ḫāžr @  @ .ABS @ noun @ ",
+		"mrp2": "ḫāžr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ḫāžr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ḫāžr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ḫāžr-ae @  @ INS @ noun @ ",
+		"mrp6": "ḫāžr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ḫāžrummi",
@@ -122659,8 +122001,7 @@
 	{
 		"trans": "ḫabrae",
 		"mrp1": "ḫabr-ae @  @ INS @ noun @ ",
-		"mrp2": "ḫabr-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "ḫabr-ae @  @ INS @ ADJ @ "
+		"mrp2": "ḫabr-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "ḫabriaž",
@@ -123268,14 +122609,7 @@
 	},
 	{
 		"trans": "ḫamarri",
-		"mrp1": "ḫamarr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫamarr @  @ .ABS @ noun @ ",
-		"mrp3": "ḫamarr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ḫamarr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ḫamarr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ḫamarr-e @  @ STAT @ verb @ ",
-		"mrp7": "ḫamarr-ae @  @ INS @ noun @ ",
-		"mrp8": "ḫamarr-ve @  @ GEN @ noun @ "
+		"mrp1": "ḫamar-i-le @  @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫamuz[i",
@@ -123386,8 +122720,7 @@
 	{
 		"trans": "ḫanizarāe",
 		"mrp1": "ḫanizar-ae @  @ INS @ noun @ ",
-		"mrp2": "ḫanizar-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "ḫanizar-ae @  @ INS @ ADJ @ "
+		"mrp2": "ḫanizar-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "ḫanumašši",
@@ -124938,14 +124271,12 @@
 	},
 	{
 		"trans": "ḫežri",
-		"mrp1": "ḫežr-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫežr @  @ .ABS @ noun @ ",
-		"mrp3": "ḫežr-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ḫežr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ḫežr-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ḫežr-e @  @ STAT @ verb @ ",
-		"mrp7": "ḫežr-ae @  @ INS @ noun @ ",
-		"mrp8": "ḫežr-ve @  @ GEN @ noun @ "
+		"mrp1": "ḫežr @  @ .ABS @ noun @ ",
+		"mrp2": "ḫežr-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ḫežr-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ḫežr-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ḫežr-ae @  @ INS @ noun @ ",
+		"mrp6": "ḫežr-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ḫežrivir",
@@ -126885,14 +126216,12 @@
 	},
 	{
 		"trans": "ḫōlāli",
-		"mrp1": "ḫōlāl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōlāl @  @ .ABS @ noun @ ",
-		"mrp3": "ḫōlāl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ḫōlāl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ḫōlāl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ḫōlāl-e @  @ STAT @ verb @ ",
-		"mrp7": "ḫōlāl-ae @  @ INS @ noun @ ",
-		"mrp8": "ḫōlāl-ve @  @ GEN @ noun @ "
+		"mrp1": "ḫōlāl @  @ .ABS @ noun @ ",
+		"mrp2": "ḫōlāl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ḫōlāl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ḫōlāl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ḫōlāl-ae @  @ INS @ noun @ ",
+		"mrp6": "ḫōlāl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ḫōlaluḫḫi",
@@ -127814,8 +127143,7 @@
 	{
 		"trans": "ḫōžrāe",
 		"mrp1": "ḫōžr-ae @  @ INS @ noun @ ",
-		"mrp2": "ḫōžr-i-ai @  @ MOD.AG-PURP @ verb @ ",
-		"mrp3": "ḫōžr-ae @  @ INS @ ADJ @ "
+		"mrp2": "ḫōžr-ae @  @ INS @ ADJ @ "
 	},
 	{
 		"trans": "ḫōšta",
@@ -127964,14 +127292,12 @@
 	},
 	{
 		"trans": "ḫōžinuġl[i",
-		"mrp1": "ḫōžinuġl-i @  @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōžinuġl @  @ .ABS @ noun @ ",
-		"mrp3": "ḫōžinuġl-e @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp4": "ḫōžinuġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
-		"mrp5": "ḫōžinuġl-i @  @ 3POSS.SG.ABS @ noun @ ",
-		"mrp6": "ḫōžinuġl-e @  @ STAT @ verb @ ",
-		"mrp7": "ḫōžinuġl-ae @  @ INS @ noun @ ",
-		"mrp8": "ḫōžinuġl-ve @  @ GEN @ noun @ "
+		"mrp1": "ḫōžinuġl @  @ .ABS @ noun @ ",
+		"mrp2": "ḫōžinuġl-e @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp3": "ḫōžinuġl-i-e @  @ 3POSS.SG-DIR/LOC @ noun @ ",
+		"mrp4": "ḫōžinuġl-i @  @ 3POSS.SG.ABS @ noun @ ",
+		"mrp5": "ḫōžinuġl-ae @  @ INS @ noun @ ",
+		"mrp6": "ḫōžinuġl-ve @  @ GEN @ noun @ "
 	},
 	{
 		"trans": "ḫōžiwi[l",
@@ -128313,7 +127639,8 @@
 	{
 		"trans": "ḫurri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫurda",
@@ -128640,7 +127967,8 @@
 	{
 		"trans": "ḫurri",
 		"mrp1": "ḫōrr-i @ u.B. @ { a → ANTIP} { b → TR.IMP} @ verb @ ",
-		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ "
+		"mrp2": "ḫōrr-e @ u.B. @ STAT @ verb @ ",
+		"mrp3": "ḫōr-i-le @ u.B. @ MOD.AG-1JUSS @ verb @ "
 	},
 	{
 		"trans": "ḫurdiššī",

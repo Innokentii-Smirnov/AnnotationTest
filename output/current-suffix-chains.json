@@ -11523,6 +11523,18 @@
 				]
 			}
 		],
+		"lai": [
+			{
+				"surfaceForm": "lai",
+				"segmentation": "-i-l-ai",
+				"morphTag": "MOD.AG-l-PURP",
+				"sources": [
+					"kullāe @ kol-i-l-ai @ ablassen; beiseite lassen",
+					"kullāe @ kul-i-l-ai @ sprechen",
+					"ḫāllāi @ ḫāl-i-l-ai @ wegtragen"
+				]
+			}
+		],
 		"i(-)ḫuštal": [
 			{
 				"surfaceForm": "i(-)ḫuštal",
@@ -11774,6 +11786,16 @@
 				]
 			}
 		],
+		"li": [
+			{
+				"surfaceForm": "li",
+				"segmentation": "-i-le",
+				"morphTag": "MOD.AG-1JUSS",
+				"sources": [
+					"kīli @ ke-i-le @ setzen; stellen; legen"
+				]
+			}
+		],
 		"ura": [
 			{
 				"surfaceForm": "ura",
@@ -11863,6 +11885,16 @@
 				]
 			}
 		],
+		"rai": [
+			{
+				"surfaceForm": "rai",
+				"segmentation": "-i-l-ai",
+				"morphTag": "MOD.AG-l-PURP",
+				"sources": [
+					"murrāe @ mor-i-l-ai @ u.B."
+				]
+			}
+		],
 		"ulišta": [
 			{
 				"surfaceForm": "ulišta",
@@ -11931,6 +11963,16 @@
 				"morphTag": "d-INT=3PL.ABS",
 				"sources": [
 					"māttal @ mād-d-a=l @ weise sein / machen"
+				]
+			}
+		],
+		"riž": [
+			{
+				"surfaceForm": "riž",
+				"segmentation": "-i-l-ež",
+				"morphTag": "MOD.AG-l-OPT",
+				"sources": [
+					"mīrrīž @ mīr-i-l-ež @ u.B."
 				]
 			}
 		],
@@ -13253,6 +13295,16 @@
 				]
 			}
 		],
+		"ribaž": [
+			{
+				"surfaceForm": "ribaž",
+				"segmentation": "-i-l-eva-ž",
+				"morphTag": "MOD.AG-l-POT-ž",
+				"sources": [
+					"ārrivaž @ ar-i-l-eva-ž @ geben"
+				]
+			}
+		],
 		"aštidda": [
 			{
 				"surfaceForm": "aštidda",
@@ -13965,6 +14017,16 @@
 				"morphTag": "iž-ANTIP",
 				"sources": [
 					"ḫāiži @ ḫa-iž-i @ nehmen"
+				]
+			}
+		],
+		"ri": [
+			{
+				"surfaceForm": "ri",
+				"segmentation": "-i-le",
+				"morphTag": "MOD.AG-1JUSS",
+				"sources": [
+					"ḫārri @ ḫār-i-le @ u.B."
 				]
 			}
 		],
