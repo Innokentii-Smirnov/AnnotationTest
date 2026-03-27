@@ -263,8 +263,6 @@
 				"morphTag": "RELAT.SG-DIR/LOC",
 				"sources": [
 					"pāġružini @ faġr+o+že-ne-e @ gut; schön",
-					"timarri @ timeri-ne-e @ dunkel",
-					"timerrē @ timeri-ne-e @ dunkel",
 					"ōlbīni @ olvi-ne-e @ fremd?"
 				]
 			},
@@ -284,6 +282,17 @@
 				"morphTag": "2POSS.SG.ABS",
 				"sources": [
 					"talamdib @ talam+di-v @ groß"
+				]
+			}
+		],
+		"nii": [
+			{
+				"surfaceForm": "nii",
+				"segmentation": "-ne-e",
+				"morphTag": "RELAT.SG-DIR/LOC",
+				"sources": [
+					"timarri @ timeri-ne-e @ dunkel",
+					"timerrē @ timeri-ne-e @ dunkel"
 				]
 			}
 		],
@@ -803,7 +812,6 @@
 					"emašše @ eman+že @ zehnter",
 					"kēški @ keški @ dritter",
 					"kīgi @ kīge @ drei",
-					"kīgie @ kīge @ drei",
 					"nārišše @ nāri+šše @ fünfter",
 					"nūbi @ nubi @ zehntausend",
 					"tōmmušše @ tōmmo+šše @ vierter",
@@ -813,7 +821,6 @@
 					"šukku @ šokko @ eins; einer",
 					"šēšše @ šēš+še @ sechster",
 					"šēže @ šēžē @ sechs",
-					"šēžie @ šēžē @ sechs",
 					"šīnzi @ šin+ze @ zweiter"
 				]
 			}
@@ -835,7 +842,6 @@
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC",
 				"sources": [
-					"emaššeni @ eman+že-ne-e @ zehnter",
 					"kirmānzeni @ kir+mān+ze-ne-e @ achtzehnter",
 					"šēndeššini @ šēnde+šše-ne-e @ siebter"
 				]
@@ -847,6 +853,16 @@
 				"sources": [
 					"emaššeni @ eman+že-ne @ zehnter",
 					"šēndeššini @ šēnde+šše-ne @ siebter"
+				]
+			}
+		],
+		"nii": [
+			{
+				"surfaceForm": "nii",
+				"segmentation": "-ne-e",
+				"morphTag": "RELAT.SG-DIR/LOC",
+				"sources": [
+					"emaššeni @ eman+že-ne-e @ zehnter"
 				]
 			}
 		],
@@ -870,6 +886,17 @@
 				"morphTag": "INT",
 				"sources": [
 					"šenda @ šindi-a @ sieben"
+				]
+			}
+		],
+		"i": [
+			{
+				"surfaceForm": "i",
+				"segmentation": "",
+				"morphTag": ".ABS",
+				"sources": [
+					"kīgie @ kīge @ drei",
+					"šēžie @ šēžē @ sechs"
 				]
 			}
 		],
@@ -1110,8 +1137,7 @@
 				"morphTag": "PL-DAT/ESS",
 				"sources": [
 					"abiaža @ ave-až-a @ wer; jeder",
-					"aveaža @ ave-až-a @ wer; jeder",
-					"aveiaža @ ave-až-a @ wer; jeder"
+					"aveaža @ ave-až-a @ wer; jeder"
 				]
 			}
 		],
@@ -1227,27 +1253,23 @@
 				]
 			}
 		],
-		"ni": [
+		"nii": [
 			{
-				"surfaceForm": "ni",
+				"surfaceForm": "nii",
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC",
 				"sources": [
 					"aninie @ ane-ne-e @ PRON.ANAPH?",
 					"ulli @ oli-ne-e @ anderer",
-					"ōlli @ oli-ne-e @ anderer",
-					"šōeni @ šōe-ne-e @ alle; ganz"
+					"ōlli @ oli-ne-e @ anderer"
 				]
 			},
 			{
-				"surfaceForm": "ni",
+				"surfaceForm": "nii",
 				"segmentation": "-ne",
 				"morphTag": "ABL/INS",
 				"sources": [
-					"aninie @ ane-ne @ PRON.ANAPH?",
-					"ulli @ oli-ne @ anderer",
-					"ōlli @ oli-ne @ anderer",
-					"šōeni @ šōe-ne @ alle; ganz"
+					"aninie @ ane-ne @ PRON.ANAPH?"
 				]
 			}
 		],
@@ -1294,6 +1316,16 @@
 				"morphTag": "PL-ERG=3SG.ABS",
 				"sources": [
 					"anzušša @ an-z-ož=nna @ PRON.DEM"
+				]
+			}
+		],
+		"iaža": [
+			{
+				"surfaceForm": "iaža",
+				"segmentation": "-až-a",
+				"morphTag": "PL-DAT/ESS",
+				"sources": [
+					"aveiaža @ ave-až-a @ wer; jeder"
 				]
 			}
 		],
@@ -1496,6 +1528,26 @@
 				"sources": [
 					"ulaffa @ oli-a=ffa @ anderer",
 					"ulappa @ oli-a=ffa @ anderer"
+				]
+			}
+		],
+		"ni": [
+			{
+				"surfaceForm": "ni",
+				"segmentation": "-ne-e",
+				"morphTag": "RELAT.SG-DIR/LOC",
+				"sources": [
+					"šōeni @ šōe-ne-e @ alle; ganz"
+				]
+			},
+			{
+				"surfaceForm": "ni",
+				"segmentation": "-ne",
+				"morphTag": "ABL/INS",
+				"sources": [
+					"ulli @ oli-ne @ anderer",
+					"ōlli @ oli-ne @ anderer",
+					"šōeni @ šōe-ne @ alle; ganz"
 				]
 			}
 		],
@@ -1710,9 +1762,7 @@
 					"fodiġi @ fod+i+ġe @ u.B.",
 					"fogugari @ fog+ugar+i @ Finger?",
 					"forāna @ for+āna @ Vorzeichen",
-					"fārie @ fārē @ u.B.",
 					"fāġadi @ fāġadi @ u.B.",
-					"fāġie @ pāġi @ Kopf",
 					"fāġri @ faġri @ gut; Gutes",
 					"fāže @ fāži @ Mund",
 					"fāži @ fāži @ Mund",
@@ -2189,7 +2239,6 @@
 					"ḫāžari @ ḫāž+ar+i @ Öl",
 					"ḫāžarri @ ḫāž+arri @ Öl",
 					"ḫāžažimmi @ ḫāž+až+i+mmi @ u.B.",
-					"ḫāžimmie @ ḫāži+mmē @ u.B.",
 					"ḫāžāri @ ḫāž+ar+i @ Öl",
 					"ḫēri @ ḫeri @ u.B.",
 					"ḫērāri @ ḫer+ār+i @ Oberarm?",
@@ -3404,6 +3453,7 @@
 					"naunnaža @ nau+ni-na-až-a @ Weide",
 					"naēnāža @ naīa-na-až-a @ u.B.",
 					"nāmallāža @ namli-na-až-a @ Bett",
+					"nāēnāža @ nāie-na-až-a @ u.B.",
 					"taržuwannaža @ taržuwa+ni-na-až-a @ Mensch",
 					"taržuwannāža @ taržuwa+ni-na-až-a @ Mensch",
 					"uminnāža @ omini-na-až-a @ Land",
@@ -3624,15 +3674,32 @@
 				]
 			}
 		],
+		"niin": [
+			{
+				"surfaceForm": "niin",
+				"segmentation": "-ne-e=n",
+				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS",
+				"sources": [
+					"DINGIR-sarrin @ en+zari-ne-e=n @ Götterschaft",
+					"azallin @ azali-ne-e=n @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "niin",
+				"segmentation": "-ne-e=n",
+				"morphTag": "RELAT.SG-DIR/LOC=CON",
+				"sources": [
+					"azallin @ azali-ne-e=n @ u.B."
+				]
+			}
+		],
 		"nin": [
 			{
 				"surfaceForm": "nin",
 				"segmentation": "-ne-e=n",
 				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS",
 				"sources": [
-					"DINGIR-sarrin @ en+zari-ne-e=n @ Götterschaft",
 					"ardinin @ arde-ne-e=n @ Stadt",
-					"azallin @ azali-ne-e=n @ u.B.",
 					"kūninin @ kune-ne-e=n @ u.B.",
 					"šarraššinin @ šarr+a+šše-ne-e=n @ Königtum"
 				]
@@ -3643,7 +3710,6 @@
 				"morphTag": "RELAT.SG-DIR/LOC=CON",
 				"sources": [
 					"ardinin @ arde-ne-e=n @ Stadt",
-					"azallin @ azali-ne-e=n @ u.B.",
 					"kūninin @ kune-ne-e=n @ u.B.",
 					"šarraššinin @ šarr+a+šše-ne-e=n @ Königtum"
 				]
@@ -3783,9 +3849,20 @@
 				"sources": [
 					"KASKAL-rie @ ḫāri-e @ Weg",
 					"ZAG-nie @ fand+a+ni-e @ recht, rechte Seite",
+					"fārie @ fāri-e @ u.B.",
+					"fāġie @ pāġi-e @ Kopf",
 					"fōrālīnie @ fōr+all+i+nni-e @ Opferschauer",
 					"fōrālīzie @ fōr+all+i+n+ze-e @ u.B.",
-					"pōrallini(-)nešša @ fōr+all+i+nni-e @ Opferschauer"
+					"kumrie @ kumri-e @ ein Priester",
+					"munġīe @ munġi-e @ u.B.",
+					"mādie @ mādi-e @ Weisheit",
+					"purburnīe @ pur+bur+ni-e @ u.B.",
+					"pōrallini(-)nešša @ fōr+all+i+nni-e @ Opferschauer",
+					"sassinīe @ sassi+ni-e @ u.B.",
+					"teššīe @ tešše-e @ erhaben",
+					"uminīe @ omini-e @ Land",
+					"ḫānie @ ḫāni-e @ Kind; Säugling",
+					"ḫāžimmie @ ḫāži+mmi-e @ u.B."
 				]
 			},
 			{
@@ -3793,11 +3870,19 @@
 				"segmentation": "-i-e",
 				"morphTag": "3POSS.SG-DIR/LOC",
 				"sources": [
-					"KASKAL-rie @ ḫāri-i-e @ Weg",
-					"ZAG-nie @ fand+a+ni-i-e @ recht, rechte Seite",
-					"fōrālīnie @ fōr+all+i+nni-i-e @ Opferschauer",
-					"fōrālīzie @ fōr+all+i+n+ze-i-e @ u.B.",
-					"nawnībuwe @ nau+ni-i-e @ Weide"
+					"fārie @ fāri-i-e @ u.B.",
+					"fāġie @ pāġi-i-e @ Kopf",
+					"kumrie @ kumri-i-e @ ein Priester",
+					"munġīe @ munġi-i-e @ u.B.",
+					"murrīe @ murri-i-e @ u.B.",
+					"mādie @ mādi-i-e @ Weisheit",
+					"piġīe @ piġi-i-e @ u.B.",
+					"purburnīe @ pur+bur+ni-i-e @ u.B.",
+					"sassinīe @ sassi+ni-i-e @ u.B.",
+					"teššīe @ tešše-i-e @ erhaben",
+					"tūrīe @ tūri-i-e @ Unterseite?",
+					"uminīe @ omini-i-e @ Land",
+					"ḫānie @ ḫāni-i-e @ Kind; Säugling"
 				]
 			},
 			{
@@ -3807,6 +3892,7 @@
 				"sources": [
 					"GEŠTU-i @ noi-i @ Ohr",
 					"KA-ši @ fāži-i @ Mund",
+					"kēdadužei @ kēd+ad+o+že-i @ u.B.",
 					"neri @ nera-i @ Mutter",
 					"nēri @ nera-i @ Mutter",
 					"šēni @ šena-i @ Bruder"
@@ -3819,6 +3905,16 @@
 				"sources": [
 					"ḫēbādōi @ Ḫēbādu-ve @ DN"
 				]
+			},
+			{
+				"surfaceForm": "i",
+				"segmentation": "",
+				"morphTag": ".ABS",
+				"sources": [
+					"fārie @ fārē @ u.B.",
+					"fāġie @ pāġi @ Kopf",
+					"ḫāžimmie @ ḫāži+mmē @ u.B."
+				]
 			}
 		],
 		"il": [
@@ -3828,11 +3924,21 @@
 				"morphTag": "3POSS.SG.ABS=3PL.ABS",
 				"sources": [
 					"GEŠTU-il @ noi-i=l @ Ohr",
-					"IGI-il @ šī-i=l @ Auge"
+					"IGI-il @ šī-i=l @ Auge",
+					"nīġriažīel @ nīġr+i+a+že-i=l @ u.B.",
+					"šīel @ šī-i=l @ Auge"
 				]
 			}
 		],
 		"iž": [
+			{
+				"surfaceForm": "iž",
+				"segmentation": "-e-ž",
+				"morphTag": "3POSS.SG-ERG",
+				"sources": [
+					"anzangiēž @ anz+angi-e-ž @ u.B."
+				]
+			},
 			{
 				"surfaceForm": "iž",
 				"segmentation": "-i-ž",
@@ -3865,167 +3971,83 @@
 				"segmentation": "-ne-e",
 				"morphTag": "RELAT.SG-DIR/LOC",
 				"sources": [
-					"GIŠ-nie @ tāle-ne-e @ Baum; Holz",
-					"IM-šenie @ IM+še-ne-e @ Wind",
-					"IZ-BU-ni @ IZBU.ni-ne-e @ Missgeburt",
-					"KASKAL-rie @ ḫāri-ne-e @ Weg",
-					"KI.GUB-ḫeni @ šindaġe-ne-e @ ein Leberteil",
-					"KUR-ni @ omini-ne-e @ Land",
-					"KÚR-ni @ torove-ne-e @ Feind",
-					"KÚR-ni(-)ema @ torove-ne-e @ Feind",
-					"ZAG-ni @ fand+a+ni-ne-e @ recht, rechte Seite",
-					"abarri @ ab+ar+i-ne-e @ u.B.",
-					"abinie @ abi-ne-e @ u.B.",
 					"adaššene @ ad+a+šše-ne-e @ (Umwallung der) Unterstadt",
 					"adaššīni @ ad+a+šše-ne-e @ (Umwallung der) Unterstadt",
-					"adminie @ ad+mi-ne-e @ Schemel",
 					"akkadeni @ akk+ade-ne-e @ u.B.",
 					"alubasḫini @ al+u+b+a+sḫi-ne-e @ u.B.",
 					"ardeni @ arde-ne-e @ Stadt",
-					"arulli @ aruli-ne-e @ u.B.",
-					"avarri @ avari-ne-e @ Feld",
-					"avarrie @ avari-ne-e @ Feld",
 					"ažugallēni @ ažugallē-ne-e @ u.B.",
 					"ažōġini @ až+oġi-ne-e @ Essen",
 					"ažūġeni @ až+oġi-ne-e @ Essen",
 					"egini @ egi-ne-e @ Inneres; Mitte; innere",
 					"egini @ egi-ne-e @ u.B.",
 					"egēni @ egi-ne-e @ Inneres; Mitte; innere",
-					"eškarri @ ešk+ar+i-ne-e @ u.B.",
 					"eššaeni @ eššae-ne-e @ u.B.",
 					"ežene @ eže-ne-e @ Erde",
 					"eženi @ eže-ne-e @ Erde",
-					"fāžanni @ fāžani-ne-e @ Monat",
-					"fōrulli @ fōroli-ne-e @ Tempel",
 					"ibini @ ibi-ne-e @ u.B.",
 					"igēni @ egi-ne-e @ Inneres; Mitte; innere",
 					"ižammēni @ iža+mme-ne-e @ u.B.",
 					"kešḫini @ kešḫi-ne-e @ Thron",
-					"kirarinni @ kir+ari+ni-ne-e @ u.B.",
 					"kiāžēni @ kiaže-ne-e @ Meer",
 					"kišḫeni @ kešḫi-ne-e @ Thron",
 					"kišḫini @ kešḫi-ne-e @ Thron",
-					"kulmurri @ kulm+o+re-ne-e @ u.B.",
 					"kutteni @ kutte-ne-e @ u.B.",
-					"kužuškuženie @ kuž+u+šk+o+že-ne-e @ u.B.",
 					"kēbini @ kēbi-ne-e @ u.B.",
 					"kēlġēdeni @ kēlġēdi-ne-e @ u.B.",
 					"kērēni @ kērē-ne-e @ u.B.",
 					"kīzirženi @ kīzir+že-ne-e @ u.B.",
 					"lablaḫḫini @ labla+ḫḫe-ne-e @ Zeder",
 					"laġlaḫḫini @ Laġlaḫḫi-ne-e @ GN",
-					"mardamanni @ mardam+a+ni-ne-e @ u.B.",
-					"maġirri @ maġiri-ne-e @ Marktplatz",
-					"maġōrri @ maġōri-ne-e @ u.B.",
 					"mirešḫini @ mir+e+šḫi-ne-e @ u.B.",
-					"māmmurinie @ mamm+o+re-ne-e @ u.B.",
-					"mānnuwalli @ mānnuwali-ne-e @ u.B.",
-					"māġirri @ maġiri-ne-e @ Marktplatz",
-					"mōrri @ mōri-ne-e @ u.B.",
-					"nabarbinie @ Nabarbi-ne-e @ DN",
-					"naīanie @ naīa-ne-e @ u.B.",
-					"nālli @ nāli-ne-e @ u.B.",
 					"nōriġini @ nor+i+ġe-ne-e @ u.B.",
 					"nōġaššeni @ Nōġašše-ne-e @ GN",
-					"pabanni @ paba+ni-ne-e @ Berg",
 					"patteni @ patte-ne-e @ u.B.",
-					"paġandarri @ paġ+and+ar+i-ne-e @ u.B.",
 					"pellēni @ pille-ne-e @ Kanal",
 					"pillēni @ pille-ne-e @ Kanal",
-					"pindaianni @ pindaia+ni-ne-e @ u.B.",
-					"pižirri @ pižiri-ne-e @ u.B.",
 					"puweni @ powe-ne-e @ u.B.",
-					"pābanni @ paba+ni-ne-e @ Berg",
-					"pārirunni @ pār+i+r+o+ni-ne-e @ u.B.",
 					"pāttini @ patte-ne-e @ u.B.",
 					"pāžēni @ pāže-ne-e @ u.B.",
-					"pōrulli @ fōroli-ne-e @ Tempel",
-					"sabarri @ sabari-ne-e @ u.B.",
-					"sassinīe @ sassi-ne-e @ u.B.",
-					"simminie @ simmi-ne-e @ u.B.",
-					"sulōženie @ sul+ō+že-ne-e @ u.B.",
 					"suppini @ suppi-ne-e @ u.B.",
-					"suġižalli @ suġižali-ne-e @ u.B.",
-					"suḫḫinie @ suḫḫi-ne-e @ u.B.",
-					"sōnni @ sōni-ne-e @ u.B.",
 					"sōveni @ sōve-ne-e @ u.B.",
 					"sūgētteni @ sūgētte-ne-e @ u.B.",
 					"tapteni @ tapti-ne-e @ u.B.",
 					"taptini @ tapti-ne-e @ u.B.",
 					"tariġini @ tar+i+ġe-ne-e @ u.B.",
-					"tarmanni @ tarm+a+ni-ne-e @ Quelle",
 					"taženi @ taže-ne-e @ Geschenk?; Gabe?",
 					"tebini @ tive-ne-e @ Wort; Sache",
-					"teġulli @ teġ+ol+i-ne-e @ u.B.",
 					"teššeni @ tešše-ne-e @ erhaben",
-					"teḫtu(-)lellie @ leli-ne-e @ u.B.",
 					"tivušḫini @ tiv+o+šḫi-ne-e @ Rede",
 					"tuppini @ tuppi-ne-e @ u.B.",
-					"tānni @ tāni-ne-e @ u.B.",
 					"tāriġini @ tar+i+ġe-ne-e @ u.B.",
-					"tārri @ tāri-ne-e @ Feuer",
-					"tārri @ tāri-ne-e @ u.B.",
 					"tāžini @ tāže-ne-e @ u.B.",
 					"tāžēni @ tāže-ne-e @ u.B.",
 					"tēġuššeni @ tēġ+o+šše-ne-e @ Erziehung?",
-					"tōġadumanni @ tōġ+ad+om+a+ni-ne-e @ u.B.",
 					"ubugarženi @ ub+ugar+že-ne-e @ Schlacht",
-					"ueni @ uwi-ne-e @ Brot",
 					"uženi @ uže-ne-e @ Fleisch?",
 					"ābēni @ ābē-ne-e @ Opfergrube?",
-					"āllānni @ Āllāni-ne-e @ DN",
 					"ārdēni @ arde-ne-e @ Stadt",
 					"āštašḫini @ āšt+a+šḫe-ne-e @ weiblicher Attribute",
 					"āšḫitḫini @ āšḫ+i+tḫe-ne-e @ u.B.",
 					"ōllini @ ōlli-ne-e @ u.B.",
-					"ōmminni @ omini-ne-e @ Land",
-					"ŠÚ.A-ḫini @ kešḫi-ne-e @ Thron",
-					"šaballi @ šavli-ne-e @ Jahr",
-					"šarri @ šāri-ne-e @ u.B.",
 					"šarāmmēni @ šarāmmē-ne-e @ u.B.",
-					"šažarri @ šažari-ne-e @ Säge",
 					"šellini @ šelli-ne-e @ Haus",
-					"šelluġlupšenie @ šell+o+ġ+l+o+pše-ne-e @ u.B.",
 					"šendiššēni @ šindi+ššē-ne-e @ siebter",
-					"šerrē @ šēri-ne-e @ jeder?",
 					"šerženi @ šer+že-ne-e @ u.B.",
 					"šešteni @ šešti-ne-e @ u.B.",
 					"šeštuġalzini @ šeštuġ+al+zi-ne-e @ u.B.",
-					"šeššalli @ šeššali-ne-e @ u.B.",
 					"šinubini @ šinubi-ne-e @ u.B.",
-					"šuḪARri @ šumuri-ne-e @ u.B.",
-					"šuḪARri @ šuġori-ne-e @ u.B.",
-					"šuḪARri @ šūġ+ar+i-ne-e @ u.B.",
-					"šāmanni @ šāmani-ne-e @ u.B.",
-					"šāvālli @ šavli-ne-e @ Jahr",
-					"šāžarri @ šažari-ne-e @ Säge",
-					"šēni @ šiye-ne-e @ Wasser; Fluss",
 					"šērini @ šēri-ne-e @ jeder?",
-					"šērri @ šēri-ne-e @ jeder?",
 					"šērženi @ šer+že-ne-e @ u.B.",
 					"šēržēni @ šer+že-ne-e @ u.B.",
-					"šīeni @ šiye-ne-e @ Wasser; Fluss",
 					"šōġaššini @ šōġ+a+šše-ne-e @ u.B.",
-					"šōġurri @ šōġori-ne-e @ Leben",
 					"šūgatteni @ šūgatte-ne-e @ u.B.",
-					"šūranni @ šūrani-ne-e @ u.B.",
 					"ūšteni @ ūšte-ne-e @ u.B.",
 					"ḫalzēni @ ḫalze-ne-e @ Distrikt",
-					"ḫavorunni @ ḫavor+ni-ne-e @ Himmel",
-					"ḫavorōnni @ ḫavor+ni-ne-e @ Himmel",
-					"ḫavārri @ ḫav+ār+i-ne-e @ u.B.",
-					"ḫavōrunne @ ḫavor+ni-ne-e @ Himmel",
-					"ḫavōrunni @ ḫavor+ni-ne-e @ Himmel",
-					"ḫaštalli @ ḫašt+al+i-ne-e @ u.B.",
-					"ḫažarri @ ḫāž+ar+i-ne-e @ Öl",
 					"ḫeldeni @ ḫelde-ne-e @ u.B.",
 					"ḫiliġini @ ḫil+i+ġe-ne-e @ u.B.",
 					"ḫižmini @ ḫižmi-ne-e @ Glanz, glänzend",
-					"ḫāigalli @ ḫāigali-ne-e @ Palast",
-					"ḫārri @ ḫāri-ne-e @ Weg",
 					"ḫārēni @ ḫārē-ne-e @ u.B.",
-					"ḫāžarri @ ḫāž+ar+i-ne-e @ Öl",
-					"ḫōeni(-)eva(-)nippi @ ḫowe-ne-e @ u.B.",
 					"ḫōnžini @ ḫōnži-ne-e @ u.B.",
 					"ḫōrvini @ ḫōrvi-ne-e @ u.B.",
 					"ḫōššini @ ḫōšši-ne-e @ u.B.",
@@ -4037,8 +4059,7 @@
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG",
 				"sources": [
-					"kumarbinī @ Kumarve-ne-ž @ Kumarbi (DN)",
-					"mēginie @ Mēgi-ne-ž @ PN"
+					"kumarbinī @ Kumarve-ne-ž @ Kumarbi (DN)"
 				]
 			},
 			{
@@ -4056,7 +4077,6 @@
 					"URU-ni @ arde-ne @ Stadt",
 					"ZAG-ni @ fand+a+ni-ne @ recht, rechte Seite",
 					"abarri @ ab+ar+i-ne @ u.B.",
-					"abinie @ abi-ne @ u.B.",
 					"akkadeni @ akk+ade-ne @ u.B.",
 					"alubasḫini @ al+u+b+a+sḫi-ne @ u.B.",
 					"anzini @ anzi-ne @ u.B.",
@@ -4082,7 +4102,6 @@
 					"kišḫini @ kešḫi-ne @ Thron",
 					"kulmurri @ kulm+o+re-ne @ u.B.",
 					"kutteni @ kutte-ne @ u.B.",
-					"kužuškuženie @ kuž+u+šk+o+že-ne @ u.B.",
 					"kēbini @ kēbi-ne @ u.B.",
 					"kēlġēdeni @ kēlġēdi-ne @ u.B.",
 					"kērēni @ kērē-ne @ u.B.",
@@ -4094,8 +4113,6 @@
 					"mirešḫini @ mir+e+šḫi-ne @ u.B.",
 					"mānnuwalli @ mānnuwali-ne @ u.B.",
 					"mōrri @ mōri-ne @ u.B.",
-					"nabarbinie @ Nabarbi-ne @ DN",
-					"naīanie @ naīa-ne @ u.B.",
 					"nālli @ nāli-ne @ u.B.",
 					"nōriġini @ nor+i+ġe-ne @ u.B.",
 					"nōġaššeni @ Nōġašše-ne @ GN",
@@ -4110,11 +4127,8 @@
 					"pāžēni @ pāže-ne @ u.B.",
 					"pōrulli @ fōroli-ne @ Tempel",
 					"sabarri @ sabari-ne @ u.B.",
-					"simminie @ simmi-ne @ u.B.",
-					"sulōženie @ sul+ō+že-ne @ u.B.",
 					"suppini @ suppi-ne @ u.B.",
 					"suġižalli @ suġižali-ne @ u.B.",
-					"suḫḫinie @ suḫḫi-ne @ u.B.",
 					"sōnni @ sōni-ne @ u.B.",
 					"sōveni @ sōve-ne @ u.B.",
 					"sūgētteni @ sūgētte-ne @ u.B.",
@@ -4150,7 +4164,6 @@
 					"šarri @ šāri-ne @ u.B.",
 					"šarāmmēni @ šarāmmē-ne @ u.B.",
 					"šellini @ šelli-ne @ Haus",
-					"šelluġlupšenie @ šell+o+ġ+l+o+pše-ne @ u.B.",
 					"šendiššēni @ šindi+ššē-ne @ siebter",
 					"šerrē @ šēri-ne @ jeder?",
 					"šešteni @ šešti-ne @ u.B.",
@@ -4190,6 +4203,135 @@
 					"ḫōeni(-)eva(-)nippi @ ḫowe-ne @ u.B.",
 					"ḫōnžini @ ḫōnži-ne @ u.B.",
 					"ḫōrvini @ ḫōrvi-ne @ u.B."
+				]
+			}
+		],
+		"nii": [
+			{
+				"surfaceForm": "nii",
+				"segmentation": "-ne-e",
+				"morphTag": "RELAT.SG-DIR/LOC",
+				"sources": [
+					"GIŠ-nie @ tāle-ne-e @ Baum; Holz",
+					"IM-šenie @ IM+še-ne-e @ Wind",
+					"IZ-BU-ni @ IZBU.ni-ne-e @ Missgeburt",
+					"KASKAL-rie @ ḫāri-ne-e @ Weg",
+					"KI.GUB-ḫeni @ šindaġe-ne-e @ ein Leberteil",
+					"KUR-ni @ omini-ne-e @ Land",
+					"KÚR-ni @ torove-ne-e @ Feind",
+					"KÚR-ni(-)ema @ torove-ne-e @ Feind",
+					"ZAG-ni @ fand+a+ni-ne-e @ recht, rechte Seite",
+					"abarri @ ab+ar+i-ne-e @ u.B.",
+					"abinie @ abi-ne-e @ u.B.",
+					"adminie @ ad+mi-ne-e @ Schemel",
+					"arulli @ aruli-ne-e @ u.B.",
+					"avarri @ avari-ne-e @ Feld",
+					"avarrie @ avari-ne-e @ Feld",
+					"eškarri @ ešk+ar+i-ne-e @ u.B.",
+					"fāžanni @ fāžani-ne-e @ Monat",
+					"fōrulli @ fōroli-ne-e @ Tempel",
+					"kirarinni @ kir+ari+ni-ne-e @ u.B.",
+					"kulmurri @ kulm+o+re-ne-e @ u.B.",
+					"kužuškuženie @ kuž+u+šk+o+že-ne-e @ u.B.",
+					"mardamanni @ mardam+a+ni-ne-e @ u.B.",
+					"maġirri @ maġiri-ne-e @ Marktplatz",
+					"maġōrri @ maġōri-ne-e @ u.B.",
+					"māmmurinie @ mamm+o+re-ne-e @ u.B.",
+					"mānnuwalli @ mānnuwali-ne-e @ u.B.",
+					"māġirri @ maġiri-ne-e @ Marktplatz",
+					"mōrri @ mōri-ne-e @ u.B.",
+					"nabarbinie @ Nabarbi-ne-e @ DN",
+					"naīanie @ naīa-ne-e @ u.B.",
+					"nālli @ nāli-ne-e @ u.B.",
+					"pabanni @ paba+ni-ne-e @ Berg",
+					"paġandarri @ paġ+and+ar+i-ne-e @ u.B.",
+					"pindaianni @ pindaia+ni-ne-e @ u.B.",
+					"pižirri @ pižiri-ne-e @ u.B.",
+					"pābanni @ paba+ni-ne-e @ Berg",
+					"pārirunni @ pār+i+r+o+ni-ne-e @ u.B.",
+					"pōrulli @ fōroli-ne-e @ Tempel",
+					"sabarri @ sabari-ne-e @ u.B.",
+					"sassinīe @ sassi-ne-e @ u.B.",
+					"simminie @ simmi-ne-e @ u.B.",
+					"sulōženie @ sul+ō+že-ne-e @ u.B.",
+					"suġižalli @ suġižali-ne-e @ u.B.",
+					"suḫḫinie @ suḫḫi-ne-e @ u.B.",
+					"sōnni @ sōni-ne-e @ u.B.",
+					"tarmanni @ tarm+a+ni-ne-e @ Quelle",
+					"teġulli @ teġ+ol+i-ne-e @ u.B.",
+					"teḫtu(-)lellie @ leli-ne-e @ u.B.",
+					"tānni @ tāni-ne-e @ u.B.",
+					"tārri @ tāri-ne-e @ Feuer",
+					"tārri @ tāri-ne-e @ u.B.",
+					"tōġadumanni @ tōġ+ad+om+a+ni-ne-e @ u.B.",
+					"ueni @ uwi-ne-e @ Brot",
+					"āllānni @ Āllāni-ne-e @ DN",
+					"ōmminni @ omini-ne-e @ Land",
+					"ŠÚ.A-ḫini @ kešḫi-ne-e @ Thron",
+					"šaballi @ šavli-ne-e @ Jahr",
+					"šarri @ šāri-ne-e @ u.B.",
+					"šažarri @ šažari-ne-e @ Säge",
+					"šelluġlupšenie @ šell+o+ġ+l+o+pše-ne-e @ u.B.",
+					"šerrē @ šēri-ne-e @ jeder?",
+					"šeššalli @ šeššali-ne-e @ u.B.",
+					"šuḪARri @ šumuri-ne-e @ u.B.",
+					"šuḪARri @ šuġori-ne-e @ u.B.",
+					"šuḪARri @ šūġ+ar+i-ne-e @ u.B.",
+					"šāmanni @ šāmani-ne-e @ u.B.",
+					"šāvālli @ šavli-ne-e @ Jahr",
+					"šāžarri @ šažari-ne-e @ Säge",
+					"šēni @ šiye-ne-e @ Wasser; Fluss",
+					"šērri @ šēri-ne-e @ jeder?",
+					"šīeni @ šiye-ne-e @ Wasser; Fluss",
+					"šōġurri @ šōġori-ne-e @ Leben",
+					"šūranni @ šūrani-ne-e @ u.B.",
+					"ḫavorunni @ ḫavor+ni-ne-e @ Himmel",
+					"ḫavorōnni @ ḫavor+ni-ne-e @ Himmel",
+					"ḫavārri @ ḫav+ār+i-ne-e @ u.B.",
+					"ḫavōrunne @ ḫavor+ni-ne-e @ Himmel",
+					"ḫavōrunni @ ḫavor+ni-ne-e @ Himmel",
+					"ḫaštalli @ ḫašt+al+i-ne-e @ u.B.",
+					"ḫažarri @ ḫāž+ar+i-ne-e @ Öl",
+					"ḫāigalli @ ḫāigali-ne-e @ Palast",
+					"ḫārri @ ḫāri-ne-e @ Weg",
+					"ḫāžarri @ ḫāž+ar+i-ne-e @ Öl",
+					"ḫōeni(-)eva(-)nippi @ ḫowe-ne-e @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "nii",
+				"segmentation": "-ne-ve",
+				"morphTag": "RELAT.SG-GEN",
+				"sources": [
+					"kužuškuženie @ kuž+u+šk+o+že-ne-ve @ u.B.",
+					"nabarbinie @ Nabarbi-ne-ve @ DN",
+					"naīanie @ naīa-ne-ve @ u.B.",
+					"simminie @ simmi-ne-ve @ u.B.",
+					"sulōženie @ sul+ō+že-ne-ve @ u.B.",
+					"šelluġlupšenie @ šell+o+ġ+l+o+pše-ne-ve @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "nii",
+				"segmentation": "-ne-ž",
+				"morphTag": "RELAT.SG-ERG",
+				"sources": [
+					"mēginie @ Mēgi-ne-ž @ PN"
+				]
+			},
+			{
+				"surfaceForm": "nii",
+				"segmentation": "-ne",
+				"morphTag": "ABL/INS",
+				"sources": [
+					"abinie @ abi-ne @ u.B.",
+					"kužuškuženie @ kuž+u+šk+o+že-ne @ u.B.",
+					"nabarbinie @ Nabarbi-ne @ DN",
+					"naīanie @ naīa-ne @ u.B.",
+					"simminie @ simmi-ne @ u.B.",
+					"sulōženie @ sul+ō+že-ne @ u.B.",
+					"suḫḫinie @ suḫḫi-ne @ u.B.",
+					"šelluġlupšenie @ šell+o+ġ+l+o+pše-ne @ u.B."
 				]
 			}
 		],
@@ -4330,9 +4472,9 @@
 				]
 			}
 		],
-		"ažbini": [
+		"ažbinii": [
 			{
-				"surfaceForm": "ažbini",
+				"surfaceForm": "ažbinii",
 				"segmentation": "-až-ve-ne-e",
 				"morphTag": "PL-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -4471,6 +4613,20 @@
 				]
 			}
 		],
+		"ii": [
+			{
+				"surfaceForm": "ii",
+				"segmentation": "-i-e",
+				"morphTag": "3POSS.SG-DIR/LOC",
+				"sources": [
+					"KASKAL-rie @ ḫāri-i-e @ Weg",
+					"ZAG-nie @ fand+a+ni-i-e @ recht, rechte Seite",
+					"fōrālīnie @ fōr+all+i+nni-i-e @ Opferschauer",
+					"fōrālīzie @ fōr+all+i+n+ze-i-e @ u.B.",
+					"nawnībuwe @ nau+ni-i-e @ Weide"
+				]
+			}
+		],
 		"niba": [
 			{
 				"surfaceForm": "niba",
@@ -4551,10 +4707,45 @@
 				"sources": [
 					"KUR-ia @ omini-i-a @ Land",
 					"KUR-nia @ omini-i-a @ Land",
-					"teeia @ tē-i-a @ Wort; Sache; Name?",
 					"tīa @ tiye-i-a @ Wort; Sache",
 					"šia @ šiye-i-a @ Wasser; Fluss",
 					"ūžia @ uw+o+že-i-a @ u.B."
+				]
+			}
+		],
+		"niil": [
+			{
+				"surfaceForm": "niil",
+				"segmentation": "-ne-e=l",
+				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS",
+				"sources": [
+					"KÚR-nel @ torove-ne-e=l @ Feind",
+					"pāžannel @ fāžani-ne-e=l @ Monat",
+					"šallaēnel @ šallaie-ne-e=l @ u.B.",
+					"ḫirinnel @ ḫiri+ni-ne-e=l @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "niil",
+				"segmentation": "-ne-ž=l",
+				"morphTag": "RELAT.SG-ERG=3PL.ABS",
+				"sources": [
+					"keššenīel @ Kešše-ne-ž=l @ PN",
+					"kumarvinīel @ Kumarve-ne-ž=l @ Kumarbi (DN)"
+				]
+			}
+		],
+		"nižl": [
+			{
+				"surfaceForm": "nižl",
+				"segmentation": "-ne-ž=l",
+				"morphTag": "RELAT.SG-ERG=3PL.ABS",
+				"sources": [
+					"KÚR-nel @ torove-ne-ž=l @ Feind",
+					"aġarrēl @ aġri-ne-ž=l @ Weihrauch",
+					"nūwannīel @ nūv+a+ni-ne-ž=l @ u.B.",
+					"pāžannel @ fāžani-ne-ž=l @ Monat",
+					"É-A-šarrinīel @ Ea.šarri-ne-ž=l @ DN"
 				]
 			}
 		],
@@ -4564,12 +4755,8 @@
 				"segmentation": "-ne-e=l",
 				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS",
 				"sources": [
-					"KÚR-nel @ torove-ne-e=l @ Feind",
 					"kubāġinel @ kubāġi-ne-e=l @ eine Kopfbedeckung",
-					"marninel @ marne-ne-e=l @ u.B.",
-					"pāžannel @ fāžani-ne-e=l @ Monat",
-					"šallaēnel @ šallaie-ne-e=l @ u.B.",
-					"ḫirinnel @ ḫiri+ni-ne-e=l @ u.B."
+					"marninel @ marne-ne-e=l @ u.B."
 				]
 			},
 			{
@@ -4579,10 +4766,8 @@
 				"sources": [
 					"ažōġinel @ až+oġi-ne-ž=l @ Essen",
 					"ažōġinēl @ až+oġi-ne-ž=l @ Essen",
-					"keššenīel @ Kešše-ne-ž=l @ PN",
 					"kubāġinel @ kubāġi-ne-ž=l @ eine Kopfbedeckung",
 					"kumarvenel @ Kumarve-ne-ž=l @ Kumarbi (DN)",
-					"kumarvinīel @ Kumarve-ne-ž=l @ Kumarbi (DN)",
 					"purandinel @ Purandi-ne-ž=l @ GN",
 					"ubilbāeženel @ Ubilbaeži-ne-ž=l @ GN"
 				]
@@ -4601,20 +4786,6 @@
 					"šallaēnel @ šallaie-ne=l @ u.B.",
 					"šimiginel @ Šimige-ne=l @ DN",
 					"ḫirinnel @ ḫiri+ni-ne=l @ u.B."
-				]
-			}
-		],
-		"nižl": [
-			{
-				"surfaceForm": "nižl",
-				"segmentation": "-ne-ž=l",
-				"morphTag": "RELAT.SG-ERG=3PL.ABS",
-				"sources": [
-					"KÚR-nel @ torove-ne-ž=l @ Feind",
-					"aġarrēl @ aġri-ne-ž=l @ Weihrauch",
-					"nūwannīel @ nūv+a+ni-ne-ž=l @ u.B.",
-					"pāžannel @ fāžani-ne-ž=l @ Monat",
-					"É-A-šarrinīel @ Ea.šarri-ne-ž=l @ DN"
 				]
 			}
 		],
@@ -5110,9 +5281,9 @@
 				]
 			}
 		],
-		"nibinilla": [
+		"nibiniilla": [
 			{
-				"surfaceForm": "nibinilla",
+				"surfaceForm": "nibiniilla",
 				"segmentation": "-ne-ve-ne-e=lla",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS",
 				"sources": [
@@ -5393,7 +5564,6 @@
 					"irbīnāža @ ervi-na-až-a @ Hund",
 					"kulimāššināža @ kul+i+m+ā+šše-na-až-a @ u.B.",
 					"mādinaža @ mādi-na-až-a @ Weisheit",
-					"nāēnāža @ nāie-na-až-a @ u.B.",
 					"pudūlimaššinaža @ fud+ol+i+m+a+šše-na-až-a @ u.B.",
 					"talinaža @ tāle-na-až-a @ Baum; Holz",
 					"talēnaža @ tāle-na-až-a @ Baum; Holz",
@@ -5461,7 +5631,6 @@
 					"kammanġiani @ kamm+an+ġe-i-ane @ u.B.",
 					"keldiani @ kel+di-i-ane @ Wohl",
 					"kuliġiani @ kul+i+ġe-i-ane @ Ausspruch?; das Sprechen?",
-					"naīanie @ nai-i-ane @ u.B.",
 					"paššiġiani @ pašš+i+ġe-i-ane @ Sendung?",
 					"suzumagiani @ suzumagi-i-ane @ u.B.",
 					"sīani @ si-i-ane @ u.B.",
@@ -5551,7 +5720,6 @@
 				"morphTag": "GEN-RELAT.SG-DIR/LOC",
 				"sources": [
 					"attaebini @ atta+i-ve-ne-e @ Vater",
-					"É-A-pini @ Ea-ve-ne-e @ DN",
 					"šeġurnibini @ šeġor+ni-ve-ne-e @ Leben"
 				]
 			}
@@ -5714,9 +5882,7 @@
 				"segmentation": "-ne-e=lla",
 				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS",
 				"sources": [
-					"ašḫunilla @ ašḫo-ne-e=lla @ Oberseite",
-					"mādillilla @ mādili-ne-e=lla @ u.B.",
-					"šīenella @ šiye-ne-e=lla @ Wasser; Fluss"
+					"ašḫunilla @ ašḫo-ne-e=lla @ Oberseite"
 				]
 			},
 			{
@@ -6074,13 +6240,22 @@
 				]
 			}
 		],
+		"niinna": [
+			{
+				"surfaceForm": "niinna",
+				"segmentation": "-ne-e=nna",
+				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS",
+				"sources": [
+					"fondurunnenna @ fondur+o+ni-ne-e=nna @ u.B."
+				]
+			}
+		],
 		"ninna": [
 			{
 				"surfaceForm": "ninna",
 				"segmentation": "-ne-e=nna",
 				"morphTag": "RELAT.SG-DIR/LOC=3SG.ABS",
 				"sources": [
-					"fondurunnenna @ fondur+o+ni-ne-e=nna @ u.B.",
 					"sigrōšḫinenna @ sigr+ō+šḫe-ne-e=nna @ u.B.",
 					"tummininna @ tummi-ne-e=nna @ u.B."
 				]
@@ -6108,9 +6283,9 @@
 				]
 			}
 		],
-		"nim": [
+		"niim": [
 			{
-				"surfaceForm": "nim",
+				"surfaceForm": "niim",
 				"segmentation": "-ne-e=m",
 				"morphTag": "RELAT.SG-DIR/LOC=2SG.ABS",
 				"sources": [
@@ -6120,7 +6295,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nim",
+				"surfaceForm": "niim",
 				"segmentation": "-ne-e=m",
 				"morphTag": "RELAT.SG-DIR/LOC=CON",
 				"sources": [
@@ -6129,7 +6304,9 @@
 					"indannim @ ind+a+ni-ne-e=m @ u.B.",
 					"šīwullēm @ šīūli-ne-e=m @ u.B."
 				]
-			},
+			}
+		],
+		"nim": [
 			{
 				"surfaceForm": "nim",
 				"segmentation": "-ne=m",
@@ -6294,10 +6471,7 @@
 				"segmentation": "-ne-e=ma",
 				"morphTag": "RELAT.SG-DIR/LOC=CON",
 				"sources": [
-					"igēnema @ egi-ne-e=ma @ Inneres; Mitte; innere",
-					"šēnima @ šiye-ne-e=ma @ Wasser; Fluss",
-					"ḫavorunnima @ ḫavor+ni-ne-e=ma @ Himmel",
-					"ḫārrēma @ ḫāri-ne-e=ma @ Weg"
+					"igēnema @ egi-ne-e=ma @ Inneres; Mitte; innere"
 				]
 			},
 			{
@@ -6704,6 +6878,17 @@
 				]
 			}
 		],
+		"niilla": [
+			{
+				"surfaceForm": "niilla",
+				"segmentation": "-ne-e=lla",
+				"morphTag": "RELAT.SG-DIR/LOC=3PL.ABS",
+				"sources": [
+					"mādillilla @ mādili-ne-e=lla @ u.B.",
+					"šīenella @ šiye-ne-e=lla @ Wasser; Fluss"
+				]
+			}
+		],
 		"nižlla": [
 			{
 				"surfaceForm": "nižlla",
@@ -6732,6 +6917,16 @@
 				"morphTag": "1POSS.SG-GEN",
 				"sources": [
 					"nawnībuwe @ nau+ni-iffu-ve @ Weide"
+				]
+			}
+		],
+		"anii": [
+			{
+				"surfaceForm": "anii",
+				"segmentation": "-i-ane",
+				"morphTag": "3POSS.SG-ABL/INS",
+				"sources": [
+					"naīanie @ nai-i-ane @ u.B."
 				]
 			}
 		],
@@ -6919,15 +7114,17 @@
 				]
 			}
 		],
-		"nib": [
+		"niib": [
 			{
-				"surfaceForm": "nib",
+				"surfaceForm": "niib",
 				"segmentation": "-ne-e=v",
 				"morphTag": "RELAT.SG-DIR/LOC=2PL.ABS",
 				"sources": [
 					"pirrib @ piri-ne-e=v @ u.B."
 				]
-			},
+			}
+		],
+		"nib": [
 			{
 				"surfaceForm": "nib",
 				"segmentation": "-ne=v",
@@ -7052,6 +7249,29 @@
 				]
 			}
 		],
+		"iia": [
+			{
+				"surfaceForm": "iia",
+				"segmentation": "-i-a",
+				"morphTag": "3POSS.SG-ESS",
+				"sources": [
+					"teeia @ tē-i-a @ Wort; Sache; Name?"
+				]
+			}
+		],
+		"ippi": [
+			{
+				"surfaceForm": "ippi",
+				"segmentation": "-iffe",
+				"morphTag": "1POSS.SG.ABS",
+				"sources": [
+					"teffe @ tei-iffe @ u.B.",
+					"šeniffi @ šena-iffe @ Bruder",
+					"šēniffe @ šena-iffe @ Bruder",
+					"ḫōeni(-)eva(-)nippi @ evani-iffe @ u.B."
+				]
+			}
+		],
 		"dilla": [
 			{
 				"surfaceForm": "dilla",
@@ -7161,6 +7381,16 @@
 				]
 			}
 		],
+		"binii": [
+			{
+				"surfaceForm": "binii",
+				"segmentation": "-ve-ne-e",
+				"morphTag": "GEN-RELAT.SG-DIR/LOC",
+				"sources": [
+					"É-A-pini @ Ea-ve-ne-e @ DN"
+				]
+			}
+		],
 		"dab": [
 			{
 				"surfaceForm": "dab",
@@ -7191,9 +7421,9 @@
 				]
 			}
 		],
-		"ppinid": [
+		"bbiniid": [
 			{
-				"surfaceForm": "ppinid",
+				"surfaceForm": "bbiniid",
 				"segmentation": "-v-ve-ne-e=d",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS",
 				"sources": [
@@ -7231,34 +7461,13 @@
 				]
 			}
 		],
-		"ippi": [
-			{
-				"surfaceForm": "ippi",
-				"segmentation": "-iffe",
-				"morphTag": "1POSS.SG.ABS",
-				"sources": [
-					"šeniffi @ šena-iffe @ Bruder",
-					"šēniffe @ šena-iffe @ Bruder",
-					"ḫōeni(-)eva(-)nippi @ evani-iffe @ u.B."
-				]
-			}
-		],
 		"nimma": [
 			{
 				"surfaceForm": "nimma",
 				"segmentation": "-ne-e=mma",
 				"morphTag": "RELAT.SG-DIR/LOC=2SG.ABS",
 				"sources": [
-					"šeġalaššiġinimma @ šeġal+a+šše+ġe-ne-e=mma @ u.B.",
-					"ḫōenēmma @ ḫowe-ne-e=mma @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "nimma",
-				"segmentation": "-ne-e=mma",
-				"morphTag": "RELAT.SG-DIR/LOC=CON",
-				"sources": [
-					"ḫōenēmma @ ḫowe-ne-e=mma @ u.B."
+					"šeġalaššiġinimma @ šeġal+a+šše+ġe-ne-e=mma @ u.B."
 				]
 			},
 			{
@@ -7279,21 +7488,13 @@
 				]
 			}
 		],
-		"nidil": [
+		"niidil": [
 			{
-				"surfaceForm": "nidil",
+				"surfaceForm": "niidil",
 				"segmentation": "-ne-e=dil",
 				"morphTag": "RELAT.SG-DIR/LOC=1PL.ABS",
 				"sources": [
 					"šeġellinidel @ šeġli-ne-e=dil @ rein; Reinheit"
-				]
-			},
-			{
-				"surfaceForm": "nidil",
-				"segmentation": "-ne=dil",
-				"morphTag": "ABL/INS=1PL.ABS",
-				"sources": [
-					"šeġellinidel @ šeġli-ne=dil @ rein; Reinheit"
 				]
 			}
 		],
@@ -7307,9 +7508,19 @@
 				]
 			}
 		],
-		"nibini": [
+		"nidil": [
 			{
-				"surfaceForm": "nibini",
+				"surfaceForm": "nidil",
+				"segmentation": "-ne=dil",
+				"morphTag": "ABL/INS=1PL.ABS",
+				"sources": [
+					"šeġellinidel @ šeġli-ne=dil @ rein; Reinheit"
+				]
+			}
+		],
+		"nibinii": [
+			{
+				"surfaceForm": "nibinii",
 				"segmentation": "-ne-ve-ne-e",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -7382,6 +7593,18 @@
 				"morphTag": "ESS=1SG.ABS=CON",
 				"sources": [
 					"šukkuttattam @ šukk+utti-a=tta=m @ u.B."
+				]
+			}
+		],
+		"niima": [
+			{
+				"surfaceForm": "niima",
+				"segmentation": "-ne-e=ma",
+				"morphTag": "RELAT.SG-DIR/LOC=CON",
+				"sources": [
+					"šēnima @ šiye-ne-e=ma @ Wasser; Fluss",
+					"ḫavorunnima @ ḫavor+ni-ne-e=ma @ Himmel",
+					"ḫārrēma @ ḫāri-ne-e=ma @ Weg"
 				]
 			}
 		],
@@ -7605,9 +7828,11 @@
 				"sources": [
 					"ḫōenēmma @ ḫowe+ni-e=mma @ u.B."
 				]
-			},
+			}
+		],
+		"iimma": [
 			{
-				"surfaceForm": "imma",
+				"surfaceForm": "iimma",
 				"segmentation": "-i-e=mma",
 				"morphTag": "3POSS.SG-DIR/LOC=2SG.ABS",
 				"sources": [
@@ -7615,11 +7840,29 @@
 				]
 			},
 			{
-				"surfaceForm": "imma",
+				"surfaceForm": "iimma",
 				"segmentation": "-i-e=mma",
 				"morphTag": "3POSS.SG-DIR/LOC=CON",
 				"sources": [
 					"ḫōenēmma @ ḫowe+ni-i-e=mma @ u.B."
+				]
+			}
+		],
+		"niimma": [
+			{
+				"surfaceForm": "niimma",
+				"segmentation": "-ne-e=mma",
+				"morphTag": "RELAT.SG-DIR/LOC=2SG.ABS",
+				"sources": [
+					"ḫōenēmma @ ḫowe-ne-e=mma @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "niimma",
+				"segmentation": "-ne-e=mma",
+				"morphTag": "RELAT.SG-DIR/LOC=CON",
+				"sources": [
+					"ḫōenēmma @ ḫowe-ne-e=mma @ u.B."
 				]
 			}
 		],
@@ -7821,75 +8064,13 @@
 				]
 			}
 		],
-		"in": [
+		"iin": [
 			{
-				"surfaceForm": "in",
-				"segmentation": "-e=n",
-				"morphTag": "STAT=3SG.ABS",
-				"sources": [
-					"mānnin @ mānn-e=n @ sein"
-				]
-			},
-			{
-				"surfaceForm": "in",
-				"segmentation": "-e=n",
-				"morphTag": "STAT=CON",
-				"sources": [
-					"mānnin @ mānn-e=n @ sein"
-				]
-			},
-			{
-				"surfaceForm": "in",
+				"surfaceForm": "iin",
 				"segmentation": "-i-en",
 				"morphTag": "MOD.AG-3JUSS",
 				"sources": [
-					"GE-ten @ mid-i-en @ u.B.",
-					"ammen @ amm-i-en @ erreichen; gelangen lassen",
-					"sāzin @ sāz-i-en @ u.B.",
-					"sāzin @ sāz-i-en @ verköstigen",
-					"tattin @ tatt-i-en @ u.B.",
-					"ubīn @ ub-i-en @ u.B.",
-					"ḫōpten @ ḫōpt-i-en @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "in",
-				"segmentation": "-i=n",
-				"morphTag": "ANTIP=3SG.ABS",
-				"sources": [
-					"sāzin @ sāz-i=n @ u.B.",
-					"sāzin @ sāz-i=n @ verköstigen",
-					"tattin @ tatt-i=n @ u.B.",
-					"ubīn @ ub-i=n @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "in",
-				"segmentation": "-i=n",
-				"morphTag": "ANTIP=CON",
-				"sources": [
-					"sāzin @ sāz-i=n @ u.B.",
-					"sāzin @ sāz-i=n @ verköstigen",
-					"tattin @ tatt-i=n @ u.B.",
-					"ubīn @ ub-i=n @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "in",
-				"segmentation": "-i=n",
-				"morphTag": "TR.IMP=3SG.ABS",
-				"sources": [
-					"sāzin @ sāz-i=n @ u.B.",
-					"sāzin @ sāz-i=n @ verköstigen"
-				]
-			},
-			{
-				"surfaceForm": "in",
-				"segmentation": "-i=n",
-				"morphTag": "TR.IMP=CON",
-				"sources": [
-					"sāzin @ sāz-i=n @ u.B.",
-					"sāzin @ sāz-i=n @ verköstigen"
+					"GE-ten @ mid-i-en @ u.B."
 				]
 			}
 		],
@@ -7927,17 +8108,6 @@
 				"sources": [
 					"kibe @ kev-e @ setzen; stellen; legen",
 					"ōšše @ ōšš-e @ gehen"
-				]
-			},
-			{
-				"surfaceForm": "i",
-				"segmentation": "-i-en",
-				"morphTag": "MOD.AG-3JUSS",
-				"sources": [
-					"fārie @ fār-i-en @ u.B.",
-					"idīe @ id-i-en @ schlagen",
-					"munġīe @ munġ-i-en @ u.B.",
-					"piġīe @ piġ-i-en @ u.B."
 				]
 			},
 			{
@@ -8875,6 +9045,77 @@
 				]
 			}
 		],
+		"in": [
+			{
+				"surfaceForm": "in",
+				"segmentation": "-e=n",
+				"morphTag": "STAT=3SG.ABS",
+				"sources": [
+					"mānnin @ mānn-e=n @ sein"
+				]
+			},
+			{
+				"surfaceForm": "in",
+				"segmentation": "-e=n",
+				"morphTag": "STAT=CON",
+				"sources": [
+					"mānnin @ mānn-e=n @ sein"
+				]
+			},
+			{
+				"surfaceForm": "in",
+				"segmentation": "-i-en",
+				"morphTag": "MOD.AG-3JUSS",
+				"sources": [
+					"ammen @ amm-i-en @ erreichen; gelangen lassen",
+					"sāzin @ sāz-i-en @ u.B.",
+					"sāzin @ sāz-i-en @ verköstigen",
+					"tattin @ tatt-i-en @ u.B.",
+					"ubīn @ ub-i-en @ u.B.",
+					"ḫōpten @ ḫōpt-i-en @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "in",
+				"segmentation": "-i=n",
+				"morphTag": "ANTIP=3SG.ABS",
+				"sources": [
+					"sāzin @ sāz-i=n @ u.B.",
+					"sāzin @ sāz-i=n @ verköstigen",
+					"tattin @ tatt-i=n @ u.B.",
+					"ubīn @ ub-i=n @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "in",
+				"segmentation": "-i=n",
+				"morphTag": "ANTIP=CON",
+				"sources": [
+					"sāzin @ sāz-i=n @ u.B.",
+					"sāzin @ sāz-i=n @ verköstigen",
+					"tattin @ tatt-i=n @ u.B.",
+					"ubīn @ ub-i=n @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "in",
+				"segmentation": "-i=n",
+				"morphTag": "TR.IMP=3SG.ABS",
+				"sources": [
+					"sāzin @ sāz-i=n @ u.B.",
+					"sāzin @ sāz-i=n @ verköstigen"
+				]
+			},
+			{
+				"surfaceForm": "in",
+				"segmentation": "-i=n",
+				"morphTag": "TR.IMP=CON",
+				"sources": [
+					"sāzin @ sāz-i=n @ u.B.",
+					"sāzin @ sāz-i=n @ verköstigen"
+				]
+			}
+		],
 		"idi": [
 			{
 				"surfaceForm": "idi",
@@ -8887,6 +9128,7 @@
 					"idedi @ id-ed-i @ u.B.",
 					"issēdi @ iss-ed-i @ u.B.",
 					"nānidi @ nān-ed-i @ schlagen",
+					"šīedi @ šī-ed-i @ beobachten",
 					"ḫellidi @ ḫill-ed-i @ mitteilen",
 					"ḫillidi @ ḫill-ed-i @ mitteilen",
 					"ḫillēdi @ ḫill-ed-i @ mitteilen",
@@ -9477,9 +9719,9 @@
 				]
 			}
 		],
-		"amaruliž": [
+		"amaruliiž": [
 			{
-				"surfaceForm": "amaruliž",
+				"surfaceForm": "amaruliiž",
 				"segmentation": "-am-ar-o-l-ež",
 				"morphTag": "FACT-ITER-MOD.PAT-l-OPT",
 				"sources": [
@@ -10240,6 +10482,19 @@
 				"morphTag": "RES-MED",
 				"sources": [
 					"tunuštu @ tūn-ušt-u @ vermögen; überwinden"
+				]
+			}
+		],
+		"ii": [
+			{
+				"surfaceForm": "ii",
+				"segmentation": "-i-en",
+				"morphTag": "MOD.AG-3JUSS",
+				"sources": [
+					"fārie @ fār-i-en @ u.B.",
+					"idīe @ id-i-en @ schlagen",
+					"munġīe @ munġ-i-en @ u.B.",
+					"piġīe @ piġ-i-en @ u.B."
 				]
 			}
 		],
@@ -12392,9 +12647,9 @@
 				]
 			}
 		],
-		"u(-)lilli": [
+		"u(-)lillii": [
 			{
-				"surfaceForm": "u(-)lilli",
+				"surfaceForm": "u(-)lillii",
 				"segmentation": "-o",
 				"morphTag": "MOD.PAT",
 				"sources": [
@@ -12402,7 +12657,7 @@
 				]
 			},
 			{
-				"surfaceForm": "u(-)lilli",
+				"surfaceForm": "u(-)lillii",
 				"segmentation": "-ol-il-i-le",
 				"morphTag": "ol-il-MOD.AG-1JUSS",
 				"sources": [
@@ -12410,7 +12665,7 @@
 				]
 			},
 			{
-				"surfaceForm": "u(-)lilli",
+				"surfaceForm": "u(-)lillii",
 				"segmentation": "-u",
 				"morphTag": "MED",
 				"sources": [
@@ -13068,9 +13323,9 @@
 				]
 			}
 		],
-		"innnaan": [
+		"iinnnaan": [
 			{
-				"surfaceForm": "innnaan",
+				"surfaceForm": "iinnnaan",
 				"segmentation": "-i-en=nna=an",
 				"morphTag": "MOD.AG-3JUSS=3SG.ABS=CON",
 				"sources": [
@@ -13198,16 +13453,6 @@
 				"morphTag": "ol-FUT-3A.SG",
 				"sources": [
 					"šeġrulida @ šeġr-ol-ed-a @ angenehm / großzügig sein"
-				]
-			}
-		],
-		"iribuwi": [
-			{
-				"surfaceForm": "iribuwi",
-				"segmentation": "-i-re-iffu-ve",
-				"morphTag": "AG-PTCP-1POSS.SG-GEN",
-				"sources": [
-					"šialiribuwi @ šial-i-re-iffu-ve @ u.B."
 				]
 			}
 		],
@@ -13395,9 +13640,9 @@
 				]
 			}
 		],
-		"uštiž": [
+		"uštiiž": [
 			{
-				"surfaceForm": "uštiž",
+				"surfaceForm": "uštiiž",
 				"segmentation": "-ošt-i-ež",
 				"morphTag": "RES-MOD.AG-OPT",
 				"sources": [
@@ -13895,9 +14140,9 @@
 				]
 			}
 		],
-		"illa": [
+		"iilla": [
 			{
-				"surfaceForm": "illa",
+				"surfaceForm": "iilla",
 				"segmentation": "-i=lla",
 				"morphTag": "TR.IMP=3PL.ABS",
 				"sources": [

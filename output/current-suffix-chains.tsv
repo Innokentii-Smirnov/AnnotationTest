@@ -15,6 +15,7 @@ ADJ	na	-na	RELAT.PL.ABS
 ADJ	naža	-na-až-a	RELAT.PL-PL-DAT/ESS
 ADJ	nažuž	-na-až-ož	RELAT.PL-PL-ERG
 ADJ	nia	-ne-va	RELAT.SG-DAT
+ADJ	nii	-ne-e	RELAT.SG-DIR/LOC
 ADJ	nima	-ne-e=ma	RELAT.SG-DIR/LOC=CON
 ADJ	ni	-ne	ABL/INS
 ADJ	ni	-ne-e	RELAT.SG-DIR/LOC
@@ -97,6 +98,7 @@ noun	anan	-a=n=an	ESS=3SG.ABS=CON
 noun	an	-a=n	ESS=3SG.ABS
 noun	ani	-an-i	an-ANTIP
 noun	ani	-i-ane	3POSS.SG-ABL/INS
+noun	anii	-i-ane	3POSS.SG-ABL/INS
 noun	anm	-a=n=m	ESS=3SG.ABS=CON
 noun	anna	-a=nna	ESS=3SG.ABS
 noun	appa	-a=ffa	ESS=2PL.ABS
@@ -111,7 +113,7 @@ noun	aža	-i-až-a	3POSS.SG-PL-DAT/ESS
 noun	ažal	-i-až-a=l	3POSS-PL-DAT/ESS=3PL.ABS
 noun	ažama	-i-až-a=ma	3POSS-PL-DAT/ESS=CON
 noun	až	-až	ERG
-noun	ažbini	-až-ve-ne-e	PL-GEN-RELAT.SG-DIR/LOC
+noun	ažbinii	-až-ve-ne-e	PL-GEN-RELAT.SG-DIR/LOC
 noun	až	-i-až	3POSS-PL.ABS
 noun	ažl	-až=l	ERG=3PL.ABS
 noun	ažnna	-až=nna	ERG=3SG.ABS
@@ -131,6 +133,7 @@ noun	ban	-va=n	DAT=3SG.ABS
 noun	ba	-v-a	2POSS.SG-ESS
 noun	ba	-va	DAT
 noun	baž	-ve-až	GEN-ERG
+noun	bbiniid	-v-ve-ne-e=d	2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS
 noun	bbininim	-v-ve-ne-ne=m	2POSS.SG-GEN-RELAT.SG-ABL/INS=2SG.ABS
 noun	bbininim	-v-ve-ne-ne=m	2POSS.SG-GEN-RELAT.SG-ABL/INS=CON
 noun	biaib	-ve-ae=v	GEN-INS=2PL.ABS
@@ -153,6 +156,7 @@ noun	binibinaža	-ve-ne-ve-na-až-a	GEN-RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS
 noun	binibi	-ve-ne-ve	GEN-RELAT.SG-GEN
 noun	binidal	-ve-ne-da=l	GEN-RELAT.SG-DIR=3PL.ABS
 noun	binida	-ve-ne-da	GEN-RELAT.SG-DIR
+noun	binii	-ve-ne-e	GEN-RELAT.SG-DIR/LOC
 noun	binišša	-ve-ne-ž=nna	GEN-RELAT.SG-ERG=3SG.ABS
 noun	bini	-ve-ne-e	GEN-RELAT.SG-DIR/LOC
 noun	biniž	-ve-ne-ž	GEN-RELAT.SG-ERG
@@ -192,6 +196,7 @@ noun	ḫina	-ġe-na	ADJ-RELAT.PL.ABS
 noun	ḫinama	-ġe-na=ma	ADJ-RELAT.PL.ABS=CON
 noun	ḫinamma	-ġe-na=mma	ADJ-RELAT.PL.ABS=CON
 noun	(-)ḫuštal		.ABS
+noun	i		.ABS
 noun	ia	-e-a	3POSS.SG-ESS
 noun	i	-ae	INS
 noun	ia	-i-a	3POSS.SG-ESS
@@ -212,18 +217,21 @@ noun	idan	-i-dan	3POSS.SG-ABL
 noun	idan	-i-da=n	3POSS.SG-DIR=3SG.ABS
 noun	i	-e	3POSS.SG.ABS
 noun	i	-i	3POSS.SG.ABS
+noun	iia	-i-a	3POSS.SG-ESS
 noun	i	-i-e	3POSS.SG-DIR/LOC
+noun	ii	-i-e	3POSS.SG-DIR/LOC
+noun	iimma	-i-e=mma	3POSS.SG-DIR/LOC=2SG.ABS
+noun	iimma	-i-e=mma	3POSS.SG-DIR/LOC=CON
 noun	il	-i=l	3POSS.SG.ABS=3PL.ABS
 noun	-il	=l	=3PL.ABS
 noun	imma	-e=mma	3POSS.SG.ABS=2SG.ABS
 noun	imma	-e=mma	3POSS.SG.ABS=CON
-noun	imma	-i-e=mma	3POSS.SG-DIR/LOC=2SG.ABS
-noun	imma	-i-e=mma	3POSS.SG-DIR/LOC=CON
 noun	induž	-ind-o-ež	PL.A-MOD.PAT-OPT
 noun	inin	-ve-ne-n	GEN-RELAT.SG-ABL/INS
 noun	ippi	-iffe	1POSS.SG.ABS
 noun	ippubi	-iffu-ve	1POSS.SG-GEN
 noun	i	-ve	GEN
+noun	iž	-e-ž	3POSS.SG-ERG
 noun	iž	-i-ž	3POSS.SG-ERG
 noun	lilla	-ne-e=lla	RELAT.SG-DIR/LOC=3PL.ABS
 noun	lilla	-ne=lla	ABL/INS=3PL.ABS
@@ -302,13 +310,12 @@ noun	nibi	-ne-ve	RELAT.SG-GEN
 noun	nibinia	-ne-ve-ne-a	RELAT.SG-GEN-RELAT.SG-ESS
 noun	nibinidal	-ne-ve-ne-da=l	RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS
 noun	nibinida	-ne-ve-ne-da	RELAT.SG-GEN-RELAT.SG-DIR
-noun	nibinilla	-ne-ve-ne-e=lla	RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS
-noun	nibini	-ne-ve-ne-e	RELAT.SG-GEN-RELAT.SG-DIR/LOC
+noun	nibiniilla	-ne-ve-ne-e=lla	RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS
+noun	nibinii	-ne-ve-ne-e	RELAT.SG-GEN-RELAT.SG-DIR/LOC
 noun	nibinin	-ne-ve-ne-e=n	RELAT.SG-GEN-RELAT.SG-DIR/LOC=3SG.ABS
 noun	nibinin	-ne-ve-ne-n	RELAT.SG-GEN-RELAT.SG-ABL/INS
 noun	nibiniž	-ne-ve-ne-ž	RELAT.SG-GEN-RELAT.SG-ERG
 noun	nibiuž	-ne-ve-ož	RELAT.SG-GEN-EQU
-noun	nib	-ne-e=v	RELAT.SG-DIR/LOC=2PL.ABS
 noun	nib	-ne=v	ABL/INS=2PL.ABS
 noun	nibuž	-ne-ve-ož	RELAT.SG-GEN-EQU
 noun	nibuž	-ne-ve-ož	RELAT.SG-GEN-ERG
@@ -318,7 +325,23 @@ noun	nidan	-ne-da=an	RELAT.SG-DIR=CON
 noun	nidan	-ne-dan	RELAT.SG-ABL
 noun	nidan	-ne-da=n	RELAT.SG-DIR=3SG.ABS
 noun	nidil	-ne=dil	ABL/INS=1PL.ABS
-noun	nidil	-ne-e=dil	RELAT.SG-DIR/LOC=1PL.ABS
+noun	niib	-ne-e=v	RELAT.SG-DIR/LOC=2PL.ABS
+noun	niidil	-ne-e=dil	RELAT.SG-DIR/LOC=1PL.ABS
+noun	niilla	-ne-e=lla	RELAT.SG-DIR/LOC=3PL.ABS
+noun	niil	-ne-e=l	RELAT.SG-DIR/LOC=3PL.ABS
+noun	niil	-ne-ž=l	RELAT.SG-ERG=3PL.ABS
+noun	niima	-ne-e=ma	RELAT.SG-DIR/LOC=CON
+noun	niimma	-ne-e=mma	RELAT.SG-DIR/LOC=2SG.ABS
+noun	niimma	-ne-e=mma	RELAT.SG-DIR/LOC=CON
+noun	niim	-ne-e=m	RELAT.SG-DIR/LOC=2SG.ABS
+noun	niim	-ne-e=m	RELAT.SG-DIR/LOC=CON
+noun	nii	-ne	ABL/INS
+noun	nii	-ne-e	RELAT.SG-DIR/LOC
+noun	nii	-ne-ve	RELAT.SG-GEN
+noun	nii	-ne-ž	RELAT.SG-ERG
+noun	niinna	-ne-e=nna	RELAT.SG-DIR/LOC=3SG.ABS
+noun	niin	-ne-e=n	RELAT.SG-DIR/LOC=3SG.ABS
+noun	niin	-ne-e=n	RELAT.SG-DIR/LOC=CON
 noun	nilla	-ne-e=lla	RELAT.SG-DIR/LOC=3PL.ABS
 noun	nilla	-ne=lla	ABL/INS=3PL.ABS
 noun	nilla	-ne-ž=lla	RELAT.SG-ERG=3PL.ABS
@@ -328,11 +351,8 @@ noun	nil	-ne-ž=l	RELAT.SG-ERG=3PL.ABS
 noun	nima	-ne-e=ma	RELAT.SG-DIR/LOC=CON
 noun	nima	-ne=ma	ABL/INS=CON
 noun	nimma	-ne-e=mma	RELAT.SG-DIR/LOC=2SG.ABS
-noun	nimma	-ne-e=mma	RELAT.SG-DIR/LOC=CON
 noun	nimma	-ne=mma	ABL/INS=2SG.ABS
 noun	nimma	-ne=mma	ABL/INS=CON
-noun	nim	-ne-e=m	RELAT.SG-DIR/LOC=2SG.ABS
-noun	nim	-ne-e=m	RELAT.SG-DIR/LOC=CON
 noun	nim	-ne=m	ABL/INS=2SG.ABS
 noun	nim	-ne=m	ABL/INS=CON
 noun	nina	-ne-nna	RELAT.SG-EQU2
@@ -389,7 +409,6 @@ noun	ppa	-v=ma	2POSS.SG.ABS=CON
 noun	ppa	-v-va	2POSS.SG-DAT
 noun	ppinama	-v-ve-na=ma	2POSS.SG-GEN-RELAT.PL.ABS=CON
 noun	ppinaža	-v-ve-na-až-a	2POSS.SG-GEN-RELAT.PL-PL-DAT/ESS
-noun	ppinid	-v-ve-ne-e=d	2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS
 noun	ppi	-v-ve	2POSS.SG-GEN
 noun	ra	-ra	COM
 noun	ša	-va	DAT
@@ -431,10 +450,12 @@ NUM	an	-i-a=n	3POSS.SG-ESS=3SG.ABS
 NUM	aža	-i-až-a	3POSS-PL-DAT/ESS
 NUM	ažuž	-i-až-ož	3POSS-PL-ERG
 NUM	b	=v	.ABS=2PL.ABS
+NUM	i		.ABS
 NUM	l	-ž=l	ERG=3PL.ABS
 NUM	ma	=ma	.ABS=CON
 NUM	na	-na	RELAT.PL.ABS
 NUM	niba	-ne-va	RELAT.SG-DAT
+NUM	nii	-ne-e	RELAT.SG-DIR/LOC
 NUM	ni	-ne	ABL/INS
 NUM	ni	-ne-e	RELAT.SG-DIR/LOC
 NUM	nin	-ne-n	RELAT.SG-ABL/INS
@@ -461,6 +482,7 @@ PRON	da	-da	DIR
 PRON	dil	=dil	.ABS=1PL.ABS
 PRON	dilla	-ž=dilla	ERG=1PL.ABS
 PRON	d	-ž=d	ERG=1SG.ABS
+PRON	iaža	-až-a	PL-DAT/ESS
 PRON	l	=l	=3PL.ABS
 PRON	l	=l	.ABS=3PL.ABS
 PRON	llam	=lla=m	.ABS=3PL.ABS=CON
@@ -469,6 +491,8 @@ PRON	ma	=ma	.ABS=CON
 PRON	m	=m	.ABS=CON
 PRON	niba	-ne-va	RELAT.SG-DAT
 PRON	nibininna	-ne-ve-ne-nna	RELAT.SG-GEN-RELAT.SG-EQU2
+PRON	nii	-ne	ABL/INS
+PRON	nii	-ne-e	RELAT.SG-DIR/LOC
 PRON	ni	-ne	ABL/INS
 PRON	ni	-ne-e	RELAT.SG-DIR/LOC
 PRON	nini	-ne-ne	RELAT.SG-ABL/INS
@@ -570,7 +594,7 @@ verb	am	-a=m	INT=2SG.ABS
 verb	am	-a=m	INT=CON
 verb	am	-a=m	INT.IMP=2SG.ABS
 verb	am	-a=m	INT.IMP=CON
-verb	amaruliž	-am-ar-o-l-ež	FACT-ITER-MOD.PAT-l-OPT
+verb	amaruliiž	-am-ar-o-l-ež	FACT-ITER-MOD.PAT-l-OPT
 verb	amdum	-am-d-o-m	FACT-d-TR.PFV-3A.SG
 verb	ami	-am-i	FACT-ANTIP
 verb	amin	-am-i-en	FACT-MOD.AG-3JUSS
@@ -749,7 +773,10 @@ verb	i(-)ḫuštal	-iġ-ož-d-a=l	iġ-PST-PL.A-3A=3PL.ABS
 verb	i(-)ḫuštal	-iġ-ušt-a=l	iġ-RES-3A.SG=3PL.ABS
 verb	i(-)ḫuštal	-iġ-ušt-a=l	iġ-RES-INT=3PL.ABS
 verb	i	-i	ANTIP
-verb	i	-i-en	MOD.AG-3JUSS
+verb	ii	-i-en	MOD.AG-3JUSS
+verb	iilla	-i=lla	TR.IMP=3PL.ABS
+verb	iin	-i-en	MOD.AG-3JUSS
+verb	iinnnaan	-i-en=nna=an	MOD.AG-3JUSS=3SG.ABS=CON
 verb	i	-i	TR.IMP
 verb	ikkamma	-i-kki=mma	ANTIP-NEG=2SG.ABS
 verb	ikki	-i-kki	ANTIP-NEG
@@ -766,7 +793,6 @@ verb	il	-i=l	ANTIP=3PL.ABS
 verb	il	-i=l	TR.IMP=3PL.ABS
 verb	ilippa	-i-le=ffa	MOD.AG-1JUSS=2PL.ABS
 verb	iliž	-i-l-ež	MOD.AG-l-OPT
-verb	illa	-i=lla	TR.IMP=3PL.ABS
 verb	illain	-il-i-l-ai=n	il-MOD.AG-l-PURP=3SG.ABS
 verb	illain	-il-i-l-ai=n	il-MOD.AG-l-PURP=CON
 verb	illain	-il-i-l-ai-n	il-MOD.AG-l-PURP-n
@@ -804,10 +830,8 @@ verb	in	-i=n	ANTIP=CON
 verb	in	-i=n	TR.IMP=3SG.ABS
 verb	in	-i=n	TR.IMP=CON
 verb	inna	-i=nna	ANTIP=3SG.ABS
-verb	innnaan	-i-en=nna=an	MOD.AG-3JUSS=3SG.ABS=CON
 verb	ippa	-i-b=ma	ANTIP-b=CON
 verb	ippa	-i=ffa	ANTIP=2PL.ABS
-verb	iribuwi	-i-re-iffu-ve	AG-PTCP-1POSS.SG-GEN
 verb	iri	-i-re	AG-PTCP.ABS
 verb	irinibi	-i-re-ne-ve	AG-PTCP-RELAT.SG-GEN
 verb	iška	-ešk-a	ešk-3A.SG
@@ -917,9 +941,9 @@ verb	ulida	-ol-ed-a	ol-FUT-3A.SG
 verb	ulidu	-ol-id-o	ol-PL.A-TR.PFV
 verb	ulilida	-ol-il-ed-a	ol-il-FUT-3A.SG
 verb	ulillandu	-ol-ill-and-o	ol-ill-PL.A-MOD.PAT
-verb	u(-)lilli	-ol-il-i-le	ol-il-MOD.AG-1JUSS
-verb	u(-)lilli	-o	MOD.PAT
-verb	u(-)lilli	-u	MED
+verb	u(-)lillii	-ol-il-i-le	ol-il-MOD.AG-1JUSS
+verb	u(-)lillii	-o	MOD.PAT
+verb	u(-)lillii	-u	MED
 verb	ulimain	-ol-i+m+ai-n	ol-CVB-n
 verb	ulima	-ul-i=ma	ul-ANTIP=CON
 verb	ulima	-ul-i=ma	ul-TR.IMP=CON
@@ -1036,6 +1060,7 @@ verb	uštal	-ušt-a=l	RES-INT=3PL.ABS
 verb	ušta	-ož-d-a	PST-PL.A-3A
 verb	ušta	-ušt-a	RES-3A.SG
 verb	uštaw	-ošt-aw	RES-1A.SG
+verb	uštiiž	-ošt-i-ež	RES-MOD.AG-OPT
 verb	uštil	-o-ež=dil	MOD.PAT-OPT=1PL.ABS
 verb	uštil	-ošt-i=l	RES-ANTIP=3PL.ABS
 verb	uštil	-ošt-i=l	RES-TR.IMP=3PL.ABS
@@ -1043,7 +1068,6 @@ verb	uštil	-ušt-i=l	RES-ANTIP=3PL.ABS
 verb	uštil	-ušt-i=l	RES-TR.IMP=3PL.ABS
 verb	ušti	-ošt-i	RES-ANTIP
 verb	ušti	-ošt-i	RES-TR.IMP
-verb	uštiž	-ošt-i-ež	RES-MOD.AG-OPT
 verb	uštugariža	-ošt-ugar-iž-a	RES-RECIP-iž-3A.SG
 verb	uštum	-ošt-o-m	RES-TR.PFV-3A.SG
 verb	uštum	-ušt-o=m	RES-MOD.PAT=CON
