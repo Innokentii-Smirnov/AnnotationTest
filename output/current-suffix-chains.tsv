@@ -31,9 +31,7 @@ ADJ	ra	-ra	COM
 ADJ	už	-ož	EQU
 ADJ	ž	-ž	ERG
 ADV			
-ADV	a		
 ADV	amma	-a=mma	ESS=CON
-ADV	am	=m	=COM
 ADV	d	=d	=1SG.ABS
 ADV	ma	=ma	=CON
 ADV	m	=m	=2SG.ABS
@@ -196,7 +194,6 @@ noun	ḫina	-ġe-na	ADJ-RELAT.PL.ABS
 noun	ḫinama	-ġe-na=ma	ADJ-RELAT.PL.ABS=CON
 noun	ḫinamma	-ġe-na=mma	ADJ-RELAT.PL.ABS=CON
 noun	(-)ḫuštal		.ABS
-noun	i		.ABS
 noun	ia	-e-a	3POSS.SG-ESS
 noun	i	-ae	INS
 noun	ia	-i-a	3POSS.SG-ESS
@@ -223,14 +220,11 @@ noun	ii	-i-e	3POSS.SG-DIR/LOC
 noun	iimma	-i-e=mma	3POSS.SG-DIR/LOC=2SG.ABS
 noun	iimma	-i-e=mma	3POSS.SG-DIR/LOC=CON
 noun	il	-i=l	3POSS.SG.ABS=3PL.ABS
-noun	-il	=l	=3PL.ABS
 noun	imma	-e=mma	3POSS.SG.ABS=2SG.ABS
 noun	imma	-e=mma	3POSS.SG.ABS=CON
 noun	induž	-ind-o-ež	PL.A-MOD.PAT-OPT
-noun	inin	-ve-ne-n	GEN-RELAT.SG-ABL/INS
 noun	ippi	-iffe	1POSS.SG.ABS
 noun	ippubi	-iffu-ve	1POSS.SG-GEN
-noun	i	-ve	GEN
 noun	iž	-e-ž	3POSS.SG-ERG
 noun	iž	-i-ž	3POSS.SG-ERG
 noun	lilla	-ne-e=lla	RELAT.SG-DIR/LOC=3PL.ABS
@@ -420,7 +414,6 @@ noun	ubadi	-o-vade	PAT-ADJ.NEG.ABS
 noun	udal	-oda=l	DIR=3PL.ABS
 noun	uda	-oda	DIR
 noun	uliž	-o-l-ež	MOD.PAT-l-OPT
-noun	ul	=l	.ABS=3PL.ABS
 noun	ul	-ož=l	ERG=3PL.ABS
 noun	urulaiž	-ur-o-l-ai-ž	ur-MOD.PAT-l-PURP-ž
 noun	uwa	-u-a	MED-3A.SG
@@ -450,7 +443,6 @@ NUM	an	-i-a=n	3POSS.SG-ESS=3SG.ABS
 NUM	aža	-i-až-a	3POSS-PL-DAT/ESS
 NUM	ažuž	-i-až-ož	3POSS-PL-ERG
 NUM	b	=v	.ABS=2PL.ABS
-NUM	i		.ABS
 NUM	l	-ž=l	ERG=3PL.ABS
 NUM	ma	=ma	.ABS=CON
 NUM	na	-na	RELAT.PL.ABS

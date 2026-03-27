@@ -432,16 +432,6 @@
 				]
 			}
 		],
-		"am": [
-			{
-				"surfaceForm": "am",
-				"segmentation": "=m",
-				"morphTag": "=COM",
-				"sources": [
-					"abinam @ avi+n=m @ vorne"
-				]
-			}
-		],
 		"ma": [
 			{
 				"surfaceForm": "ma",
@@ -496,16 +486,6 @@
 				"morphTag": "RELAT.SG-ERG",
 				"sources": [
 					"arduġiniž @ ard+o+ġe-ne-ž @ städtisch?"
-				]
-			}
-		],
-		"a": [
-			{
-				"surfaceForm": "a",
-				"segmentation": "",
-				"morphTag": "",
-				"sources": [
-					"tūria @ tūri @ unten; hinab"
 				]
 			}
 		],
@@ -886,17 +866,6 @@
 				"morphTag": "INT",
 				"sources": [
 					"šenda @ šindi-a @ sieben"
-				]
-			}
-		],
-		"i": [
-			{
-				"surfaceForm": "i",
-				"segmentation": "",
-				"morphTag": ".ABS",
-				"sources": [
-					"kīgie @ kīge @ drei",
-					"šēžie @ šēžē @ sechs"
 				]
 			}
 		],
@@ -3773,16 +3742,6 @@
 				]
 			}
 		],
-		"-il": [
-			{
-				"surfaceForm": "-il",
-				"segmentation": "=l",
-				"morphTag": "=3PL.ABS",
-				"sources": [
-					"E-el @ E=l @ Deich; Kanal"
-				]
-			}
-		],
 		"bal": [
 			{
 				"surfaceForm": "bal",
@@ -3896,24 +3855,6 @@
 					"neri @ nera-i @ Mutter",
 					"nēri @ nera-i @ Mutter",
 					"šēni @ šena-i @ Bruder"
-				]
-			},
-			{
-				"surfaceForm": "i",
-				"segmentation": "-ve",
-				"morphTag": "GEN",
-				"sources": [
-					"ḫēbādōi @ Ḫēbādu-ve @ DN"
-				]
-			},
-			{
-				"surfaceForm": "i",
-				"segmentation": "",
-				"morphTag": ".ABS",
-				"sources": [
-					"fārie @ fārē @ u.B.",
-					"fāġie @ pāġi @ Kopf",
-					"ḫāžimmie @ ḫāži+mmē @ u.B."
 				]
 			}
 		],
@@ -5653,16 +5594,6 @@
 				]
 			}
 		],
-		"inin": [
-			{
-				"surfaceForm": "inin",
-				"segmentation": "-ve-ne-n",
-				"morphTag": "GEN-RELAT.SG-ABL/INS",
-				"sources": [
-					"apsōenin @ Apsu-ve-ne-n @ GN"
-				]
-			}
-		],
 		"bai": [
 			{
 				"surfaceForm": "bai",
@@ -6594,14 +6525,6 @@
 				"sources": [
 					"kalgamižul @ Kalgamiž-ož=l @ Gilgamesh (PN; DN)",
 					"nikkalul @ Nikkal-ož=l @ DN"
-				]
-			},
-			{
-				"surfaceForm": "ul",
-				"segmentation": "=l",
-				"morphTag": ".ABS=3PL.ABS",
-				"sources": [
-					"nikkalul @ Nikkal=l @ DN"
 				]
 			}
 		],
