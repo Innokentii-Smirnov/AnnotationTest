@@ -20605,9 +20605,7 @@
 	},
 	{
 		"trans": "]x-kulella",
-		"mrp1": "]x-ku-ne-e=lla @  @ RELAT.SG-DIR/LOC=3PL.ABS @ noun @ ",
-		"mrp2": "]x-ku-ne-ž=lla @  @ RELAT.SG-ERG=3PL.ABS @ noun @ ",
-		"mrp3": "]x-ku-ne=lla @  @ ABL/INS=3PL.ABS @ noun @ "
+		"mrp1": "]x-kulel-l-a @  @ l-INT @ verb @ "
 	},
 	{
 		"trans": "]x-la",
@@ -21293,7 +21291,10 @@
 	},
 	{
 		"trans": "]x-ša",
-		"mrp1": "]x-va @  @ DAT @ noun @ "
+		"mrp1": "]x-ša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-š-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-š-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-š-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-šarinzinel",
@@ -21306,7 +21307,10 @@
 	},
 	{
 		"trans": "]x-ša",
-		"mrp1": "]x-va @  @ DAT @ noun @ "
+		"mrp1": "]x-ša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-š-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-š-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-š-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-ša(-)[",
@@ -23741,7 +23745,10 @@
 	},
 	{
 		"trans": "]x-linx-x-ša",
-		"mrp1": "]x-linx-x-va @  @ DAT @ noun @ "
+		"mrp1": "]x-linx-x-ša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-linx-x-š-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-linx-x-š-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-linx-x-š-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-lib",
@@ -25288,7 +25295,10 @@
 	},
 	{
 		"trans": "]x-tapša",
-		"mrp1": "]x-tap-va @  @ DAT @ noun @ "
+		"mrp1": "]x-tapša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-tapš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-tapš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-tapš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-tab",
@@ -25300,7 +25310,10 @@
 	},
 	{
 		"trans": "]x-tapša",
-		"mrp1": "]x-tap-va @  @ DAT @ noun @ "
+		"mrp1": "]x-tapša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-tapš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-tapš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-tapš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-tarra",
@@ -26243,7 +26256,10 @@
 	},
 	{
 		"trans": "]x-x-ša",
-		"mrp1": "]x-x-va @  @ DAT @ noun @ "
+		"mrp1": "]x-x-ša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-x-š-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-x-š-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-x-š-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-x-šikx["
@@ -26782,7 +26798,10 @@
 	},
 	{
 		"trans": "]x-ša",
-		"mrp1": "]x-va @  @ DAT @ noun @ "
+		"mrp1": "]x-ša @  @ .ABS @ ADJ @ ",
+		"mrp2": "]x-š-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "]x-š-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "]x-š-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "]x-ša(-)x["
@@ -37176,7 +37195,10 @@
 	},
 	{
 		"trans": "kipša",
-		"mrp1": "kip-va @  @ DAT @ noun @ "
+		"mrp1": "kipša @  @ .ABS @ ADJ @ ",
+		"mrp2": "kipš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "kipš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "kipš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "kišḫida",
@@ -40475,7 +40497,10 @@
 	},
 	{
 		"trans": "ḫāwša",
-		"mrp1": "ḫāw-va @  @ DAT @ noun @ "
+		"mrp1": "ḫāwša @  @ .ABS @ ADJ @ ",
+		"mrp2": "ḫāwš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "ḫāwš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "ḫāwš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "ḫāžāri",
@@ -77651,7 +77676,10 @@
 	},
 	{
 		"trans": "nēlēpša",
-		"mrp1": "nēlēp-va @  @ DAT @ noun @ "
+		"mrp1": "nēlēpša @  @ .ABS @ ADJ @ ",
+		"mrp2": "nēlēpš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "nēlēpš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "nēlēpš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "nēlōž",
@@ -104693,7 +104721,10 @@
 	},
 	{
 		"trans": "šepša",
-		"mrp1": "šep-va @  @ DAT @ noun @ "
+		"mrp1": "šepša @  @ .ABS @ ADJ @ ",
+		"mrp2": "šepš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "šepš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "šepš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "šepšen[āža]",
@@ -112813,7 +112844,10 @@
 	},
 	{
 		"trans": "ḫāwša",
-		"mrp1": "ḫāw-va @  @ DAT @ noun @ "
+		"mrp1": "ḫāwša @  @ .ABS @ ADJ @ ",
+		"mrp2": "ḫāwš-a @  @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ ",
+		"mrp3": "ḫāwš-i-a @  @ TR-3A.SG @ verb @ ",
+		"mrp4": "ḫāwš-a @  @ ESS @ ADJ @ "
 	},
 	{
 		"trans": "ḫāwšuži",

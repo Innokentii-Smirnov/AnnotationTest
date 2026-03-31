@@ -4170,7 +4170,7 @@
 <w trans="]x-kix["><del_fin/>x-<laes_in/>ki<laes_fin/>-x<del_in/></w>
 <w trans="]x-ku" mrp1="]x-ku @ @ .ABS @ noun @ " mrp2="]x-ku @ @ .ABS @ ADJ @ " mrp3="]x-k-u @ @ MED @ verb @ " mrp4="]x-k-o @ @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "><del_fin/>x-<laes_in/>ku</w>
 <w trans="]x-kōra" mrp1="]x-k-ur-a @ @ ur-INT @ verb @ "><del_fin/>x-<laes_in/>ku<corr c="?"/><laes_fin/>-u-ra</w>
-<w trans="]x-kulella" mrp1="]x-ku-ne-e=lla @ @ RELAT.SG-DIR/LOC=3PL.ABS @ noun @ " mrp2="]x-ku-ne-ž=lla @ @ RELAT.SG-ERG=3PL.ABS @ noun @ " mrp3="]x-ku-ne=lla @ @ ABL/INS=3PL.ABS @ noun @ "><del_fin/>x-<laes_in/>ku<laes_fin/>-le-el-la</w>
+<w trans="]x-kulella" mrp1="]x-kulel-l-a @ @ l-INT @ verb @ "><del_fin/>x-<laes_in/>ku<laes_fin/>-le-el-la</w>
 <w trans="]x-la" mrp1="]x-l-a @ @ l-INT @ verb @ "><del_fin/>x-<laes_in/>la</w>
 <w trans="]x-lai" mrp1="]x-l-ae @ @ INS @ noun @ " mrp2="]x-l-ae @ @ INS @ ADJ @ "><del_fin/>x-<laes_in/>la<laes_fin/>-i</w>
 <w trans="]x-laburižāi" mrp1="]x-laburiž-ae @ @ INS @ noun @ " mrp2="]x-laburiž-i-ai @ @ MOD.AG-PURP @ verb @ " mrp3="]x-laburiž-ae @ @ INS @ ADJ @ "><del_fin/>x-<laes_in/>la<laes_fin/>-pu-ri-ša-a-i</w>
@@ -4301,10 +4301,10 @@
 <w trans="]x-ur[i"><del_fin/>x-<laes_in/>ú<laes_fin/>-r<del_in/>i-</w>
 <w trans="]x-uži" mrp1="]x-ož-i @ @ PST-ANTIP @ verb @ "><del_fin/>x-<laes_in/>ú<laes_fin/>-ši</w>
 <w trans="]x-šānnil" mrp1="]x-šān-ne-ž=l @ @ RELAT.SG-ERG=3PL.ABS @ noun @ " mrp2="]x-šān-ne=l @ @ ABL/INS=3PL.ABS @ noun @ " mrp3="]x-šān-ne-e=l @ @ RELAT.SG-DIR/LOC=3PL.ABS @ noun @ "><del_fin/>x-<laes_in/>ša<corr c="?"/>-a<laes_fin/>-an-ni-il<note c=" Das &lt;SP_f_AO_3a_SIGN&gt;IL&lt;/SP_f_AO_3a_SIGN&gt; wurde ursprünglich vergessen und nachträglich in kleinerer Schrift nach rechts oben geneigt hinzugefügt." n="2"/></w>
-<w trans="]x-ša" mrp1="]x-va @ @ DAT @ noun @ "><del_fin/>x-<laes_in/>ša<corr c="?"/><laes_fin/></w>
+<w trans="]x-ša" mrp1="]x-ša @ @ .ABS @ ADJ @ " mrp2="]x-š-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-š-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-š-a @ @ ESS @ ADJ @ "><del_fin/>x-<laes_in/>ša<corr c="?"/><laes_fin/></w>
 <w trans="]x-šarinzinel" mrp1="]x-šarinzi-ne-ž=l @ @ RELAT.SG-ERG=3PL.ABS @ noun @ " mrp2="]x-šarinzi-ne=l @ @ ABL/INS=3PL.ABS @ noun @ " mrp3="]x-šarinzi-ne-e=l @ @ RELAT.SG-DIR/LOC=3PL.ABS @ noun @ "><del_fin/>x-<laes_in/>ša<corr c="?"/><laes_fin/>-ri-in-zi-ni-el</w>
 <w trans="]x-šax["><del_fin/>x-<laes_in/>ša<corr c="?"/><laes_fin/>-x<del_in/></w>
-<w trans="]x-ša" mrp1="]x-va @ @ DAT @ noun @ "><del_fin/>x-<laes_in/>ša<laes_fin/></w>
+<w trans="]x-ša" mrp1="]x-ša @ @ .ABS @ ADJ @ " mrp2="]x-š-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-š-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-š-a @ @ ESS @ ADJ @ "><del_fin/>x-<laes_in/>ša<laes_fin/></w>
 <w trans="]x-ša(-)[" mrp1="]x-ša(-) @ @ .ABS @ noun @ " mrp2="]x-ša(-) @ @ .ABS @ ADJ @ "><del_fin/>x-<laes_in/>ša<laes_fin/>(-)<del_in/></w>
 <w trans="]x-šan" mrp1="]x-š=an @ @ .ABS=CON @ noun @ " mrp2="]x-š-a=n @ @ ESS=3SG.ABS @ noun @ "><del_fin/>x-<laes_in/>ša<laes_fin/>-an</w>
 <w trans="]x-šannan" mrp1="]x-šan-n=an @ @ ABL/INS=CON @ noun @ " mrp2="]x-šan=n=an @ @ =3SG.ABS=CON @ noun @ "><del_fin/>x-<laes_in/>ša<laes_fin/>-an-na-an</w>
@@ -4760,7 +4760,7 @@
 <w trans="]x-līmā" mrp1="]x-l-i=ma @ @ { a → ANTIP=CON} { b → TR.IMP=CON} @ verb @ "><del_fin/>x-li-i-ma-a</w>
 <w trans="]x-liax["><del_fin/>x-li-ia-x<del_in/></w>
 <w trans="]x-likx["><del_fin/>x-li-ik-x<del_in/></w>
-<w trans="]x-linx-x-ša" mrp1="]x-linx-x-va @ @ DAT @ noun @ "><del_fin/>x-li-in-x-x-ša</w>
+<w trans="]x-linx-x-ša" mrp1="]x-linx-x-ša @ @ .ABS @ ADJ @ " mrp2="]x-linx-x-š-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-linx-x-š-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-linx-x-š-a @ @ ESS @ ADJ @ "><del_fin/>x-li-in-x-x-ša</w>
 <w trans="]x-lib" mrp1="]x-l-i-b @ @ ANTIP-b @ verb @ " mrp2="]x-l-i=v @ @ { a → ANTIP=2PL.ABS} { b → TR.IMP=2PL.ABS} @ verb @ " mrp3="]x-l-i=m @ @ ANTIP=CON @ verb @ "><del_fin/>x-li-ip</w>
 <w trans="]x-liffē" mrp1="]x-l-iffe @ @ 1POSS.SG.ABS @ noun @ "><del_fin/>x-li-ip-we<subscr c="e"/>-e</w>
 <w trans="]x-lilān(-)[" mrp1="]x-lilān(-) @ @ .ABS @ noun @ " mrp2="]x-lilān(-) @ @ .ABS @ ADJ @ "><del_fin/>x-li-la-a-an(-)<del_in/></w>
@@ -5066,9 +5066,9 @@
 <w trans="]x-tažal" mrp1="]x-t-i-až-a=l @ @ 3POSS-PL-DAT/ESS=3PL.ABS @ noun @ "><del_fin/>x-ta-ša-al</w>
 <w trans="]x-tal" mrp1="]x-t-a=l @ @ { a → ESS=3PL.ABS} { b → .ABS-EPNTH=3PL.ABS} @ noun @ " mrp2="]x-t-a=l @ @ INT=3PL.ABS @ verb @ "><del_fin/>x-tal</w>
 <w trans="]x-talla" mrp1="]x-t-a=lla @ @ ESS=3PL.ABS @ noun @ " mrp2="]x-t-a=lla @ @ INT=3PL.ABS @ verb @ "><del_fin/>x-tal-la<note c=" Oder: &lt;SP_f_AO_3a_Hurrian&gt;&lt;del_fin/&gt;x-ri-la&lt;/SP_f_AO_3a_Hurrian&gt;." n="2"/></w>
-<w trans="]x-tapša" mrp1="]x-tap-va @ @ DAT @ noun @ "><del_fin/>x-tap-ša</w>
+<w trans="]x-tapša" mrp1="]x-tapša @ @ .ABS @ ADJ @ " mrp2="]x-tapš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-tapš-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-tapš-a @ @ ESS @ ADJ @ "><del_fin/>x-tap-ša</w>
 <w trans="]x-tab" mrp1="]x-t-a-b @ @ INT-b @ verb @ " mrp2="]x-t-a=v @ @ ESS=2PL.ABS @ noun @ " mrp3="]x-t-i-a=m @ @ 3POSS.SG-ESS=CON @ noun @ " mrp4="]x-t-a=m @ @ { a → INT=CON} { b → INT=2SG.ABS} @ verb @ " mrp5="]x-t-a=v @ @ { a → INT=2PL.ABS} { b → INT.IMP=2PL.ABS} @ verb @ "><del_fin/>x-tap<corr c="?"/></w>
-<w trans="]x-tapša" mrp1="]x-tap-va @ @ DAT @ noun @ "><del_fin/>x-tap<corr c="?"/>-ša</w>
+<w trans="]x-tapša" mrp1="]x-tapša @ @ .ABS @ ADJ @ " mrp2="]x-tapš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-tapš-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-tapš-a @ @ ESS @ ADJ @ "><del_fin/>x-tap<corr c="?"/>-ša</w>
 <w trans="]x-tarra" mrp1="]x-tar-ra @ @ COM @ noun @ " mrp2="]x-tar-ra @ @ COM @ ADJ @ "><del_fin/>x-tar-ra</w>
 <w trans="]x-taḫsīd[i"><del_fin/>x-taḫ-zi-i-t<del_in/>i<corr c="?"/></w>
 <w trans="]x-te" mrp1="]x-d-i @ @ d-ANTIP @ verb @ "><del_fin/>x-te</w>
@@ -5249,7 +5249,7 @@
 <w trans="]x-x-ti" mrp1="]x-x-d-i @ @ d-ANTIP @ verb @ "><del_fin/>x-x-<laes_in/>ti<corr c="?"/><laes_fin/></w>
 <w trans="]x-x-tiġia" mrp1="]x-x-tiġ-i-a @ @ TR-3A.SG @ verb @ " mrp2="]x-x-tiġ-i-a @ @ 3POSS.SG-ESS @ noun @ " mrp3="]x-x-tiġ-e-a @ @ 3POSS.SG-ESS @ noun @ "><del_fin/>x-x-<laes_in/>ti<corr c="?"/><laes_fin/>-ḫi-ia</w>
 <w trans="]x-x-unna" mrp1="]x-x-o=nna @ @ MOD.PAT=3SG.ABS @ verb @ "><del_fin/>x-x-<laes_in/>un<laes_fin/>-na</w>
-<w trans="]x-x-ša" mrp1="]x-x-va @ @ DAT @ noun @ "><del_fin/>x-x-<laes_in/>ša<laes_fin/></w>
+<w trans="]x-x-ša" mrp1="]x-x-ša @ @ .ABS @ ADJ @ " mrp2="]x-x-š-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-x-š-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-x-š-a @ @ ESS @ ADJ @ "><del_fin/>x-x-<laes_in/>ša<laes_fin/></w>
 <w trans="]x-x-šikx["><del_fin/>x-x-<laes_in/>ši-ik<laes_fin/>-x<del_in/></w>
 <w trans="]x-x-ḫida" mrp1="]x-x-ḫ-i-da @ @ 3POSS.SG-DIR @ noun @ " mrp2="]x-x-ḫ-ed-a @ @ FUT-3A.SG @ verb @ " mrp3="]x-x-ḫ-id-a @ @ PL.A-3A @ verb @ " mrp4="]x-x-ḫ-id-en @ @ PL.A-3JUSS @ verb @ " mrp5="]x-x-ḫ-i-d-a @ @ TR-PL.A-3A @ verb @ " mrp6="]x-x-ḫ-e-da @ @ 3POSS.SG-DIR @ noun @ "><del_fin/>x-x-<laes_in/>ḫi<laes_fin/>-da</w>
 <w trans="]x-x-ād" mrp1="]x-x-a=d @ @ ESS=1SG.ABS @ noun @ " mrp2="]x-x-a=d @ @ INT=1SG.ABS @ verb @ "><del_fin/>x-x-a-at</w>
@@ -5351,7 +5351,7 @@
 <w trans="]x-urx["><del_fin/>x-úr<corr c="?"/>-x<del_in/></w>
 <w trans="]x-š[a(-)" mrp1="]x-š[a(-) @ @ .ABS @ noun @ " mrp2="]x-š[a(-) @ @ .ABS @ ADJ @ "><del_fin/>x-š<del_in/>a(-)</w>
 <w trans="]x-š[u"><del_fin/>x-š<del_in/>u-</w>
-<w trans="]x-ša" mrp1="]x-va @ @ DAT @ noun @ "><del_fin/>x-ša</w>
+<w trans="]x-ša" mrp1="]x-ša @ @ .ABS @ ADJ @ " mrp2="]x-š-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="]x-š-i-a @ @ TR-3A.SG @ verb @ " mrp4="]x-š-a @ @ ESS @ ADJ @ "><del_fin/>x-ša</w>
 <w trans="]x-ša(-)x["><del_fin/>x-ša(-)x<del_in/></w>
 <w trans="]x-ša["><del_fin/>x-ša-<del_in/></w>
 <w trans="]x-šā["><del_fin/>x-ša-a-<del_in/></w>
@@ -7374,7 +7374,7 @@
 <w trans="kiptu" mrp1="kipt-u @ u.B. @ MED @ verb @ " mrp2="kipt-o @ u.B. @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "><laes_in/>ki<laes_fin/>-ip-du</w>
 <w trans="kibridiž" mrp1="kibridi-i-ž @ Sulfur? @ 3POSS.SG-ERG @ noun @ " mrp2="kibridi-e-ž @ Sulfur? @ 3POSS.SG-ERG @ noun @ "><laes_in/>ki<laes_fin/>-ip-ri-<laes_in/>ti<laes_fin/>-iš</w>
 <w trans="kiptu" mrp1="kipt-u @ u.B. @ MED @ verb @ " mrp2="kipt-o @ u.B. @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ "><laes_in/>ki<laes_fin/>-ip-tu</w>
-<w trans="kipša" mrp1="kip-va @ @ DAT @ noun @ "><laes_in/>ki<laes_fin/>-ip-ša</w>
+<w trans="kipša" mrp1="kipša @ @ .ABS @ ADJ @ " mrp2="kipš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="kipš-i-a @ @ TR-3A.SG @ verb @ " mrp4="kipš-a @ @ ESS @ ADJ @ "><laes_in/>ki<laes_fin/>-ip-ša</w>
 <w trans="kišḫida" mrp1="kešḫi-i-da @ Thron @ 3POSS.SG-DIR @ noun @ " mrp2="kešḫi-da @ Thron @ DIR @ noun @ "><laes_in/>ki<laes_fin/>-iš-ḫi-ta</w>
 <w trans="kilōla" mrp1="kēl-ol-a @ wohl sein; wohl machen @ ol-3A.SG @ verb @ "><laes_in/>ki<laes_fin/>-lu-<ras_in/>u<ras_fin/>-la</w>
 <w trans="kilulib" mrp1="kēl-ol-i-b @ wohl sein; wohl machen @ ol-ANTIP-b @ verb @ " mrp2="kil-ol-i-b @ u.B. @ ol-ANTIP-b @ verb @ "><laes_in/>ki<laes_fin/>-lu-li-ip</w>
@@ -8024,7 +8024,7 @@
 <w trans="šur["><laes_in/>šur<laes_fin/>-<del_in/><note c=" So nach Foto und Vergleich mit Vs. 12′. " n="5"/></w>
 <w trans="ḫāriani" mrp1="ḫāri-i-ane @ Weg @ 3POSS.SG-ABL/INS @ noun @ " mrp2="ḫāri-i-ane @ u.B. @ 3POSS.SG-ABL/INS @ noun @ " mrp3="ḫārē-i-ane @ u.B. @ 3POSS.SG-ABL/INS @ noun @ " mrp4="ḫāri-an-i @ Weg @ an-ANTIP @ noun @ " mrp5="ḫāri-an-i @ u.B. @ an-ANTIP @ noun @ " mrp6="ḫārē-an-i @ u.B. @ an-ANTIP @ noun @ "><laes_in/>ḫa-a-ri-ia<laes_fin/>-ni</w>
 <w trans="ḫāōppu[l" mrp1="ḫa-uffu=l @ nehmen @ 1A.SG.NEG=3PL.ABS @ verb @ "><laes_in/>ḫa-a-u<laes_fin/>-up-pu-u<del_in/>l</w>
-<w trans="ḫāwša" mrp1="ḫāw-va @ @ DAT @ noun @ "><laes_in/>ḫa-a-ú<laes_fin/>-ša</w>
+<w trans="ḫāwša" mrp1="ḫāwša @ @ .ABS @ ADJ @ " mrp2="ḫāwš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="ḫāwš-i-a @ @ TR-3A.SG @ verb @ " mrp4="ḫāwš-a @ @ ESS @ ADJ @ "><laes_in/>ḫa-a-ú<laes_fin/>-ša</w>
 <w trans="ḫāžāri" mrp1="ḫāž+ar+i @ Öl @ .ABS @ noun @ " mrp2="-ar-i @ salben @ ITER-ANTIP @ verb @ "><laes_in/>ḫa-a-ša<laes_fin/>-a-ri</w>
 <w trans="ḫāžar[i" mrp1="ḫāž+ar+i @ Öl @ .ABS @ noun @ " mrp2="-ar-i @ salben @ ITER-ANTIP @ verb @ "><laes_in/>ḫa-a-ša<laes_fin/>-r<del_in/>i</w>
 <w trans="ḫāžar[ri" mrp1="ḫāž+arri @ Öl @ .ABS @ noun @ " mrp2="ḫāž+ar+i-ne-e @ Öl @ RELAT.SG-DIR/LOC @ noun @ " mrp3="ḫāž+arri-ž @ Öl @ ERG @ noun @ "><laes_in/>ḫa-a-šar<laes_fin/>-<del_in/>ri</w>
@@ -15562,7 +15562,7 @@
 <w trans="nēan" mrp1="nē=an @ @ .ABS=CON @ noun @ " mrp2="nē-a=n @ @ ESS=3SG.ABS @ noun @ ">ne-e-ia-an</w>
 <w trans="nēabinež]" mrp1="nēa-ve-ne-ž @ @ GEN-RELAT.SG-ERG @ noun @ ">ne-e-ia-pí-ni-eš<del_fin/></w>
 <w trans="nēgin[e(-)" mrp1="nēgi-ne @ u.B. @ ABL/INS @ noun @ " mrp2="nēgi-ne-e @ u.B. @ RELAT.SG-DIR/LOC @ noun @ ">ne-e-ki-n<del_in/>e(-)</w>
-<w trans="nēlēpša" mrp1="nēlēp-va @ @ DAT @ noun @ ">ne-e-li-e-ip-ša</w>
+<w trans="nēlēpša" mrp1="nēlēpša @ @ .ABS @ ADJ @ " mrp2="nēlēpš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="nēlēpš-i-a @ @ TR-3A.SG @ verb @ " mrp4="nēlēpš-a @ @ ESS @ ADJ @ ">ne-e-li-e-ip-ša</w>
 <w trans="nēlōž" mrp1="nēli-ož @ Honig @ EQU @ noun @ " mrp2="nil-o-ež @ u.B. @ MOD.PAT-OPT @ verb @ " mrp3="nili-ož @ u.B. @ EQU @ noun @ ">ne-e-lu-u-uš</w>
 <w trans="nēbāža" mrp1="nēb+ā+že-a @ u.B. @ ESS @ noun @ ">ne-e-pa-<laes_in/>a<laes_fin/>-ša</w>
 <w trans="nēbiġi" mrp1="nēbi-ġe @ @ ADJ.ABS @ noun @ ">ne-e-pí-ḫi</w>
@@ -20995,7 +20995,7 @@
 <w trans="šelbunā" mrp1="šelb-on-a @ @ { a → on-3A.SG} { b → on-INT} @ verb @ ">še-el-pu-na-a</w>
 <w trans="šendena" mrp1="šindi-na @ sieben @ RELAT.PL.ABS @ NUM @ ">še-en-te-na</w>
 <w trans="šepš[i">še-ep-š<del_in/>i</w>
-<w trans="šepša" mrp1="šep-va @ @ DAT @ noun @ ">še-ep-ša</w>
+<w trans="šepša" mrp1="šepša @ @ .ABS @ ADJ @ " mrp2="šepš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="šepš-i-a @ @ TR-3A.SG @ verb @ " mrp4="šepš-a @ @ ESS @ ADJ @ ">še-ep-ša</w>
 <w trans="šepšen[āža]" mrp1="šepše-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ noun @ " mrp2="šepše-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ ADJ @ ">še-ep-še-n<del_in/>a-a-ša<del_fin/></w>
 <w trans="šepšenā[ža" mrp1="šepše-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ noun @ " mrp2="šepše-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ ADJ @ ">še-ep-še-na-a-<del_in/>ša</w>
 <w trans="šepšenāža" mrp1="šepše-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ noun @ " mrp2="šepše-na-až-a @ @ RELAT.PL-PL-DAT/ESS @ ADJ @ ">še-ep-še-na-a-ša</w>
@@ -22541,7 +22541,7 @@
 <w trans="ḫāwša(-)[" mrp1="ḫa-ož-a @ nehmen @ PST-3A.SG @ verb @ ">ḫa-a-ú-<laes_in/>ša<laes_fin/>(-)<del_in/></w>
 <w trans="ḫāwura" mrp1="ḫāw-ur-a @ @ ur-INT @ verb @ ">ḫa-a-ú-u-ra<corr c="?"/></w>
 <w trans="ḫāwuppu" mrp1="ḫāw-uffu @ @ 1A.SG.NEG @ verb @ ">ḫa-a-ú-up-pu</w>
-<w trans="ḫāwša" mrp1="ḫāw-va @ @ DAT @ noun @ ">ḫa-a-ú-ša</w>
+<w trans="ḫāwša" mrp1="ḫāwša @ @ .ABS @ ADJ @ " mrp2="ḫāwš-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp3="ḫāwš-i-a @ @ TR-3A.SG @ verb @ " mrp4="ḫāwš-a @ @ ESS @ ADJ @ ">ḫa-a-ú-ša</w>
 <w trans="ḫāwšuži" mrp1="ḫāwš-ož-i @ @ PST-ANTIP @ verb @ ">ḫa-a-ú-šu-ši</w>
 <w trans="ḫāž[i">ḫa-a-š<del_in/>i</w>
 <w trans="ḫāž[i">ḫa-a-š<del_in/>i<corr c="?"/>-<note c=" Oder: ḫa-a-a&lt;del_in/&gt;r-." n="21"/></w>
