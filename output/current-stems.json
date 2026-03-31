@@ -30,7 +30,7 @@
 				"translation": "königlich (weiblich)"
 			}
 		],
-		"albubadi": [
+		"alpupati": [
 			{
 				"form": "alv+o+vade",
 				"translation": "u.B."
@@ -60,13 +60,13 @@
 				"translation": "weiblich"
 			}
 		],
-		"igunn": [
+		"ikunn": [
 			{
 				"form": "eg+o+nni",
 				"translation": "rein?; süß?"
 			}
 		],
-		"igun": [
+		"ikun": [
 			{
 				"form": "eg+o+nni",
 				"translation": "rein?; süß?"
@@ -76,43 +76,43 @@
 				"translation": "rein"
 			}
 		],
-		"igunni": [
+		"ikunni": [
 			{
 				"form": "eg+o+nni",
 				"translation": "rein?; süß?"
 			}
 		],
-		"paġraži": [
+		"paḫraši": [
 			{
 				"form": "faġr+a+že",
 				"translation": "gut; schön"
 			}
 		],
-		"paġruwadi": [
+		"paḫruwati": [
 			{
 				"form": "faġr+o+vāde",
 				"translation": "ungut"
 			}
 		],
-		"paġruž": [
+		"paḫruš": [
 			{
 				"form": "faġr+o+že",
 				"translation": "gut; schön"
 			}
 		],
-		"paġruži": [
+		"paḫruši": [
 			{
 				"form": "faġr+o+že",
 				"translation": "gut; schön"
 			}
 		],
-		"paġruwad": [
+		"paḫruwat": [
 			{
 				"form": "faġr+o+vāde",
 				"translation": "ungut"
 			}
 		],
-		"itkunduri": [
+		"itkunturi": [
 			{
 				"form": "itk+und+o+re",
 				"translation": "gereinigt"
@@ -124,7 +124,7 @@
 				"translation": "dauerhaft; lang"
 			}
 		],
-		"kiraži": [
+		"kiraši": [
 			{
 				"form": "ker+a+šše",
 				"translation": "dauerhaft; lang"
@@ -140,7 +140,7 @@
 				"translation": "lang?"
 			}
 		],
-		"kummuġi": [
+		"kummuḫi": [
 			{
 				"form": "kumm+ō+ġe",
 				"translation": "zu Kumme gehörig"
@@ -152,31 +152,31 @@
 				"translation": "zerstört?"
 			}
 		],
-		"naḫḫubad": [
+		"naḫḫupat": [
 			{
 				"form": "naḫḫ+o+vade",
 				"translation": "unbesiedelte"
 			}
 		],
-		"nirubadi": [
+		"nirupati": [
 			{
 				"form": "nir+o+bāde",
 				"translation": "ungut"
 			}
 		],
-		"ninuwaġi": [
+		"ninuwaḫi": [
 			{
 				"form": "ninuwa+ġe",
 				"translation": "ninivitisch"
 			}
 		],
-		"nirži": [
+		"nirši": [
 			{
 				"form": "nir+že",
 				"translation": "gut"
 			}
 		],
-		"nirž": [
+		"nirš": [
 			{
 				"form": "nir+že",
 				"translation": "gut"
@@ -188,49 +188,49 @@
 				"translation": "gebaut"
 			}
 		],
-		"paġrubadi": [
+		"paḫrupati": [
 			{
 				"form": "faġr+o+vāde",
 				"translation": "ungut"
 			}
 		],
-		"tabilia": [
+		"tapilia": [
 			{
 				"form": "tab+ilia",
 				"translation": "Gegossene"
 			}
 		],
-		"tagiži": [
+		"takiši": [
 			{
 				"form": "tage+že",
 				"translation": "hell"
 			}
 		],
-		"talabuži": [
+		"talapuši": [
 			{
 				"form": "talāv+o+že",
 				"translation": "groß"
 			}
 		],
-		"talamdi": [
+		"talamti": [
 			{
 				"form": "talam+di",
 				"translation": "groß"
 			}
 		],
-		"talmuġ": [
+		"talmuḫ": [
 			{
 				"form": "talm+oḫḫe",
 				"translation": "groß"
 			}
 		],
-		"talabaži": [
+		"talapaši": [
 			{
 				"form": "talāv+a+že",
 				"translation": "groß"
 			}
 		],
-		"tidibaduḫḫ": [
+		"titipatuḫḫ": [
 			{
 				"form": "tid+i+vad+o+ḫḫe",
 				"translation": "unzählig?"
@@ -248,7 +248,7 @@
 				"translation": "dunkel"
 			}
 		],
-		"tugrižuġ": [
+		"tukrišuḫ": [
 			{
 				"form": "tugriž+ō+ġe",
 				"translation": "von Tugriz"
@@ -264,13 +264,13 @@
 				"translation": "männlich"
 			}
 		],
-		"tadiašši": [
+		"tatiašši": [
 			{
 				"form": "tād+i+a+šše",
 				"translation": "die Liebende; die Liebliche"
 			}
 		],
-		"taguri": [
+		"takuri": [
 			{
 				"form": "tāg+ō+re",
 				"translation": "beleuchtet (?)"
@@ -282,7 +282,7 @@
 				"translation": "männlich"
 			}
 		],
-		"ubi": [
+		"upi": [
 			{
 				"form": "ove",
 				"translation": "töricht"
@@ -294,7 +294,7 @@
 				"translation": "töricht"
 			}
 		],
-		"ulbi": [
+		"ulpi": [
 			{
 				"form": "olvi",
 				"translation": "fremd?"
@@ -312,7 +312,7 @@
 				"translation": "verschluckte"
 			}
 		],
-		"šiġal": [
+		"šiḫal": [
 			{
 				"form": "šeġali",
 				"translation": "rein"
@@ -330,25 +330,25 @@
 				"translation": "ganz; gänzlich"
 			}
 		],
-		"šiduilia": [
+		"šituilia": [
 			{
 				"form": "šēd+oʾ+ilia",
 				"translation": "fett-gemachte"
 			}
 		],
-		"šiġali": [
+		"šiḫali": [
 			{
 				"form": "šeġali",
 				"translation": "rein"
 			}
 		],
-		"šiġalubad": [
+		"šiḫalupat": [
 			{
 				"form": "šēġal+o+bade",
 				"translation": "unrein"
 			}
 		],
-		"ḫattuġi": [
+		"ḫattuḫi": [
 			{
 				"form": "ḫatt+o+ġe",
 				"translation": "hethitisch"
@@ -360,13 +360,13 @@
 				"translation": "sämtliche"
 			}
 		],
-		"ḫimzatḫuži": [
+		"ḫimsatḫuši": [
 			{
 				"form": "ḫimz+atḫ+ō+že",
 				"translation": "gegürtet"
 			}
 		],
-		"ḫižmuž": [
+		"ḫišmuš": [
 			{
 				"form": "ḫižm+o+že",
 				"translation": "glänzend"
@@ -386,19 +386,19 @@
 				"translation": "rechts"
 			}
 		],
-		"abin": [
+		"apin": [
 			{
 				"form": "avi+n",
 				"translation": "vorne"
 			}
 		],
-		"abina": [
+		"apina": [
 			{
 				"form": "avi+n",
 				"translation": "vorne"
 			}
 		],
-		"adi": [
+		"ati": [
 			{
 				"form": "adi",
 				"translation": "so"
@@ -416,7 +416,7 @@
 				"translation": "so"
 			}
 		],
-		"arduġi": [
+		"artuḫi": [
 			{
 				"form": "ard+o+ġe",
 				"translation": "städtisch?"
@@ -440,13 +440,13 @@
 				"translation": "wie"
 			}
 		],
-		"pandin": [
+		"pantin": [
 			{
 				"form": "fandi+n",
 				"translation": "rechts"
 			}
 		],
-		"tarbu": [
+		"tarpu": [
 			{
 				"form": "tarbu",
 				"translation": "u.B."
@@ -530,7 +530,7 @@
 				"translation": "weiterhin; wieder; ferner"
 			}
 		],
-		"šinzuḫḫ": [
+		"šinsuḫḫ": [
 			{
 				"form": "šin+z+o+ḫḫe",
 				"translation": "zum anderen"
@@ -554,7 +554,7 @@
 				"translation": "gänzlich"
 			}
 		],
-		"šabui": [
+		"šapui": [
 			{
 				"form": "šāvō+e",
 				"translation": "u.B."
@@ -604,7 +604,7 @@
 				"translation": "falls; wenn"
 			}
 		],
-		"alaži": [
+		"alaši": [
 			{
 				"form": "alāže",
 				"translation": "ob; entweder"
@@ -634,7 +634,7 @@
 				"translation": "folgendermaßen"
 			}
 		],
-		"undu": [
+		"untu": [
 			{
 				"form": "ondu",
 				"translation": "nun"
@@ -734,7 +734,7 @@
 				"translation": "zehnter"
 			}
 		],
-		"imanži": [
+		"imanši": [
 			{
 				"form": "eman+že",
 				"translation": "zehnter"
@@ -746,7 +746,7 @@
 				"translation": "achtzehn"
 			}
 		],
-		"kirmanzi": [
+		"kirmansi": [
 			{
 				"form": "kir+mān+ze",
 				"translation": "achtzehnter"
@@ -758,25 +758,25 @@
 				"translation": "dritter"
 			}
 		],
-		"kigi": [
+		"kiki": [
 			{
 				"form": "kīge",
 				"translation": "drei"
 			}
 		],
-		"kigii": [
+		"kikii": [
 			{
 				"form": "kīge",
 				"translation": "drei"
 			}
 		],
-		"kig": [
+		"kik": [
 			{
 				"form": "kīge",
 				"translation": "drei"
 			}
 		],
-		"nubi": [
+		"nupi": [
 			{
 				"form": "nubi",
 				"translation": "zehntausend"
@@ -812,43 +812,43 @@
 				"translation": "vierter"
 			}
 		],
-		"immanzi": [
+		"immansi": [
 			{
 				"form": "eman+že",
 				"translation": "zehnter"
 			}
 		],
-		"šind": [
+		"šint": [
 			{
 				"form": "šindi",
 				"translation": "sieben"
 			}
 		],
-		"šindi": [
+		"šinti": [
 			{
 				"form": "šindi",
 				"translation": "sieben"
 			}
 		],
-		"šindai": [
+		"šintai": [
 			{
 				"form": "šindai",
 				"translation": "sieben"
 			}
 		],
-		"šindižuw": [
+		"šintišuw": [
 			{
 				"form": "šindi+ž+ūwi",
 				"translation": "siebter"
 			}
 		],
-		"šinz": [
+		"šins": [
 			{
 				"form": "šin+ze",
 				"translation": "zweiter"
 			}
 		],
-		"šinzi": [
+		"šinsi": [
 			{
 				"form": "šin+ze",
 				"translation": "zweiter"
@@ -872,7 +872,7 @@
 				"translation": "eins; einer"
 			}
 		],
-		"šindišši": [
+		"šintišši": [
 			{
 				"form": "šēnde+šše",
 				"translation": "siebter"
@@ -884,19 +884,19 @@
 				"translation": "sechster"
 			}
 		],
-		"šiž": [
+		"šiš": [
 			{
 				"form": "šēžē",
 				"translation": "sechs"
 			}
 		],
-		"šiži": [
+		"šiši": [
 			{
 				"form": "šēžē",
 				"translation": "sechs"
 			}
 		],
-		"šižii": [
+		"šišii": [
 			{
 				"form": "šēžē",
 				"translation": "sechs"
@@ -904,13 +904,13 @@
 		]
 	},
 	"POST": {
-		"abi": [
+		"api": [
 			{
 				"form": "avi",
 				"translation": "vor"
 			}
 		],
-		"igi": [
+		"iki": [
 			{
 				"form": "egi",
 				"translation": "mitten"
@@ -924,7 +924,7 @@
 		]
 	},
 	"PREP": {
-		"abi": [
+		"api": [
 			{
 				"form": "avi",
 				"translation": "vor"
@@ -936,7 +936,7 @@
 				"translation": "vor"
 			}
 		],
-		"igi": [
+		"iki": [
 			{
 				"form": "egi",
 				"translation": "in"
@@ -948,7 +948,7 @@
 				"translation": "in"
 			}
 		],
-		"ištaniž": [
+		"ištaniš": [
 			{
 				"form": "ištani",
 				"translation": "in"
@@ -960,7 +960,7 @@
 				"translation": "in"
 			}
 		],
-		"ištiniž": [
+		"ištiniš": [
 			{
 				"form": "išteni",
 				"translation": "in"
@@ -974,25 +974,25 @@
 		]
 	},
 	"PRON": {
-		"abi": [
+		"api": [
 			{
 				"form": "ave",
 				"translation": "wer; jeder"
 			}
 		],
-		"ag": [
+		"ak": [
 			{
 				"form": "agi",
 				"translation": "PRON.ALT"
 			}
 		],
-		"agi": [
+		"aki": [
 			{
 				"form": "agi",
 				"translation": "PRON.ALT"
 			}
 		],
-		"agu": [
+		"aku": [
 			{
 				"form": "ago",
 				"translation": "PRON.ALT"
@@ -1004,7 +1004,7 @@
 				"translation": "PRON.ALT"
 			}
 		],
-		"andi": [
+		"anti": [
 			{
 				"form": "andi",
 				"translation": "PRON.ANAPH"
@@ -1028,7 +1028,7 @@
 				"translation": "PRON.DEM"
 			}
 		],
-		"abii": [
+		"apii": [
 			{
 				"form": "ave",
 				"translation": "wer; jeder"
@@ -1046,7 +1046,7 @@
 				"translation": "1PRON.SG"
 			}
 		],
-		"iž": [
+		"iš": [
 			{
 				"form": "iž",
 				"translation": "1PRON.SG"
@@ -1126,7 +1126,7 @@
 				"translation": "DN"
 			}
 		],
-		"*ab": [
+		"*ap": [
 			{
 				"form": "avi",
 				"translation": "Gesicht"
@@ -1144,13 +1144,13 @@
 				"translation": "DN"
 			}
 		],
-		"tiššub": [
+		"tiššup": [
 			{
 				"form": "Teššob",
 				"translation": "DN"
 			}
 		],
-		"10-ub": [
+		"10-up": [
 			{
 				"form": "Teššob",
 				"translation": "DN"
@@ -1162,7 +1162,7 @@
 				"translation": "DN"
 			}
 		],
-		"10-šub": [
+		"10-šup": [
 			{
 				"form": "Teššob",
 				"translation": "DN"
@@ -1174,13 +1174,19 @@
 				"translation": "zweifach"
 			}
 		],
-		"kužuġ": [
+		"kušuḫ": [
 			{
 				"form": "Kužuġ",
 				"translation": "DN"
 			}
 		],
-		"30-uġ": [
+		"30-": [
+			{
+				"form": "Kužuġ",
+				"translation": "DN"
+			}
+		],
+		"30-uḫ": [
 			{
 				"form": "Kužuġ",
 				"translation": "DN"
@@ -1242,7 +1248,7 @@
 				"translation": "u.B."
 			}
 		],
-		"piduri": [
+		"pituri": [
 			{
 				"form": "pedōri",
 				"translation": "u.B."
@@ -1270,7 +1276,7 @@
 				"translation": "Gottheit"
 			}
 		],
-		"inzari": [
+		"insari": [
 			{
 				"form": "en+zari",
 				"translation": "Götterschaft"
@@ -1294,7 +1300,7 @@
 				"translation": "DN"
 			}
 		],
-		"šabuška": [
+		"šapuška": [
 			{
 				"form": "Šavoška",
 				"translation": "DN"
@@ -1356,12 +1362,6 @@
 				"translation": "Baum; Holz"
 			}
 		],
-		"kalgamiž": [
-			{
-				"form": "Kalgamiž",
-				"translation": "Gilgamesh (PN; DN)"
-			}
-		],
 		"GIŠ.GIM.MAŠ-": [
 			{
 				"form": "Kalgamiž",
@@ -1386,7 +1386,7 @@
 				"translation": "linke Seite; links"
 			}
 		],
-		"šapḫaldi": [
+		"šapḫalti": [
 			{
 				"form": "šapḫaldi",
 				"translation": "linke Seite; links"
@@ -1404,7 +1404,7 @@
 				"translation": "linke Seite; links"
 			}
 		],
-		"GÚ": [
+		"GÚ-": [
 			{
 				"form": "GÚ",
 				"translation": "Hals"
@@ -1458,7 +1458,7 @@
 				"translation": "DN"
 			}
 		],
-		"IŠKUR-ub": [
+		"IŠKUR-up": [
 			{
 				"form": "Teššob",
 				"translation": "DN"
@@ -1532,7 +1532,7 @@
 				"translation": "ein Leberteil"
 			}
 		],
-		"šindaġi": [
+		"šintaḫi": [
 			{
 				"form": "šindaġe",
 				"translation": "ein Leberteil"
@@ -1568,7 +1568,7 @@
 				"translation": "Feind"
 			}
 		],
-		"turubi": [
+		"turupi": [
 			{
 				"form": "torove",
 				"translation": "Feind"
@@ -1586,7 +1586,7 @@
 				"translation": "Feind"
 			}
 		],
-		"ibirnakka": [
+		"ipirnakka": [
 			{
 				"form": "ever+n+akka",
 				"translation": "König"
@@ -1616,7 +1616,7 @@
 				"translation": "König"
 			}
 		],
-		"LUGAL.GI": [
+		"LUGAL.GI-": [
 			{
 				"form": "LUGAL.GI",
 				"translation": "PN"
@@ -1634,7 +1634,7 @@
 				"translation": "PN"
 			}
 		],
-		"taġakka": [
+		"taḫakka": [
 			{
 				"form": "taġ+akka",
 				"translation": "Mann"
@@ -1658,7 +1658,7 @@
 				"translation": "Mann"
 			}
 		],
-		"igi": [
+		"iki": [
 			{
 				"form": "egi",
 				"translation": "Inneres; Mitte; innere"
@@ -1720,7 +1720,7 @@
 				"translation": "Stadt"
 			}
 		],
-		"ardiġi": [
+		"artiḫi": [
 			{
 				"form": "arde+ġe",
 				"translation": "Stadtangehöriger"
@@ -1750,13 +1750,13 @@
 				"translation": "DN"
 			}
 		],
-		"šimigi": [
+		"šimiki": [
 			{
 				"form": "Šimige",
 				"translation": "DN"
 			}
 		],
-		"UTU-miga": [
+		"UTU-mika": [
 			{
 				"form": "Šimiga",
 				"translation": "DN"
@@ -1780,7 +1780,7 @@
 				"translation": "recht, rechte Seite"
 			}
 		],
-		"pandani": [
+		"pantani": [
 			{
 				"form": "fand+a+ni",
 				"translation": "recht, rechte Seite"
@@ -1804,7 +1804,7 @@
 				"translation": "recht, rechte Seite"
 			}
 		],
-		"ZUEN-uġ": [
+		"ZUEN-uḫ": [
 			{
 				"form": "Kužuġ",
 				"translation": "DN"
@@ -1816,7 +1816,7 @@
 				"translation": "Gallenblase"
 			}
 		],
-		"ažni": [
+		"ašni": [
 			{
 				"form": "ažne",
 				"translation": "Gallenblase"
@@ -1828,7 +1828,7 @@
 				"translation": "Gallenblase"
 			}
 		],
-		"abalġ": [
+		"apalḫ": [
 			{
 				"form": "abal+ġe",
 				"translation": "u.B."
@@ -1838,7 +1838,7 @@
 				"translation": "u.B."
 			}
 		],
-		"abalġi": [
+		"apalḫi": [
 			{
 				"form": "abal+ġe",
 				"translation": "u.B."
@@ -1848,7 +1848,7 @@
 				"translation": "u.B."
 			}
 		],
-		"abari": [
+		"apari": [
 			{
 				"form": "ab+ar+i",
 				"translation": "u.B."
@@ -1862,7 +1862,7 @@
 				"translation": "Feld"
 			}
 		],
-		"abi": [
+		"api": [
 			{
 				"form": "abi",
 				"translation": "u.B."
@@ -1884,7 +1884,7 @@
 				"translation": "Opfergrube?"
 			}
 		],
-		"ab": [
+		"ap": [
 			{
 				"form": "avi",
 				"translation": "Gesicht"
@@ -1894,115 +1894,121 @@
 				"translation": "u.B."
 			}
 		],
-		"abiġari": [
+		"apiḫari": [
 			{
 				"form": "ab+iġ+ar+i",
 				"translation": "ein Oberflächenmaß"
 			}
 		],
-		"abri": [
+		"apri": [
 			{
 				"form": "abri",
 				"translation": "u.B."
 			}
 		],
-		"abr": [
+		"apr": [
 			{
 				"form": "abri",
 				"translation": "u.B."
 			}
 		],
-		"abundi": [
+		"apunti": [
 			{
 				"form": "abundi",
 				"translation": "Feld"
 			}
 		],
-		"ad": [
+		"at": [
 			{
 				"form": "ade",
 				"translation": "u.B."
 			}
 		],
-		"adal": [
+		"atal": [
 			{
 				"form": "adāl",
 				"translation": "stark; der Starke"
 			}
 		],
-		"adamġi": [
+		"atamḫi": [
 			{
 				"form": "ad+am+ġe",
 				"translation": "u.B."
 			}
 		],
-		"adani": [
+		"atan": [
 			{
 				"form": "ad+ā+ni",
 				"translation": "Schemel"
 			}
 		],
-		"adaštaž": [
+		"ataštaš": [
 			{
 				"form": "ad+ašt+a+že",
 				"translation": "u.B."
 			}
 		],
-		"adašši": [
+		"atašši": [
 			{
 				"form": "ad+a+šše",
 				"translation": "(Umwallung der) Unterstadt"
 			}
 		],
-		"adi": [
+		"ati": [
 			{
 				"form": "ade",
 				"translation": "u.B."
 			}
 		],
-		"admi": [
+		"atmi": [
 			{
 				"form": "ad+mi",
 				"translation": "Schemel"
 			}
 		],
-		"adirġ": [
+		"atani": [
+			{
+				"form": "ad+ā+ni",
+				"translation": "Schemel"
+			}
+		],
+		"atirḫ": [
 			{
 				"form": "adīr+ġe",
 				"translation": "Gegner"
 			}
 		],
-		"ag": [
+		"ak": [
 			{
 				"form": "agi",
 				"translation": "u.B."
 			}
 		],
-		"aga": [
+		"aka": [
 			{
 				"form": "aga",
 				"translation": "(Land) diesseits"
 			}
 		],
-		"agašši": [
+		"akašši": [
 			{
 				"form": "ag+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"agi": [
+		"aki": [
 			{
 				"form": "agi",
 				"translation": "u.B."
 			}
 		],
-		"aguli": [
+		"akuli": [
 			{
 				"form": "aguli",
 				"translation": "u.B."
 			}
 		],
-		"agurn": [
+		"akurn": [
 			{
 				"form": "ag+ūr+ni",
 				"translation": "Verzierung"
@@ -2014,13 +2020,13 @@
 				"translation": "Ea (DN)"
 			}
 		],
-		"aianguri": [
+		"aiankuri": [
 			{
 				"form": "aianguri",
 				"translation": "u.B."
 			}
 		],
-		"aigaldu": [
+		"aikaltu": [
 			{
 				"form": "Aigaldu",
 				"translation": "DN"
@@ -2032,7 +2038,13 @@
 				"translation": "DN"
 			}
 		],
-		"akkadi": [
+		"aiw": [
+			{
+				"form": "Aiu",
+				"translation": "DN"
+			}
+		],
+		"akkati": [
 			{
 				"form": "akk+ade",
 				"translation": "u.B."
@@ -2050,13 +2062,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ald": [
+		"alt": [
 			{
 				"form": "aldi",
 				"translation": "u.B."
 			}
 		],
-		"aldai": [
+		"altai": [
 			{
 				"form": "aldā+i",
 				"translation": "u.B."
@@ -2096,13 +2108,13 @@
 				"translation": "DN"
 			}
 		],
-		"allanzu": [
+		"allansu": [
 			{
 				"form": "Allanzō",
 				"translation": "DN"
 			}
 		],
-		"allumad": [
+		"allumat": [
 			{
 				"form": "allum+āde",
 				"translation": "u.B."
@@ -2114,31 +2126,31 @@
 				"translation": "u.B."
 			}
 		],
-		"alliġ": [
+		"alliḫ": [
 			{
 				"form": "all+ī+ġe",
 				"translation": "u.B."
 			}
 		],
-		"alubadi": [
+		"alupati": [
 			{
 				"form": "al+o+bade",
 				"translation": "u.B."
 			}
 		],
-		"alubasḫi": [
+		"alupasḫi": [
 			{
 				"form": "al+u+b+a+sḫi",
 				"translation": "u.B."
 			}
 		],
-		"alulbi": [
+		"alulpi": [
 			{
 				"form": "alulbi",
 				"translation": "u.B."
 			}
 		],
-		"alumbasḫi": [
+		"alumpasḫi": [
 			{
 				"form": "al+u+mb+a+sḫe",
 				"translation": "u.B."
@@ -2150,7 +2162,7 @@
 				"translation": "u.B."
 			}
 		],
-		"alzialli": [
+		"alsialli": [
 			{
 				"form": "ālžīālli",
 				"translation": "Widersprecher?"
@@ -2162,13 +2174,13 @@
 				"translation": "ein Gewand"
 			}
 		],
-		"alaži": [
+		"alaši": [
 			{
 				"form": "al+ā+že",
 				"translation": "u.B."
 			}
 		],
-		"alġi": [
+		"alḫi": [
 			{
 				"form": "alġi",
 				"translation": "u.B."
@@ -2186,13 +2198,13 @@
 				"translation": "GN"
 			}
 		],
-		"ambaž": [
+		"ampaš": [
 			{
 				"form": "amb+a+že",
 				"translation": "Brandopfer"
 			}
 		],
-		"amissadu": [
+		"amissatu": [
 			{
 				"form": "Amissadu",
 				"translation": "DN"
@@ -2210,7 +2222,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ammužikkunni": [
+		"ammušikkunni": [
 			{
 				"form": "amm+ož+ikk+o+nni",
 				"translation": "u.B."
@@ -2240,7 +2252,7 @@
 				"translation": "Administrator"
 			}
 		],
-		"anagi": [
+		"anaki": [
 			{
 				"form": "anagi",
 				"translation": "u.B."
@@ -2284,43 +2296,43 @@
 				"translation": "u.B."
 			}
 		],
-		"annibi": [
+		"annipi": [
 			{
 				"form": "annivi",
 				"translation": "u.B."
 			}
 		],
-		"anzangi": [
+		"ansanki": [
 			{
 				"form": "anz+angi",
 				"translation": "u.B."
 			}
 		],
-		"anzi": [
+		"ansi": [
 			{
 				"form": "anzi",
 				"translation": "u.B."
 			}
 		],
-		"anziġ": [
+		"ansiḫ": [
 			{
 				"form": "anz+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"anz": [
+		"ans": [
 			{
 				"form": "anzi",
 				"translation": "u.B."
 			}
 		],
-		"appidi": [
+		"appiti": [
 			{
 				"form": "appide",
 				"translation": "u.B."
 			}
 		],
-		"appubi": [
+		"appupi": [
 			{
 				"form": "appubi",
 				"translation": "u.B."
@@ -2334,7 +2346,7 @@
 				"translation": "u.B."
 			}
 		],
-		"apsižna": [
+		"apsišna": [
 			{
 				"form": "Apsižnā",
 				"translation": "GN"
@@ -2352,31 +2364,31 @@
 				"translation": "Schlange"
 			}
 		],
-		"aranziġu": [
+		"aransiḫu": [
 			{
 				"form": "Aranziġō",
 				"translation": "GN"
 			}
 		],
-		"arbari": [
+		"arpari": [
 			{
 				"form": "arb+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"ard": [
+		"art": [
 			{
 				"form": "arde",
 				"translation": "Stadt"
 			}
 		],
-		"ardi": [
+		"arti": [
 			{
 				"form": "arde",
 				"translation": "Stadt"
 			}
 		],
-		"arduri": [
+		"arturi": [
 			{
 				"form": "ardūri",
 				"translation": "u.B."
@@ -2398,7 +2410,7 @@
 				"translation": "das Böse"
 			}
 		],
-		"aribibla": [
+		"aripipla": [
 			{
 				"form": "Arib.Ebla",
 				"translation": "PN"
@@ -2456,13 +2468,13 @@
 				"translation": "u.B."
 			}
 		],
-		"aragi": [
+		"araki": [
 			{
 				"form": "arāgi",
 				"translation": "u.B."
 			}
 		],
-		"aribi": [
+		"aripi": [
 			{
 				"form": "arīvi",
 				"translation": "u.B."
@@ -2498,7 +2510,7 @@
 				"translation": "Vater"
 			}
 		],
-		"attubadi": [
+		"attupati": [
 			{
 				"form": "att+o+bade",
 				"translation": "u.B."
@@ -2510,7 +2522,7 @@
 				"translation": "Vater"
 			}
 		],
-		"atḫalbi": [
+		"atḫalpi": [
 			{
 				"form": "atḫalve",
 				"translation": "u.B."
@@ -2522,7 +2534,7 @@
 				"translation": "u.B."
 			}
 		],
-		"abali": [
+		"apali": [
 			{
 				"form": "av+al+i",
 				"translation": "Feld"
@@ -2552,31 +2564,31 @@
 				"translation": "PN"
 			}
 		],
-		"azald": [
+		"asalt": [
 			{
 				"form": "az+al+di",
 				"translation": "u.B."
 			}
 		],
-		"azallai": [
+		"asallai": [
 			{
 				"form": "azallae",
 				"translation": "u.B."
 			}
 		],
-		"azali": [
+		"asali": [
 			{
 				"form": "azali",
 				"translation": "u.B."
 			}
 		],
-		"azalli": [
+		"asalli": [
 			{
 				"form": "azalli",
 				"translation": "u.B."
 			}
 		],
-		"aziri": [
+		"asiri": [
 			{
 				"form": "assīri",
 				"translation": "Gefangener"
@@ -2586,13 +2598,13 @@
 				"translation": "u.B."
 			}
 		],
-		"azusḫ": [
+		"asusḫ": [
 			{
 				"form": "azusḫi",
 				"translation": "u.B."
 			}
 		],
-		"azusḫi": [
+		"asusḫi": [
 			{
 				"form": "azusḫi",
 				"translation": "u.B."
@@ -2604,37 +2616,37 @@
 				"translation": "u.B."
 			}
 		],
-		"aġri": [
+		"aḫri": [
 			{
 				"form": "aġri",
 				"translation": "Weihrauch"
 			}
 		],
-		"aġarri": [
+		"aḫarri": [
 			{
 				"form": "aġarri",
 				"translation": "Weihrauch"
 			}
 		],
-		"aġrinni": [
+		"aḫrinni": [
 			{
 				"form": "aġr+i+nni",
 				"translation": "u.B."
 			}
 		],
-		"aġrušḫi": [
+		"aḫrušḫi": [
 			{
 				"form": "aġr+o+šḫe",
 				"translation": "Räucherschale"
 			}
 		],
-		"aġr": [
+		"aḫr": [
 			{
 				"form": "aġri",
 				"translation": "Weihrauch"
 			}
 		],
-		"aġui": [
+		"aḫui": [
 			{
 				"form": "aġui",
 				"translation": "u.B."
@@ -2646,13 +2658,13 @@
 				"translation": "(Ehe)frau"
 			}
 		],
-		"aštaga": [
+		"aštaka": [
 			{
 				"form": "aštaga",
 				"translation": "Frau"
 			}
 		],
-		"ašḫaštaġi": [
+		"ašḫaštaḫi": [
 			{
 				"form": "ašḫ+ašt+a+ḫḫe",
 				"translation": "u.B."
@@ -2668,61 +2680,61 @@
 				"translation": "Oberseite"
 			}
 		],
-		"ašḫužikkunni": [
+		"ašḫušikkunni": [
 			{
 				"form": "āšḫ+ož+i+kk+o+nni",
 				"translation": "Ritualherr(in)"
 			}
 		],
-		"ašḫužikkuni": [
+		"ašḫušikkuni": [
 			{
 				"form": "āšḫ+ož+i+kk+o+nni",
 				"translation": "Ritualherr(in)"
 			}
 		],
-		"ažamri": [
+		"ašamri": [
 			{
 				"form": "ažamri",
 				"translation": "u.B."
 			}
 		],
-		"ažarbašši": [
+		"ašarpašši": [
 			{
 				"form": "až+arb+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"ažiwl": [
+		"ašiwl": [
 			{
 				"form": "ažiuli",
 				"translation": "u.B."
 			}
 		],
-		"ažiġi": [
+		"ašiḫi": [
 			{
 				"form": "až+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"ažmunigalu": [
+		"ašmunikalu": [
 			{
 				"form": "Ažmo.Nigalō",
 				"translation": "PN"
 			}
 		],
-		"ažugali": [
+		"ašukali": [
 			{
 				"form": "ažugali",
 				"translation": "u.B."
 			}
 		],
-		"ažugalli": [
+		"ašukalli": [
 			{
 				"form": "ažugallē",
 				"translation": "u.B."
 			}
 		],
-		"ažuġi": [
+		"ašuḫi": [
 			{
 				"form": "až+oġi",
 				"translation": "Essen"
@@ -2732,13 +2744,13 @@
 				"translation": "u.B."
 			}
 		],
-		"až": [
+		"aš": [
 			{
 				"form": "aži",
 				"translation": "u.B."
 			}
 		],
-		"ažuġ": [
+		"ašuḫ": [
 			{
 				"form": "ažōġi",
 				"translation": "u.B."
@@ -2756,37 +2768,37 @@
 				"translation": "Weihrauch"
 			}
 		],
-		"aġuri": [
+		"aḫuri": [
 			{
 				"form": "aġuri",
 				"translation": "u.B."
 			}
 		],
-		"ibirn": [
+		"ipirn": [
 			{
 				"form": "ever+ni",
 				"translation": "König"
 			}
 		],
-		"ibirni": [
+		"ipirni": [
 			{
 				"form": "ever+ni",
 				"translation": "König"
 			}
 		],
-		"ibri": [
+		"ipri": [
 			{
 				"form": "evri",
 				"translation": "Herr"
 			}
 		],
-		"ibr": [
+		"ipr": [
 			{
 				"form": "evri",
 				"translation": "Herr"
 			}
 		],
-		"ib": [
+		"ip": [
 			{
 				"form": "ebi",
 				"translation": "u.B."
@@ -2800,13 +2812,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ibani": [
+		"ipani": [
 			{
 				"form": "ebāni",
 				"translation": "u.B."
 			}
 		],
-		"id": [
+		"it": [
 			{
 				"form": "idi",
 				"translation": "Körper; Bezug"
@@ -2816,13 +2828,13 @@
 				"translation": "u.B."
 			}
 		],
-		"idi": [
+		"iti": [
 			{
 				"form": "idi",
 				"translation": "Körper; Bezug"
 			}
 		],
-		"ig": [
+		"ik": [
 			{
 				"form": "egi",
 				"translation": "Inneres; Mitte; innere"
@@ -2832,37 +2844,37 @@
 				"translation": "u.B."
 			}
 		],
-		"iginni": [
+		"ikinni": [
 			{
 				"form": "ege+nni",
 				"translation": "Inneres, innere"
 			}
 		],
-		"igin": [
+		"ikin": [
 			{
 				"form": "egi",
 				"translation": "Inneres; Mitte; innere"
 			}
 		],
-		"igudutki": [
+		"ikututki": [
 			{
 				"form": "eg+ud+ut+ki",
 				"translation": "Unreinheit; Verunreinigung"
 			}
 		],
-		"igušši": [
+		"ikušši": [
 			{
 				"form": "eg+o+šše",
 				"translation": "Reinheit, rein"
 			}
 		],
-		"igušš": [
+		"ikušš": [
 			{
 				"form": "eg+o+šše",
 				"translation": "Reinheit, rein"
 			}
 		],
-		"igužri": [
+		"ikušri": [
 			{
 				"form": "egužri",
 				"translation": "u.B."
@@ -2884,7 +2896,7 @@
 				"translation": "Schwester"
 			}
 		],
-		"ilab": [
+		"ilap": [
 			{
 				"form": "Ilāvā",
 				"translation": "GN"
@@ -2900,7 +2912,7 @@
 				"translation": "GN"
 			}
 		],
-		"ilamirġi": [
+		"ilamirḫi": [
 			{
 				"form": "elm+ir+ġe",
 				"translation": "Eidgemäßer(?)"
@@ -2926,7 +2938,7 @@
 				"translation": "u.B."
 			}
 		],
-		"illaž": [
+		"illaš": [
 			{
 				"form": "ell+a+že",
 				"translation": "u.B."
@@ -2944,7 +2956,7 @@
 				"translation": "Eid; Schwur"
 			}
 		],
-		"ilmiġi": [
+		"ilmiḫi": [
 			{
 				"form": "elm+ē+ġe",
 				"translation": "u.B."
@@ -2962,19 +2974,19 @@
 				"translation": "Gottheit"
 			}
 		],
-		"inaraž": [
+		"inaraš": [
 			{
 				"form": "en+ar+a+že",
 				"translation": "u.B."
 			}
 		],
-		"inarġ": [
+		"inarḫ": [
 			{
 				"form": "en+ar+ġe",
 				"translation": "u.B."
 			}
 		],
-		"inigaldi": [
+		"inikalti": [
 			{
 				"form": "ennigaldi",
 				"translation": "u.B."
@@ -3002,7 +3014,7 @@
 				"translation": "u.B."
 			}
 		],
-		"inudubi": [
+		"inutupi": [
 			{
 				"form": "en+ud+ōbi",
 				"translation": "u.B."
@@ -3012,19 +3024,19 @@
 				"translation": "u.B."
 			}
 		],
-		"iradi": [
+		"irati": [
 			{
 				"form": "erade",
 				"translation": "Vogel"
 			}
 		],
-		"irad": [
+		"irat": [
 			{
 				"form": "erade",
 				"translation": "Vogel"
 			}
 		],
-		"irižang": [
+		"irišank": [
 			{
 				"form": "erižangi",
 				"translation": "u.B."
@@ -3042,25 +3054,25 @@
 				"translation": "Abgabe"
 			}
 		],
-		"ibari": [
+		"ipari": [
 			{
 				"form": "evari",
 				"translation": "u.B."
 			}
 		],
-		"ibarži": [
+		"iparši": [
 			{
 				"form": "ev+ar+že",
 				"translation": "u.B."
 			}
 		],
-		"ibrinži": [
+		"ipirinši": [
 			{
 				"form": "evr+in+že",
 				"translation": "Herrschaft"
 			}
 		],
-		"iġari": [
+		"iḫari": [
 			{
 				"form": "eġari",
 				"translation": "u.B."
@@ -3070,25 +3082,25 @@
 				"translation": "u.B."
 			}
 		],
-		"iġi": [
+		"iḫi": [
 			{
 				"form": "eġi",
 				"translation": "u.B."
 			}
 		],
-		"iġliana": [
+		"iḫliana": [
 			{
 				"form": "eġli+ana",
 				"translation": "Retter?"
 			}
 		],
-		"iġli": [
+		"iḫli": [
 			{
 				"form": "eġli",
 				"translation": "Rettung"
 			}
 		],
-		"iġliġi": [
+		"iḫliḫi": [
 			{
 				"form": "eġl+i+ġe",
 				"translation": "u.B."
@@ -3100,7 +3112,7 @@
 				"translation": "u.B."
 			}
 		],
-		"iškabi": [
+		"iškapi": [
 			{
 				"form": "eškāve",
 				"translation": "u.B."
@@ -3112,7 +3124,7 @@
 				"translation": "u.B."
 			}
 		],
-		"iž": [
+		"iš": [
 			{
 				"form": "eže",
 				"translation": "Erde"
@@ -3126,7 +3138,7 @@
 				"translation": "u.B."
 			}
 		],
-		"iži": [
+		"iši": [
 			{
 				"form": "eže",
 				"translation": "Erde"
@@ -3144,31 +3156,31 @@
 				"translation": "u.B."
 			}
 		],
-		"ižibabu": [
+		"išipapu": [
 			{
 				"form": "Ežeb.Ābu",
 				"translation": "PN"
 			}
 		],
-		"ižiž": [
+		"išiš": [
 			{
 				"form": "ežeži",
 				"translation": "u.B."
 			}
 		],
-		"ižuġni": [
+		"išuḫni": [
 			{
 				"form": "ižuġ+ni",
 				"translation": "Silber"
 			}
 		],
-		"iža": [
+		"iša": [
 			{
 				"form": "iža",
 				"translation": "(Land) jenseits"
 			}
 		],
-		"padiġi": [
+		"patiḫi": [
 			{
 				"form": "fadeġi",
 				"translation": "u.B."
@@ -3180,7 +3192,7 @@
 				"translation": "u.B."
 			}
 		],
-		"pandarini": [
+		"pantarini": [
 			{
 				"form": "fand+ar+i+nni",
 				"translation": "Koch"
@@ -3192,13 +3204,13 @@
 				"translation": "Bäcker"
 			}
 		],
-		"pabani": [
+		"papani": [
 			{
 				"form": "paba+ni",
 				"translation": "Berg"
 			}
 		],
-		"paġr": [
+		"paḫr": [
 			{
 				"form": "faġri",
 				"translation": "gut; Gutes"
@@ -3220,7 +3232,7 @@
 				"translation": "u.B."
 			}
 		],
-		"paž": [
+		"paš": [
 			{
 				"form": "fāži",
 				"translation": "Mund"
@@ -3234,13 +3246,13 @@
 				"translation": "u.B."
 			}
 		],
-		"pažuli": [
+		"pašuli": [
 			{
 				"form": "faž+ūli",
 				"translation": "u.B."
 			}
 		],
-		"paġri": [
+		"paḫri": [
 			{
 				"form": "faġri",
 				"translation": "gut; Gutes"
@@ -3252,7 +3264,7 @@
 				"translation": "Orator"
 			}
 		],
-		"pind": [
+		"pint": [
 			{
 				"form": "fendi",
 				"translation": "u.B."
@@ -3270,55 +3282,55 @@
 				"translation": "u.B."
 			}
 		],
-		"pižaišpi": [
+		"pišaišpi": [
 			{
 				"form": "Fižaišfi",
 				"translation": "u.B."
 			}
 		],
-		"pudiġi": [
+		"putiḫi": [
 			{
 				"form": "fod+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"pugugari": [
+		"pukukari": [
 			{
 				"form": "fog+ugar+i",
 				"translation": "Finger?"
 			}
 		],
-		"pugad": [
+		"pukat": [
 			{
 				"form": "fog+ādi",
 				"translation": "u.B."
 			}
 		],
-		"punduruni": [
+		"punturuni": [
 			{
 				"form": "fondur+o+ni",
 				"translation": "u.B."
 			}
 		],
-		"pundurun": [
+		"punturun": [
 			{
 				"form": "fondur+o+ni",
 				"translation": "u.B."
 			}
 		],
-		"pundurunni": [
+		"punturunni": [
 			{
 				"form": "fondur+o+nni",
 				"translation": "u.B."
 			}
 		],
-		"punuġun": [
+		"punuḫun": [
 			{
 				"form": "fonuġ+o+ni",
 				"translation": "Stärke?"
 			}
 		],
-		"punuġunn": [
+		"punuḫunn": [
 			{
 				"form": "fonuġ+o+nni",
 				"translation": "Stärke?"
@@ -3358,13 +3370,13 @@
 				"translation": "u.B."
 			}
 		],
-		"puružuini": [
+		"purušuini": [
 			{
 				"form": "foruššue+nni",
 				"translation": "u.B."
 			}
 		],
-		"puružui": [
+		"purušui": [
 			{
 				"form": "foruššueni",
 				"translation": "u.B."
@@ -3382,19 +3394,19 @@
 				"translation": "Vorzeichen"
 			}
 		],
-		"pub": [
+		"pup": [
 			{
 				"form": "fovi",
 				"translation": "u.B."
 			}
 		],
-		"pudarin": [
+		"putarin": [
 			{
 				"form": "fud+ar+i+nni",
 				"translation": "Abwäscher"
 			}
 		],
-		"puduž": [
+		"putuš": [
 			{
 				"form": "fud+ō+že",
 				"translation": "u.B."
@@ -3442,25 +3454,25 @@
 				"translation": "u.B."
 			}
 		],
-		"pazanigar": [
+		"pasanikar": [
 			{
 				"form": "Fāzanigar",
 				"translation": "PN"
 			}
 		],
-		"paġadi": [
+		"paḫati": [
 			{
 				"form": "fāġadi",
 				"translation": "u.B."
 			}
 		],
-		"paġii": [
+		"paḫii": [
 			{
 				"form": "pāġi",
 				"translation": "Kopf"
 			}
 		],
-		"paġi": [
+		"paḫi": [
 			{
 				"form": "paġi",
 				"translation": "u.B."
@@ -3470,25 +3482,25 @@
 				"translation": "Kopf"
 			}
 		],
-		"paġ": [
+		"paḫ": [
 			{
 				"form": "pāġi",
 				"translation": "Kopf"
 			}
 		],
-		"pažan": [
+		"pašan": [
 			{
 				"form": "fāžani",
 				"translation": "Monat"
 			}
 		],
-		"pažani": [
+		"pašani": [
 			{
 				"form": "fāžani",
 				"translation": "Monat"
 			}
 		],
-		"paži": [
+		"paši": [
 			{
 				"form": "fāži",
 				"translation": "Mund"
@@ -3522,13 +3534,13 @@
 				"translation": "Tempel"
 			}
 		],
-		"purulžari": [
+		"purulšari": [
 			{
 				"form": "fōrol+žari",
 				"translation": "u.B."
 			}
 		],
-		"purunziġi": [
+		"purunsiḫi": [
 			{
 				"form": "fōrunz+i+ġe",
 				"translation": "u.B."
@@ -3562,31 +3574,31 @@
 				"translation": "Opferschauer"
 			}
 		],
-		"puralizii": [
+		"puralisii": [
 			{
 				"form": "fōr+all+i+n+ze",
 				"translation": "u.B."
 			}
 		],
-		"puralizi": [
+		"puralisi": [
 			{
 				"form": "fōr+all+i+n+ze",
 				"translation": "u.B."
 			}
 		],
-		"puraliz": [
+		"puralis": [
 			{
 				"form": "fōr+all+i+n+ze",
 				"translation": "u.B."
 			}
 		],
-		"punuġunži": [
+		"punuḫunši": [
 			{
 				"form": "fōnuġōn+že",
 				"translation": "Stärke?"
 			}
 		],
-		"ibi": [
+		"ipi": [
 			{
 				"form": "ibi",
 				"translation": "u.B."
@@ -3596,55 +3608,55 @@
 				"translation": "u.B."
 			}
 		],
-		"ibradnan": [
+		"ipratnan": [
 			{
 				"form": "ibr+ad+n+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"ibradnann": [
+		"ipratnann": [
 			{
 				"form": "ibr+ad+n+a+nni",
 				"translation": "u.B."
 			}
 		],
-		"ibradn": [
+		"ipratn": [
 			{
 				"form": "ibr+ad+ni",
 				"translation": "u.B."
 			}
 		],
-		"ibrinz": [
+		"iprins": [
 			{
 				"form": "evren+ze",
 				"translation": "u.B."
 			}
 		],
-		"idinna": [
+		"itinna": [
 			{
 				"form": "idenna",
 				"translation": "Baumeister"
 			}
 		],
-		"idinni": [
+		"itinni": [
 			{
 				"form": "idenni",
 				"translation": "Baumeister"
 			}
 		],
-		"idn": [
+		"itn": [
 			{
 				"form": "id+ni",
 				"translation": "Körper"
 			}
 		],
-		"idni": [
+		"itni": [
 			{
 				"form": "id+ni",
 				"translation": "Körper"
 			}
 		],
-		"igingališ": [
+		"ikinkališ": [
 			{
 				"form": "Igingališ",
 				"translation": "GN"
@@ -3656,7 +3668,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ilamduġi": [
+		"ilamtuḫi": [
 			{
 				"form": "Ilamd+ō+ġe",
 				"translation": "GN"
@@ -3668,7 +3680,7 @@
 				"translation": "GN"
 			}
 		],
-		"ilaba": [
+		"ilapa": [
 			{
 				"form": "Ilāvā",
 				"translation": "GN"
@@ -3680,13 +3692,13 @@
 				"translation": "u.B."
 			}
 		],
-		"immandi": [
+		"immanti": [
 			{
 				"form": "immande",
 				"translation": "u.B."
 			}
 		],
-		"immard": [
+		"immart": [
 			{
 				"form": "immarde",
 				"translation": "Schafopfer"
@@ -3698,7 +3710,7 @@
 				"translation": "u.B."
 			}
 		],
-		"immarbaġi": [
+		"immarpaḫi": [
 			{
 				"form": "Immarvaġe",
 				"translation": "DN"
@@ -3710,31 +3722,31 @@
 				"translation": "PN"
 			}
 		],
-		"indani": [
+		"intani": [
 			{
 				"form": "ind+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"indan": [
+		"intan": [
 			{
 				"form": "ind+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"indanni": [
+		"intanni": [
 			{
 				"form": "ind+a+nni",
 				"translation": "u.B."
 			}
 		],
-		"iningald": [
+		"ininkalt": [
 			{
 				"form": "ennigaldi",
 				"translation": "u.B."
 			}
 		],
-		"inġ": [
+		"inḫ": [
 			{
 				"form": "inġi",
 				"translation": "u.B."
@@ -3744,73 +3756,73 @@
 				"translation": "u.B."
 			}
 		],
-		"inġar": [
+		"inḫar": [
 			{
 				"form": "inġ+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"irbi": [
+		"irpi": [
 			{
 				"form": "ervi",
 				"translation": "Hund"
 			}
 		],
-		"irdi": [
+		"irti": [
 			{
 				"form": "irde",
 				"translation": "Zunge"
 			}
 		],
-		"ird": [
+		"irt": [
 			{
 				"form": "irde",
 				"translation": "Zunge"
 			}
 		],
-		"irdubanni": [
+		"irtupanni": [
 			{
 				"form": "irdōv+ā+nni",
 				"translation": "u.B."
 			}
 		],
-		"irialzi": [
+		"irialsi": [
 			{
 				"form": "irial+zi",
 				"translation": "u.B."
 			}
 		],
-		"irġari": [
+		"irḫari": [
 			{
 				"form": "irġāri",
 				"translation": "u.B."
 			}
 		],
-		"itkalz": [
+		"itkals": [
 			{
 				"form": "itkal+zi",
 				"translation": "Reinheit, Reinigung"
 			}
 		],
-		"itkalzi": [
+		"itkalsi": [
 			{
 				"form": "itkal+zi",
 				"translation": "Reinheit, Reinigung"
 			}
 		],
-		"itkanz": [
+		"itkans": [
 			{
 				"form": "itkan+zi",
 				"translation": "u.B."
 			}
 		],
-		"itkanza": [
+		"itkansa": [
 			{
 				"form": "itkan+zi",
 				"translation": "u.B."
 			}
 		],
-		"itkudutki": [
+		"itkututki": [
 			{
 				"form": "itk+ud+ut+ki",
 				"translation": "Unreinheit"
@@ -3828,7 +3840,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ittubi": [
+		"ittupi": [
 			{
 				"form": "ittūbi",
 				"translation": "u.B."
@@ -3840,19 +3852,19 @@
 				"translation": "u.B."
 			}
 		],
-		"izuz": [
+		"isus": [
 			{
 				"form": "izuzi",
 				"translation": "Emmer"
 			}
 		],
-		"izuzi": [
+		"isusi": [
 			{
 				"form": "izuzi",
 				"translation": "Emmer"
 			}
 		],
-		"iġar": [
+		"iḫar": [
 			{
 				"form": "iġari",
 				"translation": "u.B."
@@ -3930,43 +3942,43 @@
 				"translation": "Silber"
 			}
 		],
-		"ižammi": [
+		"išammi": [
 			{
 				"form": "iža+mme",
 				"translation": "u.B."
 			}
 		],
-		"ižari": [
+		"išari": [
 			{
 				"form": "iž+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"ižikkunn": [
+		"išikkunn": [
 			{
 				"form": "iž+ikk+o+nni",
 				"translation": "Jammernder; Klagender"
 			}
 		],
-		"ižuġn": [
+		"išuḫn": [
 			{
 				"form": "ižuġ+ni",
 				"translation": "Silber"
 			}
 		],
-		"kabli": [
+		"kapli": [
 			{
 				"form": "kabli",
 				"translation": "Kupfer"
 			}
 		],
-		"kabl": [
+		"kapl": [
 			{
 				"form": "kabli",
 				"translation": "u.B."
 			}
 		],
-		"kadi": [
+		"kati": [
 			{
 				"form": "kadi",
 				"translation": "u.B."
@@ -3976,25 +3988,25 @@
 				"translation": "Gerste?"
 			}
 		],
-		"kagani": [
+		"kakani": [
 			{
 				"form": "kaġ+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"kagan": [
+		"kakan": [
 			{
 				"form": "kaġ+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"kaiġi": [
+		"kaiḫi": [
 			{
 				"form": "ka+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"kaiġ": [
+		"kaiḫ": [
 			{
 				"form": "ka+i+ġe",
 				"translation": "u.B."
@@ -4010,6 +4022,12 @@
 			{
 				"form": "kakkari",
 				"translation": "ein Brot"
+			}
+		],
+		"kalkamiš": [
+			{
+				"form": "Kalgamiž",
+				"translation": "Gilgamesh (PN; DN)"
 			}
 		],
 		"kal": [
@@ -4028,7 +4046,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kammanġ": [
+		"kammanḫ": [
 			{
 				"form": "kamm+an+ġe",
 				"translation": "u.B."
@@ -4046,7 +4064,7 @@
 				"translation": "Birne?"
 			}
 		],
-		"kambi": [
+		"kampi": [
 			{
 				"form": "kamve",
 				"translation": "u.B."
@@ -4058,13 +4076,13 @@
 				"translation": "ein Tier"
 			}
 		],
-		"kanagitḫi": [
+		"kanakitḫi": [
 			{
 				"form": "kanagitḫe",
 				"translation": "u.B."
 			}
 		],
-		"kangalb": [
+		"kankalp": [
 			{
 				"form": "kangalvi",
 				"translation": "u.B."
@@ -4088,7 +4106,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kapšuġ": [
+		"kapšuḫ": [
 			{
 				"form": "kapš+o+ġe",
 				"translation": "u.B."
@@ -4100,13 +4118,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kargani": [
+		"karkani": [
 			{
 				"form": "karg+ā+ni",
 				"translation": "u.B."
 			}
 		],
-		"karg": [
+		"kark": [
 			{
 				"form": "karg",
 				"translation": "u.B."
@@ -4122,19 +4140,19 @@
 				"translation": "u.B."
 			}
 		],
-		"kariž": [
+		"kariš": [
 			{
 				"form": "kariži",
 				"translation": "u.B."
 			}
 		],
-		"karži": [
+		"karši": [
 			{
 				"form": "karži",
 				"translation": "Lippen"
 			}
 		],
-		"karž": [
+		"karš": [
 			{
 				"form": "karži",
 				"translation": "Lippen"
@@ -4170,13 +4188,13 @@
 				"translation": "Bogen"
 			}
 		],
-		"kažli": [
+		"kašli": [
 			{
 				"form": "kažli",
 				"translation": "stark, Stärke"
 			}
 		],
-		"kaž": [
+		"kaš": [
 			{
 				"form": "kāze",
 				"translation": "Becher"
@@ -4186,31 +4204,31 @@
 				"translation": "u.B."
 			}
 		],
-		"kažiari": [
+		"kašiari": [
 			{
 				"form": "Kažiari",
 				"translation": "GN"
 			}
 		],
-		"kažidabi": [
+		"kašitapi": [
 			{
 				"form": "kažidabi",
 				"translation": "u.B."
 			}
 		],
-		"kaži": [
+		"kaši": [
 			{
 				"form": "kāze",
 				"translation": "Becher"
 			}
 		],
-		"kažl": [
+		"kašl": [
 			{
 				"form": "kažli",
 				"translation": "stark, Stärke"
 			}
 		],
-		"kilda(-)ardi": [
+		"kilta(-)arti": [
 			{
 				"form": "arde",
 				"translation": "Stadt"
@@ -4220,13 +4238,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kildi": [
+		"kilti": [
 			{
 				"form": "kel+di",
 				"translation": "Wohl"
 			}
 		],
-		"kild": [
+		"kilt": [
 			{
 				"form": "kel+di",
 				"translation": "Wohl"
@@ -4266,19 +4284,19 @@
 				"translation": "Thron"
 			}
 		],
-		"kiaži": [
+		"kiaši": [
 			{
 				"form": "kiaže",
 				"translation": "Meer"
 			}
 		],
-		"kibašši": [
+		"kipašši": [
 			{
 				"form": "kev+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"kibi": [
+		"kipi": [
 			{
 				"form": "kevi",
 				"translation": "u.B."
@@ -4292,25 +4310,25 @@
 				"translation": "u.B."
 			}
 		],
-		"kibli": [
+		"kipli": [
 			{
 				"form": "keb+li",
 				"translation": "Jäger"
 			}
 		],
-		"kibrid": [
+		"kiprit": [
 			{
 				"form": "kibridi",
 				"translation": "Sulfur?"
 			}
 		],
-		"kibrida": [
+		"kiprita": [
 			{
 				"form": "kibridi",
 				"translation": "Sulfur?"
 			}
 		],
-		"kiburi": [
+		"kipuri": [
 			{
 				"form": "kev+o+re",
 				"translation": "u.B."
@@ -4320,7 +4338,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kiglibadalli": [
+		"kiklipatalli": [
 			{
 				"form": "Kiglibadalli",
 				"translation": "PN"
@@ -4384,7 +4402,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kirinzi": [
+		"kirinsi": [
 			{
 				"form": "kire+n+ze",
 				"translation": "Freilassung"
@@ -4410,31 +4428,31 @@
 				"translation": "u.B."
 			}
 		],
-		"kirġi": [
+		"kirḫi": [
 			{
 				"form": "kirġe",
 				"translation": "(Umwallung der) Oberstadt"
 			}
 		],
-		"kibri": [
+		"kipri": [
 			{
 				"form": "kevri",
 				"translation": "Ältester"
 			}
 		],
-		"kibuž": [
+		"kipuš": [
 			{
 				"form": "kev+o+že",
 				"translation": "u.B."
 			}
 		],
-		"kiburġi": [
+		"kipurḫi": [
 			{
 				"form": "kiv+ōr+ġē",
 				"translation": "u.B."
 			}
 		],
-		"kiġi": [
+		"kiḫi": [
 			{
 				"form": "kiġe",
 				"translation": "u.B."
@@ -4448,13 +4466,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kiškižiaššini": [
+		"kiškišiaššini": [
 			{
 				"form": "kiš+kiž+i+a+šše+ni",
 				"translation": "u.B."
 			}
 		],
-		"kiškižiašši": [
+		"kiškišiašši": [
 			{
 				"form": "kiš+kiž+i+a+šše",
 				"translation": "u.B."
@@ -4470,37 +4488,37 @@
 				"translation": "u.B."
 			}
 		],
-		"kižarži": [
+		"kišarši": [
 			{
 				"form": "kiž+ar+že",
 				"translation": "u.B."
 			}
 		],
-		"kižipsubai": [
+		"kišipsupai": [
 			{
 				"form": "kižipsōvae",
 				"translation": "u.B."
 			}
 		],
-		"kubaba": [
+		"kupapa": [
 			{
 				"form": "Kubaba",
 				"translation": "DN"
 			}
 		],
-		"kubaġ": [
+		"kupaḫ": [
 			{
 				"form": "kubaġi",
 				"translation": "u.B."
 			}
 		],
-		"kubaġi": [
+		"kupaḫi": [
 			{
 				"form": "kubāġi",
 				"translation": "eine Kopfbedeckung"
 			}
 		],
-		"kuduni": [
+		"kutuni": [
 			{
 				"form": "kuduni",
 				"translation": "Nacken?"
@@ -4512,13 +4530,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kulamudutki": [
+		"kulamututki": [
 			{
 				"form": "kul+am+ud+ut+ki",
 				"translation": "Verleumdung"
 			}
 		],
-		"kulamudutk": [
+		"kulamututk": [
 			{
 				"form": "kul+am+ud+ut+ki",
 				"translation": "Verleumdung"
@@ -4536,7 +4554,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kuldubi": [
+		"kultupi": [
 			{
 				"form": "kuldubi",
 				"translation": "u.B."
@@ -4554,7 +4572,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kuliġ": [
+		"kuliḫ": [
 			{
 				"form": "kul+i+ġe",
 				"translation": "Ausspruch?; das Sprechen?"
@@ -4582,31 +4600,31 @@
 				"translation": "u.B."
 			}
 		],
-		"kulumbi": [
+		"kulumpi": [
 			{
 				"form": "kulumbi",
 				"translation": "u.B."
 			}
 		],
-		"kulumb": [
+		"kulump": [
 			{
 				"form": "kulumbi",
 				"translation": "u.B."
 			}
 		],
-		"kulbi": [
+		"kulpi": [
 			{
 				"form": "kulve",
 				"translation": "u.B."
 			}
 		],
-		"kulzi": [
+		"kulsi": [
 			{
 				"form": "kulzi",
 				"translation": "u.B."
 			}
 		],
-		"kulz": [
+		"kuls": [
 			{
 				"form": "kulzi",
 				"translation": "u.B."
@@ -4622,13 +4640,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kumarbi": [
+		"kumarpi": [
 			{
 				"form": "Kumarve",
 				"translation": "Kumarbi (DN)"
 			}
 		],
-		"kumdi": [
+		"kumti": [
 			{
 				"form": "kūm+de",
 				"translation": "Turm"
@@ -4658,7 +4676,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kundari": [
+		"kuntari": [
 			{
 				"form": "kundari",
 				"translation": "u.B."
@@ -4668,13 +4686,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kundi": [
+		"kunti": [
 			{
 				"form": "kunde",
 				"translation": "u.B."
 			}
 		],
-		"kungalli": [
+		"kunkalli": [
 			{
 				"form": "kungallē",
 				"translation": "Fettschwanzschaf"
@@ -4708,7 +4726,7 @@
 				"translation": "Servierer"
 			}
 		],
-		"kurgurbi": [
+		"kurkurpi": [
 			{
 				"form": "kurgōrvi",
 				"translation": "u.B."
@@ -4720,7 +4738,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kutkud": [
+		"kutkut": [
 			{
 				"form": "kut+kūdi",
 				"translation": "u.B."
@@ -4738,7 +4756,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kuttibin": [
+		"kuttipin": [
 			{
 				"form": "kuttive+ni",
 				"translation": "u.B."
@@ -4748,37 +4766,37 @@
 				"translation": "u.B."
 			}
 		],
-		"kuttibi": [
+		"kuttipi": [
 			{
 				"form": "kuttive",
 				"translation": "u.B."
 			}
 		],
-		"kuzuġi": [
+		"kusuḫi": [
 			{
 				"form": "kuz+o+ġe",
 				"translation": "u.B."
 			}
 		],
-		"kužaġ": [
+		"kušaḫ": [
 			{
 				"form": "Kužaġ",
 				"translation": "DN"
 			}
 		],
-		"kužuškuži": [
+		"kušuškuši": [
 			{
 				"form": "kuž+u+šk+o+že",
 				"translation": "u.B."
 			}
 		],
-		"kabari": [
+		"kapari": [
 			{
 				"form": "kābari",
 				"translation": "u.B."
 			}
 		],
-		"kadal": [
+		"katal": [
 			{
 				"form": "kād+ali",
 				"translation": "u.B."
@@ -4808,25 +4826,25 @@
 				"translation": "Becher"
 			}
 		],
-		"kab": [
+		"kap": [
 			{
 				"form": "kāvi",
 				"translation": "u.B."
 			}
 		],
-		"kazi": [
+		"kasi": [
 			{
 				"form": "kāze",
 				"translation": "Becher"
 			}
 		],
-		"kaz": [
+		"kas": [
 			{
 				"form": "kāze",
 				"translation": "Becher"
 			}
 		],
-		"kib": [
+		"kip": [
 			{
 				"form": "kevi",
 				"translation": "u.B."
@@ -4836,25 +4854,25 @@
 				"translation": "u.B."
 			}
 		],
-		"kid": [
+		"kit": [
 			{
 				"form": "kēdi",
 				"translation": "u.B."
 			}
 		],
-		"kidaduži": [
+		"kitatuši": [
 			{
 				"form": "kēd+ad+o+že",
 				"translation": "u.B."
 			}
 		],
-		"kilġidi": [
+		"kilḫiti": [
 			{
 				"form": "kēlġēdi",
 				"translation": "u.B."
 			}
 		],
-		"kinnad": [
+		"kinnat": [
 			{
 				"form": "kēnn+ār+i",
 				"translation": "u.B."
@@ -4864,7 +4882,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kidab": [
+		"kitap": [
 			{
 				"form": "kīdāvi",
 				"translation": "ein Gewand"
@@ -4876,19 +4894,19 @@
 				"translation": "u.B."
 			}
 		],
-		"kirinz": [
+		"kirins": [
 			{
 				"form": "kire+n+ze",
 				"translation": "Freilassung"
 			}
 		],
-		"kiziri": [
+		"kisiri": [
 			{
 				"form": "kīziri",
 				"translation": "u.B."
 			}
 		],
-		"kizirži": [
+		"kisirši": [
 			{
 				"form": "kīzir+že",
 				"translation": "u.B."
@@ -4924,7 +4942,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kudadi": [
+		"kutati": [
 			{
 				"form": "kūdade",
 				"translation": "u.B."
@@ -4942,7 +4960,7 @@
 				"translation": "u.B."
 			}
 		],
-		"lablaḫḫi": [
+		"laplaḫḫi": [
 			{
 				"form": "labla+ḫḫe",
 				"translation": "Zeder"
@@ -4954,13 +4972,13 @@
 				"translation": "Klagepriester"
 			}
 		],
-		"laġlaḫḫi": [
+		"laḫlaḫḫi": [
 			{
 				"form": "Laġlaḫḫi",
 				"translation": "GN"
 			}
 		],
-		"lullimbar": [
+		"lullimpar": [
 			{
 				"form": "lull+i+mb+ar+i",
 				"translation": "u.B."
@@ -4978,19 +4996,19 @@
 				"translation": "u.B."
 			}
 		],
-		"mad": [
+		"mat": [
 			{
 				"form": "mādi",
 				"translation": "Weisheit"
 			}
 		],
-		"madl": [
+		"matl": [
 			{
 				"form": "madli",
 				"translation": "u.B."
 			}
 		],
-		"magaldi": [
+		"makalti": [
 			{
 				"form": "magaldi",
 				"translation": "ein Brot"
@@ -5002,25 +5020,25 @@
 				"translation": "u.B."
 			}
 		],
-		"mallad": [
+		"mallat": [
 			{
 				"form": "mall+ade",
 				"translation": "Schüssel; Schale"
 			}
 		],
-		"malbaži": [
+		"malpaši": [
 			{
 				"form": "malvāži",
 				"translation": "u.B."
 			}
 		],
-		"mandukk": [
+		"mantukk": [
 			{
 				"form": "mandukki",
 				"translation": "u.B."
 			}
 		],
-		"mandukki": [
+		"mantukki": [
 			{
 				"form": "mandukki",
 				"translation": "u.B."
@@ -5038,7 +5056,7 @@
 				"translation": "u.B."
 			}
 		],
-		"mardamanni": [
+		"martamanni": [
 			{
 				"form": "Mardamanni",
 				"translation": "GN"
@@ -5048,13 +5066,13 @@
 				"translation": "u.B."
 			}
 		],
-		"mardaman": [
+		"martaman": [
 			{
 				"form": "mardam+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"mardamani": [
+		"martamani": [
 			{
 				"form": "mardam+a+ni",
 				"translation": "u.B."
@@ -5072,13 +5090,13 @@
 				"translation": "u.B."
 			}
 		],
-		"maruži": [
+		"maruši": [
 			{
 				"form": "maroži",
 				"translation": "Krankheit"
 			}
 		],
-		"mazanuri": [
+		"masanuri": [
 			{
 				"form": "mazanuri",
 				"translation": "u.B."
@@ -5090,19 +5108,19 @@
 				"translation": "u.B."
 			}
 		],
-		"maġiri": [
+		"maḫiri": [
 			{
 				"form": "maġiri",
 				"translation": "Marktplatz"
 			}
 		],
-		"maġitti": [
+		"maḫitti": [
 			{
 				"form": "maġitti",
 				"translation": "u.B."
 			}
 		],
-		"maġuri": [
+		"maḫuri": [
 			{
 				"form": "maġōri",
 				"translation": "u.B."
@@ -5120,19 +5138,19 @@
 				"translation": "u.B."
 			}
 		],
-		"mirulab": [
+		"mirulap": [
 			{
 				"form": "mir+ul+avi",
 				"translation": "u.B."
 			}
 		],
-		"mirž": [
+		"mirš": [
 			{
 				"form": "mirži",
 				"translation": "u.B."
 			}
 		],
-		"mirža": [
+		"mirša": [
 			{
 				"form": "mirži",
 				"translation": "u.B."
@@ -5144,13 +5162,13 @@
 				"translation": "u.B."
 			}
 		],
-		"munġi": [
+		"munḫi": [
 			{
 				"form": "munġi",
 				"translation": "u.B."
 			}
 		],
-		"munġ": [
+		"munḫ": [
 			{
 				"form": "munġi",
 				"translation": "u.B."
@@ -5168,7 +5186,7 @@
 				"translation": "u.B."
 			}
 		],
-		"murġulišt": [
+		"murḫulišt": [
 			{
 				"form": "murġulišti",
 				"translation": "u.B."
@@ -5180,7 +5198,7 @@
 				"translation": "u.B."
 			}
 		],
-		"mužuni": [
+		"mušuni": [
 			{
 				"form": "Mužoni",
 				"translation": "DN"
@@ -5190,7 +5208,7 @@
 				"translation": "Heger?; Bauer?"
 			}
 		],
-		"mužun": [
+		"mušun": [
 			{
 				"form": "Mužoni",
 				"translation": "DN"
@@ -5200,25 +5218,25 @@
 				"translation": "u.B."
 			}
 		],
-		"mužunni": [
+		"mušunni": [
 			{
 				"form": "Mužoni",
 				"translation": "DN"
 			}
 		],
-		"madi": [
+		"mati": [
 			{
 				"form": "mādi",
 				"translation": "Weisheit"
 			}
 		],
-		"madili": [
+		"matili": [
 			{
 				"form": "mādili",
 				"translation": "u.B."
 			}
 		],
-		"madill": [
+		"matill": [
 			{
 				"form": "mādilli",
 				"translation": "u.B."
@@ -5230,7 +5248,7 @@
 				"translation": "u.B."
 			}
 		],
-		"maluži": [
+		"maluši": [
 			{
 				"form": "māl+ō+žē",
 				"translation": "u.B."
@@ -5278,7 +5296,7 @@
 				"translation": "u.B."
 			}
 		],
-		"maġri": [
+		"maḫri": [
 			{
 				"form": "māġri",
 				"translation": "u.B."
@@ -5290,7 +5308,7 @@
 				"translation": "Schale?"
 			}
 		],
-		"migi": [
+		"miki": [
 			{
 				"form": "Mēgi",
 				"translation": "PN"
@@ -5318,7 +5336,7 @@
 				"translation": "u.B."
 			}
 		],
-		"mugižanun": [
+		"mukišanun": [
 			{
 				"form": "Mūgižanun",
 				"translation": "GN"
@@ -5330,13 +5348,13 @@
 				"translation": "u.B."
 			}
 		],
-		"nabarbi": [
+		"naparpi": [
 			{
 				"form": "Nabarbi",
 				"translation": "DN"
 			}
 		],
-		"nabari": [
+		"napari": [
 			{
 				"form": "Nabari",
 				"translation": "DN"
@@ -5350,25 +5368,25 @@
 				"translation": "u.B."
 			}
 		],
-		"nabni": [
+		"napni": [
 			{
 				"form": "nabni",
 				"translation": "u.B."
 			}
 		],
-		"nabn": [
+		"napn": [
 			{
 				"form": "nabni",
 				"translation": "u.B."
 			}
 		],
-		"nagiri": [
+		"nakiri": [
 			{
 				"form": "nagēri",
 				"translation": "u.B."
 			}
 		],
-		"naiġi": [
+		"naiḫi": [
 			{
 				"form": "na+i+ġē",
 				"translation": "Weide"
@@ -5426,13 +5444,13 @@
 				"translation": "Weide"
 			}
 		],
-		"nabani": [
+		"napani": [
 			{
 				"form": "navani",
 				"translation": "u.B."
 			}
 		],
-		"nabi": [
+		"napi": [
 			{
 				"form": "nave",
 				"translation": "(Todes-)Schicksal?"
@@ -5454,7 +5472,7 @@
 				"translation": "u.B."
 			}
 		],
-		"naġmazuli": [
+		"naḫmasuli": [
 			{
 				"form": "Naġmazuli",
 				"translation": "DN"
@@ -5476,7 +5494,7 @@
 				"translation": "u.B."
 			}
 		],
-		"nažagi": [
+		"našaki": [
 			{
 				"form": "nažāgi",
 				"translation": "u.B."
@@ -5488,7 +5506,7 @@
 				"translation": "u.B."
 			}
 		],
-		"naḫḫuž": [
+		"naḫḫuš": [
 			{
 				"form": "naḫḫ+o+že",
 				"translation": "Sitzgelegenheit"
@@ -5506,13 +5524,13 @@
 				"translation": "Sitzgelegenheit"
 			}
 		],
-		"nigri": [
+		"nikri": [
 			{
 				"form": "negri",
 				"translation": "Schutz, Beschützer"
 			}
 		],
-		"nilġ": [
+		"nilḫ": [
 			{
 				"form": "nelġi",
 				"translation": "u.B."
@@ -5534,7 +5552,7 @@
 				"translation": "gut; Güte"
 			}
 		],
-		"niġirn": [
+		"niḫirn": [
 			{
 				"form": "neġer+ni",
 				"translation": "Brust"
@@ -5558,25 +5576,25 @@
 				"translation": "u.B."
 			}
 		],
-		"nibr": [
+		"nipr": [
 			{
 				"form": "nibri",
 				"translation": "u.B."
 			}
 		],
-		"nig": [
+		"nik": [
 			{
 				"form": "nigi",
 				"translation": "u.B."
 			}
 		],
-		"nigallu": [
+		"nikallu": [
 			{
 				"form": "Nigallu",
 				"translation": "DN"
 			}
 		],
-		"nigalu": [
+		"nikalu": [
 			{
 				"form": "Nigalo",
 				"translation": "DN"
@@ -5614,73 +5632,73 @@
 				"translation": "GN"
 			}
 		],
-		"nippilub": [
+		"nippilup": [
 			{
 				"form": "Nippilova",
 				"translation": "GN"
 			}
 		],
-		"nirġ": [
+		"nirḫ": [
 			{
 				"form": "nirġi",
 				"translation": "u.B."
 			}
 		],
-		"nibir": [
+		"nipir": [
 			{
 				"form": "niviri",
 				"translation": "u.B."
 			}
 		],
-		"nibiri": [
+		"nipiri": [
 			{
 				"form": "niviri",
 				"translation": "u.B."
 			}
 		],
-		"niġari": [
+		"niḫari": [
 			{
 				"form": "niġari",
 				"translation": "Mitgift; Gabe"
 			}
 		],
-		"niġarži": [
+		"niḫarši": [
 			{
 				"form": "niġar+že",
 				"translation": "u.B."
 			}
 		],
-		"niġi": [
+		"niḫi": [
 			{
 				"form": "niġe",
 				"translation": "u.B."
 			}
 		],
-		"niġ": [
+		"niḫ": [
 			{
 				"form": "niġe",
 				"translation": "u.B."
 			}
 		],
-		"nubur": [
+		"nupur": [
 			{
 				"form": "nubur+ni",
 				"translation": "u.B."
 			}
 		],
-		"nudanzaġi": [
+		"nutansaḫi": [
 			{
 				"form": "nudan+z+a+ġe",
 				"translation": "u.B."
 			}
 		],
-		"nudanzaġ": [
+		"nutansaḫ": [
 			{
 				"form": "nudan+z+a+ġe",
 				"translation": "u.B."
 			}
 		],
-		"nuladi": [
+		"nulati": [
 			{
 				"form": "nul+ade",
 				"translation": "u.B."
@@ -5698,7 +5716,7 @@
 				"translation": "u.B."
 			}
 		],
-		"nurandiġi": [
+		"nurantiḫi": [
 			{
 				"form": "nurandiġi",
 				"translation": "Granatapfel"
@@ -5710,31 +5728,31 @@
 				"translation": "u.B."
 			}
 		],
-		"nutkiġ": [
+		"nutkiḫ": [
 			{
 				"form": "nutk+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"nuġuni": [
+		"nuḫuni": [
 			{
 				"form": "nuġ+o+ni",
 				"translation": "u.B."
 			}
 		],
-		"nuḫḫaži": [
+		"nuḫḫaši": [
 			{
 				"form": "nuḫḫ+a+že",
 				"translation": "u.B."
 			}
 		],
-		"nab": [
+		"nap": [
 			{
 				"form": "nave",
 				"translation": "(Todes-)Schicksal?"
 			}
 		],
-		"naldiri": [
+		"naltiri": [
 			{
 				"form": "nāldiri",
 				"translation": "u.B."
@@ -5774,19 +5792,19 @@
 				"translation": "u.B."
 			}
 		],
-		"nažarni": [
+		"našarni": [
 			{
 				"form": "nāž+ar+ni",
 				"translation": "u.B."
 			}
 		],
-		"nibaž": [
+		"nipaš": [
 			{
 				"form": "nēb+ā+že",
 				"translation": "u.B."
 			}
 		],
-		"nibaži": [
+		"nipaši": [
 			{
 				"form": "nēb+ā+že",
 				"translation": "u.B."
@@ -5796,7 +5814,7 @@
 				"translation": "u.B."
 			}
 		],
-		"niduġi": [
+		"nituḫi": [
 			{
 				"form": "nēd+o+ġē",
 				"translation": "u.B."
@@ -5830,25 +5848,25 @@
 				"translation": "Mutter"
 			}
 		],
-		"niġarž": [
+		"niḫarš": [
 			{
 				"form": "nēġār+že",
 				"translation": "u.B."
 			}
 		],
-		"nibar": [
+		"nipar": [
 			{
 				"form": "nīv+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"niġriaži": [
+		"niḫriaši": [
 			{
 				"form": "nīġr+i+a+že",
 				"translation": "u.B."
 			}
 		],
-		"nudiri": [
+		"nutiri": [
 			{
 				"form": "nōdiri",
 				"translation": "u.B."
@@ -5860,13 +5878,13 @@
 				"translation": "Ohr"
 			}
 		],
-		"nuriġi": [
+		"nuriḫi": [
 			{
 				"form": "nor+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"nubari": [
+		"nupari": [
 			{
 				"form": "nōv+ar+ē",
 				"translation": "u.B."
@@ -5876,31 +5894,31 @@
 				"translation": "u.B."
 			}
 		],
-		"nubi": [
+		"nupi": [
 			{
 				"form": "nōvi",
 				"translation": "u.B."
 			}
 		],
-		"nub": [
+		"nup": [
 			{
 				"form": "nōvi",
 				"translation": "u.B."
 			}
 		],
-		"nuġašši": [
+		"nuḫašši": [
 			{
 				"form": "Nōġašše",
 				"translation": "GN"
 			}
 		],
-		"nuġ": [
+		"nuḫ": [
 			{
 				"form": "nōġ",
 				"translation": "u.B."
 			}
 		],
-		"nuduž": [
+		"nutuš": [
 			{
 				"form": "nūd+o+že",
 				"translation": "u.B."
@@ -5912,31 +5930,31 @@
 				"translation": "u.B."
 			}
 		],
-		"nurbi": [
+		"nurpi": [
 			{
 				"form": "nūrbi",
 				"translation": "u.B."
 			}
 		],
-		"nubani": [
+		"nupani": [
 			{
 				"form": "nūv+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"paban": [
+		"papan": [
 			{
 				"form": "paba+ni",
 				"translation": "Berg"
 			}
 		],
-		"pabanni": [
+		"papanni": [
 			{
 				"form": "paba+ni",
 				"translation": "Berg"
 			}
 		],
-		"pabni": [
+		"papni": [
 			{
 				"form": "pab+ni",
 				"translation": "Berg"
@@ -5946,25 +5964,25 @@
 				"translation": "Berg"
 			}
 		],
-		"padni": [
+		"patni": [
 			{
 				"form": "padni",
 				"translation": "u.B."
 			}
 		],
-		"pagamm": [
+		"pakamm": [
 			{
 				"form": "pag+a+mme",
 				"translation": "u.B."
 			}
 		],
-		"paibibl": [
+		"paipipl": [
 			{
 				"form": "Paib.Ebla",
 				"translation": "PN"
 			}
 		],
-		"paibibla": [
+		"paipipla": [
 			{
 				"form": "Paib.Ebla",
 				"translation": "PN"
@@ -6000,7 +6018,7 @@
 				"translation": "Erbauer"
 			}
 		],
-		"palaġ": [
+		"palaḫ": [
 			{
 				"form": "palaġi",
 				"translation": "u.B."
@@ -6014,19 +6032,19 @@
 				"translation": "u.B."
 			}
 		],
-		"pandari": [
+		"pantari": [
 			{
 				"form": "pand+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"pandarinn": [
+		"pantarinn": [
 			{
 				"form": "fand+ar+i+nni",
 				"translation": "Koch"
 			}
 		],
-		"pand": [
+		"pant": [
 			{
 				"form": "fandi",
 				"translation": "recht, rechte Seite"
@@ -6042,25 +6060,25 @@
 				"translation": "u.B."
 			}
 		],
-		"parissadi": [
+		"parissati": [
 			{
 				"form": "pariss+ade",
 				"translation": "ein halbes Kor"
 			}
 		],
-		"parzig": [
+		"parsik": [
 			{
 				"form": "parzīgi",
 				"translation": "u.B."
 			}
 		],
-		"parġi": [
+		"parḫi": [
 			{
 				"form": "parġi",
 				"translation": "Hof"
 			}
 		],
-		"parġ": [
+		"parḫ": [
 			{
 				"form": "parġi",
 				"translation": "Hof"
@@ -6078,19 +6096,19 @@
 				"translation": "u.B."
 			}
 		],
-		"paġandari": [
+		"paḫantari": [
 			{
 				"form": "paġ+and+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"paġli": [
+		"paḫli": [
 			{
 				"form": "paġ+li",
 				"translation": "u.B."
 			}
 		],
-		"paġmi": [
+		"paḫmi": [
 			{
 				"form": "paġmi",
 				"translation": "u.B."
@@ -6106,7 +6124,7 @@
 				"translation": "u.B."
 			}
 		],
-		"paššarugar": [
+		"paššarukar": [
 			{
 				"form": "pašš+ar+ugār+i",
 				"translation": "u.B."
@@ -6124,13 +6142,13 @@
 				"translation": "Gesandter; Bote"
 			}
 		],
-		"paššiġ": [
+		"paššiḫ": [
 			{
 				"form": "pašš+i+ġe",
 				"translation": "Sendung?"
 			}
 		],
-		"paġari": [
+		"paḫari": [
 			{
 				"form": "paġari",
 				"translation": "u.B."
@@ -6166,31 +6184,31 @@
 				"translation": "u.B."
 			}
 		],
-		"pidari": [
+		"pitari": [
 			{
 				"form": "ped+ar+i",
 				"translation": "Rind"
 			}
 		],
-		"pid": [
+		"pit": [
 			{
 				"form": "pīdi",
 				"translation": "u.B."
 			}
 		],
-		"pidušši": [
+		"pitušši": [
 			{
 				"form": "pid+o+šše",
 				"translation": "u.B."
 			}
 		],
-		"pidušš": [
+		"pitušš": [
 			{
 				"form": "pid+o+šše",
 				"translation": "u.B."
 			}
 		],
-		"pig": [
+		"pik": [
 			{
 				"form": "pigi",
 				"translation": "u.B."
@@ -6202,25 +6220,25 @@
 				"translation": "Kanal"
 			}
 		],
-		"pilaġižiliġ": [
+		"pilaḫišiliḫ": [
 			{
 				"form": "pil+āġ+i+šše+li+ġe",
 				"translation": "Spinnereiarbeit"
 			}
 		],
-		"pindaian": [
+		"pintaian": [
 			{
 				"form": "pindaia+ni",
 				"translation": "u.B."
 			}
 		],
-		"pindaiani": [
+		"pintaiani": [
 			{
 				"form": "pindaia+ni",
 				"translation": "u.B."
 			}
 		],
-		"pindaianni": [
+		"pintaianni": [
 			{
 				"form": "pindaia+nni",
 				"translation": "u.B."
@@ -6248,13 +6266,13 @@
 				"translation": "u.B."
 			}
 		],
-		"pirugar": [
+		"pirukar": [
 			{
 				"form": "pir+ugāri",
 				"translation": "u.B."
 			}
 		],
-		"pirunduġ": [
+		"piruntuḫ": [
 			{
 				"form": "pirund+ō+ġe",
 				"translation": "GN?"
@@ -6266,19 +6284,19 @@
 				"translation": "u.B."
 			}
 		],
-		"pittugall": [
+		"pittukall": [
 			{
 				"form": "pittugalli",
 				"translation": "u.B."
 			}
 		],
-		"pizigarra": [
+		"pisikarra": [
 			{
 				"form": "Pizigarra",
 				"translation": "PN"
 			}
 		],
-		"piġi": [
+		"piḫi": [
 			{
 				"form": "piġi",
 				"translation": "u.B."
@@ -6288,7 +6306,7 @@
 				"translation": "u.B."
 			}
 		],
-		"piġ": [
+		"piḫ": [
 			{
 				"form": "piġi",
 				"translation": "u.B."
@@ -6300,25 +6318,25 @@
 				"translation": "u.B."
 			}
 		],
-		"pižiri": [
+		"piširi": [
 			{
 				"form": "pižiri",
 				"translation": "u.B."
 			}
 		],
-		"pižaišpa": [
+		"pišaišpa": [
 			{
 				"form": "Pižāiš.pā",
 				"translation": "GN"
 			}
 		],
-		"pudulimašši": [
+		"putulimašši": [
 			{
 				"form": "fud+ol+i+m+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"pudulin": [
+		"putulin": [
 			{
 				"form": "fud+ol+i+ni",
 				"translation": "u.B."
@@ -6330,13 +6348,13 @@
 				"translation": "u.B."
 			}
 		],
-		"pugulb": [
+		"pukulp": [
 			{
 				"form": "pugulbi",
 				"translation": "u.B."
 			}
 		],
-		"pulidi": [
+		"puliti": [
 			{
 				"form": "pul+idi",
 				"translation": "u.B."
@@ -6358,7 +6376,7 @@
 				"translation": "Opferschauer"
 			}
 		],
-		"puramdi": [
+		"puramti": [
 			{
 				"form": "Purandi",
 				"translation": "GN"
@@ -6370,25 +6388,25 @@
 				"translation": "Sklave; Diener"
 			}
 		],
-		"purandi": [
+		"puranti": [
 			{
 				"form": "Purandi",
 				"translation": "GN"
 			}
 		],
-		"puranziḫ": [
+		"puransiḫ": [
 			{
 				"form": "Puranziḫ",
 				"translation": "GN"
 			}
 		],
-		"purburni": [
+		"purpurni": [
 			{
 				"form": "pur+bur+ni",
 				"translation": "u.B."
 			}
 		],
-		"purburn": [
+		"purpurn": [
 			{
 				"form": "pur+bur+ni",
 				"translation": "u.B."
@@ -6406,7 +6424,7 @@
 				"translation": "u.B."
 			}
 		],
-		"purġ": [
+		"purḫ": [
 			{
 				"form": "purġi",
 				"translation": "u.B."
@@ -6418,25 +6436,25 @@
 				"translation": "u.B."
 			}
 		],
-		"puttiġ": [
+		"puttiḫ": [
 			{
 				"form": "put+t+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"puttiġi": [
+		"puttiḫi": [
 			{
 				"form": "put+t+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"puġuiri": [
+		"puḫuiri": [
 			{
 				"form": "puġuiri",
 				"translation": "u.B."
 			}
 		],
-		"puġuir": [
+		"puḫuir": [
 			{
 				"form": "puġuiri",
 				"translation": "u.B."
@@ -6458,7 +6476,7 @@
 				"translation": "u.B."
 			}
 		],
-		"pabilġ": [
+		"papilḫ": [
 			{
 				"form": "Pābel+ġe",
 				"translation": "GN"
@@ -6488,13 +6506,13 @@
 				"translation": "falsch"
 			}
 		],
-		"pandi": [
+		"panti": [
 			{
 				"form": "fandi",
 				"translation": "recht, rechte Seite"
 			}
 		],
-		"parg": [
+		"park": [
 			{
 				"form": "pārgi",
 				"translation": "u.B."
@@ -6530,19 +6548,19 @@
 				"translation": "u.B."
 			}
 		],
-		"parizi": [
+		"parisi": [
 			{
 				"form": "pārizi",
 				"translation": "ein halbes Kor"
 			}
 		],
-		"pariž": [
+		"pariš": [
 			{
 				"form": "pār+i+že",
 				"translation": "u.B."
 			}
 		],
-		"pariži": [
+		"pariši": [
 			{
 				"form": "pāriže",
 				"translation": "u.B."
@@ -6554,19 +6572,19 @@
 				"translation": "u.B."
 			}
 		],
-		"pattiburi": [
+		"pattipuri": [
 			{
 				"form": "pāttīvori",
 				"translation": "u.B."
 			}
 		],
-		"paġan": [
+		"paḫan": [
 			{
 				"form": "pāġani",
 				"translation": "u.B."
 			}
 		],
-		"paġilai": [
+		"paḫilai": [
 			{
 				"form": "pāġilāe",
 				"translation": "u.B."
@@ -6584,13 +6602,13 @@
 				"translation": "Gesandter; Bote"
 			}
 		],
-		"pažann": [
+		"pašann": [
 			{
 				"form": "pāž+a+nni",
 				"translation": "u.B."
 			}
 		],
-		"pažanni": [
+		"pašanni": [
 			{
 				"form": "pāž+a+nni",
 				"translation": "u.B."
@@ -6610,31 +6628,31 @@
 				"translation": "u.B."
 			}
 		],
-		"pidar": [
+		"pitar": [
 			{
 				"form": "ped+ar+i",
 				"translation": "Rind"
 			}
 		],
-		"pirġub": [
+		"pirḫup": [
 			{
 				"form": "pērġubi",
 				"translation": "u.B."
 			}
 		],
-		"pirġina": [
+		"pirḫina": [
 			{
 				"form": "Pērġēna",
 				"translation": "GN"
 			}
 		],
-		"pirġin": [
+		"pirḫin": [
 			{
 				"form": "Pērġēni",
 				"translation": "GN"
 			}
 		],
-		"piġulab": [
+		"piḫulap": [
 			{
 				"form": "pēġulabi",
 				"translation": "u.B."
@@ -6652,7 +6670,7 @@
 				"translation": "u.B."
 			}
 		],
-		"punġi": [
+		"punḫi": [
 			{
 				"form": "pōnġi",
 				"translation": "Nase"
@@ -6670,7 +6688,7 @@
 				"translation": "u.B."
 			}
 		],
-		"puranadi": [
+		"puranati": [
 			{
 				"form": "Pōranade",
 				"translation": "GN"
@@ -6680,49 +6698,49 @@
 				"translation": "GN"
 			}
 		],
-		"purid": [
+		"purit": [
 			{
 				"form": "pōr+idi",
 				"translation": "u.B."
 			}
 		],
-		"sabalgi": [
+		"sapalki": [
 			{
 				"form": "sabal+gi",
 				"translation": "u.B."
 			}
 		],
-		"sabalg": [
+		"sapalk": [
 			{
 				"form": "sabal+gi",
 				"translation": "u.B."
 			}
 		],
-		"sabari": [
+		"sapari": [
 			{
 				"form": "sabari",
 				"translation": "u.B."
 			}
 		],
-		"sablašši": [
+		"saplašši": [
 			{
 				"form": "sabl+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"sablungi": [
+		"saplunki": [
 			{
 				"form": "sabl+ung+i",
 				"translation": "u.B."
 			}
 		],
-		"sabri": [
+		"sapri": [
 			{
 				"form": "sabri",
 				"translation": "böse"
 			}
 		],
-		"sakkandi": [
+		"sakkanti": [
 			{
 				"form": "sakkandi",
 				"translation": "u.B."
@@ -6738,19 +6756,19 @@
 				"translation": "u.B."
 			}
 		],
-		"sangandi": [
+		"sankanti": [
 			{
 				"form": "sangandi",
 				"translation": "u.B."
 			}
 		],
-		"sanzami": [
+		"sansami": [
 			{
 				"form": "sanzāmi",
 				"translation": "u.B."
 			}
 		],
-		"sarmadi": [
+		"sarmati": [
 			{
 				"form": "Sarmade",
 				"translation": "GN"
@@ -6774,13 +6792,13 @@
 				"translation": "u.B."
 			}
 		],
-		"sazuld": [
+		"sasult": [
 			{
 				"form": "saz+ul+di",
 				"translation": "u.B."
 			}
 		],
-		"sažr": [
+		"sašr": [
 			{
 				"form": "sažri",
 				"translation": "u.B."
@@ -6804,61 +6822,61 @@
 				"translation": "Esel"
 			}
 		],
-		"sibar": [
+		"sipar": [
 			{
 				"form": "sib+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"sibari": [
+		"sipari": [
 			{
 				"form": "sib+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"sibi": [
+		"sipi": [
 			{
 				"form": "sibi",
 				"translation": "u.B."
 			}
 		],
-		"sigaldi": [
+		"sikalti": [
 			{
 				"form": "sigaldi",
 				"translation": "u.B."
 			}
 		],
-		"sigalduži": [
+		"sikaltuši": [
 			{
 				"form": "sigald+o+že",
 				"translation": "u.B."
 			}
 		],
-		"sigarulli": [
+		"sikarulli": [
 			{
 				"form": "sig+ar+ulli",
 				"translation": "u.B."
 			}
 		],
-		"sigrušḫi": [
+		"sikrušḫi": [
 			{
 				"form": "sigr+ō+šḫe",
 				"translation": "u.B."
 			}
 		],
-		"sikkuġ": [
+		"sikkuḫ": [
 			{
 				"form": "sikk+o+ġe",
 				"translation": "zerbrochen"
 			}
 		],
-		"simidad": [
+		"simitat": [
 			{
 				"form": "simidadi",
 				"translation": "u.B."
 			}
 		],
-		"simidadi": [
+		"simitati": [
 			{
 				"form": "simidadi",
 				"translation": "u.B."
@@ -6876,25 +6894,25 @@
 				"translation": "u.B."
 			}
 		],
-		"subitt": [
+		"supitt": [
 			{
 				"form": "subitti",
 				"translation": "u.B."
 			}
 		],
-		"subn": [
+		"supn": [
 			{
 				"form": "subni",
 				"translation": "u.B."
 			}
 		],
-		"sugazuganišš": [
+		"sukasukanišš": [
 			{
 				"form": "suga+zūga+ni+šše",
 				"translation": "u.B."
 			}
 		],
-		"sugazugani": [
+		"sukasukani": [
 			{
 				"form": "suga+zūga+ni",
 				"translation": "u.B."
@@ -6906,19 +6924,19 @@
 				"translation": "u.B."
 			}
 		],
-		"sulgi": [
+		"sulki": [
 			{
 				"form": "sul+gi",
 				"translation": "Bindung?"
 			}
 		],
-		"suluži": [
+		"suluši": [
 			{
 				"form": "sul+ō+že",
 				"translation": "u.B."
 			}
 		],
-		"sumġar": [
+		"sumḫar": [
 			{
 				"form": "sumġar",
 				"translation": "u.B."
@@ -6930,13 +6948,13 @@
 				"translation": "u.B."
 			}
 		],
-		"surgi": [
+		"surki": [
 			{
 				"form": "surgi",
 				"translation": "Blut(tat)"
 			}
 		],
-		"surungi": [
+		"surunki": [
 			{
 				"form": "sur+ung+i",
 				"translation": "u.B."
@@ -6948,7 +6966,7 @@
 				"translation": "u.B."
 			}
 		],
-		"suwadatti": [
+		"suwatatti": [
 			{
 				"form": "suv+ad+atte",
 				"translation": "ein Viertel Kor"
@@ -6960,31 +6978,31 @@
 				"translation": "GN"
 			}
 		],
-		"suzumag": [
+		"susumak": [
 			{
 				"form": "suzumagi",
 				"translation": "u.B."
 			}
 		],
-		"suzunni": [
+		"susunni": [
 			{
 				"form": "suss+ō+nni",
 				"translation": "u.B."
 			}
 		],
-		"suġižali": [
+		"suḫišali": [
 			{
 				"form": "suġižali",
 				"translation": "u.B."
 			}
 		],
-		"suġižalli": [
+		"suḫišalli": [
 			{
 				"form": "suġižalli",
 				"translation": "u.B."
 			}
 		],
-		"suġri": [
+		"suḫri": [
 			{
 				"form": "suġri",
 				"translation": "Gras"
@@ -6996,7 +7014,7 @@
 				"translation": "u.B."
 			}
 		],
-		"sallab": [
+		"sallap": [
 			{
 				"form": "sāllavi",
 				"translation": "u.B."
@@ -7014,25 +7032,25 @@
 				"translation": "u.B."
 			}
 		],
-		"sazalla": [
+		"sasalla": [
 			{
 				"form": "Sāzalla",
 				"translation": "PN"
 			}
 		],
-		"sazi": [
+		"sasi": [
 			{
 				"form": "sāzi",
 				"translation": "u.B."
 			}
 		],
-		"sizi": [
+		"sisi": [
 			{
 				"form": "sēze",
 				"translation": "Brust?"
 			}
 		],
-		"siži": [
+		"siši": [
 			{
 				"form": "sēži",
 				"translation": "u.B."
@@ -7044,19 +7062,19 @@
 				"translation": "u.B."
 			}
 		],
-		"sigil": [
+		"sikil": [
 			{
 				"form": "sīgili",
 				"translation": "u.B."
 			}
 		],
-		"subi": [
+		"supi": [
 			{
 				"form": "sōve",
 				"translation": "u.B."
 			}
 		],
-		"subar": [
+		"supar": [
 			{
 				"form": "sōbāri",
 				"translation": "u.B."
@@ -7102,7 +7120,7 @@
 				"translation": "u.B."
 			}
 		],
-		"sugitti": [
+		"sukitti": [
 			{
 				"form": "sūgētte",
 				"translation": "u.B."
@@ -7114,13 +7132,13 @@
 				"translation": "u.B."
 			}
 		],
-		"suludi": [
+		"suluti": [
 			{
 				"form": "sūl+ūde",
 				"translation": "u.B."
 			}
 		],
-		"surangi": [
+		"suranki": [
 			{
 				"form": "sūr+ang+i",
 				"translation": "u.B."
@@ -7138,115 +7156,115 @@
 				"translation": "u.B."
 			}
 		],
-		"tabakk": [
+		"tapakk": [
 			{
 				"form": "tabakki",
 				"translation": "u.B."
 			}
 		],
-		"tabali": [
+		"tapali": [
 			{
 				"form": "taba+li",
 				"translation": "Schmied"
 			}
 		],
-		"tabiri": [
+		"tapiri": [
 			{
 				"form": "tab+i+re",
 				"translation": "Gießer"
 			}
 		],
-		"tabir": [
+		"tapir": [
 			{
 				"form": "tab+i+re",
 				"translation": "Gießer"
 			}
 		],
-		"tabr": [
+		"tapr": [
 			{
 				"form": "tabri",
 				"translation": "Stuhl"
 			}
 		],
-		"tabrin": [
+		"taprin": [
 			{
 				"form": "tabrini",
 				"translation": "Wacholder?"
 			}
 		],
-		"tabran": [
+		"tapran": [
 			{
 				"form": "tabrani",
 				"translation": "Wachholder?"
 			}
 		],
-		"tabrani": [
+		"taprani": [
 			{
 				"form": "tabrani",
 				"translation": "Wachholder?"
 			}
 		],
-		"tabrinni": [
+		"taprinni": [
 			{
 				"form": "tab+i+rē+nni",
 				"translation": "Schmied"
 			}
 		],
-		"tadani": [
+		"tatani": [
 			{
 				"form": "tad+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"tadan": [
+		"tatan": [
 			{
 				"form": "tad+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"tadi(-)ḫaduldašši": [
+		"tati(-)ḫatultašši": [
 			{
 				"form": "tādi",
 				"translation": "Liebe"
 			}
 		],
-		"tadi": [
+		"tati": [
 			{
 				"form": "tādi",
 				"translation": "Liebe"
 			}
 		],
-		"tad": [
+		"tat": [
 			{
 				"form": "tādi",
 				"translation": "Liebe"
 			}
 		],
-		"tadiriški": [
+		"tatiriški": [
 			{
 				"form": "tad+ir+e+ški",
 				"translation": "Liebe?"
 			}
 		],
-		"tadugar": [
+		"tatukar": [
 			{
 				"form": "tad+ugar+i",
 				"translation": "gegenseitige Liebe"
 			}
 		],
-		"taduġib": [
+		"tatuḫip": [
 			{
 				"form": "Tado.Ḫeba",
 				"translation": "PN"
 			}
 		],
-		"taduġiba": [
+		"tatuḫipa": [
 			{
 				"form": "Tado.Ḫeba",
 				"translation": "PN"
 			}
 		],
-		"tagi": [
+		"taki": [
 			{
 				"form": "tagi",
 				"translation": "Licht; hell"
@@ -7276,31 +7294,31 @@
 				"translation": "u.B."
 			}
 		],
-		"tamgari": [
+		"tamkari": [
 			{
 				"form": "tamgāri",
 				"translation": "Händler"
 			}
 		],
-		"tamgar": [
+		"tamkar": [
 			{
 				"form": "tamgāri",
 				"translation": "Händler"
 			}
 		],
-		"tamgina": [
+		"tamkina": [
 			{
 				"form": "Tamgina",
 				"translation": "DN"
 			}
 		],
-		"tammadiri": [
+		"tammatiri": [
 			{
 				"form": "tammaderi",
 				"translation": "u.B."
 			}
 		],
-		"tammarġi": [
+		"tammarḫi": [
 			{
 				"form": "tamm+ar+ġe",
 				"translation": "u.B."
@@ -7342,7 +7360,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tapšaġuḫḫ": [
+		"tapšaḫuḫḫ": [
 			{
 				"form": "tapš+aġ+o+ḫḫe",
 				"translation": "u.B."
@@ -7354,25 +7372,25 @@
 				"translation": "Mundschenk"
 			}
 		],
-		"tapšurž": [
+		"tapšurš": [
 			{
 				"form": "tapš+ur+že",
 				"translation": "u.B."
 			}
 		],
-		"tapšaġ": [
+		"tapšaḫ": [
 			{
 				"form": "tapš+āġ+i",
 				"translation": "Mundschenk"
 			}
 		],
-		"tapšaġi": [
+		"tapšaḫi": [
 			{
 				"form": "tapš+āġ+i",
 				"translation": "Mundschenk"
 			}
 		],
-		"tapšubadi": [
+		"tapšupati": [
 			{
 				"form": "tapš+ō+bāde",
 				"translation": "u.B."
@@ -7400,7 +7418,7 @@
 				"translation": "u.B."
 			}
 		],
-		"targi": [
+		"tarki": [
 			{
 				"form": "tar+ġe",
 				"translation": "u.B."
@@ -7418,7 +7436,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tariġi": [
+		"tariḫi": [
 			{
 				"form": "tar+i+ġe",
 				"translation": "u.B."
@@ -7462,31 +7480,31 @@
 				"translation": "u.B."
 			}
 		],
-		"tarbi": [
+		"tarpi": [
 			{
 				"form": "tarve",
 				"translation": "u.B."
 			}
 		],
-		"tarži": [
+		"tarši": [
 			{
 				"form": "tarže",
 				"translation": "u.B."
 			}
 		],
-		"taržuwani": [
+		"taršuwani": [
 			{
 				"form": "taržuwa+ni",
 				"translation": "Mensch"
 			}
 		],
-		"taržuwan": [
+		"taršuwan": [
 			{
 				"form": "taržuwa+ni",
 				"translation": "Mensch"
 			}
 		],
-		"taržuwanzi": [
+		"taršuwansi": [
 			{
 				"form": "taržuwa+n+zi",
 				"translation": "Menschheit"
@@ -7504,7 +7522,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tatḫunduri": [
+		"tatḫunturi": [
 			{
 				"form": "tātḫ+und+ō+re",
 				"translation": "u.B."
@@ -7516,19 +7534,19 @@
 				"translation": "u.B."
 			}
 		],
-		"tazakkaštur": [
+		"tasakkaštur": [
 			{
 				"form": "tazakkašturi",
 				"translation": "u.B."
 			}
 		],
-		"taġaburi": [
+		"taḫapuri": [
 			{
 				"form": "taġav+o+re",
 				"translation": "u.B."
 			}
 		],
-		"taġi": [
+		"taḫi": [
 			{
 				"form": "tāġe",
 				"translation": "Mann"
@@ -7538,25 +7556,25 @@
 				"translation": "u.B."
 			}
 		],
-		"taġuwadi": [
+		"taḫuwati": [
 			{
 				"form": "taġ+o+vadi",
 				"translation": "u.B."
 			}
 		],
-		"taġaži": [
+		"taḫaši": [
 			{
 				"form": "taġ+ā+že",
 				"translation": "Mannhaftigkeit"
 			}
 		],
-		"taġubi": [
+		"taḫupi": [
 			{
 				"form": "taġōbi",
 				"translation": "u.B."
 			}
 		],
-		"taškarġi": [
+		"taškarḫi": [
 			{
 				"form": "taškar+ġe",
 				"translation": "Buchsbaum?"
@@ -7574,7 +7592,7 @@
 				"translation": "u.B."
 			}
 		],
-		"taži": [
+		"taši": [
 			{
 				"form": "taže",
 				"translation": "Geschenk?; Gabe?"
@@ -7584,13 +7602,13 @@
 				"translation": "u.B."
 			}
 		],
-		"tažmižarri": [
+		"tašmišarri": [
 			{
 				"form": "Tažmi.šarri",
 				"translation": "PN"
 			}
 		],
-		"tib": [
+		"tip": [
 			{
 				"form": "tebe",
 				"translation": "u.B."
@@ -7604,7 +7622,7 @@
 				"translation": "Wort; Sache"
 			}
 		],
-		"tibi": [
+		"tipi": [
 			{
 				"form": "tebe",
 				"translation": "u.B."
@@ -7614,13 +7632,13 @@
 				"translation": "Wort; Sache"
 			}
 		],
-		"tibušḫ": [
+		"tipušḫ": [
 			{
 				"form": "tiv+o+šḫi",
 				"translation": "Rede"
 			}
 		],
-		"tidir": [
+		"titir": [
 			{
 				"form": "tederi",
 				"translation": "u.B."
@@ -7656,13 +7674,13 @@
 				"translation": "u.B."
 			}
 		],
-		"timg": [
+		"timk": [
 			{
 				"form": "tem+gi",
 				"translation": "u.B."
 			}
 		],
-		"timiġ": [
+		"timiḫ": [
 			{
 				"form": "temiġi",
 				"translation": "u.B."
@@ -7674,22 +7692,28 @@
 				"translation": "u.B."
 			}
 		],
-		"tiġ": [
+		"tiḫ": [
 			{
 				"form": "tēġi",
 				"translation": "u.B."
 			}
 		],
-		"tiġri": [
+		"tiḫri": [
 			{
 				"form": "teġri",
 				"translation": "u.B."
 			}
 		],
-		"tiġuli": [
+		"tiḫuli": [
 			{
 				"form": "teġ+ol+i",
 				"translation": "u.B."
+			}
+		],
+		"tišcup": [
+			{
+				"form": "Teššob",
+				"translation": "DN"
 			}
 		],
 		"tišši": [
@@ -7704,7 +7728,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tiššuġ": [
+		"tiššuḫ": [
 			{
 				"form": "tešš+o+ġe",
 				"translation": "u.B."
@@ -7716,25 +7740,25 @@
 				"translation": "erhaben"
 			}
 		],
-		"tižuġarġi": [
+		"tišuḫarḫi": [
 			{
 				"form": "tež+uġ+ar+ġe",
 				"translation": "u.B."
 			}
 		],
-		"tižuġarġ": [
+		"tišuḫarḫ": [
 			{
 				"form": "tež+uġ+ar+ġe",
 				"translation": "u.B."
 			}
 		],
-		"tižuġ": [
+		"tišuḫ": [
 			{
 				"form": "tež+o+ġe",
 				"translation": "u.B."
 			}
 		],
-		"tiž": [
+		"tiš": [
 			{
 				"form": "teži",
 				"translation": "u.B."
@@ -7756,37 +7780,37 @@
 				"translation": "Wort; Sache"
 			}
 		],
-		"tibadi": [
+		"tipati": [
 			{
 				"form": "tibade",
 				"translation": "u.B."
 			}
 		],
-		"tibaġ": [
+		"tipaḫ": [
 			{
 				"form": "tibāġi",
 				"translation": "u.B."
 			}
 		],
-		"tibušḫi": [
+		"tipušḫi": [
 			{
 				"form": "tiv+o+šḫi",
 				"translation": "Rede"
 			}
 		],
-		"tid": [
+		"tit": [
 			{
 				"form": "tidi",
 				"translation": "u.B."
 			}
 		],
-		"tidi": [
+		"titi": [
 			{
 				"form": "tidi",
 				"translation": "u.B."
 			}
 		],
-		"tillad": [
+		"tillat": [
 			{
 				"form": "tilladi",
 				"translation": "u.B."
@@ -7816,7 +7840,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tiža": [
+		"tiša": [
 			{
 				"form": "tiža",
 				"translation": "Herz"
@@ -7834,7 +7858,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tubi": [
+		"tupi": [
 			{
 				"form": "tōbi",
 				"translation": "Beschwörung"
@@ -7846,19 +7870,19 @@
 				"translation": "u.B."
 			}
 		],
-		"tugali": [
+		"tukali": [
 			{
 				"form": "tugali",
 				"translation": "u.B."
 			}
 		],
-		"tug": [
+		"tuk": [
 			{
 				"form": "tugi",
 				"translation": "u.B."
 			}
 		],
-		"tugriž": [
+		"tukriš": [
 			{
 				"form": "Tugriž",
 				"translation": "PN"
@@ -7876,13 +7900,13 @@
 				"translation": "u.B."
 			}
 		],
-		"tulbulimaž": [
+		"tulpulimaš": [
 			{
 				"form": "tulbuli+m+a+že",
 				"translation": "u.B."
 			}
 		],
-		"tulbur": [
+		"tulpur": [
 			{
 				"form": "tulburi",
 				"translation": "u.B."
@@ -7906,7 +7930,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tumnadi": [
+		"tumnati": [
 			{
 				"form": "tomn+adi",
 				"translation": "Vierergruppe"
@@ -7936,13 +7960,13 @@
 				"translation": "u.B."
 			}
 		],
-		"turb": [
+		"turp": [
 			{
 				"form": "torove",
 				"translation": "Feind"
 			}
 		],
-		"turburi": [
+		"turpuri": [
 			{
 				"form": "turb+ō+re",
 				"translation": "u.B."
@@ -7954,7 +7978,7 @@
 				"translation": "Fundament?"
 			}
 		],
-		"turži": [
+		"turši": [
 			{
 				"form": "turžē",
 				"translation": "Lunge"
@@ -7966,19 +7990,19 @@
 				"translation": "u.B."
 			}
 		],
-		"tadariški": [
+		"tatariški": [
 			{
 				"form": "tād+ar+e+ški",
 				"translation": "u.B."
 			}
 		],
-		"tadittini": [
+		"tatittini": [
 			{
 				"form": "tāditti+ni",
 				"translation": "u.B."
 			}
 		],
-		"tagidu": [
+		"takitu": [
 			{
 				"form": "Tāgidu",
 				"translation": "DN"
@@ -7994,7 +8018,7 @@
 				"translation": "Baum; Holz"
 			}
 		],
-		"taluliž": [
+		"taluliš": [
 			{
 				"form": "tāl+ūl+ī+že",
 				"translation": "u.B."
@@ -8006,7 +8030,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tang": [
+		"tank": [
 			{
 				"form": "tān+gi",
 				"translation": "u.B."
@@ -8024,13 +8048,13 @@
 				"translation": "u.B."
 			}
 		],
-		"tanumag": [
+		"tanumak": [
 			{
 				"form": "tānumāgi",
 				"translation": "u.B."
 			}
 		],
-		"tanuži": [
+		"tanuši": [
 			{
 				"form": "tān+o+že",
 				"translation": "u.B."
@@ -8042,25 +8066,25 @@
 				"translation": "u.B."
 			}
 		],
-		"taġ": [
+		"taḫ": [
 			{
 				"form": "tāġe",
 				"translation": "Mann"
 			}
 		],
-		"taġan": [
+		"taḫan": [
 			{
 				"form": "tāġani",
 				"translation": "u.B."
 			}
 		],
-		"taž": [
+		"taš": [
 			{
 				"form": "taže",
 				"translation": "Geschenk?; Gabe?"
 			}
 		],
-		"tiadi": [
+		"tiati": [
 			{
 				"form": "tēi+ade",
 				"translation": "u.B."
@@ -8082,25 +8106,25 @@
 				"translation": "Wort; Name?"
 			}
 		],
-		"tiġid": [
+		"tiḫit": [
 			{
 				"form": "teġidi",
 				"translation": "u.B."
 			}
 		],
-		"tiġi": [
+		"tiḫi": [
 			{
 				"form": "tēġi",
 				"translation": "u.B."
 			}
 		],
-		"tiġušši": [
+		"tiḫušši": [
 			{
 				"form": "tēġ+o+šše",
 				"translation": "Erziehung?"
 			}
 		],
-		"tibin": [
+		"tipin": [
 			{
 				"form": "tive",
 				"translation": "Wort; Sache"
@@ -8110,13 +8134,13 @@
 				"translation": "Stroh"
 			}
 		],
-		"tibuli": [
+		"tipuli": [
 			{
 				"form": "tīvoli",
 				"translation": "u.B."
 			}
 		],
-		"tub": [
+		"tup": [
 			{
 				"form": "tōbi",
 				"translation": "Beschwörung"
@@ -8146,31 +8170,31 @@
 				"translation": "Feind"
 			}
 		],
-		"tuġaduman": [
+		"tuḫatuman": [
 			{
 				"form": "tōġ+ad+om+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"tuġadumani": [
+		"tuḫatumani": [
 			{
 				"form": "tōġ+ad+om+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"tuġadumanni": [
+		"tuḫatumanni": [
 			{
 				"form": "tōġ+ad+om+a+nni",
 				"translation": "u.B."
 			}
 		],
-		"tuġalzi": [
+		"tuḫalsi": [
 			{
 				"form": "tōġal+zi",
 				"translation": "u.B."
 			}
 		],
-		"tudig": [
+		"tutik": [
 			{
 				"form": "tūdi+gi",
 				"translation": "Abfallhaufen"
@@ -8212,7 +8236,7 @@
 				"translation": "Unterseite?"
 			}
 		],
-		"ub": [
+		"up": [
 			{
 				"form": "ubi",
 				"translation": "Gerste"
@@ -8222,7 +8246,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ubi": [
+		"upi": [
 			{
 				"form": "obi",
 				"translation": "Gerste?"
@@ -8236,49 +8260,49 @@
 				"translation": "u.B."
 			}
 		],
-		"ubilbaiži": [
+		"upilpaiši": [
 			{
 				"form": "Ubilbaeži",
 				"translation": "GN"
 			}
 		],
-		"ubind": [
+		"upint": [
 			{
 				"form": "ubindi",
 				"translation": "u.B."
 			}
 		],
-		"ubiptišši": [
+		"upiptišši": [
 			{
 				"form": "Ubip.tēšši",
 				"translation": "PN"
 			}
 		],
-		"ubugarži": [
+		"upukarši": [
 			{
 				"form": "ub+ugar+že",
 				"translation": "Schlacht"
 			}
 		],
-		"udadil": [
+		"utatil": [
 			{
 				"form": "udadeli",
 				"translation": "u.B."
 			}
 		],
-		"udipšarra": [
+		"utipšarra": [
 			{
 				"form": "Udip.šarra",
 				"translation": "PN"
 			}
 		],
-		"udipšari": [
+		"utipšari": [
 			{
 				"form": "Odip.šarri",
 				"translation": "PN"
 			}
 		],
-		"udipšarr": [
+		"utipšarr": [
 			{
 				"form": "Udip.šarra",
 				"translation": "PN"
@@ -8290,7 +8314,7 @@
 				"translation": "Brot"
 			}
 		],
-		"uinaba": [
+		"uinapa": [
 			{
 				"form": "Uenawa",
 				"translation": "GN"
@@ -8318,7 +8342,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ugulziġ": [
+		"ukulsiḫ": [
 			{
 				"form": "ug+ol+z+i+ġe",
 				"translation": "das Niederknien?"
@@ -8330,7 +8354,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ulluġuži": [
+		"ulluḫuši": [
 			{
 				"form": "oll+uġ+o+že",
 				"translation": "u.B."
@@ -8346,7 +8370,7 @@
 				"translation": "Sklavin; Dienerin"
 			}
 		],
-		"umb": [
+		"ump": [
 			{
 				"form": "Umba",
 				"translation": "DN"
@@ -8356,13 +8380,13 @@
 				"translation": "u.B."
 			}
 		],
-		"umba": [
+		"umpa": [
 			{
 				"form": "Umba",
 				"translation": "DN"
 			}
 		],
-		"umbašši": [
+		"umpašši": [
 			{
 				"form": "tupp+a+šše",
 				"translation": "u.B."
@@ -8372,13 +8396,13 @@
 				"translation": "u.B."
 			}
 		],
-		"umbu": [
+		"umpu": [
 			{
 				"form": "Umbu",
 				"translation": "DN"
 			}
 		],
-		"umbunduri": [
+		"umpunturi": [
 			{
 				"form": "umb+und+o+re",
 				"translation": "u.B."
@@ -8390,7 +8414,7 @@
 				"translation": "Land"
 			}
 		],
-		"ummallidašši": [
+		"ummallitašši": [
 			{
 				"form": "umm+all+id+a+šše",
 				"translation": "u.B."
@@ -8406,25 +8430,25 @@
 				"translation": "u.B."
 			}
 		],
-		"umbi": [
+		"umpi": [
 			{
 				"form": "umve",
 				"translation": "u.B."
 			}
 		],
-		"unib": [
+		"unip": [
 			{
 				"form": "univi",
 				"translation": "u.B."
 			}
 		],
-		"uniġ": [
+		"uniḫ": [
 			{
 				"form": "un+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"uniġi": [
+		"uniḫi": [
 			{
 				"form": "un+i+ġe",
 				"translation": "u.B."
@@ -8456,7 +8480,7 @@
 				"translation": "u.B."
 			}
 		],
-		"urgi": [
+		"urki": [
 			{
 				"form": "urgi",
 				"translation": "u.B."
@@ -8502,13 +8526,13 @@
 				"translation": "u.B."
 			}
 		],
-		"urġ": [
+		"urḫ": [
 			{
 				"form": "ūrġi",
 				"translation": "wahr"
 			}
 		],
-		"urubi": [
+		"urupi": [
 			{
 				"form": "urūbi",
 				"translation": "u.B."
@@ -8538,7 +8562,7 @@
 				"translation": "u.B."
 			}
 		],
-		"uzi": [
+		"usi": [
 			{
 				"form": "uzi",
 				"translation": "Fleisch"
@@ -8556,19 +8580,19 @@
 				"translation": "hungrig"
 			}
 		],
-		"uġari": [
+		"uḫari": [
 			{
 				"form": "uġ+ār+i",
 				"translation": "u.B."
 			}
 		],
-		"uġi": [
+		"uḫi": [
 			{
 				"form": "uġi",
 				"translation": "Schwein"
 			}
 		],
-		"uġni": [
+		"uḫni": [
 			{
 				"form": "oġ+ni",
 				"translation": "u.B."
@@ -8578,19 +8602,19 @@
 				"translation": "Weh(geschrei)"
 			}
 		],
-		"uġuni": [
+		"uḫuni": [
 			{
 				"form": "oġ+o+ni",
 				"translation": "Weh(geschrei)"
 			}
 		],
-		"uġušš": [
+		"uḫušš": [
 			{
 				"form": "oġ+ō+šše",
 				"translation": "u.B."
 			}
 		],
-		"uġužamašši": [
+		"uḫušamašši": [
 			{
 				"form": "oġ+ōž+a+mā+šše",
 				"translation": "u.B."
@@ -8608,13 +8632,13 @@
 				"translation": "Heldentum"
 			}
 		],
-		"uštid": [
+		"uštit": [
 			{
 				"form": "uštedi",
 				"translation": "u.B."
 			}
 		],
-		"uštiġi": [
+		"uštiḫi": [
 			{
 				"form": "ošt+i+ġe",
 				"translation": "Erhebung?"
@@ -8626,7 +8650,7 @@
 				"translation": "u.B."
 			}
 		],
-		"uššiġi": [
+		"uššiḫi": [
 			{
 				"form": "ušš+i+ġe",
 				"translation": "u.B."
@@ -8650,7 +8674,7 @@
 				"translation": "u.B."
 			}
 		],
-		"už": [
+		"uš": [
 			{
 				"form": "uw+o+že",
 				"translation": "u.B."
@@ -8660,19 +8684,19 @@
 				"translation": "u.B."
 			}
 		],
-		"uži": [
+		"uši": [
 			{
 				"form": "uže",
 				"translation": "Fleisch?"
 			}
 		],
-		"užun": [
+		"ušun": [
 			{
 				"form": "už+o+ni",
 				"translation": "u.B."
 			}
 		],
-		"užunni": [
+		"ušunni": [
 			{
 				"form": "už+o+nni",
 				"translation": "u.B."
@@ -8708,7 +8732,7 @@
 				"translation": "Ea (DN)"
 			}
 		],
-		"iažarri": [
+		"iašarri": [
 			{
 				"form": "Ea.šarri",
 				"translation": "DN"
@@ -8727,6 +8751,12 @@
 			}
 		],
 		"ÉRIN-an": [
+			{
+				"form": "ummani",
+				"translation": "Truppe"
+			}
+		],
+		"ÉRIN-": [
 			{
 				"form": "ummani",
 				"translation": "Truppe"
@@ -8768,25 +8798,25 @@
 				"translation": "Wasser; Fluss"
 			}
 		],
-		"ada": [
+		"ata": [
 			{
 				"form": "atta",
 				"translation": "Vater?"
 			}
 		],
-		"alb": [
+		"alp": [
 			{
 				"form": "ālvi",
 				"translation": "u.B."
 			}
 		],
-		"alžialli": [
+		"alšialli": [
 			{
 				"form": "ālžīālli",
 				"translation": "Widersprecher?"
 			}
 		],
-		"amb": [
+		"amp": [
 			{
 				"form": "āmbi",
 				"translation": "u.B."
@@ -8804,7 +8834,7 @@
 				"translation": "u.B."
 			}
 		],
-		"anžal": [
+		"anšal": [
 			{
 				"form": "ānž+ali",
 				"translation": "u.B."
@@ -8834,7 +8864,7 @@
 				"translation": "Gefangener"
 			}
 		],
-		"aġmižari": [
+		"aḫmišari": [
 			{
 				"form": "āġmižari",
 				"translation": "u.B."
@@ -8910,13 +8940,13 @@
 				"translation": "opfernd"
 			}
 		],
-		"aži": [
+		"aši": [
 			{
 				"form": "āže",
 				"translation": "Fett"
 			}
 		],
-		"ažri": [
+		"ašri": [
 			{
 				"form": "āžri",
 				"translation": "u.B."
@@ -8928,31 +8958,31 @@
 				"translation": "Löwe"
 			}
 		],
-		"iarži": [
+		"iarši": [
 			{
 				"form": "ēyar+že",
 				"translation": "Löwenhaftigkeit"
 			}
 		],
-		"ibla": [
+		"ipla": [
 			{
 				"form": "Ēbla",
 				"translation": "GN"
 			}
 		],
-		"ibl": [
+		"ipl": [
 			{
 				"form": "Ēbla",
 				"translation": "GN"
 			}
 		],
-		"ibrišši": [
+		"iprišši": [
 			{
 				"form": "evr+in+že",
 				"translation": "Herrschaft"
 			}
 		],
-		"ibrin": [
+		"iprin": [
 			{
 				"form": "ever+ni",
 				"translation": "König"
@@ -8968,25 +8998,25 @@
 				"translation": "u.B."
 			}
 		],
-		"ilgi": [
+		"ilki": [
 			{
 				"form": "ēlgi",
 				"translation": "Applikation"
 			}
 		],
-		"ilg": [
+		"ilk": [
 			{
 				"form": "ēlgi",
 				"translation": "Applikation"
 			}
 		],
-		"ilmirġi": [
+		"ilmirḫi": [
 			{
 				"form": "elm+ir+ġe",
 				"translation": "Eidgemäßer(?)"
 			}
 		],
-		"innigaldi": [
+		"innikalti": [
 			{
 				"form": "ennigaldi",
 				"translation": "u.B."
@@ -9004,13 +9034,13 @@
 				"translation": "Ofen"
 			}
 		],
-		"irbir": [
+		"irpir": [
 			{
 				"form": "ērbiri",
 				"translation": "u.B."
 			}
 		],
-		"irbiri": [
+		"irpiri": [
 			{
 				"form": "ērbiri",
 				"translation": "u.B."
@@ -9022,7 +9052,7 @@
 				"translation": "u.B."
 			}
 		],
-		"irġi": [
+		"irḫi": [
 			{
 				"form": "erġi",
 				"translation": "u.B."
@@ -9064,7 +9094,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ipšadi": [
+		"ipšati": [
 			{
 				"form": "īpšade",
 				"translation": "u.B."
@@ -9092,7 +9122,7 @@
 				"translation": "Land"
 			}
 		],
-		"uštannuġ": [
+		"uštannuḫ": [
 			{
 				"form": "ōšt+a+nn+ō+ġe",
 				"translation": "Held, heldenhaft"
@@ -9116,25 +9146,25 @@
 				"translation": "u.B."
 			}
 		],
-		"uššuž": [
+		"uššuš": [
 			{
 				"form": "ōšš+o+že",
 				"translation": "u.B."
 			}
 		],
-		"uššužan": [
+		"uššušan": [
 			{
 				"form": "ōššuž+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"uššužann": [
+		"uššušann": [
 			{
 				"form": "ōššuž+a+nni",
 				"translation": "u.B."
 			}
 		],
-		"užn": [
+		"ušn": [
 			{
 				"form": "ōžni",
 				"translation": "u.B."
@@ -9158,7 +9188,7 @@
 				"translation": "Inneres"
 			}
 		],
-		"tižni": [
+		"tišni": [
 			{
 				"form": "tiž+ni",
 				"translation": "Herz"
@@ -9182,7 +9212,7 @@
 				"translation": "Thron"
 			}
 		],
-		"šabadni": [
+		"šapatni": [
 			{
 				"form": "šabad+ni",
 				"translation": "u.B."
@@ -9192,85 +9222,85 @@
 				"translation": "u.B."
 			}
 		],
-		"šabalani": [
+		"šapalani": [
 			{
 				"form": "šab+al+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"šabalan": [
+		"šapalan": [
 			{
 				"form": "šab+al+a+ni",
 				"translation": "u.B."
 			}
 		],
-		"šabli": [
+		"šapli": [
 			{
 				"form": "šavli",
 				"translation": "Jahr"
 			}
 		],
-		"šabin": [
+		"šapin": [
 			{
 				"form": "šabeni",
 				"translation": "u.B."
 			}
 		],
-		"šabinuwa": [
+		"šapinuwa": [
 			{
 				"form": "Šabinuwa",
 				"translation": "GN"
 			}
 		],
-		"šabl": [
+		"šapl": [
 			{
 				"form": "šavli",
 				"translation": "Jahr"
 			}
 		],
-		"šaburn": [
+		"šapurn": [
 			{
 				"form": "šabur+ni",
 				"translation": "u.B."
 			}
 		],
-		"šadan": [
+		"šatan": [
 			{
 				"form": "šadani",
 				"translation": "u.B."
 			}
 		],
-		"šadiri": [
+		"šatiri": [
 			{
 				"form": "šaderi",
 				"translation": "u.B."
 			}
 		],
-		"šadir": [
+		"šatir": [
 			{
 				"form": "šaderi",
 				"translation": "u.B."
 			}
 		],
-		"šadn": [
+		"šatn": [
 			{
 				"form": "šadni",
 				"translation": "u.B."
 			}
 		],
-		"šadani": [
+		"šatani": [
 			{
 				"form": "šadani",
 				"translation": "u.B."
 			}
 		],
-		"šagar": [
+		"šakar": [
 			{
 				"form": "šag+ar+i",
 				"translation": "u.B."
 			}
 		],
-		"šagumži": [
+		"šakumši": [
 			{
 				"form": "šag+um+že",
 				"translation": "u.B."
@@ -9354,25 +9384,25 @@
 				"translation": "u.B."
 			}
 		],
-		"šarž": [
+		"šarš": [
 			{
 				"form": "šarže",
 				"translation": "u.B."
 			}
 		],
-		"šaržarai": [
+		"šaršarai": [
 			{
 				"form": "Šaržārai",
 				"translation": "DN"
 			}
 		],
-		"šaržaraima": [
+		"šaršaraima": [
 			{
 				"form": "Šaržāraima",
 				"translation": "DN"
 			}
 		],
-		"šattaġamur": [
+		"šattaḫamur": [
 			{
 				"form": "šattaġamōri",
 				"translation": "u.B."
@@ -9384,13 +9414,13 @@
 				"translation": "DN"
 			}
 		],
-		"šabuži": [
+		"šapuši": [
 			{
 				"form": "šav+ō+že",
 				"translation": "erhaben"
 			}
 		],
-		"šazir": [
+		"šasir": [
 			{
 				"form": "taziri",
 				"translation": "u.B."
@@ -9400,13 +9430,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šaġadnadi": [
+		"šaḫatnati": [
 			{
 				"form": "šaġad+n+adi",
 				"translation": "Hälfte"
 			}
 		],
-		"šaġurunuwa": [
+		"šaḫurunuwa": [
 			{
 				"form": "Šaġurunuwa",
 				"translation": "PN"
@@ -9422,13 +9452,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šažari": [
+		"šašari": [
 			{
 				"form": "šažari",
 				"translation": "Säge"
 			}
 		],
-		"šibar": [
+		"šipar": [
 			{
 				"form": "šeb+ār+i",
 				"translation": "u.B."
@@ -9452,13 +9482,13 @@
 				"translation": "Haus"
 			}
 		],
-		"šilluġlupši": [
+		"šilluḫlupši": [
 			{
 				"form": "šell+o+ġ+l+o+pše",
 				"translation": "u.B."
 			}
 		],
-		"šilluġuli": [
+		"šilluḫuli": [
 			{
 				"form": "šell+o+ġ+o+li",
 				"translation": "Hausangehöriger?"
@@ -9470,13 +9500,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šiluž": [
+		"šiluš": [
 			{
 				"form": "šel+o+že",
 				"translation": "u.B."
 			}
 		],
-		"šiluži": [
+		"šiluši": [
 			{
 				"form": "šel+o+žē",
 				"translation": "u.B."
@@ -9488,19 +9518,19 @@
 				"translation": "Bruder"
 			}
 		],
-		"šind": [
+		"šint": [
 			{
 				"form": "šindi",
 				"translation": "u.B."
 			}
 		],
-		"šindaminni": [
+		"šintaminni": [
 			{
 				"form": "Šendamenni",
 				"translation": "PN"
 			}
 		],
-		"šindišši": [
+		"šintišši": [
 			{
 				"form": "šindi+ššē",
 				"translation": "siebter"
@@ -9520,19 +9550,19 @@
 				"translation": "Auge"
 			}
 		],
-		"šinzuw": [
+		"šinsuw": [
 			{
 				"form": "šen+z+ūwi",
 				"translation": "zweiter"
 			}
 		],
-		"širminġ": [
+		"širminḫ": [
 			{
 				"form": "šermin+ġe",
 				"translation": "Zypresse?"
 			}
 		],
-		"širminġi": [
+		"širminḫi": [
 			{
 				"form": "šermin+ġe",
 				"translation": "Zypresse?"
@@ -9556,13 +9586,13 @@
 				"translation": "u.B."
 			}
 		],
-		"širbi": [
+		"širpi": [
 			{
 				"form": "šervi",
 				"translation": "u.B."
 			}
 		],
-		"širġ": [
+		"širḫ": [
 			{
 				"form": "šer+ġe",
 				"translation": "u.B."
@@ -9572,91 +9602,91 @@
 				"translation": "u.B."
 			}
 		],
-		"širži": [
+		"širši": [
 			{
 				"form": "šer+že",
 				"translation": "u.B."
 			}
 		],
-		"šibiri": [
+		"šipiri": [
 			{
 				"form": "ševeri",
 				"translation": "u.B."
 			}
 		],
-		"šiġalaššiġi": [
+		"šiḫalaššiḫi": [
 			{
 				"form": "šeġal+a+šše+ġe",
 				"translation": "u.B."
 			}
 		],
-		"šiġli": [
+		"šiḫli": [
 			{
 				"form": "šeġli",
 				"translation": "rein; Reinheit"
 			}
 		],
-		"šiġilli": [
+		"šiḫilli": [
 			{
 				"form": "šeġli",
 				"translation": "rein; Reinheit"
 			}
 		],
-		"šiġilz": [
+		"šiḫils": [
 			{
 				"form": "šeġel+zi",
 				"translation": "u.B."
 			}
 		],
-		"šiġir": [
+		"šiḫir": [
 			{
 				"form": "šeġiri",
 				"translation": "u.B."
 			}
 		],
-		"šiġl": [
+		"šiḫl": [
 			{
 				"form": "šeġli",
 				"translation": "u.B."
 			}
 		],
-		"šiġri": [
+		"šiḫri": [
 			{
 				"form": "šeġri",
 				"translation": "u.B."
 			}
 		],
-		"šiġrul": [
+		"šiḫrul": [
 			{
 				"form": "šeġr+oli",
 				"translation": "u.B."
 			}
 		],
-		"šiġr": [
+		"šiḫr": [
 			{
 				"form": "šeġri",
 				"translation": "angenehm; großzügig"
 			}
 		],
-		"šiġurni": [
+		"šiḫurni": [
 			{
 				"form": "šeġor+ni",
 				"translation": "Leben"
 			}
 		],
-		"šiġurn": [
+		"šiḫurn": [
 			{
 				"form": "šeġor+ni",
 				"translation": "Leben"
 			}
 		],
-		"šiġurninni": [
+		"šiḫurninni": [
 			{
 				"form": "šeġor+n+i+nni",
 				"translation": "u.B."
 			}
 		],
-		"šiġuni": [
+		"šiḫuni": [
 			{
 				"form": "šeġōni",
 				"translation": "u.B."
@@ -9674,7 +9704,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šištuġalzi": [
+		"šištuḫalsi": [
 			{
 				"form": "šeštuġ+al+zi",
 				"translation": "u.B."
@@ -9728,49 +9758,49 @@
 				"translation": "u.B."
 			}
 		],
-		"šib": [
+		"šip": [
 			{
 				"form": "šibi",
 				"translation": "u.B."
 			}
 		],
-		"šidarbu": [
+		"šitarpu": [
 			{
 				"form": "Šidarbu",
 				"translation": "GN"
 			}
 		],
-		"šidarn": [
+		"šitarn": [
 			{
 				"form": "šid+ar+ni",
 				"translation": "Fluch"
 			}
 		],
-		"šidarni": [
+		"šitarni": [
 			{
 				"form": "šid+ar+ni",
 				"translation": "Fluch"
 			}
 		],
-		"šiduri": [
+		"šituri": [
 			{
 				"form": "šid+ō+ri",
 				"translation": "Mädchen; junge Frau"
 			}
 		],
-		"šigad": [
+		"šikat": [
 			{
 				"form": "šig+adi",
 				"translation": "u.B."
 			}
 		],
-		"šigadi": [
+		"šikati": [
 			{
 				"form": "šig+adi",
 				"translation": "u.B."
 			}
 		],
-		"šigladi": [
+		"šiklati": [
 			{
 				"form": "šigl+ade",
 				"translation": "Schekel"
@@ -9782,13 +9812,13 @@
 				"translation": "Pflock?; Balken?"
 			}
 		],
-		"šilaluġi": [
+		"šilaluḫi": [
 			{
 				"form": "šilaluġi",
 				"translation": "u.B."
 			}
 		],
-		"šilab": [
+		"šilap": [
 			{
 				"form": "šilavi",
 				"translation": "u.B."
@@ -9800,13 +9830,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šilaġi": [
+		"šilaḫi": [
 			{
 				"form": "šilāġi",
 				"translation": "u.B."
 			}
 		],
-		"šimigai": [
+		"šimikai": [
 			{
 				"form": "Šimiga+i",
 				"translation": "DN"
@@ -9818,31 +9848,31 @@
 				"translation": "u.B."
 			}
 		],
-		"šindad": [
+		"šintat": [
 			{
 				"form": "šind+ade",
 				"translation": "siebener Gruppe"
 			}
 		],
-		"šindi": [
+		"šinti": [
 			{
 				"form": "šindi",
 				"translation": "u.B."
 			}
 		],
-		"šinnaġini": [
+		"šinnaḫini": [
 			{
 				"form": "šinnaġi+ni",
 				"translation": "u.B."
 			}
 		],
-		"šinubi": [
+		"šinupi": [
 			{
 				"form": "šinubi",
 				"translation": "u.B."
 			}
 		],
-		"šinurġi": [
+		"šinurḫi": [
 			{
 				"form": "šinurġi",
 				"translation": "Zwilling?"
@@ -9878,13 +9908,13 @@
 				"translation": "Wasser; Fluss"
 			}
 		],
-		"šubriana": [
+		"šupriana": [
 			{
 				"form": "šubri+ana",
 				"translation": "u.B."
 			}
 		],
-		"šubri": [
+		"šupri": [
 			{
 				"form": "šubri",
 				"translation": "u.B."
@@ -9924,7 +9954,7 @@
 				"translation": "Kohle"
 			}
 		],
-		"šullubri": [
+		"šullupri": [
 			{
 				"form": "šullūbri",
 				"translation": "ein Gebäck"
@@ -9972,7 +10002,7 @@
 				"translation": "Hand"
 			}
 		],
-		"šundin": [
+		"šuntin": [
 			{
 				"form": "šundi+ni",
 				"translation": "u.B."
@@ -10002,13 +10032,13 @@
 				"translation": "eine Baumart"
 			}
 		],
-		"šurb": [
+		"šurp": [
 			{
 				"form": "šurbi",
 				"translation": "u.B."
 			}
 		],
-		"šurbigi": [
+		"šurpiki": [
 			{
 				"form": "šurbigi",
 				"translation": "u.B."
@@ -10024,25 +10054,25 @@
 				"translation": "alle?, gesamt?"
 			}
 		],
-		"šuġ": [
+		"šuḫ": [
 			{
 				"form": "šuʾi",
 				"translation": "u.B."
 			}
 		],
-		"šuġražn": [
+		"šuḫrašn": [
 			{
 				"form": "šuġraž+ni",
 				"translation": "u.B."
 			}
 		],
-		"šuġraži": [
+		"šuḫraši": [
 			{
 				"form": "šuġr+ā+že",
 				"translation": "u.B."
 			}
 		],
-		"šuġun": [
+		"šuḫun": [
 			{
 				"form": "šōġoni",
 				"translation": "Mauer"
@@ -10058,7 +10088,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šuġuri": [
+		"šuḫuri": [
 			{
 				"form": "šuġori",
 				"translation": "u.B."
@@ -10072,7 +10102,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šuġari": [
+		"šuḫari": [
 			{
 				"form": "šōġ+ar+i",
 				"translation": "u.B."
@@ -10094,25 +10124,25 @@
 				"translation": "Tochter"
 			}
 		],
-		"šalabn": [
+		"šalapn": [
 			{
 				"form": "šālab+ni",
 				"translation": "u.B."
 			}
 		],
-		"šalabni": [
+		"šalapni": [
 			{
 				"form": "šālab+ni",
 				"translation": "u.B."
 			}
 		],
-		"šalabnir": [
+		"šalapnir": [
 			{
 				"form": "šālabniri",
 				"translation": "u.B."
 			}
 		],
-		"šaladi": [
+		"šalati": [
 			{
 				"form": "šālade",
 				"translation": "u.B."
@@ -10148,7 +10178,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šabui": [
+		"šapui": [
 			{
 				"form": "šāv+ō+ʾe",
 				"translation": "u.B."
@@ -10160,19 +10190,19 @@
 				"translation": "Waffe"
 			}
 		],
-		"šaġari": [
+		"šaḫari": [
 			{
 				"form": "šāġ+ar+i",
 				"translation": "Ziegenbock"
 			}
 		],
-		"šaġl": [
+		"šaḫl": [
 			{
 				"form": "šāġli",
 				"translation": "u.B."
 			}
 		],
-		"šaġli": [
+		"šaḫli": [
 			{
 				"form": "šāġlē",
 				"translation": "u.B."
@@ -10200,7 +10230,7 @@
 				"translation": "jeder?"
 			}
 		],
-		"širižu": [
+		"širišu": [
 			{
 				"form": "Šērižu",
 				"translation": "DN"
@@ -10212,13 +10242,13 @@
 				"translation": "Norden"
 			}
 		],
-		"šiġa": [
+		"šiḫa": [
 			{
 				"form": "šēġa",
 				"translation": "Tor"
 			}
 		],
-		"šiġ": [
+		"šiḫ": [
 			{
 				"form": "šēġa",
 				"translation": "Tor"
@@ -10228,25 +10258,25 @@
 				"translation": "u.B."
 			}
 		],
-		"šiġadulimašši": [
+		"šiḫatulimašši": [
 			{
 				"form": "šēġ+ad+ul+i+m+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"šiġala": [
+		"šiḫala": [
 			{
 				"form": "šēġala",
 				"translation": "rein; Reinheit"
 			}
 		],
-		"šiž": [
+		"šiš": [
 			{
 				"form": "šēži",
 				"translation": "u.B."
 			}
 		],
-		"šiadi": [
+		"šiati": [
 			{
 				"form": "šīadi",
 				"translation": "u.B."
@@ -10258,13 +10288,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šiilb": [
+		"šiilp": [
 			{
 				"form": "šīlvi",
 				"translation": "u.B."
 			}
 		],
-		"šinunaġi": [
+		"šinunaḫi": [
 			{
 				"form": "šīnunaġi",
 				"translation": "u.B."
@@ -10298,7 +10328,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šiġatt": [
+		"šiḫatt": [
 			{
 				"form": "šīġ+ātti",
 				"translation": "u.B."
@@ -10344,19 +10374,19 @@
 				"translation": "u.B."
 			}
 		],
-		"šuba": [
+		"šupa": [
 			{
 				"form": "šowa",
 				"translation": "Tag"
 			}
 		],
-		"šub": [
+		"šup": [
 			{
 				"form": "šowa",
 				"translation": "Tag"
 			}
 		],
-		"šubala": [
+		"šupala": [
 			{
 				"form": "šowala",
 				"translation": "Wein"
@@ -10368,31 +10398,31 @@
 				"translation": "Wein"
 			}
 		],
-		"šuġašši": [
+		"šuḫašši": [
 			{
 				"form": "šōġ+a+šše",
 				"translation": "u.B."
 			}
 		],
-		"šuġuni": [
+		"šuḫuni": [
 			{
 				"form": "šōġoni",
 				"translation": "Mauer"
 			}
 		],
-		"šubi": [
+		"šupi": [
 			{
 				"form": "šubi",
 				"translation": "u.B."
 			}
 		],
-		"šugatti": [
+		"šukatti": [
 			{
 				"form": "šūgatte",
 				"translation": "u.B."
 			}
 		],
-		"šugi": [
+		"šuki": [
 			{
 				"form": "šūgi",
 				"translation": "Dach?"
@@ -10432,7 +10462,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šurbi": [
+		"šurpi": [
 			{
 				"form": "šūrbē",
 				"translation": "u.B."
@@ -10450,7 +10480,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šuruži": [
+		"šuruši": [
 			{
 				"form": "šūrūže",
 				"translation": "u.B."
@@ -10462,19 +10492,19 @@
 				"translation": "Tag"
 			}
 		],
-		"šuwarudi": [
+		"šuwaruti": [
 			{
 				"form": "šūwarudi",
 				"translation": "u.B."
 			}
 		],
-		"šuž": [
+		"šuš": [
 			{
 				"form": "šūži",
 				"translation": "u.B."
 			}
 		],
-		"šuži": [
+		"šuši": [
 			{
 				"form": "šūži",
 				"translation": "u.B."
@@ -10486,7 +10516,7 @@
 				"translation": "PN"
 			}
 		],
-		"umbiž": [
+		"umpiš": [
 			{
 				"form": "ūmb+i+že",
 				"translation": "u.B."
@@ -10504,7 +10534,7 @@
 				"translation": "Brot?"
 			}
 		],
-		"urdašši": [
+		"urtašši": [
 			{
 				"form": "ūrd+a+šše",
 				"translation": "u.B."
@@ -10516,13 +10546,13 @@
 				"translation": "Leber"
 			}
 		],
-		"urrugi": [
+		"urruki": [
 			{
 				"form": "ūrrugi",
 				"translation": "u.B."
 			}
 		],
-		"urġi": [
+		"urḫi": [
 			{
 				"form": "ūrġi",
 				"translation": "wahr"
@@ -10594,13 +10624,13 @@
 				"translation": "Berg"
 			}
 		],
-		"ḫabalgi": [
+		"ḫapalki": [
 			{
 				"form": "ḫabalgi",
 				"translation": "Eisen?"
 			}
 		],
-		"ḫabaḫḫubad": [
+		"ḫapaḫḫupat": [
 			{
 				"form": "ḫab+aḫḫ+ō+bade",
 				"translation": "u.B."
@@ -10610,43 +10640,43 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫaburn": [
+		"ḫapurn": [
 			{
 				"form": "ḫavor+ni",
 				"translation": "Himmel"
 			}
 		],
-		"ḫaburni": [
+		"ḫapurni": [
 			{
 				"form": "ḫavor+ni",
 				"translation": "Himmel"
 			}
 		],
-		"ḫadimi": [
+		"ḫatimi": [
 			{
 				"form": "ḫademi",
 				"translation": "u.B."
 			}
 		],
-		"ḫaiġi": [
+		"ḫaiḫi": [
 			{
 				"form": "ḫa+i+ġe",
 				"translation": "u.B."
 			}
 		],
-		"ḫalandi": [
+		"ḫalanti": [
 			{
 				"form": "ḫalandi",
 				"translation": "u.B"
 			}
 		],
-		"ḫalba": [
+		"ḫalpa": [
 			{
 				"form": "Ḫalba",
 				"translation": "GN"
 			}
 		],
-		"ḫalb": [
+		"ḫalp": [
 			{
 				"form": "Ḫalba",
 				"translation": "GN"
@@ -10664,13 +10694,13 @@
 				"translation": "Sänger"
 			}
 		],
-		"ḫalzi": [
+		"ḫalsi": [
 			{
 				"form": "ḫalze",
 				"translation": "Distrikt"
 			}
 		],
-		"ḫalzuġl": [
+		"ḫalsuḫl": [
 			{
 				"form": "ḫalz+ō+ġ+li",
 				"translation": "Distriktverwalter"
@@ -10688,13 +10718,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫamaziaži": [
+		"ḫamasiaši": [
 			{
 				"form": "ḫamaz+i+a+šše",
 				"translation": "Unterdrücker"
 			}
 		],
-		"ḫamaziaž": [
+		"ḫamasiaš": [
 			{
 				"form": "ḫamaz+i+a+šše",
 				"translation": "Unterdrücker"
@@ -10728,19 +10758,19 @@
 				"translation": "Kind; Säugling"
 			}
 		],
-		"ḫanubasḫi": [
+		"ḫanupasḫi": [
 			{
 				"form": "ḫān+u+b+a+sḫe",
 				"translation": "Fruchtbarkeit"
 			}
 		],
-		"ḫanumbasḫi": [
+		"ḫanumpasḫi": [
 			{
 				"form": "ḫan+u+mb+a+sḫe",
 				"translation": "Fruchtbarkeit"
 			}
 		],
-		"ḫanumbasḫ": [
+		"ḫanumpasḫ": [
 			{
 				"form": "ḫan+u+mb+a+sḫe",
 				"translation": "Fruchtbarkeit"
@@ -10764,13 +10794,13 @@
 				"translation": "Weg"
 			}
 		],
-		"ḫarġarai": [
+		"ḫarḫarai": [
 			{
 				"form": "Ḫarġarai",
 				"translation": "DN"
 			}
 		],
-		"ḫarġaraima": [
+		"ḫarḫaraima": [
 			{
 				"form": "Ḫarġaraima",
 				"translation": "DN"
@@ -10782,43 +10812,43 @@
 				"translation": "GN"
 			}
 		],
-		"ḫassiz": [
+		"ḫassis": [
 			{
 				"form": "ḫassizi",
 				"translation": "Verstand"
 			}
 		],
-		"ḫassizi": [
+		"ḫassisi": [
 			{
 				"form": "ḫassizi",
 				"translation": "Verstand"
 			}
 		],
-		"ḫabirni": [
+		"ḫapirni": [
 			{
 				"form": "ḫavēr+ni",
 				"translation": "Lamm"
 			}
 		],
-		"ḫaburun": [
+		"ḫapurun": [
 			{
 				"form": "ḫavor+ni",
 				"translation": "Himmel"
 			}
 		],
-		"ḫabari": [
+		"ḫapari": [
 			{
 				"form": "ḫav+ār+i",
 				"translation": "u.B."
 			}
 		],
-		"ḫawsuġ": [
+		"ḫawsuḫ": [
 			{
 				"form": "ḫauz+o+ġe",
 				"translation": "u.B."
 			}
 		],
-		"ḫazian": [
+		"ḫasian": [
 			{
 				"form": "ḫaziani",
 				"translation": "Bürgermeister"
@@ -10836,7 +10866,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫaššiadi": [
+		"ḫaššiati": [
 			{
 				"form": "ḫaššiadi",
 				"translation": "Bogen?"
@@ -10846,43 +10876,43 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫažar": [
+		"ḫašar": [
 			{
 				"form": "ḫāž+ar+i",
 				"translation": "Öl"
 			}
 		],
-		"ḫažari": [
+		"ḫašari": [
 			{
 				"form": "ḫāž+ar+i",
 				"translation": "Öl"
 			}
 		],
-		"ḫažarri": [
+		"ḫašarri": [
 			{
 				"form": "ḫāž+arri",
 				"translation": "Öl"
 			}
 		],
-		"ḫažarr": [
+		"ḫašarr": [
 			{
 				"form": "ḫāž+arri",
 				"translation": "Öl"
 			}
 		],
-		"ḫažimari": [
+		"ḫašimari": [
 			{
 				"form": "Ḫažimari",
 				"translation": "GN"
 			}
 		],
-		"ḫaž": [
+		"ḫaš": [
 			{
 				"form": "ḫāži",
 				"translation": "u.B."
 			}
 		],
-		"ḫibad": [
+		"ḫipat": [
 			{
 				"form": "Ḫebad",
 				"translation": "DN"
@@ -10894,13 +10924,13 @@
 				"translation": "Gold; Goldenes; golden"
 			}
 		],
-		"ḫild": [
+		"ḫilt": [
 			{
 				"form": "ḫilde",
 				"translation": "u.B."
 			}
 		],
-		"ḫildi": [
+		"ḫilti": [
 			{
 				"form": "ḫelde",
 				"translation": "u.B."
@@ -10910,7 +10940,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫildar": [
+		"ḫiltar": [
 			{
 				"form": "ḫild+ār+i",
 				"translation": "u.B."
@@ -10922,13 +10952,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫilub": [
+		"ḫilup": [
 			{
 				"form": "ḫelōvi",
 				"translation": "Ruhm"
 			}
 		],
-		"ḫinz": [
+		"ḫins": [
 			{
 				"form": "ḫenzi",
 				"translation": "Schuld?"
@@ -10964,19 +10994,19 @@
 				"translation": "Oberarm?"
 			}
 		],
-		"ḫiraġi": [
+		"ḫiraḫi": [
 			{
 				"form": "ḫeraġi",
 				"translation": "Oberarm"
 			}
 		],
-		"ḫižmi": [
+		"ḫišmi": [
 			{
 				"form": "ḫižmi",
 				"translation": "Glanz, glänzend"
 			}
 		],
-		"ḫižal": [
+		"ḫišal": [
 			{
 				"form": "ḫežāli",
 				"translation": "nackt, Nackter"
@@ -11006,25 +11036,25 @@
 				"translation": "Gold; Goldenes; golden"
 			}
 		],
-		"ḫibarni": [
+		"ḫiparni": [
 			{
 				"form": "ḫibar+ni",
 				"translation": "u.B."
 			}
 		],
-		"ḫib": [
+		"ḫip": [
 			{
 				"form": "ḫib",
 				"translation": "u.B."
 			}
 		],
-		"ḫidi": [
+		"ḫiti": [
 			{
 				"form": "ḫide",
 				"translation": "u.B."
 			}
 		],
-		"ḫiliġi": [
+		"ḫiliḫi": [
 			{
 				"form": "ḫil+i+ġe",
 				"translation": "u.B."
@@ -11036,13 +11066,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫinzuri": [
+		"ḫinsuri": [
 			{
 				"form": "ḫinzori",
 				"translation": "Apfel"
 			}
 		],
-		"ḫiraġ": [
+		"ḫiraḫ": [
 			{
 				"form": "ḫiraġe",
 				"translation": "u.B."
@@ -11060,43 +11090,43 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫiridi": [
+		"ḫiriti": [
 			{
 				"form": "ḫir+īdi",
 				"translation": "Graben?"
 			}
 		],
-		"ḫibullad": [
+		"ḫipullat": [
 			{
 				"form": "ḫiv+oll+āde",
 				"translation": "u.B."
 			}
 		],
-		"ḫižarduġuli": [
+		"ḫišartuḫuli": [
 			{
 				"form": "ḫiž+ar+d+o+ġ+o+li",
 				"translation": "u.B."
 			}
 		],
-		"ḫižm": [
+		"ḫišm": [
 			{
 				"form": "ḫižmi",
 				"translation": "Glanz, glänzend"
 			}
 		],
-		"ḫubn": [
+		"ḫupn": [
 			{
 				"form": "ḫubni",
 				"translation": "u.B."
 			}
 		],
-		"ḫuburi": [
+		"ḫupuri": [
 			{
 				"form": "ḫuburi",
 				"translation": "u.B."
 			}
 		],
-		"ḫudi": [
+		"ḫuti": [
 			{
 				"form": "Ḫōde",
 				"translation": "DN"
@@ -11194,13 +11224,13 @@
 				"translation": "Preisung"
 			}
 		],
-		"ḫuwabai": [
+		"ḫuwapai": [
 			{
 				"form": "Ḫuwava+i",
 				"translation": "DN"
 			}
 		],
-		"ḫuwi(-)kaudi": [
+		"ḫuwi(-)kauti": [
 			{
 				"form": "kaudi",
 				"translation": "u.B."
@@ -11224,7 +11254,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫabuži": [
+		"ḫapuši": [
 			{
 				"form": "ḫāb+o+že",
 				"translation": "u.B."
@@ -11234,13 +11264,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫaigali": [
+		"ḫaikali": [
 			{
 				"form": "ḫāigali",
 				"translation": "Palast"
 			}
 		],
-		"ḫaiži": [
+		"ḫaiši": [
 			{
 				"form": "ḫā+i+že",
 				"translation": "u.B."
@@ -11252,7 +11282,7 @@
 				"translation": "Weintrauben"
 			}
 		],
-		"ḫaraġi": [
+		"ḫaraḫi": [
 			{
 				"form": "ḫār+a+ġe",
 				"translation": "u.B."
@@ -11264,13 +11294,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫaziz": [
+		"ḫasis": [
 			{
 				"form": "ḫassizi",
 				"translation": "Verstand"
 			}
 		],
-		"ḫaġi": [
+		"ḫaḫi": [
 			{
 				"form": "ḫāġi",
 				"translation": "u.B."
@@ -11282,31 +11312,31 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫažaži": [
+		"ḫašaši": [
 			{
 				"form": "ḫāž+a+že",
 				"translation": "u.B."
 			}
 		],
-		"ḫažažimmi": [
+		"ḫašašimmi": [
 			{
 				"form": "ḫāž+až+i+mmi",
 				"translation": "u.B."
 			}
 		],
-		"ḫažir": [
+		"ḫašir": [
 			{
 				"form": "ḫāžeri",
 				"translation": "Dolch"
 			}
 		],
-		"ḫažimmi": [
+		"ḫašimmi": [
 			{
 				"form": "ḫāži+mmi",
 				"translation": "u.B."
 			}
 		],
-		"ḫažimmii": [
+		"ḫašimmii": [
 			{
 				"form": "ḫāži+mmē",
 				"translation": "u.B."
@@ -11324,25 +11354,25 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫibadu": [
+		"ḫipatu": [
 			{
 				"form": "Ḫēbādu",
 				"translation": "DN"
 			}
 		],
-		"ḫiġuži": [
+		"ḫiḫuši": [
 			{
 				"form": "ḫēġ+ō+že",
 				"translation": "u.B."
 			}
 		],
-		"ḫidam": [
+		"ḫitam": [
 			{
 				"form": "Ḫīdam",
 				"translation": "DN"
 			}
 		],
-		"ḫiduri": [
+		"ḫituri": [
 			{
 				"form": "ḫīdūri",
 				"translation": "u.B."
@@ -11360,109 +11390,109 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫižari": [
+		"ḫišari": [
 			{
 				"form": "ḫīž+ār+i",
 				"translation": "u.B."
 			}
 		],
-		"ḫubidi": [
+		"ḫupiti": [
 			{
 				"form": "ḫōb+idi",
 				"translation": "Stierkalb"
 			}
 		],
-		"ḫubidud": [
+		"ḫupitut": [
 			{
 				"form": "ḫōbidōdi",
 				"translation": "u.B."
 			}
 		],
-		"ḫubi": [
+		"ḫupi": [
 			{
 				"form": "ḫōbi",
 				"translation": "u.B."
 			}
 		],
-		"ḫubr": [
+		"ḫupr": [
 			{
 				"form": "ḫōbri",
 				"translation": "u.B."
 			}
 		],
-		"ḫubri": [
+		"ḫupri": [
 			{
 				"form": "ḫōbri",
 				"translation": "u.B."
 			}
 		],
-		"ḫudann": [
+		"ḫutann": [
 			{
 				"form": "ḫōd+a+nni",
 				"translation": "Gebet"
 			}
 		],
-		"ḫudan": [
+		"ḫutan": [
 			{
 				"form": "ḫōd+a+nni",
 				"translation": "Gebet"
 			}
 		],
-		"ḫudannaraž": [
+		"ḫutannaraš": [
 			{
 				"form": "ḫōd+a+nn+ar+a+že",
 				"translation": "u.B."
 			}
 		],
-		"ḫudanni": [
+		"ḫutanni": [
 			{
 				"form": "ḫōd+a+nni",
 				"translation": "Gebet"
 			}
 		],
-		"ḫudilluri": [
+		"ḫutilluri": [
 			{
 				"form": "Ḫōdellori",
 				"translation": "DN"
 			}
 		],
-		"tuġuli": [
+		"tuḫuli": [
 			{
 				"form": "tōġuli",
 				"translation": "u.B."
 			}
 		],
-		"ḫudirna(-)aš(-)tuġul": [
+		"ḫutirna(-)aš(-)tuḫul": [
 			{
 				"form": "tōġuli",
 				"translation": "u.B."
 			}
 		],
-		"ḫudirna": [
+		"ḫutirna": [
 			{
 				"form": "ḫōder+na",
 				"translation": "u.B."
 			}
 		],
-		"ḫudirni": [
+		"ḫutirni": [
 			{
 				"form": "ḫōder+ni",
 				"translation": "u.B."
 			}
 		],
-		"ḫudr": [
+		"ḫutr": [
 			{
 				"form": "ḫōdri",
 				"translation": "u.B."
 			}
 		],
-		"ḫuini(-)iba(-)n": [
+		"ḫuini(-)ipa(-)n": [
 			{
 				"form": "evani",
 				"translation": "u.B."
 			}
 		],
-		"ḫuini(-)iba(-)nippi": [
+		"ḫuini(-)ipa(-)nippi": [
 			{
 				"form": "nippi",
 				"translation": "u.B."
@@ -11472,19 +11502,19 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫuiġ": [
+		"ḫuiḫ": [
 			{
 				"form": "ḫō+i+ġe",
 				"translation": "Ruf?; das Rufen?"
 			}
 		],
-		"ḫulilzi": [
+		"ḫulilsi": [
 			{
 				"form": "ḫōlel+zi",
 				"translation": "u.B."
 			}
 		],
-		"ḫulilz": [
+		"ḫulils": [
 			{
 				"form": "ḫōlel+zi",
 				"translation": "u.B."
@@ -11518,7 +11548,7 @@
 				"translation": "Lapislazuli"
 			}
 		],
-		"ḫumbarži": [
+		"ḫumparši": [
 			{
 				"form": "ḫomb+ar+ži",
 				"translation": "u.B."
@@ -11536,7 +11566,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫunži": [
+		"ḫunši": [
 			{
 				"form": "ḫōnži",
 				"translation": "u.B."
@@ -11554,7 +11584,7 @@
 				"translation": "Schoß"
 			}
 		],
-		"ḫurdi": [
+		"ḫurti": [
 			{
 				"form": "ḫōrdi",
 				"translation": "Fenster?"
@@ -11576,19 +11606,19 @@
 				"translation": "Rhyton"
 			}
 		],
-		"ḫuruwad": [
+		"ḫuruwat": [
 			{
 				"form": "ḫōr+o+vāde",
 				"translation": "u.B."
 			}
 		],
-		"ḫurbi": [
+		"ḫurpi": [
 			{
 				"form": "ḫōrvi",
 				"translation": "u.B."
 			}
 		],
-		"ḫurbadi": [
+		"ḫurpati": [
 			{
 				"form": "ḫōrv+āde",
 				"translation": "u.B."
@@ -11612,19 +11642,19 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫužuni": [
+		"ḫušuni": [
 			{
 				"form": "ḫōžuni",
 				"translation": "u.B."
 			}
 		],
-		"ḫužuri": [
+		"ḫušuri": [
 			{
 				"form": "ḫōžuri",
 				"translation": "u.B."
 			}
 		],
-		"ḫuž": [
+		"ḫuš": [
 			{
 				"form": "ḫūži",
 				"translation": "u.B."
@@ -11632,7 +11662,7 @@
 		]
 	},
 	"unclear": {
-		"agull": [
+		"akull": [
 			{
 				"form": "agūlli",
 				"translation": "u.B."
@@ -11676,7 +11706,7 @@
 				"translation": "sterben (lassen)"
 			}
 		],
-		"mid": [
+		"mit": [
 			{
 				"form": "mid",
 				"translation": "u.B."
@@ -11688,7 +11718,7 @@
 				"translation": "nicht sein"
 			}
 		],
-		"ad": [
+		"at": [
 			{
 				"form": "ad",
 				"translation": "herabkommen?; herabbringen?"
@@ -11698,7 +11728,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ag": [
+		"ak": [
 			{
 				"form": "ag",
 				"translation": "aufnehmen; aufrichten; erheben; heraufkommen"
@@ -11708,19 +11738,19 @@
 				"translation": "u.B."
 			}
 		],
-		"agarġ": [
+		"akarḫ": [
 			{
 				"form": "ag+ar+ġ",
 				"translation": "u.B."
 			}
 		],
-		"agum": [
+		"akum": [
 			{
 				"form": "agumi",
 				"translation": "u.B."
 			}
 		],
-		"ald": [
+		"alt": [
 			{
 				"form": "ald",
 				"translation": "u.B."
@@ -11774,7 +11804,7 @@
 				"translation": "sprechen"
 			}
 		],
-		"alġ": [
+		"alḫ": [
 			{
 				"form": "alġ",
 				"translation": "u.B."
@@ -11800,7 +11830,7 @@
 				"translation": "erreichen; gelangen lassen"
 			}
 		],
-		"amud": [
+		"amut": [
 			{
 				"form": "am+ud",
 				"translation": "u.B."
@@ -11822,7 +11852,7 @@
 				"translation": "u.B."
 			}
 		],
-		"anz": [
+		"ans": [
 			{
 				"form": "anz",
 				"translation": "u.B."
@@ -11842,7 +11872,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ard": [
+		"art": [
 			{
 				"form": "ard",
 				"translation": "u.B."
@@ -11860,7 +11890,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ab": [
+		"ap": [
 			{
 				"form": "av",
 				"translation": "u.B."
@@ -11876,7 +11906,7 @@
 				"translation": "u.B."
 			}
 		],
-		"az": [
+		"as": [
 			{
 				"form": "az",
 				"translation": "u.B."
@@ -11888,13 +11918,13 @@
 				"translation": "u.B."
 			}
 		],
-		"aġra": [
+		"aḫra": [
 			{
 				"form": "aġrā",
 				"translation": "weihräuchern"
 			}
 		],
-		"aġ": [
+		"aḫ": [
 			{
 				"form": "aʾ",
 				"translation": "u.B."
@@ -11912,7 +11942,7 @@
 				"translation": "opfern"
 			}
 		],
-		"až": [
+		"aš": [
 			{
 				"form": "až",
 				"translation": "abwischen, reinigen"
@@ -11922,37 +11952,37 @@
 				"translation": "u.B."
 			}
 		],
-		"aži": [
+		"aši": [
 			{
 				"form": "aži",
 				"translation": "u.B."
 			}
 		],
-		"ažuž": [
+		"ašuš": [
 			{
 				"form": "až+ož",
 				"translation": "abwischen"
 			}
 		],
-		"amurž": [
+		"amurš": [
 			{
 				"form": "amurž",
 				"translation": "u.B."
 			}
 		],
-		"aġarž": [
+		"aḫarš": [
 			{
 				"form": "aġarž",
 				"translation": "u.B."
 			}
 		],
-		"aġurž": [
+		"aḫurš": [
 			{
 				"form": "aġurž",
 				"translation": "u.B."
 			}
 		],
-		"id": [
+		"it": [
 			{
 				"form": "ed",
 				"translation": "u.B."
@@ -11966,7 +11996,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ig": [
+		"ik": [
 			{
 				"form": "eg",
 				"translation": "rein sein; reinigen"
@@ -11980,13 +12010,13 @@
 				"translation": "u.B."
 			}
 		],
-		"igib": [
+		"ikip": [
 			{
 				"form": "egib",
 				"translation": "u.B."
 			}
 		],
-		"igušš": [
+		"ikušš": [
 			{
 				"form": "eg+o+šš",
 				"translation": "rein sein / machen"
@@ -12002,7 +12032,7 @@
 				"translation": "u.B."
 			}
 		],
-		"inud": [
+		"inut": [
 			{
 				"form": "en+ud",
 				"translation": "u.B."
@@ -12022,19 +12052,19 @@
 				"translation": "u.B."
 			}
 		],
-		"iġipš": [
+		"iḫipš": [
 			{
 				"form": "eġ+epš",
 				"translation": "lähmen?"
 			}
 		],
-		"iġl": [
+		"iḫl": [
 			{
 				"form": "eġl",
 				"translation": "retten"
 			}
 		],
-		"pad": [
+		"pat": [
 			{
 				"form": "fad",
 				"translation": "u.B."
@@ -12100,19 +12130,19 @@
 				"translation": "schicken"
 			}
 		],
-		"paž": [
+		"paš": [
 			{
 				"form": "faž",
 				"translation": "eintreten; hineinbringen"
 			}
 		],
-		"pilz": [
+		"pils": [
 			{
 				"form": "felz",
 				"translation": "u.B."
 			}
 		],
-		"pind": [
+		"pint": [
 			{
 				"form": "pend",
 				"translation": "zurückbringen; zurückkehren; zurückkommen; zurückschicken"
@@ -12124,13 +12154,13 @@
 				"translation": "u.B."
 			}
 		],
-		"pugl": [
+		"pukl": [
 			{
 				"form": "fogl",
 				"translation": "versammeln"
 			}
 		],
-		"pug": [
+		"puk": [
 			{
 				"form": "fog",
 				"translation": "u.B."
@@ -12146,25 +12176,25 @@
 				"translation": "sehen?"
 			}
 		],
-		"puug": [
+		"puuk": [
 			{
 				"form": "fog",
 				"translation": "u.B."
 			}
 		],
-		"pud": [
+		"put": [
 			{
 				"form": "fud",
 				"translation": "waschen, reinigen"
 			}
 		],
-		"paġr": [
+		"paḫr": [
 			{
 				"form": "faġr",
 				"translation": "gut sein; gut machen"
 			}
 		],
-		"paġ": [
+		"paḫ": [
 			{
 				"form": "faġ",
 				"translation": "zerstören"
@@ -12212,19 +12242,19 @@
 				"translation": "u.B."
 			}
 		],
-		"ind": [
+		"int": [
 			{
 				"form": "ind",
 				"translation": "u.B"
 			}
 		],
-		"inġ": [
+		"inḫ": [
 			{
 				"form": "inġ",
 				"translation": "u.B."
 			}
 		],
-		"ird": [
+		"irt": [
 			{
 				"form": "ird",
 				"translation": "u.B."
@@ -12266,13 +12296,13 @@
 				"translation": "kleiden"
 			}
 		],
-		"ib": [
+		"ip": [
 			{
 				"form": "iv",
 				"translation": "u.B."
 			}
 		],
-		"iġ": [
+		"iḫ": [
 			{
 				"form": "iġ",
 				"translation": "u.B."
@@ -12296,7 +12326,7 @@
 				"translation": "u.B."
 			}
 		],
-		"iž": [
+		"iš": [
 			{
 				"form": "iž",
 				"translation": "jammern; klagen"
@@ -12306,13 +12336,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kabl": [
+		"kapl": [
 			{
 				"form": "kabl",
 				"translation": "u.B."
 			}
 		],
-		"kad": [
+		"kat": [
 			{
 				"form": "kad",
 				"translation": "sagen; sprechen"
@@ -12322,25 +12352,25 @@
 				"translation": "u.B."
 			}
 		],
-		"kalb": [
+		"kalp": [
 			{
 				"form": "kalb",
 				"translation": "u.B."
 			}
 		],
-		"kamb": [
+		"kamp": [
 			{
 				"form": "kamv",
 				"translation": "u.B."
 			}
 		],
-		"kanz": [
+		"kans": [
 			{
 				"form": "kanz",
 				"translation": "u.B."
 			}
 		],
-		"kanag": [
+		"kanak": [
 			{
 				"form": "kan+āg",
 				"translation": "u.B."
@@ -12368,6 +12398,10 @@
 			{
 				"form": "kaš",
 				"translation": "u.B."
+			},
+			{
+				"form": "kāž",
+				"translation": "u.B."
 			}
 		],
 		"kašt": [
@@ -12376,13 +12410,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kaž": [
-			{
-				"form": "kāž",
-				"translation": "u.B."
-			}
-		],
-		"kažl": [
+		"kašl": [
 			{
 				"form": "kažl",
 				"translation": "stark sein"
@@ -12398,13 +12426,17 @@
 				"translation": "wohl sein; wohl machen"
 			}
 		],
-		"kib": [
+		"kip": [
 			{
 				"form": "kev",
 				"translation": "setzen; stellen; legen"
+			},
+			{
+				"form": "kip",
+				"translation": "u.B."
 			}
 		],
-		"kig": [
+		"kik": [
 			{
 				"form": "kig",
 				"translation": "u.B."
@@ -12416,7 +12448,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kiligil": [
+		"kilikil": [
 			{
 				"form": "keli+gel",
 				"translation": "hochlegen"
@@ -12447,12 +12479,6 @@
 		"kin": [
 			{
 				"form": "kin",
-				"translation": "u.B."
-			}
-		],
-		"kip": [
-			{
-				"form": "kip",
 				"translation": "u.B."
 			}
 		],
@@ -12504,13 +12530,13 @@
 				"translation": "thronen"
 			}
 		],
-		"kub": [
+		"kup": [
 			{
 				"form": "kub",
 				"translation": "u.B."
 			}
 		],
-		"kud": [
+		"kut": [
 			{
 				"form": "kud",
 				"translation": "fallen; niederwerfen"
@@ -12554,31 +12580,25 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫu": [
-			{
-				"form": "ḫō",
-				"translation": "rufen"
-			}
-		],
 		"kulmi(-)ḫ": [
 			{
 				"form": "ḫō",
 				"translation": "rufen"
 			}
 		],
-		"kulumb": [
+		"kulump": [
 			{
 				"form": "kul+u+mb",
 				"translation": "u.B."
 			}
 		],
-		"kund": [
+		"kunt": [
 			{
 				"form": "kund",
 				"translation": "u.B."
 			}
 		],
-		"kunz": [
+		"kuns": [
 			{
 				"form": "kunz",
 				"translation": "verbeugen"
@@ -12598,7 +12618,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kutkud": [
+		"kutkut": [
 			{
 				"form": "kut+kūd",
 				"translation": "u.B."
@@ -12610,7 +12630,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kuz": [
+		"kus": [
 			{
 				"form": "kuz",
 				"translation": "u.B."
@@ -12628,7 +12648,7 @@
 				"translation": "u.B."
 			}
 		],
-		"kab": [
+		"kap": [
 			{
 				"form": "kāv",
 				"translation": "u.B."
@@ -12640,7 +12660,7 @@
 				"translation": "setzen; stellen; legen"
 			}
 		],
-		"kid": [
+		"kit": [
 			{
 				"form": "kēd",
 				"translation": "u.B."
@@ -12658,13 +12678,13 @@
 				"translation": "u.B."
 			}
 		],
-		"kug": [
+		"kuk": [
 			{
 				"form": "kūg",
 				"translation": "u.B."
 			}
 		],
-		"mad": [
+		"mat": [
 			{
 				"form": "mad",
 				"translation": "u.B."
@@ -12674,7 +12694,7 @@
 				"translation": "weise sein / machen"
 			}
 		],
-		"madl": [
+		"matl": [
 			{
 				"form": "madl",
 				"translation": "u.B."
@@ -12700,19 +12720,19 @@
 				"translation": "u.B."
 			}
 		],
-		"marud": [
+		"marut": [
 			{
 				"form": "marudi",
 				"translation": "u.B."
 			}
 		],
-		"maġ": [
+		"maḫ": [
 			{
 				"form": "maġ",
 				"translation": "u.B."
 			}
 		],
-		"maž": [
+		"maš": [
 			{
 				"form": "maž",
 				"translation": "u.B."
@@ -12724,7 +12744,7 @@
 				"translation": "vertreiben"
 			}
 		],
-		"miġ": [
+		"miḫ": [
 			{
 				"form": "meġ",
 				"translation": "hintreten"
@@ -12734,7 +12754,7 @@
 				"translation": "u.B."
 			}
 		],
-		"mig": [
+		"mik": [
 			{
 				"form": "mig",
 				"translation": "u.B."
@@ -12750,7 +12770,7 @@
 				"translation": "vertreiben"
 			}
 		],
-		"mirž": [
+		"mirš": [
 			{
 				"form": "mirž",
 				"translation": "u.B."
@@ -12762,7 +12782,7 @@
 				"translation": "u.B."
 			}
 		],
-		"munġ": [
+		"munḫ": [
 			{
 				"form": "munġ",
 				"translation": "u.B."
@@ -12774,13 +12794,13 @@
 				"translation": "u.B."
 			}
 		],
-		"murġ": [
+		"murḫ": [
 			{
 				"form": "murġ",
 				"translation": "u.B."
 			}
 		],
-		"muž": [
+		"muš": [
 			{
 				"form": "mūž",
 				"translation": "bereiten; ordnen"
@@ -12826,7 +12846,7 @@
 				"translation": "schlagen"
 			}
 		],
-		"nab": [
+		"nap": [
 			{
 				"form": "nav",
 				"translation": "u.B."
@@ -12846,7 +12866,7 @@
 				"translation": "u.B."
 			}
 		],
-		"naž": [
+		"naš": [
 			{
 				"form": "naž",
 				"translation": "u.B."
@@ -12858,7 +12878,7 @@
 				"translation": "sich setzen; sitzen; einsetzen"
 			}
 		],
-		"nilġ": [
+		"nilḫ": [
 			{
 				"form": "nelġ",
 				"translation": "u.B."
@@ -12878,7 +12898,7 @@
 				"translation": "u.B."
 			}
 		],
-		"nig": [
+		"nik": [
 			{
 				"form": "nig",
 				"translation": "u.B."
@@ -12894,7 +12914,7 @@
 				"translation": "u.B."
 			}
 		],
-		"nib": [
+		"nip": [
 			{
 				"form": "niv",
 				"translation": "schreiben?"
@@ -12918,7 +12938,7 @@
 				"translation": "weiden"
 			}
 		],
-		"naġ": [
+		"naḫ": [
 			{
 				"form": "naḫḫ",
 				"translation": "sich setzen; sitzen; einsetzen"
@@ -12930,7 +12950,7 @@
 				"translation": "u.B."
 			}
 		],
-		"nud": [
+		"nut": [
 			{
 				"form": "nūd",
 				"translation": "u.B."
@@ -12942,13 +12962,13 @@
 				"translation": "u.B."
 			}
 		],
-		"padn": [
+		"patn": [
 			{
 				"form": "padn",
 				"translation": "u.B."
 			}
 		],
-		"pand": [
+		"pant": [
 			{
 				"form": "fand",
 				"translation": "recht sein; richtig sein"
@@ -12960,19 +12980,19 @@
 				"translation": "u.B."
 			}
 		],
-		"pid": [
+		"pit": [
 			{
 				"form": "pid",
 				"translation": "u.B."
 			}
 		],
-		"pidupp": [
+		"pitupp": [
 			{
 				"form": "pid+uff",
 				"translation": "sich drehen"
 			}
 		],
-		"piduġ": [
+		"pituḫ": [
 			{
 				"form": "pēd+uġ",
 				"translation": "drehen; zurückwenden; zurückgeben"
@@ -12982,7 +13002,7 @@
 				"translation": "u.B."
 			}
 		],
-		"pig": [
+		"pik": [
 			{
 				"form": "pig",
 				"translation": "u.B."
@@ -13000,7 +13020,7 @@
 				"translation": "u.B."
 			}
 		],
-		"piġ": [
+		"piḫ": [
 			{
 				"form": "piġ",
 				"translation": "u.B."
@@ -13016,19 +13036,19 @@
 				"translation": "u.B."
 			}
 		],
-		"pižišḫ": [
+		"pišišḫ": [
 			{
 				"form": "piž+ešḫ",
 				"translation": "ausspeien"
 			}
 		],
-		"pugul": [
+		"pukul": [
 			{
 				"form": "fogl",
 				"translation": "versammeln"
 			}
 		],
-		"purġ": [
+		"purḫ": [
 			{
 				"form": "purġ",
 				"translation": "u.B."
@@ -13050,7 +13070,7 @@
 				"translation": "bauen"
 			}
 		],
-		"piž": [
+		"piš": [
 			{
 				"form": "pēž",
 				"translation": "u.B."
@@ -13062,19 +13082,19 @@
 				"translation": "u.B."
 			}
 		],
-		"pudang": [
+		"putank": [
 			{
 				"form": "pūd+ang",
 				"translation": "ankündigen"
 			}
 		],
-		"puziġ": [
+		"pusiḫ": [
 			{
 				"form": "pūz+iġ",
 				"translation": "eintauchen"
 			}
 		],
-		"sabl": [
+		"sapl": [
 			{
 				"form": "sabl",
 				"translation": "u.B."
@@ -13092,13 +13112,13 @@
 				"translation": "abreißen"
 			}
 		],
-		"sab": [
+		"sap": [
 			{
 				"form": "sav",
 				"translation": "u.B."
 			}
 		],
-		"saz": [
+		"sas": [
 			{
 				"form": "sāz",
 				"translation": "u.B."
@@ -13108,13 +13128,13 @@
 				"translation": "verköstigen"
 			}
 		],
-		"sib": [
+		"sip": [
 			{
 				"form": "sib",
 				"translation": "u.B."
 			}
 		],
-		"sigal": [
+		"sikal": [
 			{
 				"form": "sig+al",
 				"translation": "u.B."
@@ -13144,31 +13164,31 @@
 				"translation": "u.B."
 			}
 		],
-		"sub": [
+		"sup": [
 			{
 				"form": "sub",
 				"translation": "u.B."
 			}
 		],
-		"subn": [
+		"supn": [
 			{
 				"form": "subn",
 				"translation": "u.B."
 			}
 		],
-		"sugazug": [
+		"sukasuk": [
 			{
 				"form": "suga+zūg",
 				"translation": "u.B."
 			}
 		],
-		"sugm": [
+		"sukm": [
 			{
 				"form": "sugm",
 				"translation": "hereinkommen"
 			}
 		],
-		"sug": [
+		"suk": [
 			{
 				"form": "sug",
 				"translation": "u.B."
@@ -13180,7 +13200,7 @@
 				"translation": "u.B."
 			}
 		],
-		"sulud": [
+		"sulut": [
 			{
 				"form": "sul+ud",
 				"translation": "lösen"
@@ -13196,13 +13216,13 @@
 				"translation": "u.B."
 			}
 		],
-		"saž": [
+		"saš": [
 			{
 				"form": "sāz",
 				"translation": "verköstigen"
 			}
 		],
-		"sig": [
+		"sik": [
 			{
 				"form": "sīg",
 				"translation": "u.B."
@@ -13220,9 +13240,13 @@
 				"translation": "binden"
 			}
 		],
-		"tab": [
+		"tap": [
 			{
 				"form": "tab",
+				"translation": "u.B."
+			},
+			{
+				"form": "tap",
 				"translation": "u.B."
 			},
 			{
@@ -13234,25 +13258,25 @@
 				"translation": "u.B."
 			}
 		],
-		"tad": [
+		"tat": [
 			{
 				"form": "tad",
 				"translation": "lieben"
 			}
 		],
-		"tadi(-)ḫad": [
+		"tati(-)ḫat": [
 			{
 				"form": "ḫād",
 				"translation": "u.B."
 			}
 		],
-		"tag": [
+		"tak": [
 			{
 				"form": "tag",
 				"translation": "hell / makellos sein; leuchten"
 			}
 		],
-		"talamd": [
+		"talamt": [
 			{
 				"form": "talam+d",
 				"translation": "groß machen"
@@ -13280,7 +13304,7 @@
 				"translation": "groß sein / machen"
 			}
 		],
-		"talmub": [
+		"talmup": [
 			{
 				"form": "talmōv",
 				"translation": "groß werden"
@@ -13289,12 +13313,6 @@
 		"tamr": [
 			{
 				"form": "tamr",
-				"translation": "u.B."
-			}
-		],
-		"tap": [
-			{
-				"form": "tap",
 				"translation": "u.B."
 			}
 		],
@@ -13330,7 +13348,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tarb": [
+		"tarp": [
 			{
 				"form": "tarb",
 				"translation": "u.B."
@@ -13354,13 +13372,13 @@
 				"translation": "u.B."
 			}
 		],
-		"taġ": [
+		"taḫ": [
 			{
 				"form": "tāġ",
 				"translation": "u.B."
 			}
 		],
-		"taž": [
+		"taš": [
 			{
 				"form": "taž",
 				"translation": "hinzufügen?"
@@ -13378,13 +13396,17 @@
 				"translation": "u.B."
 			}
 		],
-		"tiġ": [
+		"tiḫ": [
 			{
 				"form": "teġ",
 				"translation": "heranwachsen"
+			},
+			{
+				"form": "teḫ",
+				"translation": "u.B."
 			}
 		],
-		"tiġr": [
+		"tiḫr": [
 			{
 				"form": "teġr",
 				"translation": "u.B."
@@ -13408,13 +13430,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tiḫ": [
-			{
-				"form": "teḫ",
-				"translation": "u.B."
-			}
-		],
-		"tib": [
+		"tip": [
 			{
 				"form": "tiv",
 				"translation": "sprechen"
@@ -13428,7 +13444,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tid": [
+		"tit": [
 			{
 				"form": "tīd",
 				"translation": "angreifen"
@@ -13454,7 +13470,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tiz": [
+		"tis": [
 			{
 				"form": "tiz",
 				"translation": "u.B."
@@ -13466,7 +13482,7 @@
 				"translation": "u.B."
 			}
 		],
-		"tug": [
+		"tuk": [
 			{
 				"form": "tug",
 				"translation": "u.B."
@@ -13488,7 +13504,7 @@
 				"translation": "u.B."
 			}
 		],
-		"turb": [
+		"turp": [
 			{
 				"form": "torv",
 				"translation": "feindlich sein?"
@@ -13518,13 +13534,13 @@
 				"translation": "sprechen"
 			}
 		],
-		"tiž": [
+		"tiš": [
 			{
 				"form": "tīž",
 				"translation": "u.B."
 			}
 		],
-		"tumb": [
+		"tump": [
 			{
 				"form": "tōmv",
 				"translation": "u.B."
@@ -13542,7 +13558,7 @@
 				"translation": "hinabgehen"
 			}
 		],
-		"tuġ": [
+		"tuḫ": [
 			{
 				"form": "tōġ",
 				"translation": "u.B."
@@ -13554,7 +13570,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ub": [
+		"up": [
 			{
 				"form": "ub",
 				"translation": "töten; schlachten"
@@ -13564,25 +13580,25 @@
 				"translation": "u.B."
 			}
 		],
-		"ud": [
+		"ut": [
 			{
 				"form": "ud",
 				"translation": "u.B."
 			}
 		],
-		"ugulgar": [
+		"ukulkar": [
 			{
 				"form": "ug+ol+gar",
 				"translation": "niederknien"
 			}
 		],
-		"ugulg": [
+		"ukulk": [
 			{
 				"form": "ugulg",
 				"translation": "u.B."
 			}
 		],
-		"ugulz": [
+		"ukuls": [
 			{
 				"form": "ug+ol+z",
 				"translation": "niederknien"
@@ -13612,7 +13628,7 @@
 				"translation": "zurückhalten; niederdrücken"
 			}
 		],
-		"ulluġ": [
+		"ulluḫ": [
 			{
 				"form": "oll+uġ",
 				"translation": "abwischen; niederdrücken"
@@ -13624,7 +13640,7 @@
 				"translation": "fressen"
 			}
 		],
-		"umb": [
+		"ump": [
 			{
 				"form": "tupp",
 				"translation": "bleiben; versammeln"
@@ -13710,37 +13726,37 @@
 				"translation": "u.B."
 			}
 		],
-		"už": [
+		"uš": [
 			{
 				"form": "už",
 				"translation": "u.B."
 			}
 		],
-		"alb": [
+		"alp": [
 			{
 				"form": "ālv",
 				"translation": "u.B."
 			}
 		],
-		"alz": [
+		"als": [
 			{
 				"form": "ālz",
 				"translation": "u.B."
 			}
 		],
-		"amb": [
+		"amp": [
 			{
 				"form": "āmb",
 				"translation": "brennen; verbrennen"
 			}
 		],
-		"anž": [
+		"anš": [
 			{
 				"form": "ānž",
 				"translation": "u.B."
 			}
 		],
-		"aġr": [
+		"aḫr": [
 			{
 				"form": "āġr",
 				"translation": "weihräuchern"
@@ -13752,7 +13768,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ašta(-)nud": [
+		"ašta(-)nut": [
 			{
 				"form": "nūd",
 				"translation": "u.B."
@@ -13768,7 +13784,7 @@
 				"translation": "u.B."
 			}
 		],
-		"irġ": [
+		"irḫ": [
 			{
 				"form": "ērġ",
 				"translation": "u.B."
@@ -13792,7 +13808,7 @@
 				"translation": "u.B."
 			}
 		],
-		"urd": [
+		"urt": [
 			{
 				"form": "ōr+d",
 				"translation": "u.B."
@@ -13816,25 +13832,25 @@
 				"translation": "umwölken"
 			}
 		],
-		"šadn": [
+		"šatn": [
 			{
 				"form": "šadn",
 				"translation": "u.B."
 			}
 		],
-		"šad": [
+		"šat": [
 			{
 				"form": "šad",
 				"translation": "ersetzen"
 			}
 		],
-		"šag": [
+		"šak": [
 			{
 				"form": "šag",
 				"translation": "u.B."
 			}
 		],
-		"šalġ": [
+		"šalḫ": [
 			{
 				"form": "šalġ",
 				"translation": "hören auf"
@@ -13852,13 +13868,13 @@
 				"translation": "ergreifen"
 			}
 		],
-		"šaž": [
+		"šaš": [
 			{
 				"form": "šaž",
 				"translation": "u.B."
 			}
 		],
-		"šib": [
+		"šip": [
 			{
 				"form": "šeb",
 				"translation": "u.B."
@@ -13878,7 +13894,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šind": [
+		"šint": [
 			{
 				"form": "šend",
 				"translation": "u.B."
@@ -13906,13 +13922,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šiġal": [
+		"šiḫal": [
 			{
 				"form": "šeġal",
 				"translation": "rein sein; reinigen"
 			}
 		],
-		"šiġl": [
+		"šiḫl": [
 			{
 				"form": "šeġ+l",
 				"translation": "eintreten"
@@ -13922,7 +13938,7 @@
 				"translation": "rein sein"
 			}
 		],
-		"šiġr": [
+		"šiḫr": [
 			{
 				"form": "šeġr",
 				"translation": "angenehm / großzügig sein"
@@ -13970,13 +13986,13 @@
 				"translation": "u.B."
 			}
 		],
-		"šid": [
+		"šit": [
 			{
 				"form": "šid",
 				"translation": "verfluchen"
 			}
 		],
-		"šild": [
+		"šilt": [
 			{
 				"form": "šild",
 				"translation": "u.B."
@@ -13988,7 +14004,7 @@
 				"translation": "u.B."
 			}
 		],
-		"širad": [
+		"širat": [
 			{
 				"form": "šir+ad",
 				"translation": "erzählen"
@@ -14004,7 +14020,7 @@
 				"translation": "beobachten"
 			}
 		],
-		"šugard": [
+		"šukart": [
 			{
 				"form": "šug+ārd",
 				"translation": "vereinen?"
@@ -14038,7 +14054,7 @@
 				"translation": "aushändigen?"
 			}
 		],
-		"šurb": [
+		"šurp": [
 			{
 				"form": "šurb",
 				"translation": "u.B."
@@ -14082,7 +14098,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šuġ": [
+		"šuḫ": [
 			{
 				"form": "šuʾ",
 				"translation": "u.B."
@@ -14110,19 +14126,19 @@
 				"translation": "wünschen"
 			}
 		],
-		"šabal": [
+		"šapal": [
 			{
 				"form": "šāv+al",
 				"translation": "einsteigen?"
 			}
 		],
-		"šab": [
+		"šap": [
 			{
 				"form": "šāv",
 				"translation": "einsteigen?"
 			}
 		],
-		"šaġl": [
+		"šaḫl": [
 			{
 				"form": "šāġl",
 				"translation": "u.B."
@@ -14134,7 +14150,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šiž": [
+		"šiš": [
 			{
 				"form": "šēž",
 				"translation": "u.B."
@@ -14146,7 +14162,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šiġ": [
+		"šiḫ": [
 			{
 				"form": "šēġ",
 				"translation": "eintreten"
@@ -14156,7 +14172,7 @@
 				"translation": "u.B."
 			}
 		],
-		"šud": [
+		"šut": [
 			{
 				"form": "šōd",
 				"translation": "u.B."
@@ -14212,7 +14228,7 @@
 				"translation": "mähen?; ernten?"
 			}
 		],
-		"urġ": [
+		"urḫ": [
 			{
 				"form": "ūrġ",
 				"translation": "wahr sein"
@@ -14250,7 +14266,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫaban": [
+		"ḫapan": [
 			{
 				"form": "ḫabān",
 				"translation": "überwechseln"
@@ -14286,7 +14302,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫaž": [
+		"ḫaš": [
 			{
 				"form": "ḫaž",
 				"translation": "hören"
@@ -14296,7 +14312,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫild": [
+		"ḫilt": [
 			{
 				"form": "ḫild",
 				"translation": "u.B."
@@ -14308,19 +14324,19 @@
 				"translation": "mitteilen"
 			}
 		],
-		"ḫinz": [
+		"ḫins": [
 			{
 				"form": "ḫenz",
 				"translation": "schulden?"
 			}
 		],
-		"ḫinzad": [
+		"ḫinsat": [
 			{
 				"form": "ḫenz+ād",
 				"translation": "verschuldet sein?"
 			}
 		],
-		"ḫižal": [
+		"ḫišal": [
 			{
 				"form": "ḫež+āl",
 				"translation": "nackt sein"
@@ -14336,13 +14352,13 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫimzatḫ": [
+		"ḫimsatḫ": [
 			{
 				"form": "ḫimz+a+tḫ",
 				"translation": "gürten"
 			}
 		],
-		"ḫimz": [
+		"ḫims": [
 			{
 				"form": "ḫimz",
 				"translation": "binden; sich gürten"
@@ -14358,25 +14374,25 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫib": [
+		"ḫip": [
 			{
 				"form": "ḫiv",
 				"translation": "u.B."
 			}
 		],
-		"ḫižm": [
+		"ḫišm": [
 			{
 				"form": "ḫižm",
 				"translation": "glänzen"
 			}
 		],
-		"ḫubl": [
+		"ḫupl": [
 			{
 				"form": "ḫubl",
 				"translation": "verschließen?"
 			}
 		],
-		"ḫub": [
+		"ḫup": [
 			{
 				"form": "ḫub",
 				"translation": "zerbrechen"
@@ -14388,9 +14404,13 @@
 			{
 				"form": "ḫōb",
 				"translation": "zerbrechen"
+			},
+			{
+				"form": "ḫōp",
+				"translation": "u.B."
 			}
 		],
-		"ḫud": [
+		"ḫut": [
 			{
 				"form": "ḫōd",
 				"translation": "beten; preisen; segnen"
@@ -14406,7 +14426,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫuld": [
+		"ḫult": [
 			{
 				"form": "ḫuld",
 				"translation": "u.B."
@@ -14418,7 +14438,7 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫuppad": [
+		"ḫuppat": [
 			{
 				"form": "ḫupp+ad",
 				"translation": "u.B."
@@ -14448,13 +14468,17 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫuwi(-)kaud": [
+		"ḫuwi(-)kaut": [
 			{
 				"form": "ḫō",
 				"translation": "rufen"
 			}
 		],
-		"ḫuž": [
+		"ḫuš": [
+			{
+				"form": "ḫōš",
+				"translation": "u.B."
+			},
 			{
 				"form": "ḫōž",
 				"translation": "binden"
@@ -14492,40 +14516,46 @@
 				"translation": "u.B."
 			}
 		],
-		"ḫid": [
+		"ḫit": [
 			{
 				"form": "ḫīd",
 				"translation": "u.B."
 			}
 		],
-		"ḫiž": [
+		"ḫiš": [
 			{
 				"form": "ḫīž",
 				"translation": "u.B."
 			}
 		],
-		"ḫudid": [
+		"ḫutit": [
 			{
 				"form": "ḫōd",
 				"translation": "beten; preisen; segnen"
 			}
 		],
-		"ḫudirna(-)aš(-)t": [
+		"ḫutirna(-)aš(-)t": [
 			{
 				"form": "ašt",
 				"translation": "u.B."
 			}
 		],
-		"ḫudirna(-)aš(-)tuġ": [
+		"ḫutirna(-)aš(-)tuḫ": [
 			{
 				"form": "tōġ",
 				"translation": "u.B."
 			}
 		],
-		"ḫuini(-)iba(-)nipp": [
+		"ḫuini(-)ipa(-)nipp": [
 			{
 				"form": "nipp",
 				"translation": "u.B."
+			}
+		],
+		"ḫu": [
+			{
+				"form": "ḫō",
+				"translation": "rufen"
 			}
 		],
 		"ḫui": [
@@ -14537,12 +14567,6 @@
 		"ḫumn": [
 			{
 				"form": "ḫōmn",
-				"translation": "u.B."
-			}
-		],
-		"ḫup": [
-			{
-				"form": "ḫōp",
 				"translation": "u.B."
 			}
 		],
@@ -14567,12 +14591,6 @@
 		"ḫur": [
 			{
 				"form": "ḫōr",
-				"translation": "u.B."
-			}
-		],
-		"ḫuš": [
-			{
-				"form": "ḫōš",
 				"translation": "u.B."
 			}
 		],

@@ -2,5 +2,5 @@
   "ignorePlene": true,
   "mergeLabials": true,
   "mergeMidAndHighVowels": true,
-  "ignoreVoice": false
+  "ignoreVoice": true
 }

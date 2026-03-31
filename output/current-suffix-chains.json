@@ -129,9 +129,9 @@
 				]
 			}
 		],
-		"nažuž": [
+		"našuš": [
 			{
-				"surfaceForm": "nažuž",
+				"surfaceForm": "našuš",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG",
 				"sources": [
@@ -142,9 +142,9 @@
 				]
 			}
 		],
-		"naža": [
+		"naša": [
 			{
-				"surfaceForm": "naža",
+				"surfaceForm": "naša",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -177,9 +177,9 @@
 				]
 			}
 		],
-		"ž": [
+		"š": [
 			{
-				"surfaceForm": "ž",
+				"surfaceForm": "š",
 				"segmentation": "-ž",
 				"morphTag": "ERG",
 				"sources": [
@@ -198,9 +198,9 @@
 				]
 			}
 		],
-		"naaža": [
+		"naaša": [
 			{
-				"surfaceForm": "naaža",
+				"surfaceForm": "naaša",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -209,9 +209,9 @@
 				]
 			}
 		],
-		"už": [
+		"uš": [
 			{
-				"surfaceForm": "už",
+				"surfaceForm": "uš",
 				"segmentation": "-ož",
 				"morphTag": "EQU",
 				"sources": [
@@ -229,9 +229,9 @@
 				]
 			}
 		],
-		"da": [
+		"ta": [
 			{
-				"surfaceForm": "da",
+				"surfaceForm": "ta",
 				"segmentation": "-da",
 				"morphTag": "DIR",
 				"sources": [
@@ -241,9 +241,9 @@
 				]
 			}
 		],
-		"niž": [
+		"niš": [
 			{
-				"surfaceForm": "niž",
+				"surfaceForm": "niš",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG",
 				"sources": [
@@ -275,9 +275,9 @@
 				]
 			}
 		],
-		"b": [
+		"p": [
 			{
-				"surfaceForm": "b",
+				"surfaceForm": "p",
 				"segmentation": "-v",
 				"morphTag": "2POSS.SG.ABS",
 				"sources": [
@@ -479,9 +479,9 @@
 				]
 			}
 		],
-		"niž": [
+		"niš": [
 			{
-				"surfaceForm": "niž",
+				"surfaceForm": "niš",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG",
 				"sources": [
@@ -535,9 +535,9 @@
 				]
 			}
 		],
-		"d": [
+		"t": [
 			{
-				"surfaceForm": "d",
+				"surfaceForm": "t",
 				"segmentation": "=d",
 				"morphTag": "=1SG.ABS",
 				"sources": [
@@ -595,9 +595,9 @@
 				]
 			}
 		],
-		"mmab": [
+		"mmap": [
 			{
-				"surfaceForm": "mmab",
+				"surfaceForm": "mmap",
 				"segmentation": "=mma=m",
 				"morphTag": "=2SG.ABS=CON",
 				"sources": [
@@ -670,9 +670,9 @@
 				]
 			}
 		],
-		"b": [
+		"p": [
 			{
-				"surfaceForm": "b",
+				"surfaceForm": "p",
 				"segmentation": "=m",
 				"morphTag": "=2SG.ABS",
 				"sources": [
@@ -731,9 +731,9 @@
 				]
 			}
 		],
-		"d": [
+		"t": [
 			{
-				"surfaceForm": "d",
+				"surfaceForm": "t",
 				"segmentation": "=d",
 				"morphTag": "=1SG.ABS",
 				"sources": [
@@ -869,9 +869,9 @@
 				]
 			}
 		],
-		"aža": [
+		"aša": [
 			{
-				"surfaceForm": "aža",
+				"surfaceForm": "aša",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS",
 				"sources": [
@@ -938,9 +938,9 @@
 				]
 			}
 		],
-		"ažuž": [
+		"ašuš": [
 			{
-				"surfaceForm": "ažuž",
+				"surfaceForm": "ašuš",
 				"segmentation": "-i-až-ož",
 				"morphTag": "3POSS-PL-ERG",
 				"sources": [
@@ -948,9 +948,9 @@
 				]
 			}
 		],
-		"niba": [
+		"nipa": [
 			{
-				"surfaceForm": "niba",
+				"surfaceForm": "nipa",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -968,9 +968,9 @@
 				]
 			}
 		],
-		"ž": [
+		"š": [
 			{
-				"surfaceForm": "ž",
+				"surfaceForm": "š",
 				"segmentation": "-ž",
 				"morphTag": "ERG",
 				"sources": [
@@ -978,9 +978,9 @@
 				]
 			}
 		],
-		"ad": [
+		"at": [
 			{
-				"surfaceForm": "ad",
+				"surfaceForm": "at",
 				"segmentation": "-a=d",
 				"morphTag": "ESS=1SG.ABS",
 				"sources": [
@@ -988,9 +988,9 @@
 				]
 			}
 		],
-		"b": [
+		"p": [
 			{
-				"surfaceForm": "b",
+				"surfaceForm": "p",
 				"segmentation": "=v",
 				"morphTag": ".ABS=2PL.ABS",
 				"sources": [
@@ -998,9 +998,9 @@
 				]
 			}
 		],
-		"aib": [
+		"aip": [
 			{
-				"surfaceForm": "aib",
+				"surfaceForm": "aip",
 				"segmentation": "-ae=v",
 				"morphTag": "INS=2PL.ABS",
 				"sources": [
@@ -1086,9 +1086,9 @@
 				]
 			}
 		],
-		"ž": [
+		"š": [
 			{
-				"surfaceForm": "ž",
+				"surfaceForm": "š",
 				"segmentation": "",
 				"morphTag": "",
 				"sources": [
@@ -1099,9 +1099,9 @@
 		]
 	},
 	"PRON": {
-		"aža": [
+		"aša": [
 			{
-				"surfaceForm": "aža",
+				"surfaceForm": "aša",
 				"segmentation": "-až-a",
 				"morphTag": "PL-DAT/ESS",
 				"sources": [
@@ -1132,9 +1132,9 @@
 				]
 			}
 		],
-		"d": [
+		"t": [
 			{
-				"surfaceForm": "d",
+				"surfaceForm": "t",
 				"segmentation": "-ž=d",
 				"morphTag": "ERG=1SG.ABS",
 				"sources": [
@@ -1142,9 +1142,9 @@
 				]
 			}
 		],
-		"dilla": [
+		"tilla": [
 			{
-				"surfaceForm": "dilla",
+				"surfaceForm": "tilla",
 				"segmentation": "-ž=dilla",
 				"morphTag": "ERG=1PL.ABS",
 				"sources": [
@@ -1187,9 +1187,9 @@
 				]
 			}
 		],
-		"da": [
+		"ta": [
 			{
-				"surfaceForm": "da",
+				"surfaceForm": "ta",
 				"segmentation": "-da",
 				"morphTag": "DIR",
 				"sources": [
@@ -1199,9 +1199,9 @@
 				]
 			}
 		],
-		"ž": [
+		"š": [
 			{
-				"surfaceForm": "ž",
+				"surfaceForm": "š",
 				"segmentation": "-ž",
 				"morphTag": "ERG",
 				"sources": [
@@ -1278,9 +1278,9 @@
 				]
 			}
 		],
-		"zušša": [
+		"sušša": [
 			{
-				"surfaceForm": "zušša",
+				"surfaceForm": "sušša",
 				"segmentation": "-z-ož=nna",
 				"morphTag": "PL-ERG=3SG.ABS",
 				"sources": [
@@ -1288,9 +1288,9 @@
 				]
 			}
 		],
-		"iaža": [
+		"iaša": [
 			{
-				"surfaceForm": "iaža",
+				"surfaceForm": "iaša",
 				"segmentation": "-až-a",
 				"morphTag": "PL-DAT/ESS",
 				"sources": [
@@ -1298,9 +1298,9 @@
 				]
 			}
 		],
-		"žnnam": [
+		"šnnam": [
 			{
-				"surfaceForm": "žnnam",
+				"surfaceForm": "šnnam",
 				"segmentation": "-ž=nna=m",
 				"morphTag": "ERG=3SG.ABS=CON",
 				"sources": [
@@ -1308,9 +1308,9 @@
 				]
 			}
 		],
-		"ba": [
+		"pa": [
 			{
-				"surfaceForm": "ba",
+				"surfaceForm": "pa",
 				"segmentation": "-va",
 				"morphTag": "DAT",
 				"sources": [
@@ -1318,9 +1318,9 @@
 				]
 			}
 		],
-		"ža": [
+		"ša": [
 			{
-				"surfaceForm": "ža",
+				"surfaceForm": "ša",
 				"segmentation": "-ž-a",
 				"morphTag": "PL-DAT/ESS",
 				"sources": [
@@ -1329,9 +1329,9 @@
 				]
 			}
 		],
-		"žuda": [
+		"šuta": [
 			{
-				"surfaceForm": "žuda",
+				"surfaceForm": "šuta",
 				"segmentation": "-ž-oda",
 				"morphTag": "PL-DIR",
 				"sources": [
@@ -1369,9 +1369,9 @@
 				]
 			}
 		],
-		"až": [
+		"aš": [
 			{
-				"surfaceForm": "až",
+				"surfaceForm": "aš",
 				"segmentation": "-až",
 				"morphTag": "ERG",
 				"sources": [
@@ -1379,9 +1379,9 @@
 				]
 			}
 		],
-		"za": [
+		"sa": [
 			{
-				"surfaceForm": "za",
+				"surfaceForm": "sa",
 				"segmentation": "-z-a",
 				"morphTag": "PL-DAT/ESS",
 				"sources": [
@@ -1389,9 +1389,9 @@
 				]
 			}
 		],
-		"zura": [
+		"sura": [
 			{
-				"surfaceForm": "zura",
+				"surfaceForm": "sura",
 				"segmentation": "-z-ora",
 				"morphTag": "PL-COM",
 				"sources": [
@@ -1399,9 +1399,9 @@
 				]
 			}
 		],
-		"žurama": [
+		"šurama": [
 			{
-				"surfaceForm": "žurama",
+				"surfaceForm": "šurama",
 				"segmentation": "-ž-ora=ma",
 				"morphTag": "PL-COM=CON",
 				"sources": [
@@ -1409,9 +1409,9 @@
 				]
 			}
 		],
-		"zuž": [
+		"suš": [
 			{
-				"surfaceForm": "zuž",
+				"surfaceForm": "suš",
 				"segmentation": "-z-ož",
 				"morphTag": "PL-ERG",
 				"sources": [
@@ -1419,9 +1419,9 @@
 				]
 			}
 		],
-		"žuž": [
+		"šuš": [
 			{
-				"surfaceForm": "žuž",
+				"surfaceForm": "šuš",
 				"segmentation": "-ž-ož",
 				"morphTag": "PL-ERG",
 				"sources": [
@@ -1439,9 +1439,9 @@
 				]
 			}
 		],
-		"balla": [
+		"palla": [
 			{
-				"surfaceForm": "balla",
+				"surfaceForm": "palla",
 				"segmentation": "-va=lla",
 				"morphTag": "DAT=3PL.ABS",
 				"sources": [
@@ -1449,9 +1449,9 @@
 				]
 			}
 		],
-		"uda": [
+		"uta": [
 			{
-				"surfaceForm": "uda",
+				"surfaceForm": "uta",
 				"segmentation": "-oda",
 				"morphTag": "DIR",
 				"sources": [
@@ -1479,9 +1479,9 @@
 				]
 			}
 		],
-		"bi": [
+		"pi": [
 			{
-				"surfaceForm": "bi",
+				"surfaceForm": "pi",
 				"segmentation": "-ve",
 				"morphTag": "GEN",
 				"sources": [
@@ -1520,9 +1520,9 @@
 				]
 			}
 		],
-		"niba": [
+		"nipa": [
 			{
-				"surfaceForm": "niba",
+				"surfaceForm": "nipa",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -1550,9 +1550,9 @@
 				]
 			}
 		],
-		"dil": [
+		"til": [
 			{
-				"surfaceForm": "dil",
+				"surfaceForm": "til",
 				"segmentation": "=dil",
 				"morphTag": ".ABS=1PL.ABS",
 				"sources": [
@@ -1560,9 +1560,9 @@
 				]
 			}
 		],
-		"ažuda": [
+		"ašuta": [
 			{
-				"surfaceForm": "ažuda",
+				"surfaceForm": "ašuta",
 				"segmentation": "-až-oda",
 				"morphTag": "PL-DIR",
 				"sources": [
@@ -1570,9 +1570,9 @@
 				]
 			}
 		],
-		"nibininna": [
+		"nipininna": [
 			{
-				"surfaceForm": "nibininna",
+				"surfaceForm": "nipininna",
 				"segmentation": "-ne-ve-ne-nna",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-EQU2",
 				"sources": [
@@ -1580,9 +1580,9 @@
 				]
 			}
 		],
-		"bai": [
+		"pai": [
 			{
-				"surfaceForm": "bai",
+				"surfaceForm": "pai",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS",
 				"sources": [
@@ -2228,9 +2228,9 @@
 				]
 			}
 		],
-		"iba": [
+		"ipa": [
 			{
-				"surfaceForm": "iba",
+				"surfaceForm": "ipa",
 				"segmentation": "-e-va",
 				"morphTag": "3POSS.SG-DAT",
 				"sources": [
@@ -2239,7 +2239,7 @@
 				]
 			},
 			{
-				"surfaceForm": "iba",
+				"surfaceForm": "ipa",
 				"segmentation": "-i-va",
 				"morphTag": "3POSS.SG-DAT",
 				"sources": [
@@ -2250,9 +2250,9 @@
 				]
 			}
 		],
-		"až": [
+		"aš": [
 			{
-				"surfaceForm": "až",
+				"surfaceForm": "aš",
 				"segmentation": "-až",
 				"morphTag": "ERG",
 				"sources": [
@@ -2267,7 +2267,7 @@
 				]
 			},
 			{
-				"surfaceForm": "až",
+				"surfaceForm": "aš",
 				"segmentation": "-i-až",
 				"morphTag": "3POSS-PL.ABS",
 				"sources": [
@@ -2284,9 +2284,9 @@
 				]
 			}
 		],
-		"bi": [
+		"pi": [
 			{
-				"surfaceForm": "bi",
+				"surfaceForm": "pi",
 				"segmentation": "-ve",
 				"morphTag": "GEN",
 				"sources": [
@@ -2334,15 +2334,13 @@
 					"āššōribi @ āššōri-ve @ u.B.",
 					"ēbrivē @ evri-ve @ Herr",
 					"šubribi @ šubri-ve @ u.B.",
-					"ḫebapti @ Ḫebad-ve @ DN",
-					"ḫebatte @ Ḫebad-ve @ DN",
-					"ḫebatti @ Ḫebad-ve @ DN"
+					"ḫebapti @ Ḫebad-ve @ DN"
 				]
 			}
 		],
-		"dal": [
+		"tal": [
 			{
-				"surfaceForm": "dal",
+				"surfaceForm": "tal",
 				"segmentation": "-da=l",
 				"morphTag": "DIR=3PL.ABS",
 				"sources": [
@@ -2353,9 +2351,9 @@
 				]
 			}
 		],
-		"udal": [
+		"utal": [
 			{
-				"surfaceForm": "udal",
+				"surfaceForm": "utal",
 				"segmentation": "-oda=l",
 				"morphTag": "DIR=3PL.ABS",
 				"sources": [
@@ -2366,9 +2364,9 @@
 				]
 			}
 		],
-		"ažnna": [
+		"ašnna": [
 			{
-				"surfaceForm": "ažnna",
+				"surfaceForm": "ašnna",
 				"segmentation": "-až=nna",
 				"morphTag": "ERG=3SG.ABS",
 				"sources": [
@@ -2377,9 +2375,9 @@
 				]
 			}
 		],
-		"užl": [
+		"ušl": [
 			{
-				"surfaceForm": "užl",
+				"surfaceForm": "ušl",
 				"segmentation": "-ož=l",
 				"morphTag": "ERG=3PL.ABS",
 				"sources": [
@@ -2388,9 +2386,9 @@
 				]
 			}
 		],
-		"ba": [
+		"pa": [
 			{
-				"surfaceForm": "ba",
+				"surfaceForm": "pa",
 				"segmentation": "-v-a",
 				"morphTag": "2POSS.SG-ESS",
 				"sources": [
@@ -2401,7 +2399,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ba",
+				"surfaceForm": "pa",
 				"segmentation": "-va",
 				"morphTag": "DAT",
 				"sources": [
@@ -2449,14 +2447,15 @@
 					"šaġurunuwaba @ Šaġurunuwa-va @ PN",
 					"šeġurniba @ šeġor+ni-va @ Leben",
 					"šōniba @ šō+ni-va @ Hand",
+					"ḪARfa @ ḪAR-va @ u.B.",
 					"ḫebapta @ Ḫebad-va @ DN",
 					"ḫullurēva @ ḫull+o+re-va @ u.B."
 				]
 			}
 		],
-		"ažl": [
+		"ašl": [
 			{
-				"surfaceForm": "ažl",
+				"surfaceForm": "ašl",
 				"segmentation": "-až=l",
 				"morphTag": "ERG=3PL.ABS",
 				"sources": [
@@ -2464,9 +2463,9 @@
 				]
 			}
 		],
-		"billa": [
+		"pilla": [
 			{
-				"surfaceForm": "billa",
+				"surfaceForm": "pilla",
 				"segmentation": "-ve=lla",
 				"morphTag": "GEN=3PL.ABS",
 				"sources": [
@@ -2484,9 +2483,9 @@
 				]
 			}
 		],
-		"biniž": [
+		"piniš": [
 			{
-				"surfaceForm": "biniž",
+				"surfaceForm": "piniš",
 				"segmentation": "-ve-ne-ž",
 				"morphTag": "GEN-RELAT.SG-ERG",
 				"sources": [
@@ -2495,9 +2494,9 @@
 				]
 			}
 		],
-		"binaaža": [
+		"pinaaša": [
 			{
-				"surfaceForm": "binaaža",
+				"surfaceForm": "pinaaša",
 				"segmentation": "-ve-na-až-a",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -2506,9 +2505,9 @@
 				]
 			}
 		],
-		"binaažbi": [
+		"pinaašpi": [
 			{
-				"surfaceForm": "binaažbi",
+				"surfaceForm": "pinaašpi",
 				"segmentation": "-ve-na-až-ve",
 				"morphTag": "GEN-RELAT.PL-PL-GEN",
 				"sources": [
@@ -2516,9 +2515,9 @@
 				]
 			}
 		],
-		"biužl": [
+		"piušl": [
 			{
-				"surfaceForm": "biužl",
+				"surfaceForm": "piušl",
 				"segmentation": "-ve-ož=l",
 				"morphTag": "GEN-EQU=3PL.ABS",
 				"sources": [
@@ -2526,7 +2525,7 @@
 				]
 			},
 			{
-				"surfaceForm": "biužl",
+				"surfaceForm": "piušl",
 				"segmentation": "-ve-ož=l",
 				"morphTag": "GEN-ERG=3PL.ABS",
 				"sources": [
@@ -2534,9 +2533,9 @@
 				]
 			}
 		],
-		"biuž": [
+		"piuš": [
 			{
-				"surfaceForm": "biuž",
+				"surfaceForm": "piuš",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-EQU",
 				"sources": [
@@ -2544,7 +2543,7 @@
 				]
 			},
 			{
-				"surfaceForm": "biuž",
+				"surfaceForm": "piuš",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-ERG",
 				"sources": [
@@ -2552,9 +2551,9 @@
 				]
 			}
 		],
-		"da": [
+		"ta": [
 			{
-				"surfaceForm": "da",
+				"surfaceForm": "ta",
 				"segmentation": "-da",
 				"morphTag": "DIR",
 				"sources": [
@@ -2630,9 +2629,9 @@
 				]
 			}
 		],
-		"biai": [
+		"piai": [
 			{
-				"surfaceForm": "biai",
+				"surfaceForm": "piai",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS",
 				"sources": [
@@ -2998,9 +2997,9 @@
 				]
 			}
 		],
-		"uda": [
+		"uta": [
 			{
-				"surfaceForm": "uda",
+				"surfaceForm": "uta",
 				"segmentation": "-oda",
 				"morphTag": "DIR",
 				"sources": [
@@ -3360,9 +3359,9 @@
 				]
 			}
 		],
-		"naaždal": [
+		"naaštal": [
 			{
-				"surfaceForm": "naaždal",
+				"surfaceForm": "naaštal",
 				"segmentation": "-na-až-da=l",
 				"morphTag": "RELAT.PL-PL-DIR=3PL.ABS",
 				"sources": [
@@ -3371,9 +3370,9 @@
 				]
 			}
 		],
-		"naažbiniž": [
+		"naašpiniš": [
 			{
-				"surfaceForm": "naažbiniž",
+				"surfaceForm": "naašpiniš",
 				"segmentation": "-na-až-ve-ne-ž",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.SG-ERG",
 				"sources": [
@@ -3397,9 +3396,9 @@
 				]
 			}
 		],
-		"naaža": [
+		"naaša": [
 			{
-				"surfaceForm": "naaža",
+				"surfaceForm": "naaša",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -3437,9 +3436,9 @@
 				]
 			}
 		],
-		"naažalla": [
+		"naašalla": [
 			{
-				"surfaceForm": "naažalla",
+				"surfaceForm": "naašalla",
 				"segmentation": "-na-až-a=lla",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3PL.ABS",
 				"sources": [
@@ -3448,9 +3447,9 @@
 				]
 			}
 		],
-		"naažaan": [
+		"naašaan": [
 			{
-				"surfaceForm": "naažaan",
+				"surfaceForm": "naašaan",
 				"segmentation": "-na-až-a=an",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=CON",
 				"sources": [
@@ -3459,9 +3458,9 @@
 				]
 			}
 		],
-		"naažan": [
+		"naašan": [
 			{
-				"surfaceForm": "naažan",
+				"surfaceForm": "naašan",
 				"segmentation": "-na-až-a=n",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3SG.ABS",
 				"sources": [
@@ -3470,9 +3469,9 @@
 				]
 			}
 		],
-		"naažbi": [
+		"naašpi": [
 			{
-				"surfaceForm": "naažbi",
+				"surfaceForm": "naašpi",
 				"segmentation": "-na-až-ve",
 				"morphTag": "RELAT.PL-PL-GEN",
 				"sources": [
@@ -3494,9 +3493,9 @@
 				]
 			}
 		],
-		"naažbina": [
+		"naašpina": [
 			{
-				"surfaceForm": "naažbina",
+				"surfaceForm": "naašpina",
 				"segmentation": "-na-až-ve-na",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.PL.ABS",
 				"sources": [
@@ -3506,9 +3505,9 @@
 				]
 			}
 		],
-		"naažbini": [
+		"naašpini": [
 			{
-				"surfaceForm": "naažbini",
+				"surfaceForm": "naašpini",
 				"segmentation": "-na-až-ve-ne",
 				"morphTag": "RELAT.PL-PL-GEN-ABL/INS",
 				"sources": [
@@ -3516,9 +3515,9 @@
 				]
 			}
 		],
-		"naažbinaažuž": [
+		"naašpinaašuš": [
 			{
-				"surfaceForm": "naažbinaažuž",
+				"surfaceForm": "naašpinaašuš",
 				"segmentation": "-na-až-ve-na-až-ož",
 				"morphTag": "RELAT.PL-PL-GEN-RELAT.PL-PL-ERG",
 				"sources": [
@@ -3528,9 +3527,9 @@
 				]
 			}
 		],
-		"naažužl": [
+		"naašušl": [
 			{
-				"surfaceForm": "naažužl",
+				"surfaceForm": "naašušl",
 				"segmentation": "-na-až-ož=l",
 				"morphTag": "RELAT.PL-PL-ERG=3PL.ABS",
 				"sources": [
@@ -3539,9 +3538,9 @@
 				]
 			}
 		],
-		"naažuž": [
+		"naašuš": [
 			{
-				"surfaceForm": "naažuž",
+				"surfaceForm": "naašuš",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG",
 				"sources": [
@@ -3565,9 +3564,9 @@
 				]
 			}
 		],
-		"naažbiai": [
+		"naašpiai": [
 			{
-				"surfaceForm": "naažbiai",
+				"surfaceForm": "naašpiai",
 				"segmentation": "-na-až-ve-ae",
 				"morphTag": "RELAT.PL-PL-GEN-INS",
 				"sources": [
@@ -3581,9 +3580,9 @@
 				]
 			}
 		],
-		"nibinaažuž": [
+		"nipinaašuš": [
 			{
-				"surfaceForm": "nibinaažuž",
+				"surfaceForm": "nipinaašuš",
 				"segmentation": "-ne-ve-na-až-ož",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-ERG",
 				"sources": [
@@ -3602,9 +3601,9 @@
 				]
 			}
 		],
-		"naažam": [
+		"naašam": [
 			{
-				"surfaceForm": "naažam",
+				"surfaceForm": "naašam",
 				"segmentation": "-na-až-a=m",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=2SG.ABS",
 				"sources": [
@@ -3612,9 +3611,9 @@
 				]
 			}
 		],
-		"naažama": [
+		"naašama": [
 			{
-				"surfaceForm": "naažama",
+				"surfaceForm": "naašama",
 				"segmentation": "-na-až-a=ma",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=CON",
 				"sources": [
@@ -3623,9 +3622,9 @@
 				]
 			}
 		],
-		"naažužnna": [
+		"naašušnna": [
 			{
-				"surfaceForm": "naažužnna",
+				"surfaceForm": "naašušnna",
 				"segmentation": "-na-až-ož=nna",
 				"morphTag": "RELAT.PL-PL-ERG=3SG.ABS",
 				"sources": [
@@ -3733,9 +3732,9 @@
 				]
 			}
 		],
-		"bal": [
+		"pal": [
 			{
-				"surfaceForm": "bal",
+				"surfaceForm": "pal",
 				"segmentation": "-va=l",
 				"morphTag": "DAT=3PL.ABS",
 				"sources": [
@@ -3744,9 +3743,9 @@
 				]
 			}
 		],
-		"bina": [
+		"pina": [
 			{
-				"surfaceForm": "bina",
+				"surfaceForm": "pina",
 				"segmentation": "-ve-na",
 				"morphTag": "GEN-RELAT.PL.ABS",
 				"sources": [
@@ -3762,7 +3761,7 @@
 				]
 			},
 			{
-				"surfaceForm": "bina",
+				"surfaceForm": "pina",
 				"segmentation": "-ve-ne-a",
 				"morphTag": "GEN-RELAT.SG-ESS",
 				"sources": [
@@ -3770,9 +3769,9 @@
 				]
 			}
 		],
-		"binida": [
+		"pinita": [
 			{
-				"surfaceForm": "binida",
+				"surfaceForm": "pinita",
 				"segmentation": "-ve-ne-da",
 				"morphTag": "GEN-RELAT.SG-DIR",
 				"sources": [
@@ -3862,9 +3861,9 @@
 				]
 			}
 		],
-		"iž": [
+		"iš": [
 			{
-				"surfaceForm": "iž",
+				"surfaceForm": "iš",
 				"segmentation": "-e-ž",
 				"morphTag": "3POSS.SG-ERG",
 				"sources": [
@@ -3872,7 +3871,7 @@
 				]
 			},
 			{
-				"surfaceForm": "iž",
+				"surfaceForm": "iš",
 				"segmentation": "-i-ž",
 				"morphTag": "3POSS.SG-ERG",
 				"sources": [
@@ -4267,9 +4266,9 @@
 				]
 			}
 		],
-		"nibi": [
+		"nipi": [
 			{
-				"surfaceForm": "nibi",
+				"surfaceForm": "nipi",
 				"segmentation": "-ne-ve",
 				"morphTag": "RELAT.SG-GEN",
 				"sources": [
@@ -4365,9 +4364,9 @@
 				]
 			}
 		],
-		"ida": [
+		"ita": [
 			{
-				"surfaceForm": "ida",
+				"surfaceForm": "ita",
 				"segmentation": "-e-da",
 				"morphTag": "3POSS.SG-DIR",
 				"sources": [
@@ -4375,7 +4374,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ida",
+				"surfaceForm": "ita",
 				"segmentation": "-i-da",
 				"morphTag": "3POSS.SG-DIR",
 				"sources": [
@@ -4404,9 +4403,9 @@
 				]
 			}
 		],
-		"ažbinii": [
+		"ašpinii": [
 			{
-				"surfaceForm": "ažbinii",
+				"surfaceForm": "ašpinii",
 				"segmentation": "-až-ve-ne-e",
 				"morphTag": "PL-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -4414,9 +4413,9 @@
 				]
 			}
 		],
-		"balla": [
+		"palla": [
 			{
-				"surfaceForm": "balla",
+				"surfaceForm": "palla",
 				"segmentation": "-va=lla",
 				"morphTag": "DAT=3PL.ABS",
 				"sources": [
@@ -4424,9 +4423,9 @@
 				]
 			}
 		],
-		"bama": [
+		"pama": [
 			{
-				"surfaceForm": "bama",
+				"surfaceForm": "pama",
 				"segmentation": "-va=ma",
 				"morphTag": "DAT=CON",
 				"sources": [
@@ -4434,9 +4433,9 @@
 				]
 			}
 		],
-		"bin": [
+		"pin": [
 			{
-				"surfaceForm": "bin",
+				"surfaceForm": "pin",
 				"segmentation": "-ve=n",
 				"morphTag": "GEN=3SG.ABS",
 				"sources": [
@@ -4444,7 +4443,7 @@
 				]
 			},
 			{
-				"surfaceForm": "bin",
+				"surfaceForm": "pin",
 				"segmentation": "-ve=n",
 				"morphTag": "GEN=CON",
 				"sources": [
@@ -4452,9 +4451,9 @@
 				]
 			}
 		],
-		"žl": [
+		"šl": [
 			{
-				"surfaceForm": "žl",
+				"surfaceForm": "šl",
 				"segmentation": "-ž=l",
 				"morphTag": "ERG=3PL.ABS",
 				"sources": [
@@ -4463,9 +4462,9 @@
 				]
 			}
 		],
-		"ž": [
+		"š": [
 			{
-				"surfaceForm": "ž",
+				"surfaceForm": "š",
 				"segmentation": "-ž",
 				"morphTag": "ERG",
 				"sources": [
@@ -4531,17 +4530,15 @@
 				]
 			}
 		],
-		"binaažuž": [
+		"pinaašuš": [
 			{
-				"surfaceForm": "binaažuž",
+				"surfaceForm": "pinaašuš",
 				"segmentation": "-ve-na-až-ož",
 				"morphTag": "GEN-RELAT.PL-PL-ERG",
 				"sources": [
 					"IŠTAR-kabinažuž @ Šavoška-ve-na-až-ož @ DN",
 					"IŠTAR-kabināžuž @ Šavoška-ve-na-až-ož @ DN",
-					"nabarbinažuž @ Nabari-ve-na-až-ož @ DN",
-					"ḫebattenažuž @ Ḫebad-ve-na-až-ož @ DN",
-					"ḫebattenāžōž @ Ḫebad-ve-na-až-ož @ DN"
+					"nabarbinažuž @ Nabari-ve-na-až-ož @ DN"
 				]
 			}
 		],
@@ -4559,9 +4556,9 @@
 				]
 			}
 		],
-		"niba": [
+		"nipa": [
 			{
-				"surfaceForm": "niba",
+				"surfaceForm": "nipa",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -4615,7 +4612,7 @@
 				]
 			},
 			{
-				"surfaceForm": "niba",
+				"surfaceForm": "nipa",
 				"segmentation": "-ne-ve-a",
 				"morphTag": "RELAT.SG-GEN-ESS",
 				"sources": [
@@ -4667,9 +4664,9 @@
 				]
 			}
 		],
-		"nižl": [
+		"nišl": [
 			{
-				"surfaceForm": "nižl",
+				"surfaceForm": "nišl",
 				"segmentation": "-ne-ž=l",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS",
 				"sources": [
@@ -4721,9 +4718,9 @@
 				]
 			}
 		],
-		"nibima": [
+		"nipima": [
 			{
-				"surfaceForm": "nibima",
+				"surfaceForm": "nipima",
 				"segmentation": "-ne-ve=ma",
 				"morphTag": "RELAT.SG-GEN=CON",
 				"sources": [
@@ -4731,9 +4728,9 @@
 				]
 			}
 		],
-		"nižd": [
+		"ništ": [
 			{
-				"surfaceForm": "nižd",
+				"surfaceForm": "ništ",
 				"segmentation": "-ne-ž=d",
 				"morphTag": "RELAT.SG-ERG=1SG.ABS",
 				"sources": [
@@ -4741,9 +4738,9 @@
 				]
 			}
 		],
-		"niž": [
+		"niš": [
 			{
-				"surfaceForm": "niž",
+				"surfaceForm": "niš",
 				"segmentation": "-ne-ž",
 				"morphTag": "RELAT.SG-ERG",
 				"sources": [
@@ -4855,9 +4852,9 @@
 				]
 			}
 		],
-		"žllama": [
+		"šllama": [
 			{
-				"surfaceForm": "žllama",
+				"surfaceForm": "šllama",
 				"segmentation": "-ž=lla=ma",
 				"morphTag": "ERG=3PL.ABS=CON",
 				"sources": [
@@ -4893,9 +4890,9 @@
 				]
 			}
 		],
-		"dam": [
+		"tam": [
 			{
-				"surfaceForm": "dam",
+				"surfaceForm": "tam",
 				"segmentation": "-da=m",
 				"morphTag": "DIR=CON",
 				"sources": [
@@ -4903,9 +4900,9 @@
 				]
 			}
 		],
-		"iaža": [
+		"iaša": [
 			{
-				"surfaceForm": "iaža",
+				"surfaceForm": "iaša",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS",
 				"sources": [
@@ -4913,9 +4910,9 @@
 				]
 			}
 		],
-		"nibaman": [
+		"nipaman": [
 			{
-				"surfaceForm": "nibaman",
+				"surfaceForm": "nipaman",
 				"segmentation": "-ne-va=m=an",
 				"morphTag": "RELAT.SG-DAT=2SG.ABS=CON",
 				"sources": [
@@ -4924,7 +4921,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nibaman",
+				"surfaceForm": "nipaman",
 				"segmentation": "-ne-va=man",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -4932,7 +4929,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nibaman",
+				"surfaceForm": "nipaman",
 				"segmentation": "-ne-va=mān",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -4940,9 +4937,9 @@
 				]
 			}
 		],
-		"ibi": [
+		"ipi": [
 			{
-				"surfaceForm": "ibi",
+				"surfaceForm": "ipi",
 				"segmentation": "-i-ve",
 				"morphTag": "3POSS.SG-GEN",
 				"sources": [
@@ -4951,9 +4948,9 @@
 				]
 			}
 		],
-		"nibina": [
+		"nipina": [
 			{
-				"surfaceForm": "nibina",
+				"surfaceForm": "nipina",
 				"segmentation": "-ne-ve-na",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS",
 				"sources": [
@@ -4973,9 +4970,9 @@
 				]
 			}
 		],
-		"nibinaaža": [
+		"nipinaaša": [
 			{
-				"surfaceForm": "nibinaaža",
+				"surfaceForm": "nipinaaša",
 				"segmentation": "-ne-ve-na-až-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -4985,9 +4982,9 @@
 				]
 			}
 		],
-		"nida": [
+		"nita": [
 			{
-				"surfaceForm": "nida",
+				"surfaceForm": "nita",
 				"segmentation": "-ne-da",
 				"morphTag": "RELAT.SG-DIR",
 				"sources": [
@@ -5017,9 +5014,9 @@
 				]
 			}
 		],
-		"idama": [
+		"itama": [
 			{
-				"surfaceForm": "idama",
+				"surfaceForm": "itama",
 				"segmentation": "-i-da=ma",
 				"morphTag": "3POSS.SG-DIR=CON",
 				"sources": [
@@ -5028,9 +5025,9 @@
 				]
 			}
 		],
-		"ad": [
+		"at": [
 			{
-				"surfaceForm": "ad",
+				"surfaceForm": "at",
 				"segmentation": "-a=d",
 				"morphTag": "ESS=1SG.ABS",
 				"sources": [
@@ -5191,9 +5188,9 @@
 				]
 			}
 		],
-		"aža": [
+		"aša": [
 			{
-				"surfaceForm": "aža",
+				"surfaceForm": "aša",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS-PL-DAT/ESS",
 				"sources": [
@@ -5205,7 +5202,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aža",
+				"surfaceForm": "aša",
 				"segmentation": "-i-až-a",
 				"morphTag": "3POSS.SG-PL-DAT/ESS",
 				"sources": [
@@ -5213,9 +5210,9 @@
 				]
 			}
 		],
-		"nibiniilla": [
+		"nipiniilla": [
 			{
-				"surfaceForm": "nibiniilla",
+				"surfaceForm": "nipiniilla",
 				"segmentation": "-ne-ve-ne-e=lla",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS",
 				"sources": [
@@ -5390,9 +5387,9 @@
 				]
 			}
 		],
-		"binaža": [
+		"pinaša": [
 			{
-				"surfaceForm": "binaža",
+				"surfaceForm": "pinaša",
 				"segmentation": "-ve-na-až-a",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -5402,9 +5399,9 @@
 				]
 			}
 		],
-		"už": [
+		"uš": [
 			{
-				"surfaceForm": "už",
+				"surfaceForm": "uš",
 				"segmentation": "-i-ož",
 				"morphTag": "3POSS.SG-EQU",
 				"sources": [
@@ -5413,7 +5410,7 @@
 				]
 			},
 			{
-				"surfaceForm": "už",
+				"surfaceForm": "uš",
 				"segmentation": "-ož",
 				"morphTag": "EQU",
 				"sources": [
@@ -5450,7 +5447,7 @@
 				]
 			},
 			{
-				"surfaceForm": "už",
+				"surfaceForm": "uš",
 				"segmentation": "-ož",
 				"morphTag": "ERG",
 				"sources": [
@@ -5458,9 +5455,9 @@
 				]
 			}
 		],
-		"ažal": [
+		"ašal": [
 			{
-				"surfaceForm": "ažal",
+				"surfaceForm": "ašal",
 				"segmentation": "-i-až-a=l",
 				"morphTag": "3POSS-PL-DAT/ESS=3PL.ABS",
 				"sources": [
@@ -5485,9 +5482,9 @@
 				]
 			}
 		],
-		"naža": [
+		"naša": [
 			{
-				"surfaceForm": "naža",
+				"surfaceForm": "naša",
 				"segmentation": "-na-až-a",
 				"morphTag": "RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -5509,9 +5506,9 @@
 				]
 			}
 		],
-		"ab": [
+		"ap": [
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-a=v",
 				"morphTag": "ESS=2PL.ABS",
 				"sources": [
@@ -5521,7 +5518,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-i-a=m",
 				"morphTag": "3POSS.SG-ESS=CON",
 				"sources": [
@@ -5529,9 +5526,9 @@
 				]
 			}
 		],
-		"nibai": [
+		"nipai": [
 			{
-				"surfaceForm": "nibai",
+				"surfaceForm": "nipai",
 				"segmentation": "-ne-ve-ae",
 				"morphTag": "RELAT.SG-GEN-INS",
 				"sources": [
@@ -5573,9 +5570,9 @@
 				]
 			}
 		],
-		"ġi": [
+		"ḫi": [
 			{
-				"surfaceForm": "ġi",
+				"surfaceForm": "ḫi",
 				"segmentation": "-ġe",
 				"morphTag": "ADJ.ABS",
 				"sources": [
@@ -5585,9 +5582,9 @@
 				]
 			}
 		],
-		"bai": [
+		"pai": [
 			{
-				"surfaceForm": "bai",
+				"surfaceForm": "pai",
 				"segmentation": "-ve-ae",
 				"morphTag": "GEN-INS",
 				"sources": [
@@ -5635,9 +5632,9 @@
 				]
 			}
 		],
-		"bini": [
+		"pini": [
 			{
-				"surfaceForm": "bini",
+				"surfaceForm": "pini",
 				"segmentation": "-ve-ne-e",
 				"morphTag": "GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -5646,9 +5643,9 @@
 				]
 			}
 		],
-		"binišša": [
+		"pinišša": [
 			{
-				"surfaceForm": "binišša",
+				"surfaceForm": "pinišša",
 				"segmentation": "-ve-ne-ž=nna",
 				"morphTag": "GEN-RELAT.SG-ERG=3SG.ABS",
 				"sources": [
@@ -5656,9 +5653,9 @@
 				]
 			}
 		],
-		"ppinaža": [
+		"ppinaša": [
 			{
-				"surfaceForm": "ppinaža",
+				"surfaceForm": "ppinaša",
 				"segmentation": "-v-ve-na-až-a",
 				"morphTag": "2POSS.SG-GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -5666,9 +5663,9 @@
 				]
 			}
 		],
-		"nibinia": [
+		"nipinia": [
 			{
-				"surfaceForm": "nibinia",
+				"surfaceForm": "nipinia",
 				"segmentation": "-ne-ve-ne-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ESS",
 				"sources": [
@@ -5676,9 +5673,9 @@
 				]
 			}
 		],
-		"naažda": [
+		"naašta": [
 			{
-				"surfaceForm": "naažda",
+				"surfaceForm": "naašta",
 				"segmentation": "-na-až-da",
 				"morphTag": "RELAT.PL-PL-DIR",
 				"sources": [
@@ -5691,9 +5688,9 @@
 				]
 			}
 		],
-		"nibiai": [
+		"nipiai": [
 			{
-				"surfaceForm": "nibiai",
+				"surfaceForm": "nipiai",
 				"segmentation": "-ne-ve-ae",
 				"morphTag": "RELAT.SG-GEN-INS",
 				"sources": [
@@ -5704,9 +5701,9 @@
 				]
 			}
 		],
-		"nibiuž": [
+		"nipiuš": [
 			{
-				"surfaceForm": "nibiuž",
+				"surfaceForm": "nipiuš",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU",
 				"sources": [
@@ -5714,9 +5711,9 @@
 				]
 			}
 		],
-		"nibinida": [
+		"nipinita": [
 			{
-				"surfaceForm": "nibinida",
+				"surfaceForm": "nipinita",
 				"segmentation": "-ne-ve-ne-da",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR",
 				"sources": [
@@ -5725,9 +5722,9 @@
 				]
 			}
 		],
-		"aid": [
+		"ait": [
 			{
-				"surfaceForm": "aid",
+				"surfaceForm": "ait",
 				"segmentation": "-ae=d",
 				"morphTag": "INS=1SG.ABS",
 				"sources": [
@@ -5735,9 +5732,9 @@
 				]
 			}
 		],
-		"dan": [
+		"tan": [
 			{
-				"surfaceForm": "dan",
+				"surfaceForm": "tan",
 				"segmentation": "-da=an",
 				"morphTag": "DIR=CON",
 				"sources": [
@@ -5745,7 +5742,7 @@
 				]
 			},
 			{
-				"surfaceForm": "dan",
+				"surfaceForm": "tan",
 				"segmentation": "-da=n",
 				"morphTag": "DIR=3SG.ABS",
 				"sources": [
@@ -5753,7 +5750,7 @@
 				]
 			},
 			{
-				"surfaceForm": "dan",
+				"surfaceForm": "tan",
 				"segmentation": "-dan",
 				"morphTag": "ABL",
 				"sources": [
@@ -5763,9 +5760,9 @@
 				]
 			}
 		],
-		"idan": [
+		"itan": [
 			{
-				"surfaceForm": "idan",
+				"surfaceForm": "itan",
 				"segmentation": "-e-da=n",
 				"morphTag": "3POSS.SG-DIR=3SG.ABS",
 				"sources": [
@@ -5773,7 +5770,7 @@
 				]
 			},
 			{
-				"surfaceForm": "idan",
+				"surfaceForm": "itan",
 				"segmentation": "-e-dan",
 				"morphTag": "3POSS.SG-ABL",
 				"sources": [
@@ -5781,7 +5778,7 @@
 				]
 			},
 			{
-				"surfaceForm": "idan",
+				"surfaceForm": "itan",
 				"segmentation": "-i-da=n",
 				"morphTag": "3POSS.SG-DIR=3SG.ABS",
 				"sources": [
@@ -5789,7 +5786,7 @@
 				]
 			},
 			{
-				"surfaceForm": "idan",
+				"surfaceForm": "itan",
 				"segmentation": "-i-dan",
 				"morphTag": "3POSS.SG-ABL",
 				"sources": [
@@ -5859,9 +5856,9 @@
 				]
 			}
 		],
-		"žuda": [
+		"šuta": [
 			{
-				"surfaceForm": "žuda",
+				"surfaceForm": "šuta",
 				"segmentation": "-ž-oda",
 				"morphTag": "2POSS.PL-DIR",
 				"sources": [
@@ -5887,9 +5884,9 @@
 				]
 			}
 		],
-		"nažuž": [
+		"našuš": [
 			{
-				"surfaceForm": "nažuž",
+				"surfaceForm": "našuš",
 				"segmentation": "-na-až-ož",
 				"morphTag": "RELAT.PL-PL-ERG",
 				"sources": [
@@ -5916,9 +5913,9 @@
 				]
 			}
 		],
-		"nibad": [
+		"nipat": [
 			{
-				"surfaceForm": "nibad",
+				"surfaceForm": "nipat",
 				"segmentation": "-ne-va=d",
 				"morphTag": "RELAT.SG-DAT=1SG.ABS",
 				"sources": [
@@ -5971,9 +5968,9 @@
 				]
 			}
 		],
-		"bbininim": [
+		"ppininim": [
 			{
-				"surfaceForm": "bbininim",
+				"surfaceForm": "ppininim",
 				"segmentation": "-v-ve-ne-ne=m",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-ABL/INS=2SG.ABS",
 				"sources": [
@@ -5981,7 +5978,7 @@
 				]
 			},
 			{
-				"surfaceForm": "bbininim",
+				"surfaceForm": "ppininim",
 				"segmentation": "-v-ve-ne-ne=m",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-ABL/INS=CON",
 				"sources": [
@@ -5989,9 +5986,9 @@
 				]
 			}
 		],
-		"nibinidal": [
+		"nipinital": [
 			{
-				"surfaceForm": "nibinidal",
+				"surfaceForm": "nipinital",
 				"segmentation": "-ne-ve-ne-da=l",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS",
 				"sources": [
@@ -6000,9 +5997,9 @@
 				]
 			}
 		],
-		"binibina": [
+		"pinipina": [
 			{
-				"surfaceForm": "binibina",
+				"surfaceForm": "pinipina",
 				"segmentation": "-ve-ne-ve-na",
 				"morphTag": "GEN-RELAT.SG-GEN-RELAT.PL.ABS",
 				"sources": [
@@ -6010,9 +6007,9 @@
 				]
 			}
 		],
-		"binibinaža": [
+		"pinipinaša": [
 			{
-				"surfaceForm": "binibinaža",
+				"surfaceForm": "pinipinaša",
 				"segmentation": "-ve-ne-ve-na-až-a",
 				"morphTag": "GEN-RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -6043,9 +6040,9 @@
 				]
 			}
 		],
-		"bima": [
+		"pima": [
 			{
-				"surfaceForm": "bima",
+				"surfaceForm": "pima",
 				"segmentation": "-ve=ma",
 				"morphTag": "GEN=CON",
 				"sources": [
@@ -6054,9 +6051,9 @@
 				]
 			}
 		],
-		"b": [
+		"p": [
 			{
-				"surfaceForm": "b",
+				"surfaceForm": "p",
 				"segmentation": "-v",
 				"morphTag": "2POSS.SG.ABS",
 				"sources": [
@@ -6109,7 +6106,7 @@
 				]
 			},
 			{
-				"surfaceForm": "b",
+				"surfaceForm": "p",
 				"segmentation": "=m",
 				"morphTag": ".ABS=CON",
 				"sources": [
@@ -6251,9 +6248,9 @@
 				]
 			}
 		],
-		"baž": [
+		"paš": [
 			{
-				"surfaceForm": "baž",
+				"surfaceForm": "paš",
 				"segmentation": "-ve-až",
 				"morphTag": "GEN-ERG",
 				"sources": [
@@ -6299,9 +6296,9 @@
 				]
 			}
 		],
-		"buž": [
+		"puš": [
 			{
-				"surfaceForm": "buž",
+				"surfaceForm": "puš",
 				"segmentation": "-v-ož",
 				"morphTag": "2POSS.SG-EQU",
 				"sources": [
@@ -6309,7 +6306,7 @@
 				]
 			},
 			{
-				"surfaceForm": "buž",
+				"surfaceForm": "puš",
 				"segmentation": "-v-ož",
 				"morphTag": "2POSS.SG-ERG",
 				"sources": [
@@ -6317,7 +6314,7 @@
 				]
 			},
 			{
-				"surfaceForm": "buž",
+				"surfaceForm": "puš",
 				"segmentation": "-ve-ož",
 				"morphTag": "GEN-EQU",
 				"sources": [
@@ -6326,7 +6323,7 @@
 				]
 			},
 			{
-				"surfaceForm": "buž",
+				"surfaceForm": "puš",
 				"segmentation": "-ve-ž",
 				"morphTag": "GEN-ERG",
 				"sources": [
@@ -6334,9 +6331,9 @@
 				]
 			}
 		],
-		"buda": [
+		"puta": [
 			{
-				"surfaceForm": "buda",
+				"surfaceForm": "puta",
 				"segmentation": "-v-oda",
 				"morphTag": "2POSS.SG-DIR",
 				"sources": [
@@ -6345,9 +6342,9 @@
 				]
 			}
 		],
-		"ažama": [
+		"ašama": [
 			{
-				"surfaceForm": "ažama",
+				"surfaceForm": "ašama",
 				"segmentation": "-i-až-a=ma",
 				"morphTag": "3POSS-PL-DAT/ESS=CON",
 				"sources": [
@@ -6407,9 +6404,9 @@
 				]
 			}
 		],
-		"binažadil": [
+		"pinašatil": [
 			{
-				"surfaceForm": "binažadil",
+				"surfaceForm": "pinašatil",
 				"segmentation": "-ve-na-až-a=dil",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=1PL.ABS",
 				"sources": [
@@ -6417,9 +6414,9 @@
 				]
 			}
 		],
-		"nibinažuž": [
+		"nipinašuš": [
 			{
-				"surfaceForm": "nibinažuž",
+				"surfaceForm": "nipinašuš",
 				"segmentation": "-ne-ve-na-až-ož",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-ERG",
 				"sources": [
@@ -6428,9 +6425,9 @@
 				]
 			}
 		],
-		"nibiniž": [
+		"nipiniš": [
 			{
-				"surfaceForm": "nibiniž",
+				"surfaceForm": "nipiniš",
 				"segmentation": "-ne-ve-ne-ž",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ERG",
 				"sources": [
@@ -6477,9 +6474,9 @@
 				]
 			}
 		],
-		"bain": [
+		"pain": [
 			{
-				"surfaceForm": "bain",
+				"surfaceForm": "pain",
 				"segmentation": "-ve-ae=n",
 				"morphTag": "GEN-INS=3SG.ABS",
 				"sources": [
@@ -6487,9 +6484,9 @@
 				]
 			}
 		],
-		"nibain": [
+		"nipain": [
 			{
-				"surfaceForm": "nibain",
+				"surfaceForm": "nipain",
 				"segmentation": "-ne-ve-ae=n",
 				"morphTag": "RELAT.SG-GEN-INS=3SG.ABS",
 				"sources": [
@@ -6497,9 +6494,9 @@
 				]
 			}
 		],
-		"dama": [
+		"tama": [
 			{
-				"surfaceForm": "dama",
+				"surfaceForm": "tama",
 				"segmentation": "-da=ma",
 				"morphTag": "DIR=CON",
 				"sources": [
@@ -6519,9 +6516,9 @@
 				]
 			}
 		],
-		"ubadi": [
+		"upati": [
 			{
-				"surfaceForm": "ubadi",
+				"surfaceForm": "upati",
 				"segmentation": "-o-vade",
 				"morphTag": "PAT-ADJ.NEG.ABS",
 				"sources": [
@@ -6568,9 +6565,9 @@
 				]
 			}
 		],
-		"nidal": [
+		"nital": [
 			{
-				"surfaceForm": "nidal",
+				"surfaceForm": "nital",
 				"segmentation": "-ne-da=l",
 				"morphTag": "RELAT.SG-DIR=3PL.ABS",
 				"sources": [
@@ -6580,9 +6577,9 @@
 				]
 			}
 		],
-		"nidan": [
+		"nitan": [
 			{
-				"surfaceForm": "nidan",
+				"surfaceForm": "nitan",
 				"segmentation": "-ne-da=an",
 				"morphTag": "RELAT.SG-DIR=CON",
 				"sources": [
@@ -6590,7 +6587,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nidan",
+				"surfaceForm": "nitan",
 				"segmentation": "-ne-da=n",
 				"morphTag": "RELAT.SG-DIR=3SG.ABS",
 				"sources": [
@@ -6598,7 +6595,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nidan",
+				"surfaceForm": "nitan",
 				"segmentation": "-ne-dan",
 				"morphTag": "RELAT.SG-ABL",
 				"sources": [
@@ -6606,9 +6603,9 @@
 				]
 			}
 		],
-		"adil": [
+		"atil": [
 			{
-				"surfaceForm": "adil",
+				"surfaceForm": "atil",
 				"segmentation": "-a=dil",
 				"morphTag": "ESS=1PL.ABS",
 				"sources": [
@@ -6616,9 +6613,9 @@
 				]
 			}
 		],
-		"dil": [
+		"til": [
 			{
-				"surfaceForm": "dil",
+				"surfaceForm": "til",
 				"segmentation": "=dil",
 				"morphTag": ".ABS=1PL.ABS",
 				"sources": [
@@ -6648,9 +6645,9 @@
 				]
 			}
 		],
-		"nibuž": [
+		"nipuš": [
 			{
-				"surfaceForm": "nibuž",
+				"surfaceForm": "nipuš",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-EQU",
 				"sources": [
@@ -6659,7 +6656,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nibuž",
+				"surfaceForm": "nipuš",
 				"segmentation": "-ne-ve-ož",
 				"morphTag": "RELAT.SG-GEN-ERG",
 				"sources": [
@@ -6717,9 +6714,9 @@
 				]
 			}
 		],
-		"nibinin": [
+		"nipinin": [
 			{
-				"surfaceForm": "nibinin",
+				"surfaceForm": "nipinin",
 				"segmentation": "-ne-ve-ne-e=n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC=3SG.ABS",
 				"sources": [
@@ -6727,7 +6724,7 @@
 				]
 			},
 			{
-				"surfaceForm": "nibinin",
+				"surfaceForm": "nipinin",
 				"segmentation": "-ne-ve-ne-n",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-ABL/INS",
 				"sources": [
@@ -6750,9 +6747,9 @@
 				]
 			}
 		],
-		"nibinaža": [
+		"nipinaša": [
 			{
-				"surfaceForm": "nibinaža",
+				"surfaceForm": "nipinaša",
 				"segmentation": "-ne-ve-na-až-a",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL-PL-DAT/ESS",
 				"sources": [
@@ -6803,9 +6800,9 @@
 				]
 			}
 		],
-		"nižlla": [
+		"nišlla": [
 			{
-				"surfaceForm": "nižlla",
+				"surfaceForm": "nišlla",
 				"segmentation": "-ne-ž=lla",
 				"morphTag": "RELAT.SG-ERG=3PL.ABS",
 				"sources": [
@@ -6814,9 +6811,9 @@
 				]
 			}
 		],
-		"nibadil": [
+		"nipatil": [
 			{
-				"surfaceForm": "nibadil",
+				"surfaceForm": "nipatil",
 				"segmentation": "-ne-va=dil",
 				"morphTag": "RELAT.SG-DAT=1PL.ABS",
 				"sources": [
@@ -6824,9 +6821,9 @@
 				]
 			}
 		],
-		"ippubi": [
+		"ippupi": [
 			{
-				"surfaceForm": "ippubi",
+				"surfaceForm": "ippupi",
 				"segmentation": "-iffu-ve",
 				"morphTag": "1POSS.SG-GEN",
 				"sources": [
@@ -6867,9 +6864,9 @@
 				]
 			}
 		],
-		"ban": [
+		"pan": [
 			{
-				"surfaceForm": "ban",
+				"surfaceForm": "pan",
 				"segmentation": "-v-a=an",
 				"morphTag": "2POSS.SG-ESS=CON",
 				"sources": [
@@ -6877,7 +6874,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ban",
+				"surfaceForm": "pan",
 				"segmentation": "-v-a=n",
 				"morphTag": "2POSS.SG-ESS=3SG.ABS",
 				"sources": [
@@ -6885,7 +6882,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ban",
+				"surfaceForm": "pan",
 				"segmentation": "-v=an",
 				"morphTag": "2POSS.SG.ABS=CON",
 				"sources": [
@@ -6893,7 +6890,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ban",
+				"surfaceForm": "pan",
 				"segmentation": "-va=n",
 				"morphTag": "DAT=3SG.ABS",
 				"sources": [
@@ -6901,9 +6898,9 @@
 				]
 			}
 		],
-		"aban": [
+		"apan": [
 			{
-				"surfaceForm": "aban",
+				"surfaceForm": "apan",
 				"segmentation": "-a=v=an",
 				"morphTag": "ESS=2PL.ABS=CON",
 				"sources": [
@@ -6924,9 +6921,9 @@
 				]
 			}
 		],
-		"ġibi": [
+		"ḫipi": [
 			{
-				"surfaceForm": "ġibi",
+				"surfaceForm": "ḫipi",
 				"segmentation": "-ġe-ve",
 				"morphTag": "ADJ-GEN",
 				"sources": [
@@ -6945,9 +6942,9 @@
 				]
 			}
 		],
-		"induž": [
+		"intuš": [
 			{
-				"surfaceForm": "induž",
+				"surfaceForm": "intuš",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.PAT-OPT",
 				"sources": [
@@ -6955,9 +6952,9 @@
 				]
 			}
 		],
-		"nibaan": [
+		"nipaan": [
 			{
-				"surfaceForm": "nibaan",
+				"surfaceForm": "nipaan",
 				"segmentation": "-ne-va=an",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -6967,9 +6964,9 @@
 				]
 			}
 		],
-		"niban": [
+		"nipan": [
 			{
-				"surfaceForm": "niban",
+				"surfaceForm": "nipan",
 				"segmentation": "-ne-va=an",
 				"morphTag": "RELAT.SG-DAT=CON",
 				"sources": [
@@ -6977,7 +6974,7 @@
 				]
 			},
 			{
-				"surfaceForm": "niban",
+				"surfaceForm": "nipan",
 				"segmentation": "-ne-va=n",
 				"morphTag": "RELAT.SG-DAT=3SG.ABS",
 				"sources": [
@@ -6988,9 +6985,9 @@
 				]
 			}
 		],
-		"banil": [
+		"panil": [
 			{
-				"surfaceForm": "banil",
+				"surfaceForm": "panil",
 				"segmentation": "-v-ane=l",
 				"morphTag": "2POSS.SG-ABL/INS=3PL.ABS",
 				"sources": [
@@ -7018,9 +7015,9 @@
 				]
 			}
 		],
-		"niib": [
+		"niip": [
 			{
-				"surfaceForm": "niib",
+				"surfaceForm": "niip",
 				"segmentation": "-ne-e=v",
 				"morphTag": "RELAT.SG-DIR/LOC=2PL.ABS",
 				"sources": [
@@ -7028,9 +7025,9 @@
 				]
 			}
 		],
-		"nib": [
+		"nip": [
 			{
-				"surfaceForm": "nib",
+				"surfaceForm": "nip",
 				"segmentation": "-ne=v",
 				"morphTag": "ABL/INS=2PL.ABS",
 				"sources": [
@@ -7038,9 +7035,9 @@
 				]
 			}
 		],
-		"nažal": [
+		"našal": [
 			{
-				"surfaceForm": "nažal",
+				"surfaceForm": "našal",
 				"segmentation": "-na-až-a=l",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3PL.ABS",
 				"sources": [
@@ -7060,9 +7057,9 @@
 				]
 			}
 		],
-		"nibinama": [
+		"nipinama": [
 			{
-				"surfaceForm": "nibinama",
+				"surfaceForm": "nipinama",
 				"segmentation": "-ne-ve-na=ma",
 				"morphTag": "RELAT.SG-GEN-RELAT.PL.ABS=CON",
 				"sources": [
@@ -7071,9 +7068,9 @@
 				]
 			}
 		],
-		"d": [
+		"t": [
 			{
-				"surfaceForm": "d",
+				"surfaceForm": "t",
 				"segmentation": "=d",
 				"morphTag": ".ABS=1SG.ABS",
 				"sources": [
@@ -7082,19 +7079,20 @@
 				]
 			}
 		],
-		"ġina": [
+		"ḫina": [
 			{
-				"surfaceForm": "ġina",
+				"surfaceForm": "ḫina",
 				"segmentation": "-ġe-na",
 				"morphTag": "ADJ-RELAT.PL.ABS",
 				"sources": [
-					"pērġēna @ Pēri-ġe-na @ GN"
+					"pērġēna @ Pēri-ġe-na @ GN",
+					"šinutḫina @ Šinut-ġe-na @ GN"
 				]
 			}
 		],
-		"nižnna": [
+		"nišnna": [
 			{
-				"surfaceForm": "nižnna",
+				"surfaceForm": "nišnna",
 				"segmentation": "-ne-ž=nna",
 				"morphTag": "RELAT.SG-ERG=3SG.ABS",
 				"sources": [
@@ -7133,9 +7131,9 @@
 				]
 			}
 		],
-		"(-)ḫaduldašši": [
+		"(-)ḫatultašši": [
 			{
-				"surfaceForm": "(-)ḫaduldašši",
+				"surfaceForm": "(-)ḫatultašši",
 				"segmentation": "",
 				"morphTag": ".ABS",
 				"sources": [
@@ -7143,9 +7141,9 @@
 				]
 			}
 		],
-		"nibal": [
+		"nipal": [
 			{
-				"surfaceForm": "nibal",
+				"surfaceForm": "nipal",
 				"segmentation": "-ne-va=l",
 				"morphTag": "RELAT.SG-DAT=3PL.ABS",
 				"sources": [
@@ -7176,9 +7174,9 @@
 				]
 			}
 		],
-		"dilla": [
+		"tilla": [
 			{
-				"surfaceForm": "dilla",
+				"surfaceForm": "tilla",
 				"segmentation": "=dilla",
 				"morphTag": ".ABS=1PL.ABS",
 				"sources": [
@@ -7186,9 +7184,9 @@
 				]
 			}
 		],
-		"budab": [
+		"putap": [
 			{
-				"surfaceForm": "budab",
+				"surfaceForm": "putap",
 				"segmentation": "-v-oda=m",
 				"morphTag": "2POSS.SG-DIR=CON",
 				"sources": [
@@ -7196,9 +7194,9 @@
 				]
 			}
 		],
-		"iaž": [
+		"iaš": [
 			{
-				"surfaceForm": "iaž",
+				"surfaceForm": "iaš",
 				"segmentation": "-i-až",
 				"morphTag": "3POSS-PL.ABS",
 				"sources": [
@@ -7216,9 +7214,9 @@
 				]
 			}
 		],
-		"nniba": [
+		"nnipa": [
 			{
-				"surfaceForm": "nniba",
+				"surfaceForm": "nnipa",
 				"segmentation": "-ne-va",
 				"morphTag": "RELAT.SG-DAT",
 				"sources": [
@@ -7254,9 +7252,9 @@
 				]
 			}
 		],
-		"aib": [
+		"aip": [
 			{
-				"surfaceForm": "aib",
+				"surfaceForm": "aip",
 				"segmentation": "-ae=v",
 				"morphTag": "INS=2PL.ABS",
 				"sources": [
@@ -7265,9 +7263,9 @@
 				]
 			}
 		],
-		"nibil": [
+		"nipil": [
 			{
-				"surfaceForm": "nibil",
+				"surfaceForm": "nipil",
 				"segmentation": "-ne-ve=l",
 				"morphTag": "RELAT.SG-GEN=3PL.ABS",
 				"sources": [
@@ -7275,9 +7273,9 @@
 				]
 			}
 		],
-		"žlla": [
+		"šlla": [
 			{
-				"surfaceForm": "žlla",
+				"surfaceForm": "šlla",
 				"segmentation": "-ž=lla",
 				"morphTag": "ERG=3PL.ABS",
 				"sources": [
@@ -7285,9 +7283,9 @@
 				]
 			}
 		],
-		"binii": [
+		"pinii": [
 			{
-				"surfaceForm": "binii",
+				"surfaceForm": "pinii",
 				"segmentation": "-ve-ne-e",
 				"morphTag": "GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -7295,9 +7293,9 @@
 				]
 			}
 		],
-		"dab": [
+		"tap": [
 			{
-				"surfaceForm": "dab",
+				"surfaceForm": "tap",
 				"segmentation": "-da=m",
 				"morphTag": "DIR=CON",
 				"sources": [
@@ -7305,9 +7303,9 @@
 				]
 			}
 		],
-		"binidal": [
+		"pinital": [
 			{
-				"surfaceForm": "binidal",
+				"surfaceForm": "pinital",
 				"segmentation": "-ve-ne-da=l",
 				"morphTag": "GEN-RELAT.SG-DIR=3PL.ABS",
 				"sources": [
@@ -7315,9 +7313,9 @@
 				]
 			}
 		],
-		"naažunna": [
+		"naašunna": [
 			{
-				"surfaceForm": "naažunna",
+				"surfaceForm": "naašunna",
 				"segmentation": "-na-až-onna",
 				"morphTag": "RELAT.PL-PL-EQU2",
 				"sources": [
@@ -7325,9 +7323,9 @@
 				]
 			}
 		],
-		"bbiniid": [
+		"ppiniit": [
 			{
-				"surfaceForm": "bbiniid",
+				"surfaceForm": "ppiniit",
 				"segmentation": "-v-ve-ne-e=d",
 				"morphTag": "2POSS.SG-GEN-RELAT.SG-DIR/LOC=1SG.ABS",
 				"sources": [
@@ -7335,9 +7333,9 @@
 				]
 			}
 		],
-		"naažura": [
+		"naašura": [
 			{
-				"surfaceForm": "naažura",
+				"surfaceForm": "naašura",
 				"segmentation": "-na-až-ora",
 				"morphTag": "RELAT.PL-PL-COM",
 				"sources": [
@@ -7345,9 +7343,9 @@
 				]
 			}
 		],
-		"ġinaž": [
+		"ḫinaš": [
 			{
-				"surfaceForm": "ġinaž",
+				"surfaceForm": "ḫinaš",
 				"segmentation": "-ġe-ne-ž",
 				"morphTag": "ADJ-RELAT.SG-ERG",
 				"sources": [
@@ -7355,9 +7353,9 @@
 				]
 			}
 		],
-		"ġinibina": [
+		"ḫinipina": [
 			{
-				"surfaceForm": "ġinibina",
+				"surfaceForm": "ḫinipina",
 				"segmentation": "-ġe-ne-ve-na",
 				"morphTag": "ADJ-RELAT.SG-GEN-RELAT.PL.ABS",
 				"sources": [
@@ -7392,9 +7390,9 @@
 				]
 			}
 		],
-		"niidil": [
+		"niitil": [
 			{
-				"surfaceForm": "niidil",
+				"surfaceForm": "niitil",
 				"segmentation": "-ne-e=dil",
 				"morphTag": "RELAT.SG-DIR/LOC=1PL.ABS",
 				"sources": [
@@ -7402,9 +7400,9 @@
 				]
 			}
 		],
-		"ninidil": [
+		"ninitil": [
 			{
-				"surfaceForm": "ninidil",
+				"surfaceForm": "ninitil",
 				"segmentation": "-ne-ne=dil",
 				"morphTag": "RELAT.SG-ABL/INS=1PL.ABS",
 				"sources": [
@@ -7412,9 +7410,9 @@
 				]
 			}
 		],
-		"nidil": [
+		"nitil": [
 			{
-				"surfaceForm": "nidil",
+				"surfaceForm": "nitil",
 				"segmentation": "-ne=dil",
 				"morphTag": "ABL/INS=1PL.ABS",
 				"sources": [
@@ -7422,9 +7420,9 @@
 				]
 			}
 		],
-		"nibinii": [
+		"nipinii": [
 			{
-				"surfaceForm": "nibinii",
+				"surfaceForm": "nipinii",
 				"segmentation": "-ne-ve-ne-e",
 				"morphTag": "RELAT.SG-GEN-RELAT.SG-DIR/LOC",
 				"sources": [
@@ -7432,9 +7430,9 @@
 				]
 			}
 		],
-		"bam": [
+		"pam": [
 			{
-				"surfaceForm": "bam",
+				"surfaceForm": "pam",
 				"segmentation": "-va=m",
 				"morphTag": "DAT=2SG.ABS",
 				"sources": [
@@ -7442,7 +7440,7 @@
 				]
 			},
 			{
-				"surfaceForm": "bam",
+				"surfaceForm": "pam",
 				"segmentation": "-va=m",
 				"morphTag": "DAT=CON",
 				"sources": [
@@ -7450,9 +7448,9 @@
 				]
 			}
 		],
-		"nažan": [
+		"našan": [
 			{
-				"surfaceForm": "nažan",
+				"surfaceForm": "našan",
 				"segmentation": "-na-až-a=n",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3SG.ABS",
 				"sources": [
@@ -7460,19 +7458,9 @@
 				]
 			}
 		],
-		"ḫina": [
+		"pinipa": [
 			{
-				"surfaceForm": "ḫina",
-				"segmentation": "-ġe-na",
-				"morphTag": "ADJ-RELAT.PL.ABS",
-				"sources": [
-					"šinutḫina @ Šinut-ġe-na @ GN"
-				]
-			}
-		],
-		"biniba": [
-			{
-				"surfaceForm": "biniba",
+				"surfaceForm": "pinipa",
 				"segmentation": "-ve-ne-va",
 				"morphTag": "GEN-RELAT.SG-DAT",
 				"sources": [
@@ -7480,9 +7468,9 @@
 				]
 			}
 		],
-		"binibi": [
+		"pinipi": [
 			{
-				"surfaceForm": "binibi",
+				"surfaceForm": "pinipi",
 				"segmentation": "-ve-ne-ve",
 				"morphTag": "GEN-RELAT.SG-GEN",
 				"sources": [
@@ -7542,9 +7530,9 @@
 				]
 			}
 		],
-		"binažan": [
+		"pinašan": [
 			{
-				"surfaceForm": "binažan",
+				"surfaceForm": "pinašan",
 				"segmentation": "-ve-na-až-a=n",
 				"morphTag": "GEN-RELAT.PL-PL-DAT/ESS=3SG.ABS",
 				"sources": [
@@ -7552,9 +7540,9 @@
 				]
 			}
 		],
-		"naažal": [
+		"naašal": [
 			{
-				"surfaceForm": "naažal",
+				"surfaceForm": "naašal",
 				"segmentation": "-na-až-a=l",
 				"morphTag": "RELAT.PL-PL-DAT/ESS=3PL.ABS",
 				"sources": [
@@ -7575,19 +7563,9 @@
 				]
 			}
 		],
-		"pa": [
+		"naašanilla": [
 			{
-				"surfaceForm": "pa",
-				"segmentation": "-va",
-				"morphTag": "DAT",
-				"sources": [
-					"ḪARfa @ ḪAR-va @ u.B."
-				]
-			}
-		],
-		"naažanilla": [
-			{
-				"surfaceForm": "naažanilla",
+				"surfaceForm": "naašanilla",
 				"segmentation": "-na-až-ane=lla",
 				"morphTag": "RELAT.PL-PL-ABL/INS=3PL.ABS",
 				"sources": [
@@ -7595,9 +7573,9 @@
 				]
 			}
 		],
-		"binibal": [
+		"papnipal": [
 			{
-				"surfaceForm": "binibal",
+				"surfaceForm": "papnipal",
 				"segmentation": "-ve-ne-va=l",
 				"morphTag": "GEN-RELAT.SG-DAT=3PL.ABS",
 				"sources": [
@@ -7605,9 +7583,31 @@
 				]
 			}
 		],
-		"uliž": [
+		"ti": [
 			{
-				"surfaceForm": "uliž",
+				"surfaceForm": "ti",
+				"segmentation": "-ve",
+				"morphTag": "GEN",
+				"sources": [
+					"ḫebatte @ Ḫebad-ve @ DN",
+					"ḫebatti @ Ḫebad-ve @ DN"
+				]
+			}
+		],
+		"tinašuš": [
+			{
+				"surfaceForm": "tinašuš",
+				"segmentation": "-ve-na-až-ož",
+				"morphTag": "GEN-RELAT.PL-PL-ERG",
+				"sources": [
+					"ḫebattenažuž @ Ḫebad-ve-na-až-ož @ DN",
+					"ḫebattenāžōž @ Ḫebad-ve-na-až-ož @ DN"
+				]
+			}
+		],
+		"uliš": [
+			{
+				"surfaceForm": "uliš",
 				"segmentation": "-o-l-ež",
 				"morphTag": "MOD.PAT-l-OPT",
 				"sources": [
@@ -7615,9 +7615,9 @@
 				]
 			}
 		],
-		"urulaiž": [
+		"urulaiš": [
 			{
-				"surfaceForm": "urulaiž",
+				"surfaceForm": "urulaiš",
 				"segmentation": "-ur-o-l-ai-ž",
 				"morphTag": "ur-MOD.PAT-l-PURP-ž",
 				"sources": [
@@ -7625,9 +7625,9 @@
 				]
 			}
 		],
-		"ibaan": [
+		"ipaan": [
 			{
-				"surfaceForm": "ibaan",
+				"surfaceForm": "ipaan",
 				"segmentation": "-i-va=an",
 				"morphTag": "3POSS.SG-DAT=CON",
 				"sources": [
@@ -7635,9 +7635,9 @@
 				]
 			}
 		],
-		"iban": [
+		"ipan": [
 			{
-				"surfaceForm": "iban",
+				"surfaceForm": "ipan",
 				"segmentation": "-i-va=n",
 				"morphTag": "3POSS.SG-DAT=3SG.ABS",
 				"sources": [
@@ -7645,9 +7645,9 @@
 				]
 			}
 		],
-		"baan": [
+		"paan": [
 			{
-				"surfaceForm": "baan",
+				"surfaceForm": "paan",
 				"segmentation": "-va=an",
 				"morphTag": "DAT=CON",
 				"sources": [
@@ -7655,9 +7655,9 @@
 				]
 			}
 		],
-		"biaim": [
+		"piaim": [
 			{
-				"surfaceForm": "biaim",
+				"surfaceForm": "piaim",
 				"segmentation": "-ve-ae=m",
 				"morphTag": "GEN-INS=2SG.ABS",
 				"sources": [
@@ -7666,9 +7666,9 @@
 				]
 			}
 		],
-		"biaib": [
+		"piaip": [
 			{
-				"surfaceForm": "biaib",
+				"surfaceForm": "piaip",
 				"segmentation": "-ve-ae=v",
 				"morphTag": "GEN-INS=2PL.ABS",
 				"sources": [
@@ -7686,9 +7686,9 @@
 				]
 			}
 		],
-		"araštida": [
+		"araštita": [
 			{
-				"surfaceForm": "araštida",
+				"surfaceForm": "araštita",
 				"segmentation": "-ar-ašt-ed-a",
 				"morphTag": "ITER-RES-FUT-3A.SG",
 				"sources": [
@@ -7696,9 +7696,9 @@
 				]
 			}
 		],
-		"idaan": [
+		"itaan": [
 			{
-				"surfaceForm": "idaan",
+				"surfaceForm": "itaan",
 				"segmentation": "-e-da=an",
 				"morphTag": "3POSS.SG-DIR=CON",
 				"sources": [
@@ -8166,9 +8166,9 @@
 				]
 			}
 		],
-		"ab": [
+		"ap": [
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-a-b",
 				"morphTag": "INT-b",
 				"sources": [
@@ -8191,7 +8191,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-a=m",
 				"morphTag": "INT=2SG.ABS",
 				"sources": [
@@ -8199,7 +8199,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-a=m",
 				"morphTag": "INT=CON",
 				"sources": [
@@ -8207,7 +8207,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-a=v",
 				"morphTag": "INT.IMP=2PL.ABS",
 				"sources": [
@@ -8215,7 +8215,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ab",
+				"surfaceForm": "ap",
 				"segmentation": "-a=v",
 				"morphTag": "INT=2PL.ABS",
 				"sources": [
@@ -8337,9 +8337,9 @@
 				]
 			}
 		],
-		"ib": [
+		"ip": [
 			{
-				"surfaceForm": "ib",
+				"surfaceForm": "ip",
 				"segmentation": "-i-b",
 				"morphTag": "ANTIP-b",
 				"sources": [
@@ -8369,7 +8369,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ib",
+				"surfaceForm": "ip",
 				"segmentation": "-i=m",
 				"morphTag": "ANTIP=CON",
 				"sources": [
@@ -8377,7 +8377,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ib",
+				"surfaceForm": "ip",
 				"segmentation": "-i=v",
 				"morphTag": "ANTIP=2PL.ABS",
 				"sources": [
@@ -8387,7 +8387,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ib",
+				"surfaceForm": "ip",
 				"segmentation": "-i=v",
 				"morphTag": "TR.IMP=2PL.ABS",
 				"sources": [
@@ -8397,18 +8397,14 @@
 				]
 			}
 		],
-		"idin": [
+		"itin": [
 			{
-				"surfaceForm": "idin",
+				"surfaceForm": "itin",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS",
 				"sources": [
 					"agiden @ ag-id-en @ aufnehmen; aufrichten; erheben; heraufkommen",
-					"katta @ kad-id-en @ sagen; sprechen",
 					"kišḫiden @ kešḫ-id-en @ thronen",
-					"kutte @ kud-id-en @ fallen; niederwerfen",
-					"tattin @ tad-id-en @ lieben",
-					"titta @ tīd-id-en @ u.B.",
 					"āššiden @ āšš-id-en @ (ab)waschen, reinigen",
 					"āššidin @ āšš-id-en @ (ab)waschen, reinigen",
 					"šēalidin @ šēal-id-en @ u.B.",
@@ -8416,9 +8412,9 @@
 				]
 			}
 		],
-		"idu": [
+		"itu": [
 			{
-				"surfaceForm": "idu",
+				"surfaceForm": "itu",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG",
 				"sources": [
@@ -8426,7 +8422,7 @@
 				]
 			},
 			{
-				"surfaceForm": "idu",
+				"surfaceForm": "itu",
 				"segmentation": "-ed-o",
 				"morphTag": "FUT-2A.SG",
 				"sources": [
@@ -8435,7 +8431,7 @@
 				]
 			},
 			{
-				"surfaceForm": "idu",
+				"surfaceForm": "itu",
 				"segmentation": "-ed-u",
 				"morphTag": "FUT-MED",
 				"sources": [
@@ -8443,12 +8439,11 @@
 				]
 			},
 			{
-				"surfaceForm": "idu",
+				"surfaceForm": "itu",
 				"segmentation": "-id-o",
 				"morphTag": "PL.A-TR.PFV",
 				"sources": [
 					"agidu @ ag-id-o @ aufnehmen; aufrichten; erheben; heraufkommen",
-					"egiptu @ egib-id-o @ u.B.",
 					"itkidu @ itk-id-o @ reinigen",
 					"iškidu @ išk-id-o @ u.B.",
 					"pendidu @ pend-id-o @ zurückbringen; zurückkehren; zurückkommen; zurückschicken",
@@ -8466,9 +8461,9 @@
 				]
 			}
 		],
-		"iduri": [
+		"ituri": [
 			{
-				"surfaceForm": "iduri",
+				"surfaceForm": "ituri",
 				"segmentation": "-id-o-re",
 				"morphTag": "PL.A-PAT-PTCP.ABS",
 				"sources": [
@@ -8476,9 +8471,9 @@
 				]
 			}
 		],
-		"irinibi": [
+		"irinipi": [
 			{
-				"surfaceForm": "irinibi",
+				"surfaceForm": "irinipi",
 				"segmentation": "-i-re-ne-ve",
 				"morphTag": "AG-PTCP-RELAT.SG-GEN",
 				"sources": [
@@ -8652,9 +8647,9 @@
 				]
 			}
 		],
-		"uža": [
+		"uša": [
 			{
-				"surfaceForm": "uža",
+				"surfaceForm": "uša",
 				"segmentation": "-ož-a",
 				"morphTag": "PST-3A.SG",
 				"sources": [
@@ -8681,9 +8676,9 @@
 				]
 			}
 		],
-		"uži": [
+		"uši": [
 			{
-				"surfaceForm": "uži",
+				"surfaceForm": "uši",
 				"segmentation": "-ož-i",
 				"morphTag": "PST-ANTIP",
 				"sources": [
@@ -8709,9 +8704,9 @@
 				]
 			}
 		],
-		"dai": [
+		"tai": [
 			{
-				"surfaceForm": "dai",
+				"surfaceForm": "tai",
 				"segmentation": "-d-i-ai",
 				"morphTag": "d-MOD.AG-PURP",
 				"sources": [
@@ -8749,9 +8744,9 @@
 				]
 			}
 		],
-		"iġa": [
+		"iḫa": [
 			{
-				"surfaceForm": "iġa",
+				"surfaceForm": "iḫa",
 				"segmentation": "-eġ-a",
 				"morphTag": "eġ-INT",
 				"sources": [
@@ -8759,7 +8754,7 @@
 				]
 			},
 			{
-				"surfaceForm": "iġa",
+				"surfaceForm": "iḫa",
 				"segmentation": "-iġ-a",
 				"morphTag": "iġ-3A.SG",
 				"sources": [
@@ -8767,7 +8762,7 @@
 				]
 			},
 			{
-				"surfaceForm": "iġa",
+				"surfaceForm": "iḫa",
 				"segmentation": "-iġ-a",
 				"morphTag": "iġ-INT",
 				"sources": [
@@ -8775,9 +8770,9 @@
 				]
 			}
 		],
-		"ulda": [
+		"ulta": [
 			{
-				"surfaceForm": "ulda",
+				"surfaceForm": "ulta",
 				"segmentation": "-ol-d-a",
 				"morphTag": "ol-PL.A-3A",
 				"sources": [
@@ -8882,9 +8877,9 @@
 				]
 			}
 		],
-		"ub": [
+		"up": [
 			{
-				"surfaceForm": "ub",
+				"surfaceForm": "up",
 				"segmentation": "-o-m",
 				"morphTag": "TR.PFV-3A.SG",
 				"sources": [
@@ -8917,9 +8912,9 @@
 				]
 			}
 		],
-		"aštida": [
+		"aštita": [
 			{
-				"surfaceForm": "aštida",
+				"surfaceForm": "aštita",
 				"segmentation": "-ašt-ed-a",
 				"morphTag": "RES-FUT-3A.SG",
 				"sources": [
@@ -9010,9 +9005,9 @@
 				]
 			}
 		],
-		"idi": [
+		"iti": [
 			{
-				"surfaceForm": "idi",
+				"surfaceForm": "iti",
 				"segmentation": "-ed-i",
 				"morphTag": "FUT-ANTIP",
 				"sources": [
@@ -9030,7 +9025,7 @@
 				]
 			},
 			{
-				"surfaceForm": "idi",
+				"surfaceForm": "iti",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS",
 				"sources": [
@@ -9055,9 +9050,9 @@
 				]
 			}
 		],
-		"užima": [
+		"ušima": [
 			{
-				"surfaceForm": "užima",
+				"surfaceForm": "ušima",
 				"segmentation": "-ož-i=ma",
 				"morphTag": "PST-ANTIP=CON",
 				"sources": [
@@ -9065,9 +9060,9 @@
 				]
 			}
 		],
-		"ida": [
+		"ita": [
 			{
-				"surfaceForm": "ida",
+				"surfaceForm": "ita",
 				"segmentation": "-ed-a",
 				"morphTag": "FUT-3A.SG",
 				"sources": [
@@ -9093,7 +9088,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ida",
+				"surfaceForm": "ita",
 				"segmentation": "-i-d-a",
 				"morphTag": "TR-PL.A-3A",
 				"sources": [
@@ -9101,18 +9096,17 @@
 				]
 			},
 			{
-				"surfaceForm": "ida",
+				"surfaceForm": "ita",
 				"segmentation": "-id-a",
 				"morphTag": "PL.A-3A",
 				"sources": [
 					"pīarida @ pīar-id-a @ u.B.",
 					"tadida @ tad-id-a @ lieben",
-					"titta @ tīd-id-a @ u.B.",
 					"tīdida @ tīd-id-a @ u.B."
 				]
 			},
 			{
-				"surfaceForm": "ida",
+				"surfaceForm": "ita",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS",
 				"sources": [
@@ -9120,9 +9114,9 @@
 				]
 			}
 		],
-		"udum": [
+		"utum": [
 			{
-				"surfaceForm": "udum",
+				"surfaceForm": "utum",
 				"segmentation": "-ud-o-m",
 				"morphTag": "NEG-TR.PFV-3A.SG",
 				"sources": [
@@ -9134,7 +9128,7 @@
 				]
 			},
 			{
-				"surfaceForm": "udum",
+				"surfaceForm": "utum",
 				"segmentation": "-ud-o-m",
 				"morphTag": "ud-TR.PFV-3A.SG",
 				"sources": [
@@ -9142,9 +9136,9 @@
 				]
 			}
 		],
-		"ubadi": [
+		"upati": [
 			{
-				"surfaceForm": "ubadi",
+				"surfaceForm": "upati",
 				"segmentation": "-o-vade",
 				"morphTag": "PAT-ADJ.NEG.ABS",
 				"sources": [
@@ -9152,9 +9146,9 @@
 				]
 			}
 		],
-		"udubadi": [
+		"utupati": [
 			{
-				"surfaceForm": "udubadi",
+				"surfaceForm": "utupati",
 				"segmentation": "-ud-o-vade",
 				"morphTag": "ud-PAT-ADJ.NEG.ABS",
 				"sources": [
@@ -9162,9 +9156,9 @@
 				]
 			}
 		],
-		"uliž": [
+		"uliš": [
 			{
-				"surfaceForm": "uliž",
+				"surfaceForm": "uliš",
 				"segmentation": "-o-l-ež",
 				"morphTag": "MOD.PAT-l-OPT",
 				"sources": [
@@ -9186,9 +9180,9 @@
 				]
 			}
 		],
-		"uludum": [
+		"ulutum": [
 			{
-				"surfaceForm": "uludum",
+				"surfaceForm": "ulutum",
 				"segmentation": "-ol-ud-o-m",
 				"morphTag": "ol-NEG-TR.PFV-3A.SG",
 				"sources": [
@@ -9236,9 +9230,9 @@
 				]
 			}
 		],
-		"aḫḫužillai": [
+		"aḫḫušillai": [
 			{
-				"surfaceForm": "aḫḫužillai",
+				"surfaceForm": "aḫḫušillai",
 				"segmentation": "-aḫḫ-ož-ill-i-ai",
 				"morphTag": "aḫḫ-ož-ill-MOD.AG-PURP",
 				"sources": [
@@ -9246,9 +9240,9 @@
 				]
 			}
 		],
-		"amdum": [
+		"amtum": [
 			{
-				"surfaceForm": "amdum",
+				"surfaceForm": "amtum",
 				"segmentation": "-am-d-o-m",
 				"morphTag": "FACT-d-TR.PFV-3A.SG",
 				"sources": [
@@ -9331,9 +9325,9 @@
 				]
 			}
 		],
-		"už": [
+		"uš": [
 			{
-				"surfaceForm": "už",
+				"surfaceForm": "uš",
 				"segmentation": "-o-ež",
 				"morphTag": "MOD.PAT-OPT",
 				"sources": [
@@ -9358,9 +9352,9 @@
 				]
 			}
 		],
-		"ulib": [
+		"ulip": [
 			{
-				"surfaceForm": "ulib",
+				"surfaceForm": "ulip",
 				"segmentation": "-ol-i-b",
 				"morphTag": "ol-ANTIP-b",
 				"sources": [
@@ -9417,9 +9411,9 @@
 				]
 			}
 		],
-		"ulauž": [
+		"ulauš": [
 			{
-				"surfaceForm": "ulauž",
+				"surfaceForm": "ulauš",
 				"segmentation": "-ol-aw-ž",
 				"morphTag": "ol-1A-PL",
 				"sources": [
@@ -9430,7 +9424,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ulauž",
+				"surfaceForm": "ulauš",
 				"segmentation": "-ul-aw-ž",
 				"morphTag": "ul-1A-PL",
 				"sources": [
@@ -9438,9 +9432,9 @@
 				]
 			}
 		],
-		"užillaim": [
+		"ušillaim": [
 			{
-				"surfaceForm": "užillaim",
+				"surfaceForm": "ušillaim",
 				"segmentation": "-ož-ill-i-ai=m",
 				"morphTag": "ož-ill-MOD.AG-PURP=CON",
 				"sources": [
@@ -9458,9 +9452,9 @@
 				]
 			}
 		],
-		"uluda": [
+		"uluta": [
 			{
-				"surfaceForm": "uluda",
+				"surfaceForm": "uluta",
 				"segmentation": "-ol-u-d-a",
 				"morphTag": "ol-MED-PL.A-3A",
 				"sources": [
@@ -9468,7 +9462,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uluda",
+				"surfaceForm": "uluta",
 				"segmentation": "-ol-ud-a",
 				"morphTag": "ol-ud-3A.SG",
 				"sources": [
@@ -9476,7 +9470,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uluda",
+				"surfaceForm": "uluta",
 				"segmentation": "-ol-ud-a",
 				"morphTag": "ol-ud-INT",
 				"sources": [
@@ -9484,9 +9478,9 @@
 				]
 			}
 		],
-		"ulullub": [
+		"ulullup": [
 			{
-				"surfaceForm": "ulullub",
+				"surfaceForm": "ulullup",
 				"segmentation": "-ol-ull-o-m",
 				"morphTag": "ol-ull-TR.PFV-3A.SG",
 				"sources": [
@@ -9494,9 +9488,9 @@
 				]
 			}
 		],
-		"užu": [
+		"ušu": [
 			{
-				"surfaceForm": "užu",
+				"surfaceForm": "ušu",
 				"segmentation": "-ož-o",
 				"morphTag": "PST-2A.SG",
 				"sources": [
@@ -9506,7 +9500,7 @@
 				]
 			},
 			{
-				"surfaceForm": "užu",
+				"surfaceForm": "ušu",
 				"segmentation": "-ož-u",
 				"morphTag": "PST-MED",
 				"sources": [
@@ -9514,9 +9508,9 @@
 				]
 			}
 		],
-		"užušši": [
+		"ušušši": [
 			{
-				"surfaceForm": "užušši",
+				"surfaceForm": "ušušši",
 				"segmentation": "-ož-o-šše",
 				"morphTag": "PST-2A.SG-NMLZ.ABS",
 				"sources": [
@@ -9524,9 +9518,9 @@
 				]
 			}
 		],
-		"anuba": [
+		"anupa": [
 			{
-				"surfaceForm": "anuba",
+				"surfaceForm": "anupa",
 				"segmentation": "-an-o-eva",
 				"morphTag": "an-MOD.PAT-POT",
 				"sources": [
@@ -9535,9 +9529,9 @@
 				]
 			}
 		],
-		"aštiž": [
+		"aštiš": [
 			{
-				"surfaceForm": "aštiž",
+				"surfaceForm": "aštiš",
 				"segmentation": "-ašt-i-ež",
 				"morphTag": "RES-MOD.AG-OPT",
 				"sources": [
@@ -9557,9 +9551,9 @@
 				]
 			}
 		],
-		"alda": [
+		"alta": [
 			{
-				"surfaceForm": "alda",
+				"surfaceForm": "alta",
 				"segmentation": "-al-d-a",
 				"morphTag": "al-d-3A.SG",
 				"sources": [
@@ -9567,7 +9561,7 @@
 				]
 			},
 			{
-				"surfaceForm": "alda",
+				"surfaceForm": "alta",
 				"segmentation": "-al-d-a",
 				"morphTag": "al-d-INT",
 				"sources": [
@@ -9575,9 +9569,9 @@
 				]
 			}
 		],
-		"aldili": [
+		"altili": [
 			{
-				"surfaceForm": "aldili",
+				"surfaceForm": "altili",
 				"segmentation": "-al-d-i-le",
 				"morphTag": "al-d-MOD.AG-1JUSS",
 				"sources": [
@@ -9585,9 +9579,9 @@
 				]
 			}
 		],
-		"aldida": [
+		"altita": [
 			{
-				"surfaceForm": "aldida",
+				"surfaceForm": "altita",
 				"segmentation": "-al-d-ed-a",
 				"morphTag": "al-d-FUT-3A.SG",
 				"sources": [
@@ -9613,9 +9607,9 @@
 				]
 			}
 		],
-		"amaruliiž": [
+		"amaruliiš": [
 			{
-				"surfaceForm": "amaruliiž",
+				"surfaceForm": "amaruliiš",
 				"segmentation": "-am-ar-o-l-ež",
 				"morphTag": "FACT-ITER-MOD.PAT-l-OPT",
 				"sources": [
@@ -9623,9 +9617,9 @@
 				]
 			}
 		],
-		"aštidaw": [
+		"aštitaw": [
 			{
-				"surfaceForm": "aštidaw",
+				"surfaceForm": "aštitaw",
 				"segmentation": "-ašt-ed-aw",
 				"morphTag": "RES-FUT-1A.SG",
 				"sources": [
@@ -9634,9 +9628,9 @@
 				]
 			}
 		],
-		"id": [
+		"it": [
 			{
-				"surfaceForm": "id",
+				"surfaceForm": "it",
 				"segmentation": "-i=d",
 				"morphTag": "ANTIP=1SG.ABS",
 				"sources": [
@@ -9645,9 +9639,9 @@
 				]
 			}
 		],
-		"aštidu": [
+		"aštitu": [
 			{
-				"surfaceForm": "aštidu",
+				"surfaceForm": "aštitu",
 				"segmentation": "-ašt-ed-aw",
 				"morphTag": "RES-FUT-1A.SG",
 				"sources": [
@@ -9655,7 +9649,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aštidu",
+				"surfaceForm": "aštitu",
 				"segmentation": "-ašt-ed-o",
 				"morphTag": "RES-FUT-2A.SG",
 				"sources": [
@@ -9729,9 +9723,9 @@
 				]
 			}
 		],
-		"anub": [
+		"anup": [
 			{
-				"surfaceForm": "anub",
+				"surfaceForm": "anup",
 				"segmentation": "-an-o-m",
 				"morphTag": "an-TR.PFV-3A.SG",
 				"sources": [
@@ -9739,9 +9733,9 @@
 				]
 			}
 		],
-		"aštib": [
+		"aštip": [
 			{
-				"surfaceForm": "aštib",
+				"surfaceForm": "aštip",
 				"segmentation": "-ašt-i-b",
 				"morphTag": "RES-ANTIP-b",
 				"sources": [
@@ -9752,9 +9746,9 @@
 				]
 			}
 		],
-		"aštilib": [
+		"aštilip": [
 			{
-				"surfaceForm": "aštilib",
+				"surfaceForm": "aštilip",
 				"segmentation": "-ašt-i-le=m",
 				"morphTag": "RES-MOD.AG-1JUSS=2SG.ABS",
 				"sources": [
@@ -9762,7 +9756,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aštilib",
+				"surfaceForm": "aštilip",
 				"segmentation": "-ašt-i-le=m",
 				"morphTag": "RES-MOD.AG-1JUSS=CON",
 				"sources": [
@@ -9770,7 +9764,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aštilib",
+				"surfaceForm": "aštilip",
 				"segmentation": "-ašt-il-i-b",
 				"morphTag": "RES-il-ANTIP-b",
 				"sources": [
@@ -9858,9 +9852,9 @@
 				]
 			}
 		],
-		"uriž": [
+		"uriš": [
 			{
-				"surfaceForm": "uriž",
+				"surfaceForm": "uriš",
 				"segmentation": "-o-re-i-ž",
 				"morphTag": "PAT-PTCP-3POSS.SG-ERG",
 				"sources": [
@@ -9869,7 +9863,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uriž",
+				"surfaceForm": "uriš",
 				"segmentation": "-o-re-ž",
 				"morphTag": "PAT-PTCP-ERG",
 				"sources": [
@@ -9878,9 +9872,9 @@
 				]
 			}
 		],
-		"illandin": [
+		"illantin": [
 			{
-				"surfaceForm": "illandin",
+				"surfaceForm": "illantin",
 				"segmentation": "-ill-and-i-n",
 				"morphTag": "ill-PL.A-MOD.AG-n",
 				"sources": [
@@ -9893,7 +9887,7 @@
 				]
 			},
 			{
-				"surfaceForm": "illandin",
+				"surfaceForm": "illantin",
 				"segmentation": "-ill-and-i=n",
 				"morphTag": "ill-PL.A-MOD.AG=3SG.ABS",
 				"sources": [
@@ -9906,9 +9900,9 @@
 				]
 			}
 		],
-		"anidaw": [
+		"anitaw": [
 			{
-				"surfaceForm": "anidaw",
+				"surfaceForm": "anitaw",
 				"segmentation": "-an-ed-aw",
 				"morphTag": "an-FUT-1A.SG",
 				"sources": [
@@ -9950,9 +9944,9 @@
 				]
 			}
 		],
-		"uġiž": [
+		"uḫiš": [
 			{
-				"surfaceForm": "uġiž",
+				"surfaceForm": "uḫiš",
 				"segmentation": "-oġ-i-ež",
 				"morphTag": "oġ-MOD.AG-OPT",
 				"sources": [
@@ -9960,9 +9954,9 @@
 				]
 			}
 		],
-		"awž": [
+		"awš": [
 			{
-				"surfaceForm": "awž",
+				"surfaceForm": "awš",
 				"segmentation": "-aw-ž",
 				"morphTag": "1A-PL",
 				"sources": [
@@ -9993,9 +9987,9 @@
 				]
 			}
 		],
-		"ulaiž": [
+		"ulaiš": [
 			{
-				"surfaceForm": "ulaiž",
+				"surfaceForm": "ulaiš",
 				"segmentation": "-o-l-ai-ž",
 				"morphTag": "MOD.PAT-l-PURP-ž",
 				"sources": [
@@ -10023,9 +10017,9 @@
 				]
 			}
 		],
-		"užilandin": [
+		"ušilantin": [
 			{
-				"surfaceForm": "užilandin",
+				"surfaceForm": "ušilantin",
 				"segmentation": "-ož-ill-and-i-n",
 				"morphTag": "ož-ill-PL.A-MOD.AG-n",
 				"sources": [
@@ -10033,7 +10027,7 @@
 				]
 			},
 			{
-				"surfaceForm": "užilandin",
+				"surfaceForm": "ušilantin",
 				"segmentation": "-ož-ill-and-i=n",
 				"morphTag": "ož-ill-PL.A-MOD.AG=3SG.ABS",
 				"sources": [
@@ -10061,9 +10055,9 @@
 				]
 			}
 		],
-		"ad": [
+		"at": [
 			{
-				"surfaceForm": "ad",
+				"surfaceForm": "at",
 				"segmentation": "-a=d",
 				"morphTag": "INT=1SG.ABS",
 				"sources": [
@@ -10073,9 +10067,9 @@
 				]
 			}
 		],
-		"ubin": [
+		"upin": [
 			{
-				"surfaceForm": "ubin",
+				"surfaceForm": "upin",
 				"segmentation": "-o-va-en",
 				"morphTag": "MOD.PAT-NEG-3JUSS",
 				"sources": [
@@ -10085,9 +10079,9 @@
 				]
 			}
 		],
-		"uliba": [
+		"ulipa": [
 			{
-				"surfaceForm": "uliba",
+				"surfaceForm": "ulipa",
 				"segmentation": "-o-l-eva",
 				"morphTag": "MOD.PAT-l-POT",
 				"sources": [
@@ -10107,9 +10101,9 @@
 				]
 			}
 		],
-		"ilibažnna": [
+		"ilipašnna": [
 			{
-				"surfaceForm": "ilibažnna",
+				"surfaceForm": "ilipašnna",
 				"segmentation": "-i-l-eva-ž=nna",
 				"morphTag": "MOD.AG-l-POT-ž=3SG.ABS",
 				"sources": [
@@ -10117,9 +10111,9 @@
 				]
 			}
 		],
-		"iġib": [
+		"iḫip": [
 			{
-				"surfaceForm": "iġib",
+				"surfaceForm": "iḫip",
 				"segmentation": "-eġ-i-b",
 				"morphTag": "eġ-ANTIP-b",
 				"sources": [
@@ -10137,9 +10131,9 @@
 				]
 			}
 		],
-		"ižanna": [
+		"išanna": [
 			{
-				"surfaceForm": "ižanna",
+				"surfaceForm": "išanna",
 				"segmentation": "-iž-a=nna",
 				"morphTag": "iž-INT=3SG.ABS",
 				"sources": [
@@ -10251,9 +10245,9 @@
 				]
 			}
 		],
-		"ada": [
+		"ata": [
 			{
-				"surfaceForm": "ada",
+				"surfaceForm": "ata",
 				"segmentation": "-ad-a",
 				"morphTag": "ad-3A.SG",
 				"sources": [
@@ -10261,7 +10255,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ada",
+				"surfaceForm": "ata",
 				"segmentation": "-ad-a",
 				"morphTag": "ad-INT",
 				"sources": [
@@ -10269,9 +10263,9 @@
 				]
 			}
 		],
-		"ibainima": [
+		"ipainima": [
 			{
-				"surfaceForm": "ibainima",
+				"surfaceForm": "ipainima",
 				"segmentation": "-i-va-en-i=ma",
 				"morphTag": "MOD.AG-NEG-3JUSS-EPNTH=CON",
 				"sources": [
@@ -10315,9 +10309,9 @@
 				]
 			}
 		],
-		"užuinim": [
+		"ušuinim": [
 			{
-				"surfaceForm": "užuinim",
+				"surfaceForm": "ušuinim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=2SG.ABS",
 				"sources": [
@@ -10325,7 +10319,7 @@
 				]
 			},
 			{
-				"surfaceForm": "užuinim",
+				"surfaceForm": "ušuinim",
 				"segmentation": "-ušš-o-en-i=m",
 				"morphTag": "ušš-MOD.PAT-3JUSS-EPNTH=CON",
 				"sources": [
@@ -10333,9 +10327,9 @@
 				]
 			}
 		],
-		"uġum": [
+		"uḫum": [
 			{
-				"surfaceForm": "uġum",
+				"surfaceForm": "uḫum",
 				"segmentation": "-oġ-o-m",
 				"morphTag": "oġ-TR.PFV-3A.SG",
 				"sources": [
@@ -10523,9 +10517,9 @@
 				]
 			}
 		],
-		"adin": [
+		"atin": [
 			{
-				"surfaceForm": "adin",
+				"surfaceForm": "atin",
 				"segmentation": "-ad-i-en",
 				"morphTag": "ad-MOD.AG-3JUSS",
 				"sources": [
@@ -10543,9 +10537,9 @@
 				]
 			}
 		],
-		"aštab": [
+		"aštap": [
 			{
-				"surfaceForm": "aštab",
+				"surfaceForm": "aštap",
 				"segmentation": "-ašt-a-b",
 				"morphTag": "RES-INT-b",
 				"sources": [
@@ -10554,9 +10548,9 @@
 				]
 			}
 		],
-		"iaž": [
+		"iaš": [
 			{
-				"surfaceForm": "iaž",
+				"surfaceForm": "iaš",
 				"segmentation": "-i-a-ž",
 				"morphTag": "TR-3A-PL",
 				"sources": [
@@ -10564,9 +10558,9 @@
 				]
 			}
 		],
-		"idannim": [
+		"itannim": [
 			{
-				"surfaceForm": "idannim",
+				"surfaceForm": "itannim",
 				"segmentation": "-id-anni=m",
 				"morphTag": "PL.A-DESID=2SG.ABS",
 				"sources": [
@@ -10574,9 +10568,9 @@
 				]
 			}
 		],
-		"induž": [
+		"intuš": [
 			{
-				"surfaceForm": "induž",
+				"surfaceForm": "intuš",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.AG-OPT",
 				"sources": [
@@ -10586,7 +10580,7 @@
 				]
 			},
 			{
-				"surfaceForm": "induž",
+				"surfaceForm": "intuš",
 				"segmentation": "-ind-o-ež",
 				"morphTag": "PL.A-MOD.PAT-OPT",
 				"sources": [
@@ -10596,9 +10590,9 @@
 				]
 			}
 		],
-		"ulundašši": [
+		"uluntašši": [
 			{
-				"surfaceForm": "ulundašši",
+				"surfaceForm": "uluntašši",
 				"segmentation": "-ol-u-nd-a-šše",
 				"morphTag": "ol-MED-PL.A-3A-NMLZ.ABS",
 				"sources": [
@@ -10606,9 +10600,9 @@
 				]
 			}
 		],
-		"undaššinama": [
+		"untaššinama": [
 			{
-				"surfaceForm": "undaššinama",
+				"surfaceForm": "untaššinama",
 				"segmentation": "-u-nd-a-šše-na=ma",
 				"morphTag": "MED-PL.A-3A-NMLZ-RELAT.PL.ABS=CON",
 				"sources": [
@@ -10616,9 +10610,9 @@
 				]
 			}
 		],
-		"undaššinamma": [
+		"untaššinamma": [
 			{
-				"surfaceForm": "undaššinamma",
+				"surfaceForm": "untaššinamma",
 				"segmentation": "-u-nd-a-šše-na=mma",
 				"morphTag": "MED-PL.A-3A-NMLZ-RELAT.PL.ABS=CON",
 				"sources": [
@@ -10678,9 +10672,9 @@
 				]
 			}
 		],
-		"užalla": [
+		"ušalla": [
 			{
-				"surfaceForm": "užalla",
+				"surfaceForm": "ušalla",
 				"segmentation": "-o-ež-a=lla",
 				"morphTag": "MOD.PAT-OPT-EPNTH=3PL.ABS",
 				"sources": [
@@ -10688,9 +10682,9 @@
 				]
 			}
 		],
-		"užillandin": [
+		"ušillantin": [
 			{
-				"surfaceForm": "užillandin",
+				"surfaceForm": "ušillantin",
 				"segmentation": "-ož-ill-and-i-n",
 				"morphTag": "ož-ill-PL.A-MOD.AG-n",
 				"sources": [
@@ -10703,7 +10697,7 @@
 				]
 			},
 			{
-				"surfaceForm": "užillandin",
+				"surfaceForm": "ušillantin",
 				"segmentation": "-ož-ill-and-i=n",
 				"morphTag": "ož-ill-PL.A-MOD.AG=3SG.ABS",
 				"sources": [
@@ -10844,9 +10838,9 @@
 				]
 			}
 		],
-		"iliž": [
+		"iliš": [
 			{
-				"surfaceForm": "iliž",
+				"surfaceForm": "iliš",
 				"segmentation": "-i-l-ež",
 				"morphTag": "MOD.AG-l-OPT",
 				"sources": [
@@ -10937,9 +10931,9 @@
 				]
 			}
 		],
-		"uġida": [
+		"uḫita": [
 			{
-				"surfaceForm": "uġida",
+				"surfaceForm": "uḫita",
 				"segmentation": "-oġ-ed-a",
 				"morphTag": "oġ-FUT-3A.SG",
 				"sources": [
@@ -10973,9 +10967,9 @@
 				]
 			}
 		],
-		"iž": [
+		"iš": [
 			{
-				"surfaceForm": "iž",
+				"surfaceForm": "iš",
 				"segmentation": "-i-ež",
 				"morphTag": "MOD.AG-OPT",
 				"sources": [
@@ -10994,9 +10988,9 @@
 				]
 			}
 		],
-		"iža": [
+		"iša": [
 			{
-				"surfaceForm": "iža",
+				"surfaceForm": "iša",
 				"segmentation": "-iž-a",
 				"morphTag": "iž-3A.SG",
 				"sources": [
@@ -11007,7 +11001,7 @@
 				]
 			},
 			{
-				"surfaceForm": "iža",
+				"surfaceForm": "iša",
 				"segmentation": "-iž-a",
 				"morphTag": "iž-INT",
 				"sources": [
@@ -11018,7 +11012,7 @@
 				]
 			},
 			{
-				"surfaceForm": "iža",
+				"surfaceForm": "iša",
 				"segmentation": "-iž-a",
 				"morphTag": "iž-INT.IMP",
 				"sources": [
@@ -11026,9 +11020,9 @@
 				]
 			}
 		],
-		"ilibaž": [
+		"ilipaš": [
 			{
-				"surfaceForm": "ilibaž",
+				"surfaceForm": "ilipaš",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž",
 				"sources": [
@@ -11037,9 +11031,9 @@
 				]
 			}
 		],
-		"uġal": [
+		"uḫal": [
 			{
-				"surfaceForm": "uġal",
+				"surfaceForm": "uḫal",
 				"segmentation": "-oġ-a=l",
 				"morphTag": "oġ-3A.SG=3PL.ABS",
 				"sources": [
@@ -11047,7 +11041,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uġal",
+				"surfaceForm": "uḫal",
 				"segmentation": "-oġ-a=l",
 				"morphTag": "oġ-INT=3PL.ABS",
 				"sources": [
@@ -11055,9 +11049,9 @@
 				]
 			}
 		],
-		"uġama": [
+		"uḫama": [
 			{
-				"surfaceForm": "uġama",
+				"surfaceForm": "uḫama",
 				"segmentation": "-oġ-a=ma",
 				"morphTag": "oġ-3A.SG=CON",
 				"sources": [
@@ -11065,7 +11059,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uġama",
+				"surfaceForm": "uḫama",
 				"segmentation": "-oġ-a=ma",
 				"morphTag": "oġ-INT=CON",
 				"sources": [
@@ -11080,8 +11074,18 @@
 				"morphTag": "d-ANTIP",
 				"sources": [
 					"kašti @ kaš-d-i @ u.B.",
+					"kelde @ kēl-d-i @ wohl sein; wohl machen",
 					"nakti @ nak-d-i @ u.B.",
+					"sigaldi @ sig+al-d-i @ u.B.",
 					"ḫōšti @ ḫōš-d-i @ u.B."
+				]
+			},
+			{
+				"surfaceForm": "ti",
+				"segmentation": "-d-i",
+				"morphTag": "d-TR.IMP",
+				"sources": [
+					"kelde @ kēl-d-i @ wohl sein; wohl machen"
 				]
 			}
 		],
@@ -11132,28 +11136,9 @@
 				]
 			}
 		],
-		"di": [
+		"ipat": [
 			{
-				"surfaceForm": "di",
-				"segmentation": "-d-i",
-				"morphTag": "d-ANTIP",
-				"sources": [
-					"kelde @ kēl-d-i @ wohl sein; wohl machen",
-					"sigaldi @ sig+al-d-i @ u.B."
-				]
-			},
-			{
-				"surfaceForm": "di",
-				"segmentation": "-d-i",
-				"morphTag": "d-TR.IMP",
-				"sources": [
-					"kelde @ kēl-d-i @ wohl sein; wohl machen"
-				]
-			}
-		],
-		"ibad": [
-			{
-				"surfaceForm": "ibad",
+				"surfaceForm": "ipat",
 				"segmentation": "-i-b-a=d",
 				"morphTag": "ANTIP-b-EPNTH=1SG.ABS",
 				"sources": [
@@ -11162,7 +11147,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ibad",
+				"surfaceForm": "ipat",
 				"segmentation": "-i-eva=d",
 				"morphTag": "MOD.AG-POT=1SG.ABS",
 				"sources": [
@@ -11195,9 +11180,9 @@
 				]
 			}
 		],
-		"aduwamma": [
+		"atuwamma": [
 			{
-				"surfaceForm": "aduwamma",
+				"surfaceForm": "atuwamma",
 				"segmentation": "-ad-u-a=mma",
 				"morphTag": "ad-MED-3A.SG=2SG.ABS",
 				"sources": [
@@ -11205,7 +11190,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aduwamma",
+				"surfaceForm": "atuwamma",
 				"segmentation": "-ad-u-a=mma",
 				"morphTag": "ad-MED-3A.SG=CON",
 				"sources": [
@@ -11274,9 +11259,9 @@
 				]
 			}
 		],
-		"tanida": [
+		"tanita": [
 			{
-				"surfaceForm": "tanida",
+				"surfaceForm": "tanita",
 				"segmentation": "-d-an-ed-a",
 				"morphTag": "d-an-FUT-3A.SG",
 				"sources": [
@@ -11284,9 +11269,9 @@
 				]
 			}
 		],
-		"anida": [
+		"anita": [
 			{
-				"surfaceForm": "anida",
+				"surfaceForm": "anita",
 				"segmentation": "-an-ed-a",
 				"morphTag": "CAUS-FUT-3A.SG",
 				"sources": [
@@ -11294,7 +11279,7 @@
 				]
 			},
 			{
-				"surfaceForm": "anida",
+				"surfaceForm": "anita",
 				"segmentation": "-an-ed-a",
 				"morphTag": "an-FUT-3A.SG",
 				"sources": [
@@ -11315,9 +11300,9 @@
 				]
 			}
 		],
-		"užuž": [
+		"ušuš": [
 			{
-				"surfaceForm": "užuž",
+				"surfaceForm": "ušuš",
 				"segmentation": "-ož-o-ež",
 				"morphTag": "ož-MOD.PAT-OPT",
 				"sources": [
@@ -11325,9 +11310,9 @@
 				]
 			}
 		],
-		"udu": [
+		"utu": [
 			{
-				"surfaceForm": "udu",
+				"surfaceForm": "utu",
 				"segmentation": "-ud-u",
 				"morphTag": "ud-MED",
 				"sources": [
@@ -11353,9 +11338,9 @@
 				]
 			}
 		],
-		"aġai": [
+		"aḫai": [
 			{
-				"surfaceForm": "aġai",
+				"surfaceForm": "aḫai",
 				"segmentation": "-aġ-i-ai",
 				"morphTag": "aġ-MOD.AG-PURP",
 				"sources": [
@@ -11381,9 +11366,9 @@
 				]
 			}
 		],
-		"dim": [
+		"tim": [
 			{
-				"surfaceForm": "dim",
+				"surfaceForm": "tim",
 				"segmentation": "-d-i=m",
 				"morphTag": "d-TR.IMP=2SG.ABS",
 				"sources": [
@@ -11391,9 +11376,9 @@
 				]
 			}
 		],
-		"dum": [
+		"tum": [
 			{
-				"surfaceForm": "dum",
+				"surfaceForm": "tum",
 				"segmentation": "-d-o-m",
 				"morphTag": "d-TR.PFV-3A.SG",
 				"sources": [
@@ -11401,7 +11386,7 @@
 				]
 			},
 			{
-				"surfaceForm": "dum",
+				"surfaceForm": "tum",
 				"segmentation": "-d-o=m",
 				"morphTag": "d-MOD.PAT=CON",
 				"sources": [
@@ -11409,7 +11394,7 @@
 				]
 			},
 			{
-				"surfaceForm": "dum",
+				"surfaceForm": "tum",
 				"segmentation": "-d-u=m",
 				"morphTag": "d-MED=2SG.ABS",
 				"sources": [
@@ -11471,9 +11456,9 @@
 				]
 			}
 		],
-		"uždal": [
+		"uštal": [
 			{
-				"surfaceForm": "uždal",
+				"surfaceForm": "uštal",
 				"segmentation": "-ož-d-a=l",
 				"morphTag": "PST-PL.A-3A=3PL.ABS",
 				"sources": [
@@ -11481,15 +11466,13 @@
 				]
 			},
 			{
-				"surfaceForm": "uždal",
+				"surfaceForm": "uštal",
 				"segmentation": "-ož-d-a=l",
 				"morphTag": "PST-d-3A.SG=3PL.ABS",
 				"sources": [
 					"kulmi(-)ḫuštal @ ḫō-ož-d-a=l @ rufen"
 				]
-			}
-		],
-		"uštal": [
+			},
 			{
 				"surfaceForm": "uštal",
 				"segmentation": "-ušt-a=l",
@@ -11507,9 +11490,9 @@
 				]
 			}
 		],
-		"užašši": [
+		"ušašši": [
 			{
-				"surfaceForm": "užašši",
+				"surfaceForm": "ušašši",
 				"segmentation": "-ož-a-šše",
 				"morphTag": "PST-3A.SG-NMLZ.ABS",
 				"sources": [
@@ -11554,9 +11537,9 @@
 				]
 			}
 		],
-		"uda": [
+		"uta": [
 			{
-				"surfaceForm": "uda",
+				"surfaceForm": "uta",
 				"segmentation": "-ud-a",
 				"morphTag": "ud-3A.SG",
 				"sources": [
@@ -11565,7 +11548,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uda",
+				"surfaceForm": "uta",
 				"segmentation": "-ud-a",
 				"morphTag": "ud-INT",
 				"sources": [
@@ -11573,9 +11556,9 @@
 				]
 			}
 		],
-		"uġi": [
+		"uḫi": [
 			{
-				"surfaceForm": "uġi",
+				"surfaceForm": "uḫi",
 				"segmentation": "-oġ-i",
 				"morphTag": "oġ-ANTIP",
 				"sources": [
@@ -11605,9 +11588,9 @@
 				]
 			}
 		],
-		"uba": [
+		"upa": [
 			{
-				"surfaceForm": "uba",
+				"surfaceForm": "upa",
 				"segmentation": "-u-a",
 				"morphTag": "MED-3A.SG",
 				"sources": [
@@ -11615,9 +11598,9 @@
 				]
 			}
 		],
-		"adi": [
+		"ati": [
 			{
-				"surfaceForm": "adi",
+				"surfaceForm": "ati",
 				"segmentation": "-ad-i",
 				"morphTag": "ad-ANTIP",
 				"sources": [
@@ -11626,9 +11609,9 @@
 				]
 			}
 		],
-		"adal": [
+		"atal": [
 			{
-				"surfaceForm": "adal",
+				"surfaceForm": "atal",
 				"segmentation": "-ad-a=l",
 				"morphTag": "ad-3A.SG=3PL.ABS",
 				"sources": [
@@ -11636,7 +11619,7 @@
 				]
 			},
 			{
-				"surfaceForm": "adal",
+				"surfaceForm": "atal",
 				"segmentation": "-ad-a=l",
 				"morphTag": "ad-INT=3PL.ABS",
 				"sources": [
@@ -11644,7 +11627,7 @@
 				]
 			},
 			{
-				"surfaceForm": "adal",
+				"surfaceForm": "atal",
 				"segmentation": "-ar-a=l",
 				"morphTag": "ITER-3A.SG=3PL.ABS",
 				"sources": [
@@ -11652,7 +11635,7 @@
 				]
 			},
 			{
-				"surfaceForm": "adal",
+				"surfaceForm": "atal",
 				"segmentation": "-ar-a=l",
 				"morphTag": "ITER-INT=3PL.ABS",
 				"sources": [
@@ -11670,9 +11653,9 @@
 				]
 			}
 		],
-		"ažuž": [
+		"ašuš": [
 			{
-				"surfaceForm": "ažuž",
+				"surfaceForm": "ašuš",
 				"segmentation": "-až-o-ež",
 				"morphTag": "až-MOD.PAT-OPT",
 				"sources": [
@@ -11711,9 +11694,9 @@
 				]
 			}
 		],
-		"aiž": [
+		"aiš": [
 			{
-				"surfaceForm": "aiž",
+				"surfaceForm": "aiš",
 				"segmentation": "-i-ai-ž",
 				"morphTag": "MOD.AG-PURP-ž",
 				"sources": [
@@ -11731,9 +11714,9 @@
 				]
 			}
 		],
-		"agum": [
+		"akum": [
 			{
-				"surfaceForm": "agum",
+				"surfaceForm": "akum",
 				"segmentation": "-ag-o-m",
 				"morphTag": "ag-TR.PFV-3A.SG",
 				"sources": [
@@ -11741,9 +11724,9 @@
 				]
 			}
 		],
-		"uladilai": [
+		"ulatilai": [
 			{
-				"surfaceForm": "uladilai",
+				"surfaceForm": "ulatilai",
 				"segmentation": "-ol-ad-i-l-ai",
 				"morphTag": "ol-ad-MOD.AG-l-PURP",
 				"sources": [
@@ -11751,9 +11734,9 @@
 				]
 			}
 		],
-		"uladu": [
+		"ulatu": [
 			{
-				"surfaceForm": "uladu",
+				"surfaceForm": "ulatu",
 				"segmentation": "-ol-ad-o",
 				"morphTag": "ol-ad-MOD.PAT",
 				"sources": [
@@ -11761,7 +11744,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uladu",
+				"surfaceForm": "ulatu",
 				"segmentation": "-ol-ad-u",
 				"morphTag": "ol-ad-MED",
 				"sources": [
@@ -11769,9 +11752,9 @@
 				]
 			}
 		],
-		"uġužilai": [
+		"uḫušilai": [
 			{
-				"surfaceForm": "uġužilai",
+				"surfaceForm": "uḫušilai",
 				"segmentation": "-oġ-ož-i-l-ai",
 				"morphTag": "uġ-ož-MOD.AG-l-PURP",
 				"sources": [
@@ -11827,9 +11810,9 @@
 				]
 			}
 		],
-		"ubur": [
+		"upur": [
 			{
-				"surfaceForm": "ubur",
+				"surfaceForm": "upur",
 				"segmentation": "-o-vor",
 				"morphTag": "INT-NEG",
 				"sources": [
@@ -11839,20 +11822,21 @@
 				]
 			}
 		],
-		"da": [
+		"ta": [
 			{
-				"surfaceForm": "da",
+				"surfaceForm": "ta",
 				"segmentation": "-d-a",
 				"morphTag": "d-INT",
 				"sources": [
 					"mātta @ mād-d-a @ weise sein / machen",
-					"titta @ tīd-d-a @ u.B."
+					"titta @ tīd-d-a @ u.B.",
+					"šūpta @ šūp-d-a @ u.B."
 				]
 			}
 		],
-		"dal": [
+		"tal": [
 			{
-				"surfaceForm": "dal",
+				"surfaceForm": "tal",
 				"segmentation": "-d-a=l",
 				"morphTag": "d-INT=3PL.ABS",
 				"sources": [
@@ -11860,9 +11844,9 @@
 				]
 			}
 		],
-		"riž": [
+		"riš": [
 			{
-				"surfaceForm": "riž",
+				"surfaceForm": "riš",
 				"segmentation": "-i-l-ež",
 				"morphTag": "MOD.AG-l-OPT",
 				"sources": [
@@ -11870,9 +11854,9 @@
 				]
 			}
 		],
-		"idaššu": [
+		"itaššu": [
 			{
-				"surfaceForm": "idaššu",
+				"surfaceForm": "itaššu",
 				"segmentation": "-ed-aššo",
 				"morphTag": "FUT-2A.PL",
 				"sources": [
@@ -11881,9 +11865,9 @@
 				]
 			}
 		],
-		"idauž": [
+		"itauš": [
 			{
-				"surfaceForm": "idauž",
+				"surfaceForm": "itauš",
 				"segmentation": "-ed-aw-ž",
 				"morphTag": "FUT-1A-PL",
 				"sources": [
@@ -11891,9 +11875,9 @@
 				]
 			}
 		],
-		"iduwa": [
+		"ituwa": [
 			{
-				"surfaceForm": "iduwa",
+				"surfaceForm": "ituwa",
 				"segmentation": "-ed-u-a",
 				"morphTag": "FUT-MED-3A.SG",
 				"sources": [
@@ -11901,9 +11885,9 @@
 				]
 			}
 		],
-		"iuppuž": [
+		"iuppuš": [
 			{
-				"surfaceForm": "iuppuž",
+				"surfaceForm": "iuppuš",
 				"segmentation": "-i-uffu-ž",
 				"morphTag": "TR-1A.NEG-PL",
 				"sources": [
@@ -11921,9 +11905,9 @@
 				]
 			}
 		],
-		"adum": [
+		"atum": [
 			{
-				"surfaceForm": "adum",
+				"surfaceForm": "atum",
 				"segmentation": "-ad-o-m",
 				"morphTag": "ad-TR.PFV-3A.SG",
 				"sources": [
@@ -11932,9 +11916,9 @@
 				]
 			}
 		],
-		"agi": [
+		"aki": [
 			{
-				"surfaceForm": "agi",
+				"surfaceForm": "aki",
 				"segmentation": "-ag-i",
 				"morphTag": "ag-ANTIP",
 				"sources": [
@@ -11952,9 +11936,9 @@
 				]
 			}
 		],
-		"aban": [
+		"apan": [
 			{
-				"surfaceForm": "aban",
+				"surfaceForm": "apan",
 				"segmentation": "-a-b=an",
 				"morphTag": "INT-b=CON",
 				"sources": [
@@ -11962,9 +11946,9 @@
 				]
 			}
 		],
-		"aġa": [
+		"aḫa": [
 			{
-				"surfaceForm": "aġa",
+				"surfaceForm": "aḫa",
 				"segmentation": "-aġ-a",
 				"morphTag": "aġ-3A.SG",
 				"sources": [
@@ -11973,7 +11957,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aġa",
+				"surfaceForm": "aḫa",
 				"segmentation": "-aġ-a",
 				"morphTag": "aġ-INT",
 				"sources": [
@@ -11982,7 +11966,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aġa",
+				"surfaceForm": "aḫa",
 				"segmentation": "-aʾ-a",
 				"morphTag": "aʾ-3A.SG",
 				"sources": [
@@ -11990,7 +11974,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aġa",
+				"surfaceForm": "aḫa",
 				"segmentation": "-aʾ-a",
 				"morphTag": "aʾ-INT",
 				"sources": [
@@ -11998,7 +11982,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aġa",
+				"surfaceForm": "aḫa",
 				"segmentation": "-aḫḫ-a",
 				"morphTag": "aḫḫ-3A.SG",
 				"sources": [
@@ -12006,7 +11990,7 @@
 				]
 			},
 			{
-				"surfaceForm": "aġa",
+				"surfaceForm": "aḫa",
 				"segmentation": "-aḫḫ-a",
 				"morphTag": "aḫḫ-INT",
 				"sources": [
@@ -12026,9 +12010,9 @@
 				]
 			}
 		],
-		"idab": [
+		"itap": [
 			{
-				"surfaceForm": "idab",
+				"surfaceForm": "itap",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG",
 				"sources": [
@@ -12038,9 +12022,9 @@
 				]
 			}
 		],
-		"arugara": [
+		"arukara": [
 			{
-				"surfaceForm": "arugara",
+				"surfaceForm": "arukara",
 				"segmentation": "-ar-ugar-a",
 				"morphTag": "ITER-RECIP-3A.SG",
 				"sources": [
@@ -12048,7 +12032,7 @@
 				]
 			},
 			{
-				"surfaceForm": "arugara",
+				"surfaceForm": "arukara",
 				"segmentation": "-ar-ugar-a",
 				"morphTag": "ITER-RECIP-INT",
 				"sources": [
@@ -12056,9 +12040,9 @@
 				]
 			}
 		],
-		"du": [
+		"tu": [
 			{
-				"surfaceForm": "du",
+				"surfaceForm": "tu",
 				"segmentation": "-d-o",
 				"morphTag": "d-2A.SG",
 				"sources": [
@@ -12068,7 +12052,7 @@
 				]
 			},
 			{
-				"surfaceForm": "du",
+				"surfaceForm": "tu",
 				"segmentation": "-d-o",
 				"morphTag": "d-MOD.PAT",
 				"sources": [
@@ -12078,7 +12062,7 @@
 				]
 			},
 			{
-				"surfaceForm": "du",
+				"surfaceForm": "tu",
 				"segmentation": "-d-u",
 				"morphTag": "d-MED",
 				"sources": [
@@ -12088,9 +12072,9 @@
 				]
 			}
 		],
-		"uballa": [
+		"upalla": [
 			{
-				"surfaceForm": "uballa",
+				"surfaceForm": "upalla",
 				"segmentation": "-u-a=lla",
 				"morphTag": "MED-3A.SG=3PL.ABS",
 				"sources": [
@@ -12098,9 +12082,9 @@
 				]
 			}
 		],
-		"uġa": [
+		"uḫa": [
 			{
-				"surfaceForm": "uġa",
+				"surfaceForm": "uḫa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-3A.SG",
 				"sources": [
@@ -12111,7 +12095,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uġa",
+				"surfaceForm": "uḫa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-INT",
 				"sources": [
@@ -12122,7 +12106,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uġa",
+				"surfaceForm": "uḫa",
 				"segmentation": "-oġ-a",
 				"morphTag": "oġ-INT.IMP",
 				"sources": [
@@ -12130,9 +12114,9 @@
 				]
 			}
 		],
-		"aulda": [
+		"aulta": [
 			{
-				"surfaceForm": "aulda",
+				"surfaceForm": "aulta",
 				"segmentation": "-aʾ-ol-d-a",
 				"morphTag": "aʾ-ol-PL.A-3A",
 				"sources": [
@@ -12150,9 +12134,9 @@
 				]
 			}
 		],
-		"ugara": [
+		"ukara": [
 			{
-				"surfaceForm": "ugara",
+				"surfaceForm": "ukara",
 				"segmentation": "-ugar-a",
 				"morphTag": "RECIP-3A.SG",
 				"sources": [
@@ -12160,7 +12144,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ugara",
+				"surfaceForm": "ukara",
 				"segmentation": "-ugar-a",
 				"morphTag": "RECIP-INT",
 				"sources": [
@@ -12178,9 +12162,9 @@
 				]
 			}
 		],
-		"ba": [
+		"pa": [
 			{
-				"surfaceForm": "ba",
+				"surfaceForm": "pa",
 				"segmentation": "-b-a",
 				"morphTag": "b-INT",
 				"sources": [
@@ -12198,9 +12182,9 @@
 				]
 			}
 		],
-		"anuž": [
+		"anuš": [
 			{
-				"surfaceForm": "anuž",
+				"surfaceForm": "anuš",
 				"segmentation": "-an-o-ež",
 				"morphTag": "an-MOD.PAT-OPT",
 				"sources": [
@@ -12208,9 +12192,9 @@
 				]
 			}
 		],
-		"ulaballa": [
+		"ulapalla": [
 			{
-				"surfaceForm": "ulaballa",
+				"surfaceForm": "ulapalla",
 				"segmentation": "-ol-a-b-a=lla",
 				"morphTag": "ol-INT-b-EPNTH=3PL.ABS",
 				"sources": [
@@ -12228,9 +12212,9 @@
 				]
 			}
 		],
-		"uštabal": [
+		"uštapal": [
 			{
-				"surfaceForm": "uštabal",
+				"surfaceForm": "uštapal",
 				"segmentation": "-ošt-a-b-a=l",
 				"morphTag": "RES-INT-b-EPNTH=3PL.ABS",
 				"sources": [
@@ -12238,9 +12222,9 @@
 				]
 			}
 		],
-		"uštugariža": [
+		"uštukariša": [
 			{
-				"surfaceForm": "uštugariža",
+				"surfaceForm": "uštukariša",
 				"segmentation": "-ošt-ugar-iž-a",
 				"morphTag": "RES-RECIP-iž-3A.SG",
 				"sources": [
@@ -12274,9 +12258,9 @@
 				]
 			}
 		],
-		"aštuž": [
+		"aštuš": [
 			{
-				"surfaceForm": "aštuž",
+				"surfaceForm": "aštuš",
 				"segmentation": "-ašt-o-ež",
 				"morphTag": "RES-MOD.PAT-OPT",
 				"sources": [
@@ -12284,9 +12268,9 @@
 				]
 			}
 		],
-		"aldum": [
+		"altum": [
 			{
-				"surfaceForm": "aldum",
+				"surfaceForm": "altum",
 				"segmentation": "-al-d-o-m",
 				"morphTag": "al-d-TR.PFV-3A.SG",
 				"sources": [
@@ -12294,9 +12278,9 @@
 				]
 			}
 		],
-		"duži": [
+		"tuši": [
 			{
-				"surfaceForm": "duži",
+				"surfaceForm": "tuši",
 				"segmentation": "-d-ož-i",
 				"morphTag": "d-PST-ANTIP",
 				"sources": [
@@ -12324,9 +12308,9 @@
 				]
 			}
 		],
-		"uštab": [
+		"uštap": [
 			{
-				"surfaceForm": "uštab",
+				"surfaceForm": "uštap",
 				"segmentation": "-ošt-aw",
 				"morphTag": "RES-1A.SG",
 				"sources": [
@@ -12334,7 +12318,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uštab",
+				"surfaceForm": "uštap",
 				"segmentation": "-ušt-a-b",
 				"morphTag": "RES-INT-b",
 				"sources": [
@@ -12342,7 +12326,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uštab",
+				"surfaceForm": "uštap",
 				"segmentation": "-ušt-aw",
 				"morphTag": "RES-1A.SG",
 				"sources": [
@@ -12350,9 +12334,9 @@
 				]
 			}
 		],
-		"ulub": [
+		"ulup": [
 			{
-				"surfaceForm": "ulub",
+				"surfaceForm": "ulup",
 				"segmentation": "-ol-o-m",
 				"morphTag": "ol-TR.PFV-3A.SG",
 				"sources": [
@@ -12370,9 +12354,9 @@
 				]
 			}
 		],
-		"ulilida": [
+		"ulilita": [
 			{
-				"surfaceForm": "ulilida",
+				"surfaceForm": "ulilita",
 				"segmentation": "-ol-il-ed-a",
 				"morphTag": "ol-il-FUT-3A.SG",
 				"sources": [
@@ -12402,9 +12386,9 @@
 				]
 			}
 		],
-		"uluža": [
+		"uluša": [
 			{
-				"surfaceForm": "uluža",
+				"surfaceForm": "uluša",
 				"segmentation": "-ol-ož-a",
 				"morphTag": "ol-PST-3A.SG",
 				"sources": [
@@ -12443,9 +12427,9 @@
 				]
 			}
 		],
-		"i(-)ḫaduldašši": [
+		"i(-)ḫatultašši": [
 			{
-				"surfaceForm": "i(-)ḫaduldašši",
+				"surfaceForm": "i(-)ḫatultašši",
 				"segmentation": "-iġ-ad-ol-d-a-šše",
 				"morphTag": "iġ-ad-ol-PL.A-3A-NMLZ.ABS",
 				"sources": [
@@ -12453,9 +12437,9 @@
 				]
 			}
 		],
-		"uldašši": [
+		"ultašši": [
 			{
-				"surfaceForm": "uldašši",
+				"surfaceForm": "ultašši",
 				"segmentation": "-ol-d-a-šše",
 				"morphTag": "ol-PL.A-3A-NMLZ.ABS",
 				"sources": [
@@ -12540,9 +12524,9 @@
 				]
 			}
 		],
-		"ažib": [
+		"ašip": [
 			{
-				"surfaceForm": "ažib",
+				"surfaceForm": "ašip",
 				"segmentation": "-až-i-b",
 				"morphTag": "až-ANTIP-b",
 				"sources": [
@@ -12551,9 +12535,9 @@
 				]
 			}
 		],
-		"ištab": [
+		"ištap": [
 			{
-				"surfaceForm": "ištab",
+				"surfaceForm": "ištap",
 				"segmentation": "-išt-a-b",
 				"morphTag": "RES-INT-b",
 				"sources": [
@@ -12561,9 +12545,9 @@
 				]
 			}
 		],
-		"ištub": [
+		"ištup": [
 			{
-				"surfaceForm": "ištub",
+				"surfaceForm": "ištup",
 				"segmentation": "-išt-o-m",
 				"morphTag": "RES-TR.PFV-3A.SG",
 				"sources": [
@@ -12571,9 +12555,9 @@
 				]
 			}
 		],
-		"užum": [
+		"ušum": [
 			{
-				"surfaceForm": "užum",
+				"surfaceForm": "ušum",
 				"segmentation": "-ož-o-m",
 				"morphTag": "ož-TR.PFV-3A.SG",
 				"sources": [
@@ -12609,9 +12593,9 @@
 				]
 			}
 		],
-		"aġum": [
+		"aḫum": [
 			{
-				"surfaceForm": "aġum",
+				"surfaceForm": "aḫum",
 				"segmentation": "-aġ-o-m",
 				"morphTag": "aġ-TR.PFV-3A.SG",
 				"sources": [
@@ -12630,9 +12614,9 @@
 				]
 			}
 		],
-		"iab": [
+		"iap": [
 			{
-				"surfaceForm": "iab",
+				"surfaceForm": "iap",
 				"segmentation": "-i-a=m",
 				"morphTag": "TR-3A.SG=CON",
 				"sources": [
@@ -12641,9 +12625,9 @@
 				]
 			}
 		],
-		"ištidi": [
+		"ištiti": [
 			{
-				"surfaceForm": "ištidi",
+				"surfaceForm": "ištiti",
 				"segmentation": "-išt-ed-i",
 				"morphTag": "RES-FUT-ANTIP",
 				"sources": [
@@ -12661,9 +12645,9 @@
 				]
 			}
 		],
-		"ibadai": [
+		"ipatai": [
 			{
-				"surfaceForm": "ibadai",
+				"surfaceForm": "ipatai",
 				"segmentation": "-i-vade-ae",
 				"morphTag": "AG-ADJ.NEG-INS",
 				"sources": [
@@ -12672,9 +12656,9 @@
 				]
 			}
 		],
-		"užudam": [
+		"ušutam": [
 			{
-				"surfaceForm": "užudam",
+				"surfaceForm": "ušutam",
 				"segmentation": "-ož-ud-a=m",
 				"morphTag": "ož-ud-INT=2SG.ABS",
 				"sources": [
@@ -12683,9 +12667,9 @@
 				]
 			}
 		],
-		"uližanna": [
+		"ulišanna": [
 			{
-				"surfaceForm": "uližanna",
+				"surfaceForm": "ulišanna",
 				"segmentation": "-ol-iž-a=nna",
 				"morphTag": "ol-iž-3A.SG=3SG.ABS",
 				"sources": [
@@ -12693,7 +12677,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uližanna",
+				"surfaceForm": "ulišanna",
 				"segmentation": "-ol-iž-a=nna",
 				"morphTag": "ol-iž-INT=3SG.ABS",
 				"sources": [
@@ -12701,9 +12685,9 @@
 				]
 			}
 		],
-		"dib": [
+		"tip": [
 			{
-				"surfaceForm": "dib",
+				"surfaceForm": "tip",
 				"segmentation": "-d-i-b",
 				"morphTag": "d-ANTIP-b",
 				"sources": [
@@ -12760,9 +12744,9 @@
 				]
 			}
 		],
-		"ibadi": [
+		"ipati": [
 			{
-				"surfaceForm": "ibadi",
+				"surfaceForm": "ipati",
 				"segmentation": "-i-vade",
 				"morphTag": "AG-ADJ.NEG.ABS",
 				"sources": [
@@ -12807,9 +12791,9 @@
 				]
 			}
 		],
-		"adib": [
+		"atip": [
 			{
-				"surfaceForm": "adib",
+				"surfaceForm": "atip",
 				"segmentation": "-ad-i-b",
 				"morphTag": "ad-ANTIP-b",
 				"sources": [
@@ -12817,9 +12801,9 @@
 				]
 			}
 		],
-		"aduppu": [
+		"atuppu": [
 			{
-				"surfaceForm": "aduppu",
+				"surfaceForm": "atuppu",
 				"segmentation": "-ad-uffu",
 				"morphTag": "ad-1A.SG.NEG",
 				"sources": [
@@ -12827,9 +12811,9 @@
 				]
 			}
 		],
-		"adužilai": [
+		"atušilai": [
 			{
-				"surfaceForm": "adužilai",
+				"surfaceForm": "atušilai",
 				"segmentation": "-ad-ož-i-l-ai",
 				"morphTag": "ad-ož-MOD.AG-l-PURP",
 				"sources": [
@@ -12837,9 +12821,9 @@
 				]
 			}
 		],
-		"adu": [
+		"atu": [
 			{
-				"surfaceForm": "adu",
+				"surfaceForm": "atu",
 				"segmentation": "-ad-o",
 				"morphTag": "ad-MOD.PAT",
 				"sources": [
@@ -12847,7 +12831,7 @@
 				]
 			},
 			{
-				"surfaceForm": "adu",
+				"surfaceForm": "atu",
 				"segmentation": "-ad-u",
 				"morphTag": "ad-MED",
 				"sources": [
@@ -12895,9 +12879,9 @@
 				]
 			}
 		],
-		"indain": [
+		"intain": [
 			{
-				"surfaceForm": "indain",
+				"surfaceForm": "intain",
 				"segmentation": "-ind-i-ai-n",
 				"morphTag": "PL.A-MOD.AG-PURP-n",
 				"sources": [
@@ -12905,7 +12889,7 @@
 				]
 			},
 			{
-				"surfaceForm": "indain",
+				"surfaceForm": "intain",
 				"segmentation": "-ind-i-ai=n",
 				"morphTag": "PL.A-MOD.AG-PURP=3SG.ABS",
 				"sources": [
@@ -12913,7 +12897,7 @@
 				]
 			},
 			{
-				"surfaceForm": "indain",
+				"surfaceForm": "intain",
 				"segmentation": "-ind-i-ai=n",
 				"morphTag": "PL.A-MOD.AG-PURP=CON",
 				"sources": [
@@ -12921,9 +12905,9 @@
 				]
 			}
 		],
-		"adilaib": [
+		"atilaip": [
 			{
-				"surfaceForm": "adilaib",
+				"surfaceForm": "atilaip",
 				"segmentation": "-ad-i-l-ai=v",
 				"morphTag": "ad-MOD.AG-l-PURP=2PL.ABS",
 				"sources": [
@@ -12931,9 +12915,9 @@
 				]
 			}
 		],
-		"užudamma": [
+		"ušutamma": [
 			{
-				"surfaceForm": "užudamma",
+				"surfaceForm": "ušutamma",
 				"segmentation": "-ož-ud-a=mma",
 				"morphTag": "ož-ud-INT=2SG.ABS",
 				"sources": [
@@ -12941,9 +12925,9 @@
 				]
 			}
 		],
-		"anab": [
+		"anap": [
 			{
-				"surfaceForm": "anab",
+				"surfaceForm": "anap",
 				"segmentation": "-an-a-b",
 				"morphTag": "an-INT-b",
 				"sources": [
@@ -12981,9 +12965,9 @@
 				]
 			}
 		],
-		"užillain": [
+		"ušillain": [
 			{
-				"surfaceForm": "užillain",
+				"surfaceForm": "ušillain",
 				"segmentation": "-ož-ill-i-ai-n",
 				"morphTag": "ož-ill-MOD.AG-PURP-n",
 				"sources": [
@@ -12991,7 +12975,7 @@
 				]
 			},
 			{
-				"surfaceForm": "užillain",
+				"surfaceForm": "ušillain",
 				"segmentation": "-ož-ill-i-ai=n",
 				"morphTag": "ož-ill-MOD.AG-PURP=3SG.ABS",
 				"sources": [
@@ -12999,9 +12983,9 @@
 				]
 			}
 		],
-		"uġidi": [
+		"uḫiti": [
 			{
-				"surfaceForm": "uġidi",
+				"surfaceForm": "uḫiti",
 				"segmentation": "-oġ-ed-i",
 				"morphTag": "oġ-FUT-ANTIP",
 				"sources": [
@@ -13009,9 +12993,9 @@
 				]
 			}
 		],
-		"allidašši": [
+		"allitašši": [
 			{
-				"surfaceForm": "allidašši",
+				"surfaceForm": "allitašši",
 				"segmentation": "-all-ed-a-šše",
 				"morphTag": "all-FUT-3A.SG-NMLZ.ABS",
 				"sources": [
@@ -13019,9 +13003,9 @@
 				]
 			}
 		],
-		"andu": [
+		"antu": [
 			{
-				"surfaceForm": "andu",
+				"surfaceForm": "antu",
 				"segmentation": "-an-id-o",
 				"morphTag": "CAUS-PL.A-TR.PFV",
 				"sources": [
@@ -13029,7 +13013,7 @@
 				]
 			},
 			{
-				"surfaceForm": "andu",
+				"surfaceForm": "antu",
 				"segmentation": "-an-id-o",
 				"morphTag": "an-PL.A-TR.PFV",
 				"sources": [
@@ -13037,9 +13021,9 @@
 				]
 			}
 		],
-		"anidu": [
+		"anitu": [
 			{
-				"surfaceForm": "anidu",
+				"surfaceForm": "anitu",
 				"segmentation": "-an-id-o",
 				"morphTag": "CAUS-PL.A-TR.PFV",
 				"sources": [
@@ -13047,7 +13031,7 @@
 				]
 			},
 			{
-				"surfaceForm": "anidu",
+				"surfaceForm": "anitu",
 				"segmentation": "-an-id-o",
 				"morphTag": "an-PL.A-TR.PFV",
 				"sources": [
@@ -13055,9 +13039,9 @@
 				]
 			}
 		],
-		"adil": [
+		"atil": [
 			{
-				"surfaceForm": "adil",
+				"surfaceForm": "atil",
 				"segmentation": "-a=dil",
 				"morphTag": "INT=1PL.ABS",
 				"sources": [
@@ -13101,9 +13085,9 @@
 				]
 			}
 		],
-		"ibadan": [
+		"ipatan": [
 			{
-				"surfaceForm": "ibadan",
+				"surfaceForm": "ipatan",
 				"segmentation": "-i-eva=d=an",
 				"morphTag": "MOD.AG-POT=1SG.ABS=CON",
 				"sources": [
@@ -13111,9 +13095,9 @@
 				]
 			}
 		],
-		"ibatta": [
+		"ipatta": [
 			{
-				"surfaceForm": "ibatta",
+				"surfaceForm": "ipatta",
 				"segmentation": "-i-eva=tta",
 				"morphTag": "MOD.AG-POT=1SG.ABS",
 				"sources": [
@@ -13131,9 +13115,9 @@
 				]
 			}
 		],
-		"anidi": [
+		"aniti": [
 			{
-				"surfaceForm": "anidi",
+				"surfaceForm": "aniti",
 				"segmentation": "-an-ed-i",
 				"morphTag": "an-FUT-ANTIP",
 				"sources": [
@@ -13141,9 +13125,9 @@
 				]
 			}
 		],
-		"idia": [
+		"itia": [
 			{
-				"surfaceForm": "idia",
+				"surfaceForm": "itia",
 				"segmentation": "-ed-i-a",
 				"morphTag": "FUT-TR-3A.SG",
 				"sources": [
@@ -13151,9 +13135,9 @@
 				]
 			}
 		],
-		"urab": [
+		"urap": [
 			{
-				"surfaceForm": "urab",
+				"surfaceForm": "urap",
 				"segmentation": "-ur-a-b",
 				"morphTag": "ur-INT-b",
 				"sources": [
@@ -13189,9 +13173,9 @@
 				]
 			}
 		],
-		"ribaž": [
+		"ripaš": [
 			{
-				"surfaceForm": "ribaž",
+				"surfaceForm": "ripaš",
 				"segmentation": "-i-l-eva-ž",
 				"morphTag": "MOD.AG-l-POT-ž",
 				"sources": [
@@ -13199,17 +13183,15 @@
 				]
 			}
 		],
-		"aštidda": [
+		"aštitta": [
 			{
-				"surfaceForm": "aštidda",
+				"surfaceForm": "aštitta",
 				"segmentation": "-ašt-ed-d-a",
 				"morphTag": "RES-FUT-PL.A-3A",
 				"sources": [
 					"āġaštetta @ aʾ-ašt-ed-d-a @ u.B."
 				]
-			}
-		],
-		"aštitta": [
+			},
 			{
 				"surfaceForm": "aštitta",
 				"segmentation": "-ašt-i=tta",
@@ -13219,9 +13201,9 @@
 				]
 			}
 		],
-		"a(-)nudum": [
+		"a(-)nutum": [
 			{
-				"surfaceForm": "a(-)nudum",
+				"surfaceForm": "a(-)nutum",
 				"segmentation": "-an-ud-o-m",
 				"morphTag": "an-NEG-TR.PFV-3A.SG",
 				"sources": [
@@ -13229,9 +13211,9 @@
 				]
 			}
 		],
-		"aižal": [
+		"aišal": [
 			{
-				"surfaceForm": "aižal",
+				"surfaceForm": "aišal",
 				"segmentation": "-i-ai-ž-a=l",
 				"morphTag": "MOD.AG-PURP-ž-EPNTH=3PL.ABS",
 				"sources": [
@@ -13239,9 +13221,9 @@
 				]
 			}
 		],
-		"aniba": [
+		"anipa": [
 			{
-				"surfaceForm": "aniba",
+				"surfaceForm": "anipa",
 				"segmentation": "-an-i-eva",
 				"morphTag": "an-MOD.AG-POT",
 				"sources": [
@@ -13249,9 +13231,9 @@
 				]
 			}
 		],
-		"dukku": [
+		"tukku": [
 			{
-				"surfaceForm": "dukku",
+				"surfaceForm": "tukku",
 				"segmentation": "-d-o-kko",
 				"morphTag": "d-INT-NEG",
 				"sources": [
@@ -13259,9 +13241,9 @@
 				]
 			}
 		],
-		"udulidašši": [
+		"utulitašši": [
 			{
-				"surfaceForm": "udulidašši",
+				"surfaceForm": "utulitašši",
 				"segmentation": "-ud-ol-ed-a-šše",
 				"morphTag": "ud-ol-FUT-3A.SG-NMLZ.ABS",
 				"sources": [
@@ -13307,9 +13289,9 @@
 				]
 			}
 		],
-		"iba": [
+		"ipa": [
 			{
-				"surfaceForm": "iba",
+				"surfaceForm": "ipa",
 				"segmentation": "-i-eva",
 				"morphTag": "MOD.AG-POT",
 				"sources": [
@@ -13361,9 +13343,9 @@
 				]
 			}
 		],
-		"užida": [
+		"ušita": [
 			{
-				"surfaceForm": "užida",
+				"surfaceForm": "ušita",
 				"segmentation": "-ož-ed-a",
 				"morphTag": "ož-FUT-3A.SG",
 				"sources": [
@@ -13371,9 +13353,9 @@
 				]
 			}
 		],
-		"ulidu": [
+		"ulitu": [
 			{
-				"surfaceForm": "ulidu",
+				"surfaceForm": "ulitu",
 				"segmentation": "-ol-id-o",
 				"morphTag": "ol-PL.A-TR.PFV",
 				"sources": [
@@ -13392,9 +13374,9 @@
 				]
 			}
 		],
-		"ulida": [
+		"ulita": [
 			{
-				"surfaceForm": "ulida",
+				"surfaceForm": "ulita",
 				"segmentation": "-ol-ed-a",
 				"morphTag": "ol-FUT-3A.SG",
 				"sources": [
@@ -13412,9 +13394,9 @@
 				]
 			}
 		],
-		"aġugarilla": [
+		"aḫukarilla": [
 			{
-				"surfaceForm": "aġugarilla",
+				"surfaceForm": "aḫukarilla",
 				"segmentation": "-aġ-ugar-i=lla",
 				"morphTag": "aġ-RECIP-ANTIP=3PL.ABS",
 				"sources": [
@@ -13422,9 +13404,9 @@
 				]
 			}
 		],
-		"danurum": [
+		"tanurum": [
 			{
-				"surfaceForm": "danurum",
+				"surfaceForm": "tanurum",
 				"segmentation": "-d-an-ur-o-m",
 				"morphTag": "d-an-ur-TR.PFV-3A.SG",
 				"sources": [
@@ -13442,9 +13424,9 @@
 				]
 			}
 		],
-		"aġi": [
+		"aḫi": [
 			{
-				"surfaceForm": "aġi",
+				"surfaceForm": "aḫi",
 				"segmentation": "-aġ-i",
 				"morphTag": "aġ-ANTIP",
 				"sources": [
@@ -13452,9 +13434,9 @@
 				]
 			}
 		],
-		"uribain": [
+		"uripain": [
 			{
-				"surfaceForm": "uribain",
+				"surfaceForm": "uripain",
 				"segmentation": "-ur-i-va-en",
 				"morphTag": "ur-MOD.AG-NEG-3JUSS",
 				"sources": [
@@ -13462,9 +13444,9 @@
 				]
 			}
 		],
-		"idawul": [
+		"itawul": [
 			{
-				"surfaceForm": "idawul",
+				"surfaceForm": "itawul",
 				"segmentation": "-ed-aw=l",
 				"morphTag": "FUT-1A.SG=3PL.ABS",
 				"sources": [
@@ -13502,9 +13484,9 @@
 				]
 			}
 		],
-		"didum": [
+		"titum": [
 			{
-				"surfaceForm": "didum",
+				"surfaceForm": "titum",
 				"segmentation": "-d-id-o=m",
 				"morphTag": "d-PL.A-TR.PFV=2SG.ABS",
 				"sources": [
@@ -13512,7 +13494,7 @@
 				]
 			},
 			{
-				"surfaceForm": "didum",
+				"surfaceForm": "titum",
 				"segmentation": "-d-id-o=m",
 				"morphTag": "d-PL.A-TR.PFV=CON",
 				"sources": [
@@ -13530,9 +13512,9 @@
 				]
 			}
 		],
-		"alidin": [
+		"alitin": [
 			{
-				"surfaceForm": "alidin",
+				"surfaceForm": "alitin",
 				"segmentation": "-al-id-en",
 				"morphTag": "al-PL.A-3JUSS",
 				"sources": [
@@ -13558,9 +13540,9 @@
 				]
 			}
 		],
-		"udiž": [
+		"utiš": [
 			{
-				"surfaceForm": "udiž",
+				"surfaceForm": "utiš",
 				"segmentation": "-ud-i-ež",
 				"morphTag": "NEG-MOD.AG-OPT",
 				"sources": [
@@ -13586,9 +13568,9 @@
 				]
 			}
 		],
-		"uštiiž": [
+		"uštiiš": [
 			{
-				"surfaceForm": "uštiiž",
+				"surfaceForm": "uštiiš",
 				"segmentation": "-ošt-i-ež",
 				"morphTag": "RES-MOD.AG-OPT",
 				"sources": [
@@ -13606,16 +13588,6 @@
 				]
 			}
 		],
-		"ta": [
-			{
-				"surfaceForm": "ta",
-				"segmentation": "-d-a",
-				"morphTag": "d-INT",
-				"sources": [
-					"šūpta @ šūp-d-a @ u.B."
-				]
-			}
-		],
 		"anni": [
 			{
 				"surfaceForm": "anni",
@@ -13626,9 +13598,9 @@
 				]
 			}
 		],
-		"arudanam": [
+		"arutanam": [
 			{
-				"surfaceForm": "arudanam",
+				"surfaceForm": "arutanam",
 				"segmentation": "-ar-u-d-a=n=m",
 				"morphTag": "ITER-MED-PL.A-3A=3SG.ABS=CON",
 				"sources": [
@@ -13636,9 +13608,9 @@
 				]
 			}
 		],
-		"uluštib": [
+		"uluštip": [
 			{
-				"surfaceForm": "uluštib",
+				"surfaceForm": "uluštip",
 				"segmentation": "-ul-ušt-i-b",
 				"morphTag": "ul-RES-ANTIP-b",
 				"sources": [
@@ -13646,7 +13618,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uluštib",
+				"surfaceForm": "uluštip",
 				"segmentation": "-ul-ušt-i=m",
 				"morphTag": "ul-RES-ANTIP=2SG.ABS",
 				"sources": [
@@ -13654,7 +13626,7 @@
 				]
 			},
 			{
-				"surfaceForm": "uluštib",
+				"surfaceForm": "uluštip",
 				"segmentation": "-ul-ušt-i=m",
 				"morphTag": "ul-RES-TR.IMP=2SG.ABS",
 				"sources": [
@@ -13662,9 +13634,9 @@
 				]
 			}
 		],
-		"umaššiniba": [
+		"umaššinipa": [
 			{
-				"surfaceForm": "umaššiniba",
+				"surfaceForm": "umaššinipa",
 				"segmentation": "-o-m-ašše-ne-va",
 				"morphTag": "TR.PFV-3A.SG-NMLZ-RELAT.SG-DAT",
 				"sources": [
@@ -13673,9 +13645,9 @@
 				]
 			}
 		],
-		"užamma": [
+		"ušamma": [
 			{
-				"surfaceForm": "užamma",
+				"surfaceForm": "ušamma",
 				"segmentation": "-ož-a=mma",
 				"morphTag": "PST-3A.SG=2SG.ABS",
 				"sources": [
@@ -13683,7 +13655,7 @@
 				]
 			},
 			{
-				"surfaceForm": "užamma",
+				"surfaceForm": "ušamma",
 				"segmentation": "-ož-a=mma",
 				"morphTag": "PST-3A.SG=CON",
 				"sources": [
@@ -13701,9 +13673,9 @@
 				]
 			}
 		],
-		"ulillandu": [
+		"ulillantu": [
 			{
-				"surfaceForm": "ulillandu",
+				"surfaceForm": "ulillantu",
 				"segmentation": "-ol-ill-and-o",
 				"morphTag": "ol-ill-PL.A-MOD.PAT",
 				"sources": [
@@ -13721,9 +13693,9 @@
 				]
 			}
 		],
-		"ažilaum": [
+		"ašilaum": [
 			{
-				"surfaceForm": "ažilaum",
+				"surfaceForm": "ašilaum",
 				"segmentation": "-až-il-aw=m",
 				"morphTag": "až-il-1A.SG=2SG.ABS",
 				"sources": [
@@ -13820,9 +13792,9 @@
 				]
 			}
 		],
-		"aġilla": [
+		"aḫilla": [
 			{
-				"surfaceForm": "aġilla",
+				"surfaceForm": "aḫilla",
 				"segmentation": "-aġ-i=lla",
 				"morphTag": "aġ-ANTIP=3PL.ABS",
 				"sources": [
@@ -13830,9 +13802,9 @@
 				]
 			}
 		],
-		"ullada": [
+		"ullata": [
 			{
-				"surfaceForm": "ullada",
+				"surfaceForm": "ullata",
 				"segmentation": "-oll-ad-a",
 				"morphTag": "oll-ad-3A.SG",
 				"sources": [
@@ -13840,7 +13812,7 @@
 				]
 			},
 			{
-				"surfaceForm": "ullada",
+				"surfaceForm": "ullata",
 				"segmentation": "-oll-ad-a",
 				"morphTag": "oll-ad-INT",
 				"sources": [
@@ -13848,9 +13820,9 @@
 				]
 			}
 		],
-		"idaw": [
+		"itaw": [
 			{
-				"surfaceForm": "idaw",
+				"surfaceForm": "itaw",
 				"segmentation": "-ed-aw",
 				"morphTag": "FUT-1A.SG",
 				"sources": [
@@ -13858,9 +13830,9 @@
 				]
 			}
 		],
-		"uriba": [
+		"uripa": [
 			{
-				"surfaceForm": "uriba",
+				"surfaceForm": "uripa",
 				"segmentation": "-ur-i-eva",
 				"morphTag": "ur-MOD.AG-POT",
 				"sources": [
@@ -13868,9 +13840,9 @@
 				]
 			}
 		],
-		"udi": [
+		"uti": [
 			{
-				"surfaceForm": "udi",
+				"surfaceForm": "uti",
 				"segmentation": "-ud-i",
 				"morphTag": "ud-ANTIP",
 				"sources": [
@@ -13878,7 +13850,7 @@
 				]
 			},
 			{
-				"surfaceForm": "udi",
+				"surfaceForm": "uti",
 				"segmentation": "-ud-i",
 				"morphTag": "ud-TR.IMP",
 				"sources": [
@@ -13904,9 +13876,9 @@
 				]
 			}
 		],
-		"iži": [
+		"iši": [
 			{
-				"surfaceForm": "iži",
+				"surfaceForm": "iši",
 				"segmentation": "-iž-i",
 				"morphTag": "iž-ANTIP",
 				"sources": [
@@ -13962,9 +13934,9 @@
 				]
 			}
 		],
-		"ažiliž": [
+		"ašiliš": [
 			{
-				"surfaceForm": "ažiliž",
+				"surfaceForm": "ašiliš",
 				"segmentation": "-až-i-l-ež",
 				"morphTag": "až-MOD.AG-l-OPT",
 				"sources": [
@@ -13972,9 +13944,9 @@
 				]
 			}
 		],
-		"idul": [
+		"itul": [
 			{
-				"surfaceForm": "idul",
+				"surfaceForm": "itul",
 				"segmentation": "-id-o=l",
 				"morphTag": "PL.A-TR.PFV=3PL.ABS",
 				"sources": [
@@ -14018,9 +13990,9 @@
 				]
 			}
 		],
-		"idimain": [
+		"itimain": [
 			{
-				"surfaceForm": "idimain",
+				"surfaceForm": "itimain",
 				"segmentation": "-i+m+ai-n",
 				"morphTag": "CVB-n",
 				"sources": [
@@ -14028,9 +14000,9 @@
 				]
 			}
 		],
-		"uġulidaan": [
+		"uḫulitaan": [
 			{
-				"surfaceForm": "uġulidaan",
+				"surfaceForm": "uḫulitaan",
 				"segmentation": "-oġ-ol-ed-a=an",
 				"morphTag": "oġ-ol-FUT-3A.SG=CON",
 				"sources": [
@@ -14038,9 +14010,9 @@
 				]
 			}
 		],
-		"uġulidan": [
+		"uḫulitan": [
 			{
-				"surfaceForm": "uġulidan",
+				"surfaceForm": "uḫulitan",
 				"segmentation": "-oġ-ol-ed-a=n",
 				"morphTag": "oġ-ol-FUT-3A.SG=3SG.ABS",
 				"sources": [
@@ -14048,9 +14020,9 @@
 				]
 			}
 		],
-		"ulidaan": [
+		"ulitaan": [
 			{
-				"surfaceForm": "ulidaan",
+				"surfaceForm": "ulitaan",
 				"segmentation": "-ol-ed-a=an",
 				"morphTag": "ol-FUT-3A.SG=CON",
 				"sources": [
@@ -14058,9 +14030,9 @@
 				]
 			}
 		],
-		"ulidan": [
+		"ulitan": [
 			{
-				"surfaceForm": "ulidan",
+				"surfaceForm": "ulitan",
 				"segmentation": "-ol-ed-a=n",
 				"morphTag": "ol-FUT-3A.SG=3SG.ABS",
 				"sources": [
@@ -14086,9 +14058,9 @@
 				]
 			}
 		],
-		"idan": [
+		"itan": [
 			{
-				"surfaceForm": "idan",
+				"surfaceForm": "itan",
 				"segmentation": "-id-en",
 				"morphTag": "PL.A-3JUSS",
 				"sources": [
@@ -14143,16 +14115,6 @@
 				"morphTag": "FACT-ANTIP",
 				"sources": [
 					"ḫōrāmi @ ḫōr-am-i @ u.B."
-				]
-			}
-		],
-		"idum": [
-			{
-				"surfaceForm": "idum",
-				"segmentation": "-id-o=m",
-				"morphTag": "PL.A-TR.PFV=2SG.ABS",
-				"sources": [
-					"ḫōttum @ ḫōd-id-o=m @ beten; preisen; segnen"
 				]
 			}
 		],
