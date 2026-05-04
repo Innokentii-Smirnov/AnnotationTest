@@ -898,7 +898,7 @@
 <w trans="TI-RA-NU" mrp1="TIRANU @ Darmwindungen @ @ noun @ "><aGr>TI-RA-NU</aGr></w>
 <w trans="UP-NI" mrp1="UP-NI @ @ .ABS @ noun @ " mrp2="UP-NI @ @ .ABS @ ADJ @ " mrp3="UP-NI @ @ .ABS @ verb @ "><aGr>UP-NI</aGr></w>
 <w trans="¬¬¬" mrp1="¬¬¬ @ @ .ABS @ noun @ " mrp2="¬¬¬ @ @ .ABS @ ADJ @ " mrp3="¬¬¬ @ @ .ABS @ verb @ "><aGr>¬¬¬</aGr></w>
-<w trans="Ù" mrp1="Ù@@@@" firstAnalysisIsPlaceholder="true"><aGr>Ù</aGr></w>
+<w trans="Ù" mrp1="Ù@@@@"><aGr>Ù</aGr></w>
 <w trans="Ú-UL-finēma" mrp1="Ú-UL-finē=ma @ @ =CON @ noun @ " mrp2="Ú-UL-finēm-a @ @ INT @ verb @ "><aGr>Ú-UL</aGr>-wi<subscr c="i"/>-ne-e-ma</w>
 <w trans="ŠA" mrp1="ŠA @ @ .ABS @ noun @ " mrp2="ŠA @ @ .ABS @ ADJ @ " mrp3="ŠA @ @ .ABS @ verb @ "><aGr>ŠA</aGr></w>
 <w trans="ŠA IŠTAR" mrp1="ŠA IŠTAR @ @ .ABS @ noun @ " mrp2="ŠA IŠTAR @ @ .ABS @ ADJ @ " mrp3="ŠA IŠTAR @ @ .ABS @ verb @ "><aGr>ŠA</aGr> <d>D</d><aGr><laes_in/>IŠTAR</aGr></w>
@@ -912,7 +912,7 @@
 <w trans="ŠUM-an" mrp1="ŠUM-=an @ @ .ABS=CON @ noun @ " mrp2="ŠUM-a=n @ @ ESS=3SG.ABS @ noun @ " mrp3="ŠUM-a=an @ @ ESS=CON @ noun @ " mrp4="ŠUM-i-a=n @ @ 3POSS.SG-ESS=3SG.ABS @ noun @ " mrp5="ŠUM-a=an @ @ INT=CON @ verb @ " mrp6="ŠUM-a=n @ @ INT=3SG.ABS @ verb @ "><aGr>ŠUM</aGr>-an</w>
 <w trans="AN" mrp1="AN @ @ .ABS @ noun @ " mrp2="AN @ @ .ABS @ ADJ @ " mrp3="AN @ @ .ABS @ verb @ "><c type="sign"><laes_in/>AN</c><corr c="?"/><laes_fin/></w>
 <w trans="AN" mrp1="AN @ @ .ABS @ noun @ " mrp2="AN @ @ .ABS @ ADJ @ " mrp3="AN @ @ .ABS @ verb @ "><c type="sign"><laes_in/>AN<laes_fin/></c></w>
-<w trans="A" mrp1="A@@@@" firstAnalysisIsPlaceholder="true"><c type="sign">A</c></w>
+<w trans="A" mrp1="A@@@@"><c type="sign">A</c></w>
 <w trans="A[N" mrp1="A[N @ @ .ABS @ noun @ " mrp2="A[N @ @ .ABS @ ADJ @ " mrp3="A[N @ @ .ABS @ verb @ "><c type="sign">A<del_in/>N</c></w>
 <w trans="AN" mrp1="AN @ @ .ABS @ noun @ " mrp2="AN @ @ .ABS @ ADJ @ " mrp3="AN @ @ .ABS @ verb @ "><c type="sign">AN</c></w>
 <w trans="AN(-)[" mrp1="AN(-) @ @ .ABS @ noun @ " mrp2="AN(-) @ @ .ABS @ ADJ @ " mrp3="AN(-) @ @ .ABS @ verb @ "><c type="sign">AN</c>(-)<del_in/></w>
@@ -949,11 +949,11 @@
 <w trans="ḪARrāe(-)[" mrp1="ḪARrāe(-) @ @ .ABS @ noun @ " mrp2="ḪARrāe(-) @ @ .ABS @ ADJ @ " mrp3="ḪARrāe(-) @ @ .ABS @ verb @ "><c type="sign">ḪAR</c>-ra-a-e(-)<del_in/></w>
 <w trans="ḪARḫarunx["><c type="sign">ḪAR</c>-ḫa-ru-un-x<del_in/></w>
 <w trans="ḪI(-)[" mrp1="ḪI(-) @ @ .ABS @ noun @ " mrp2="ḪI(-) @ @ .ABS @ ADJ @ " mrp3="ḪI(-) @ @ .ABS @ verb @ "><c type="sign">ḪI</c>(-)<del_in/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><corr c="?"/></w>
+<w trans="" mrp1="@@@@"><corr c="?"/></w>
 <w trans="]" mrp1="a[ @ u.B. @ @ unclear @ "><corr c="?"/><del_fin/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><corr c="?"/><note c=" Der Paragraphenstrich ist nur am Zeilenanfang vorhanden. Möglicherweise handelt es sich um einen irrtümlich angesetzten Paragraphenstrich oder einen, der von der linken Kolumne herüberreicht." n="12"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><corr c="?"/><note c=" Unter den Zeichen &lt;SP_f_AO_3a_SIGN&gt;Ú&lt;/SP_f_AO_3a_SIGN&gt; und &lt;SP_f_AO_3a_SIGN&gt;KU&lt;/SP_f_AO_3a_SIGN&gt; ist eine dünne Linie zu erkennen. Sollte diese Linie keine Beschädigung, sondern absichtlich gezogen worden sein, wurde vielleicht ein fehlerhafter Paragraphenstrich gelöscht oder es wurde versucht, einen fehlenden Paragraphenstrich nachträglich anzugeben." n="8"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><corr c="sic"/></w>
+<w trans="" mrp1="@@@@"><corr c="?"/><note c=" Der Paragraphenstrich ist nur am Zeilenanfang vorhanden. Möglicherweise handelt es sich um einen irrtümlich angesetzten Paragraphenstrich oder einen, der von der linken Kolumne herüberreicht." n="12"/></w>
+<w trans="" mrp1="@@@@"><corr c="?"/><note c=" Unter den Zeichen &lt;SP_f_AO_3a_SIGN&gt;Ú&lt;/SP_f_AO_3a_SIGN&gt; und &lt;SP_f_AO_3a_SIGN&gt;KU&lt;/SP_f_AO_3a_SIGN&gt; ist eine dünne Linie zu erkennen. Sollte diese Linie keine Beschädigung, sondern absichtlich gezogen worden sein, wurde vielleicht ein fehlerhafter Paragraphenstrich gelöscht oder es wurde versucht, einen fehlenden Paragraphenstrich nachträglich anzugeben." n="8"/></w>
+<w trans="" mrp1="@@@@"><corr c="sic"/></w>
 <w trans="IŠTAR-kabina" mrp1="Šavoška-ve-na @ DN @ GEN-RELAT.PL.ABS @ noun @ "><d><del_in/>D</d><aGr>IŠTAR</aGr>-ga-pí-na</w>
 <w trans="10]uppa" mrp1="Teššob-va @ DN @ DAT @ noun @ "><d><del_in/>D</d><sGr>10<del_fin/></sGr>-up-pa</w>
 <w trans="engi]dal" mrp1="Engida-ž=l @ DN @ ERG=3PL.ABS @ noun @ "><d><del_in/>D</d>en-ki<del_fin/>-ta-al</w>
@@ -1018,7 +1018,7 @@
 <w trans="ḫatteni[b]ina" mrp1="ḫatte-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><d><laes_in/>URU<laes_fin/></d>ḫa-at-te-ni-<del_in/>p<del_fin/>í-na</w>
 <w trans="adani" mrp1="ad+ā+ni @ Schemel @ .ABS @ noun @ "><d><ras_in/>D<ras_fin/></d>a-da-ni</w>
 <w trans="kiš[ši(-)" mrp1="Kešše @ PN @ .ABS @ noun @ "><d><ras_in/>M<ras_fin/></d>ki-<laes_in/>iš<laes_fin/>-<del_in/>ši(-)</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>D</d></w>
+<w trans="" mrp1="@@@@"><d>D</d></w>
 <w trans="30(-)[" mrp1="Kužuġ @ DN @ .ABS @ noun @ " mrp2="Kužuġ-[ @ DN @ @ noun @ "><d>D</d>30(-)<del_in/></w>
 <w trans="]IŠTAR-ka" mrp1="Šavoška @ DN @ .ABS @ noun @ "><d>D</d><aGr><del_fin/>IŠTAR</aGr>-ga</w>
 <w trans="]É-A-a[n" mrp1="Ea=an @ DN @ .ABS=CON @ noun @ " mrp2="Ea=n @ DN @ .ABS=3SG.ABS @ noun @ "><d>D</d><aGr><del_fin/>É-A</aGr>-a<del_in/>n</w>
@@ -2082,7 +2082,7 @@
 <w trans="ḫe]batfen[a"><d>D</d>ḫé<del_fin/>-<laes_in/>pát<laes_fin/>-we<subscr c="e"/>-n<del_in/>a</w>
 <w trans="IŠTAR" mrp1="Šavoška @ DN @ @ noun @ "><d>D<del_fin/></d><aGr><laes_in/>IŠTAR<laes_fin/></aGr></w>
 <w trans="10-ub" mrp1="Teššob @ DN @ .ABS @ noun @ " mrp2="Teššob-až @ DN @ ERG @ noun @ "><d>D<del_fin/></d><sGr>10</sGr>-up</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>D<del_in/></d></w>
+<w trans="" mrp1="@@@@"><d>D<del_in/></d></w>
 <w trans="10-ub" mrp1="Teššob @ DN @ .ABS @ noun @ " mrp2="Teššob-až @ DN @ ERG @ noun @ "><d>D<laes_fin/></d><sGr>10</sGr>-up</w>
 <w trans="IŠ[KUR" mrp1="Teššob-[ @ DN @ @ noun @ "><d>D<laes_fin/></d><sGr>IŠ<del_in/>KUR</sGr>-</w>
 <w trans="šauška" mrp1="Šavoška @ DN @ .ABS @ noun @ "><d>D<laes_fin/></d>ša-uš-ga</w>
@@ -2097,7 +2097,7 @@
 <w trans="āġrušḫ[i"><d>DUG</d>a-aḫ-ru-uš-ḫ<del_in/>i</w>
 <w trans="āġrušḫi" mrp1="aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "><d>DUG</d>a-aḫ-ru-uš-ḫi</w>
 <w trans="aġrušḫi" mrp1="aġr+o+šḫe @ Räucherschale @ .ABS @ noun @ "><d>DUG</d>aḫ-ru-uš-ḫi</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>F</d></w>
+<w trans="" mrp1="@@@@"><d>F</d></w>
 <w trans="]šadand[uġeba(-)" mrp1="Šadando.Ḫeba @ PN @ @ noun @ "><d>F</d><corr c="?"/><del_fin/>ša-ta-an-d<del_in/>u<corr c="?"/>-ḫé<corr c="?"/>-pa<corr c="?"/>(-)</w>
 <w trans="]ažmunigalōnna" mrp1="Ažmo.Nigalō-nna @ PN @ EQU2 @ noun @ " mrp2="Ažmo.Nigalō=nna @ PN @ .ABS=3SG.ABS @ noun @ " mrp3="Ažmo.Nigalō-na @ PN @ RELAT.PL @ noun @ "><d>F</d><del_fin/>aš-mu-ni-ga-lu-u-un-na</w>
 <w trans="taduġeba[" mrp1="Tado.Ḫeba @ PN @ .ABS @ noun @ "><d>F</d><laes_in/>ta-du-ḫé<laes_fin/>-pa-<del_in/></w>
@@ -2241,7 +2241,7 @@
 <w trans="KÚR.KÚR-id" mrp1="KÚR.KÚR-i=d @ @ ANTIP=1SG.ABS @ verb @ "><d>L<del_fin/>Ú</d><sGr>KÚR.KÚR</sGr>-it</w>
 <w trans="KÚR-e" mrp1="torove @ Feind @ .ABS @ noun @ " mrp2="torove-ne-ve @ Feind @ RELAT.SG-GEN @ noun @ " mrp3="torove-ve @ Feind @ GEN @ noun @ "><d>L<del_fin/>Ú</d><sGr>KÚR</sGr>-e</w>
 <w trans="KÚR-nie" mrp1="torove-ne-ve @ Feind @ RELAT.SG-GEN @ noun @ "><d>L<del_fin/>Ú</d><sGr>KÚR</sGr>-ni<corr c="?"/>-e</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>L<del_in/>Ú</d></w>
+<w trans="" mrp1="@@@@"><d>L<del_in/>Ú</d></w>
 <w trans="SANGA" mrp1="SANGA @ @ .ABS @ noun @ " mrp2="SANGA @ @ .ABS @ ADJ @ " mrp3="SANGA @ @ .ABS @ verb @ "><d>L<del_in/>Ú</d><sGr>SANGA</sGr></w>
 <w trans="ŠU.GI-ra" mrp1="kevri-na @ Ältester @ RELAT.PL.ABS @ noun @ " mrp2="kevri-na-až-ora @ Ältester @ RELAT.PL-PL-COM @ noun @ "><d>LÚ.M<del_fin/>EŠ</d><sGr>ŠU.GI</sGr>-ra</w>
 <w trans="ŠU.G[I(-)" mrp1="kevri-na @ Ältester @ RELAT.PL.ABS @ noun @ " mrp2="kevri-na-[ @ Ältester @ RELAT.PL @ noun @ "><d>LÚ.MEŠ</d><sGr>ŠU.G<del_in/>I</sGr>(-)</w>
@@ -2410,9 +2410,9 @@
 <w trans="ḫaželdae" mrp1="ḫaž+il+di-ae @ u.B. @ INS @ noun @ "><d>M</d>ḫa-ši-el-ta-<laes_in/>e<laes_fin/></w>
 <w trans="ḫalba-LÚ-ebi" mrp1="Ḫalba.taġe-ve @ PN @ GEN @ noun @ "><d>M</d>ḫal-pa-<sGr>LÚ</sGr>-e-<ras_in/>pí</w>
 <w trans="ḫalba-LÚ-pinež" mrp1="ḫalba-LÚ-ve-ne-ž @ @ GEN-RELAT.SG-ERG @ noun @ "><d>M</d>ḫal-pa-<sGr>LÚ</sGr>-pí-ni-eš</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>M<del_fin/>EŠ</d></w>
+<w trans="" mrp1="@@@@"><d>M<del_fin/>EŠ</d></w>
 <w trans="nāža" mrp1="naž-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp2="naž-i-a @ u.B. @ TR-3A.SG @ verb @ "><d>M<del_fin/>EŠ</d>-na-a-<laes_in/>ša<laes_fin/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>M<del_fin/>EŠ</d><corr c="?"/><note c=" Oder &lt;SP_f_AO_3a_Hurrian&gt;&lt;del_fin/&gt;-eš&lt;/SP_f_AO_3a_Hurrian&gt;." n=""/></w>
+<w trans="" mrp1="@@@@"><d>M<del_fin/>EŠ</d><corr c="?"/><note c=" Oder &lt;SP_f_AO_3a_Hurrian&gt;&lt;del_fin/&gt;-eš&lt;/SP_f_AO_3a_Hurrian&gt;." n=""/></w>
 <w trans="na" mrp1="nā @ weiden @ .ABS @ verb @ "><d>MEŠ</d>-na</w>
 <w trans="ŠU.G[I" mrp1="ŠU.G[I @ @ .ABS @ noun @ " mrp2="ŠU.G[I @ @ .ABS @ ADJ @ " mrp3="ŠU.G[I @ @ .ABS @ verb @ "><d>MUNUS</d><sGr>ŠU.G<del_in/>I</sGr></w>
 <w trans="a[n" mrp1="an[ @ u.B. @ @ unclear @ "><d>MUNUS</d>a<del_in/>n<note c="Oder &lt;SP_f_AO_3a_Determ&gt;F&lt;/SP_f_AO_3a_Determ&gt;&lt;SP_f_AO_3a_Hurrian&gt;a&lt;del_in/&gt;n-&lt;/SP_f_AO_3a_Hurrian&gt;." n="1"/>-</w>
@@ -2421,7 +2421,7 @@
 <w trans="ZA.GÌN" mrp1="ZA.GÌN @ @ .ABS @ noun @ " mrp2="ZA.GÌN @ @ .ABS @ ADJ @ " mrp3="ZA.GÌN @ @ .ABS @ verb @ "><d>NA₄</d><sGr>ZA.GÌN</sGr></w>
 <w trans="ḫōla[" mrp1="ḫōla[ @ ein Stein @ @ noun @ "><d>NA₄</d>ḫu-u-la-<del_in/></w>
 <w trans="fōluli" mrp1="fōl-ol-i @ @ { a → ol-ANTIP} { b → ol-TR.IMP} @ verb @ "><d>PÚ</d>wu<subscr c="u"/>-u-lu-li</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true"><d>PÚ</d>x</w>
+<w trans="x" mrp1="x@@@@"><d>PÚ</d>x</w>
 <w trans="š[amura" mrp1="š[am-ur-a @ @ ur-INT @ verb @ "><d>PÚ</d>š<del_in/>a-mu-ra</w>
 <w trans="šamur[a"><d>PÚ</d>ša-mu-r<del_in/>a</w>
 <w trans="šamura" mrp1="šam-ur-a @ u.B. @ ur-INT @ verb @ "><d>PÚ</d>ša-mu-ra</w>
@@ -2431,7 +2431,7 @@
 <w trans="šabinuwabal" mrp1="Šabinuwa-va=l @ GN @ DAT=3PL.ABS @ noun @ " mrp2="Šabinuwa-v-a=l @ GN @ { a → 2POSS.SG-ESS=3PL.ABS} { b → 2POSS.SG.ABS-EPNTH=3PL.ABS} @ noun @ "><d>U<del_fin/>RU</d>ša-<ras_in/>pí<ras_fin/>-nu-wa-pa-al</w>
 <w trans="šana["><d>U<del_fin/>RU</d>ša-na-<del_in/></w>
 <w trans="ḫatten[i"><d>U<del_fin/>RU</d>ḫa-at-te-n<del_in/>i</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>U<del_in/>RU</d></w>
+<w trans="" mrp1="@@@@"><d>U<del_in/>RU</d></w>
 <w trans="ā]rrapḫini" mrp1="ā]rrapḫi-ne @ @ ABL/INS @ noun @ " mrp2="ā]rrapḫi-ne-e @ @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ " mrp3="ā]rrapḫi-ne-ž @ @ RELAT.SG-ERG @ noun @ " mrp4="ā]rrapḫi-ne-e @ @ RELAT.SG-DIR/LOC @ ADJ @ " mrp5="ā]rrapḫi-ne @ @ ABL/INS @ ADJ @ " mrp6="ā]rrapḫi-na @ @ RELAT.PL.ABS @ noun @ "><d>U<del_in/>RU</d>a-a<del_fin/>r-ra-ap-<ras_in/>ḫi<corr c="!"/>-ni<ras_fin/></w>
 <w trans="šamōġi" mrp1="šam-oġ-i @ u.B. @ oġ-ANTIP @ verb @ "><d>U<del_in/>RU</d>ša-mu-u-ḫi</w>
 <w trans="ḪA-AT-T[I" mrp1="ḪA-AT-T[I @ @ .ABS @ noun @ " mrp2="ḪA-AT-T[I @ @ .ABS @ ADJ @ " mrp3="ḪA-AT-T[I @ @ .ABS @ verb @ "><d>UR<del_fin/>U</d><aGr>ḪA-AT-T<del_in/>I</aGr></w>
@@ -2446,9 +2446,9 @@
 <w trans="šamōġaġina" mrp1="šamōġa-ġe-na @ @ ADJ-RELAT.PL.ABS @ noun @ "><d>UR<del_fin/>U</d>ša-mu-u-ḫa-ḫi-na</w>
 <w trans="ḫattenivena" mrp1="ḫatte-ne-ve-na @ @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ "><d>UR<del_fin/>U</d>ḫa-at-te-ni-we<subscr c="e"/>-na</w>
 <w trans="ḫattuġe" mrp1="ḫatt+o+ġe @ hethitisch; zu Ḫattuša gehörig @ .ABS @ ADJ @ "><d>UR<del_fin/>U</d>ḫa-at-tu-uḫ-e</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>UR<del_in/>U</d></w>
+<w trans="" mrp1="@@@@"><d>UR<del_in/>U</d></w>
 <w trans="]ārrapḫini" mrp1="]ārrapḫi-ne @ @ ABL/INS @ noun @ " mrp2="]ārrapḫi-ne-e @ @ { a → RELAT.SG-DIR/LOC} { b → ABL/INS-DIR/LOC} @ noun @ " mrp3="]ārrapḫi-ne-ž @ @ RELAT.SG-ERG @ noun @ " mrp4="]ārrapḫi-ne-e @ @ RELAT.SG-DIR/LOC @ ADJ @ " mrp5="]ārrapḫi-ne @ @ ABL/INS @ ADJ @ " mrp6="]ārrapḫi-na @ @ RELAT.PL.ABS @ noun @ "><d>UR<del_in/>U</d><del_fin/><laes_in/>a<laes_fin/>-ar-ra-ap-ḫi-ni</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>URU</d></w>
+<w trans="" mrp1="@@@@"><d>URU</d></w>
 <w trans="[ḪA-AT-TI" mrp1="[ḪA-AT-TI @ @ .ABS @ noun @ " mrp2="[ḪA-AT-TI @ @ .ABS @ ADJ @ " mrp3="[ḪA-AT-TI @ @ .ABS @ verb @ "><d>URU</d><aGr><del_in/>ḪA-AT-TI</aGr></w>
 <w trans="[ḪA-AT-TI]" mrp1="[ḪA-AT-TI @ @ .ABS @ noun @ " mrp2="[ḪA-AT-TI @ @ .ABS @ ADJ @ " mrp3="[ḪA-AT-TI @ @ .ABS @ verb @ "><d>URU</d><aGr><del_in/>ḪA-AT-TI<del_fin/></aGr></w>
 <w trans="ḪA-AT-T[I" mrp1="ḪA-AT-T[I @ @ .ABS @ noun @ " mrp2="ḪA-AT-T[I @ @ .ABS @ ADJ @ " mrp3="ḪA-AT-T[I @ @ .ABS @ verb @ "><d>URU</d><aGr>ḪA-AT-T<del_in/>I</aGr></w>
@@ -2569,7 +2569,7 @@
 <w trans="tenāže" mrp1="tiye-na-až-e @ Wort; Sache @ RELAT.PL-PL-GEN @ noun @ " mrp2="tē-na-až-e @ Name?; Sache; Wort; u.B. @ RELAT.PL-PL-GEN @ noun @ "><d>URU</d>te-na-a-še</w>
 <w trans="udaġi" mrp1="ud-aġ-i @ u.B. @ aġ-ANTIP @ verb @ "><d>URU</d>u-da-ḫi</w>
 <w trans="ōrginin" mrp1="Ōrgi-ne-n @ GN @ RELAT.SG-ABL/INS @ noun @ "><d>URU</d>u-ur-ki-ni-in</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true"><d>URU</d>x</w>
+<w trans="x" mrp1="x@@@@"><d>URU</d>x</w>
 <w trans="x-x-x" mrp1="x-x-x @ @ @ noun @ "><d>URU</d>x-x-x</w>
 <w trans="x["><d>URU</d>x<del_in/></w>
 <w trans="sarmadenin" mrp1="Sarmade-ne-n @ GN @ RELAT.SG-ABL/INS @ noun @ "><d>URU</d>za-ar-ma-te-ni-in</w>
@@ -2699,12 +2699,12 @@
 <w trans="šarri[" mrp1="šarri @ Gottkönig @ .ABS @ noun @ " mrp2="šarr-i @ u.B. @ ANTIP @ verb @ " mrp3="šāri-ne @ u.B. @ ABL/INS @ noun @ " mrp4="šāri-ne-e @ u.B. @ RELAT.SG-DIR/LOC @ noun @ "><d>ÍD</d>šar-ri-<del_in/></w>
 <w trans="ḫu[" mrp1="ḫu[ @ u.B. @ @ unclear @ " mrp2="ḫō[ @ u.B. @ @ unclear @ " mrp3="Ḫu[ @ GN @ @ noun @ " mrp4="Ḫō[ @ DN @ @ noun @ "><d>ÍD</d>ḫu-<del_in/></w>
 <w trans="nurandiġinina" mrp1="nurandiġi-nna @ Granatapfel @ EQU2 @ noun @ "><d>Ú</d>〈nu〉-ra-an-ti-ḫi-ni-na</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>ḪI.A</d></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>ḪU<del_in/>R.SAG</d></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>ḪUR.<del_in/>SAG</d></w>
+<w trans="" mrp1="@@@@"><d>ḪI.A</d></w>
+<w trans="" mrp1="@@@@"><d>ḪU<del_in/>R.SAG</d></w>
+<w trans="" mrp1="@@@@"><d>ḪUR.<del_in/>SAG</d></w>
 <w trans="tatta" mrp1="tatt-a @ u.B. @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp2="tatt-i-a @ u.B. @ TR-3A.SG @ verb @ " mrp3="tei-a=tta @ u.B. @ ESS=1SG.ABS @ noun @ " mrp4="tiye-a=tta @ Sache; Wort @ ESS=1SG.ABS @ noun @ " mrp5="tē-a=tta @ Name?; Sache; Wort @ ESS=1SG.ABS @ noun @ " mrp6="tē-a=tta @ u.B. @ ESS=1SG.ABS @ noun @ " mrp7="tiye-a=tta @ Wort; Sache @ ESS=1SG.ABS @ noun @ " mrp8="tad-d-a @ lieben @ d-INT @ verb @ " mrp9="te-a=tta @ sprechen @ INT=1SG.ABS @ verb @ "><d>ḪUR.S<del_fin/>AG</d>ta-at-ta</w>
 <w trans="amanaġi" mrp1="aman-aġ-i @ @ aġ-ANTIP @ verb @ "><d>ḪUR.SA<del_fin/>G</d><corr c="!"/>a-ma-na-ḫi</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><d>ḪUR.SA<del_in/>G</d></w>
+<w trans="" mrp1="@@@@"><d>ḪUR.SA<del_in/>G</d></w>
 <w trans="āššiatta" mrp1="āšši-a=tta @ u.B. @ ESS=1SG.ABS @ noun @ " mrp2="āšši-a=tta @ @ INT=1SG.ABS @ verb @ "><d>ḪUR.SAG</d><corr c="?"/>a-aš-ši-ia-at-ta</w>
 <w trans="[" mrp1="[ @ GN @ @ noun @ "><d>ḪUR.SAG</d><del_in/></w>
 <w trans="kurgutt[unni" mrp1="kurgutt[u-nni @ @ ASS @ noun @ "><d>ḪUR.SAG</d><laes_in/>kur-ku-ud<corr c="?"/><laes_fin/>-d<del_in/>u-un-ni</w>
@@ -6619,18 +6619,18 @@
 <w trans="(-)šax["><gap c="(Rasur)"/><corr c="?"/>(-)ša-x<del_in/></w>
 <w trans="AN" mrp1="AN @ @ .ABS @ noun @ " mrp2="AN @ @ .ABS @ ADJ @ " mrp3="AN @ @ .ABS @ verb @ "><laes_in/><c type="sign">AN</c><laes_fin/></w>
 <w trans="AN(-)[" mrp1="AN(-) @ @ .ABS @ noun @ " mrp2="AN(-) @ @ .ABS @ ADJ @ " mrp3="AN(-) @ @ .ABS @ verb @ "><laes_in/><c type="sign">AN</c><laes_fin/>(-)<del_in/></w>
-<w trans="I" mrp1="I@@@@" firstAnalysisIsPlaceholder="true"><laes_in/><c type="sign">I</c><corr c="?"/><laes_fin/></w>
+<w trans="I" mrp1="I@@@@"><laes_in/><c type="sign">I</c><corr c="?"/><laes_fin/></w>
 <w trans="NI" mrp1="NI @ @ .ABS @ noun @ " mrp2="NI @ @ .ABS @ ADJ @ " mrp3="NI @ @ .ABS @ verb @ "><laes_in/><c type="sign">NI</c><corr c="?"/></w>
 <w trans="UG" mrp1="UG @ @ .ABS @ noun @ " mrp2="UG @ @ .ABS @ ADJ @ " mrp3="UG @ @ .ABS @ verb @ "><laes_in/><c type="sign">UG</c><corr c="?"/><laes_fin/></w>
 <w trans="URU" mrp1="URU @ @ .ABS @ noun @ " mrp2="URU @ @ .ABS @ ADJ @ " mrp3="URU @ @ .ABS @ verb @ "><laes_in/><c type="sign">URU</c><corr c="?"/><laes_fin/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><laes_in/><d>D</d></w>
+<w trans="" mrp1="@@@@"><laes_in/><d>D</d></w>
 <w trans="IŠTAR-kabinaž[a"><laes_in/><d>D</d><aGr><laes_fin/>IŠTAR</aGr>-ga-pí-<laes_in/>na<laes_fin/>-š<del_in/>a</w>
 <w trans="IŠTAR-fi" mrp1="Šavoška-ve @ DN @ GEN @ noun @ "><laes_in/><d>D</d><aGr>IŠTAR</aGr>-wi<subscr c="i"/><laes_fin/></w>
 <w trans="IŠTAR-kaneda" mrp1="Šavoška-ne-da @ DN @ RELAT.SG-DIR @ noun @ "><laes_in/><d>D</d><aGr>IŠTAR<laes_fin/></aGr>-ga-ne-ta</w>
 <w trans="IŠTAR-uška" mrp1="IŠTAR-uška @ @ .ABS @ noun @ " mrp2="IŠTAR-ušk-a @ @ { a → ESS} { b → INT} @ noun @ " mrp3="IŠTAR-uška @ @ .ABS @ ADJ @ " mrp4="IŠTAR-ušk-a @ @ { a → INT} { b → INT.IMP} { c → ESS} { d → 3A.SG} @ verb @ " mrp5="IŠTAR-ušk-a @ @ ESS @ ADJ @ " mrp6="IŠTAR-ušk-i-a @ @ 3POSS.SG-ESS @ noun @ " mrp7="IŠTAR-ušk-i-a @ @ TR-3A.SG @ verb @ " mrp8="IŠTAR-uška @ @ .ABS @ verb @ "><laes_in/><d>D</d><aGr>IŠTAR<laes_fin/></aGr>-uš-ga</w>
 <w trans="É-A" mrp1="Ea @ DN @ @ noun @ " mrp2="Ea @ DN @ .ABS @ noun @ "><laes_in/><d>D</d><aGr>É<laes_fin/>-A</aGr></w>
 <w trans="parġi" mrp1="parġi @ Hof @ .ABS @ noun @ " mrp2="parġi-i-e @ Hof @ 3POSS.SG-DIR/LOC @ noun @ " mrp3="parġi-i @ Hof @ 3POSS.SG.ABS @ noun @ " mrp4="parġi-ie @ Hof @ 3POSS.SG.ABS @ noun @ " mrp5="fāri-ġe @ u.B. @ ADJ.ABS @ noun @ " mrp6="pāri-ġe @ u.B. @ ADJ.ABS @ noun @ " mrp7="pari-ġe @ Stirnlocke? @ ADJ.ABS @ noun @ " mrp8="parġi-ae @ Hof @ INS @ noun @ "><laes_in/><d>D</d><corr c="!"/>pár<laes_fin/>-ḫi</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><laes_in/><d>D</d><corr c="?"/><laes_fin/></w>
+<w trans="" mrp1="@@@@"><laes_in/><d>D</d><corr c="?"/><laes_fin/></w>
 <w trans="[" mrp1="[ @ GN @ @ noun @ "><laes_in/><d>D</d><corr c="?"/><laes_fin/><del_in/></w>
 <w trans="[t]ažmiž" mrp1="[t]ažm-i-ež @ @ MOD.AG-OPT @ verb @ " mrp2="[t]ažm-i-ž @ @ 3POSS.SG-ERG @ noun @ " mrp3="[t]ažm-ie-ž @ @ 3POSS.SG-ERG @ noun @ " mrp4="[t]ažm-i-ež @ @ MOD.AG-OPT @ noun @ "><laes_in/><d>D</d><corr c="?"/><laes_fin/><del_in/>d<del_fin/>a-aš-mi-iš</w>
 <w trans="nab[arbi" mrp1="Nabarbi @ DN @ @ noun @ "><laes_in/><d>D</d><corr c="?"/><laes_fin/>na-p<del_in/>ár<corr c="?"/>-pí<corr c="?"/></w>
@@ -6735,7 +6735,7 @@
 <w trans="ḫebattena" mrp1="ḫebatte-na @ @ RELAT.PL.ABS @ noun @ " mrp2="ḫebatte-na @ @ RELAT.PL.ABS @ ADJ @ " mrp3="ḫebatte-ne-a @ @ RELAT.SG-ESS @ noun @ "><laes_in/><d>D</d>ḫé<laes_fin/>-pát-te-na</w>
 <w trans="ḫebatfena" mrp1="Ḫebad-ve-na @ DN @ GEN-RELAT.PL.ABS @ noun @ " mrp2="Ḫebad-ve-ne-a @ DN @ GEN-RELAT.SG-ESS @ noun @ "><laes_in/><d>D</d>ḫé<laes_fin/>-pát-we<subscr c="e"/>-na</w>
 <w trans="[10-ub" mrp1="Teššob @ DN @ .ABS @ noun @ " mrp2="Teššob-až @ DN @ ERG @ noun @ "><laes_in/><d>D<corr c="?"/></d><num><laes_fin/><del_in/>10</num>-up<corr c="(?)"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><laes_in/><d>D<laes_fin/></d></w>
+<w trans="" mrp1="@@@@"><laes_in/><d>D<laes_fin/></d></w>
 <w trans="IŠTAR-fe" mrp1="Šavoška-ve @ DN @ GEN @ noun @ "><laes_in/><d>D<laes_fin/></d><aGr>IŠTAR</aGr>-we<subscr c="e"/></w>
 <w trans="É-A" mrp1="Ea @ DN @ @ noun @ " mrp2="Ea @ DN @ .ABS @ noun @ "><laes_in/><d>D<laes_fin/></d><aGr>É-A</aGr></w>
 <w trans="[" mrp1="[ @ GN @ @ noun @ "><laes_in/><d>D<laes_fin/></d><del_in/></w>
@@ -6794,8 +6794,8 @@
 <w trans="immaškun" mrp1="Immašku=n @ PN @ .ABS=3SG.ABS @ noun @ "><laes_in/><d>m</d><laes_fin/>im-ma-aš-ku-un</w>
 <w trans="eġl[idenu" mrp1="eġl[idenu @ @ .ABS @ noun @ " mrp2="eġl[idenu @ @ .ABS @ ADJ @ " mrp3="eġl[iden-u @ @ MED @ verb @ " mrp4="eġl[iden-o @ @ { a → MOD.PAT} { b → 2A.SG} { c → MOD.AG} @ verb @ " mrp5="eġl[idenu @ @ .ABS @ verb @ "><laes_in/><d>m</d>eḫ<laes_fin/>-l<del_in/>i-te-nu-</w>
 <w trans="iližarrum[a"><laes_in/><d>m</d>ì-lí-šar-ru<laes_fin/>-m<del_in/>a</w>
-<w trans="1" mrp1="1@@@@" firstAnalysisIsPlaceholder="true"><laes_in/><num>1</num></w>
-<w trans="1" mrp1="1@@@@" firstAnalysisIsPlaceholder="true"><laes_in/><num>1</num><laes_fin/></w>
+<w trans="1" mrp1="1@@@@"><laes_in/><num>1</num></w>
+<w trans="1" mrp1="1@@@@"><laes_in/><num>1</num><laes_fin/></w>
 <w trans="2" mrp1="šine @ zwei @ @ NUM @ "><laes_in/><num>2</num><corr c="?"/><laes_fin/></w>
 <w trans="4-ni" mrp1="4-ni @ @ RELAT.SG @ noun @ " mrp2="4-n-i @ @ ANTIP @ verb @ "><laes_in/><num>4</num><laes_fin/>-ni</w>
 <w trans="7-["><laes_in/><num>7</num><laes_fin/>-<del_in/></w>
@@ -8145,23 +8145,23 @@
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ "><laes_in/>𒀹<laes_fin/></w>
 <w trans="𒑱" mrp1="𒑱 @ @ .ABS @ noun @ " mrp2="𒑱 @ @ .ABS @ ADJ @ " mrp3="𒑱 @ @ .ABS @ verb @ "><laes_in/>𒑱<laes_fin/></w>
 <w trans="𒑱marani" mrp1="𒑱mar-i-ane @ @ 3POSS.SG-ABL/INS @ noun @ " mrp2="𒑱mar-an-i @ @ { a → an-ANTIP} { b → an-TR.IMP} @ verb @ " mrp3="𒑱mar-an-i @ @ an-ANTIP @ noun @ "><laes_in/>𒑱<laes_fin/>ma-ra-ni</w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c=" Sollte der Join korrekt sein, kann die in der Autographie von &lt;SP_f_AO_3a_TxtPubl&gt;KUB 47.112&lt;/SP_f_AO_3a_TxtPubl&gt; angegebene Zeile Rs. 6 vor dem Paragraphenstrich nicht existieren." n="27"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="&lt;SP_f_AO_3a_-LIT&gt;Wegner I. – Salvini M. 1991a&lt;/SP_f_AO_3a_-LIT&gt;: 80 fügen eine Zeile nach Z. 4′ ein und weichen daher in der Zeilenzählung ab. Nach Foto von 74/g nicht möglich." n="2"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Da keine Duplikate für diesen Text bekannt sind, ist die genaue Stellung von {€9} auf der Rs. unsicher. Die ungefähre Verortung auf der Joinskizze und die im Foto sichtbare, gerade Bruchkante am oberen Ende der Rs. lässt jedoch vermuten, dass dieses Fragment an diese Stelle zu setzen ist." n="1"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Die Autographie zeigt eine zusätzliche Zeile vor dem Paragraphenstrich. Sowohl nach Foto als auch nach Duplikaten ist sie jedoch nicht vorhanden." n="2"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Die Rs. von KBo 23.46 {€10} ist durch den Join der Vs. II zuzuordnen." n="4"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Die Seitenbestimmung von KBo 27.139 {€2} ist zu vertauschen." n="2"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Diese Kolumne ist vermutlich der Vs. II zuzuordnen. (s. Anm. 1)" n="2"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Durch den Join ist {€2} Rs.? lk. Kol. sicherlich der Rs. V zuzuordnen." n="5"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Durch den Join ist {€2} Rs.? r. Kol. sicherlich der Rs. IV zuzuordnen." n="4"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="In der Autographie wird diese Zeile nicht gezählt." n="1"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Rs. IV der Tafel." n="4"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><note c="Vs. III der Tafel." n="2"/></w>
-<w trans="1" mrp1="1@@@@" firstAnalysisIsPlaceholder="true"><num>1</num></w>
+<w trans="" mrp1="@@@@"><note c=" Sollte der Join korrekt sein, kann die in der Autographie von &lt;SP_f_AO_3a_TxtPubl&gt;KUB 47.112&lt;/SP_f_AO_3a_TxtPubl&gt; angegebene Zeile Rs. 6 vor dem Paragraphenstrich nicht existieren." n="27"/></w>
+<w trans="" mrp1="@@@@"><note c="&lt;SP_f_AO_3a_-LIT&gt;Wegner I. – Salvini M. 1991a&lt;/SP_f_AO_3a_-LIT&gt;: 80 fügen eine Zeile nach Z. 4′ ein und weichen daher in der Zeilenzählung ab. Nach Foto von 74/g nicht möglich." n="2"/></w>
+<w trans="" mrp1="@@@@"><note c="Da keine Duplikate für diesen Text bekannt sind, ist die genaue Stellung von {€9} auf der Rs. unsicher. Die ungefähre Verortung auf der Joinskizze und die im Foto sichtbare, gerade Bruchkante am oberen Ende der Rs. lässt jedoch vermuten, dass dieses Fragment an diese Stelle zu setzen ist." n="1"/></w>
+<w trans="" mrp1="@@@@"><note c="Die Autographie zeigt eine zusätzliche Zeile vor dem Paragraphenstrich. Sowohl nach Foto als auch nach Duplikaten ist sie jedoch nicht vorhanden." n="2"/></w>
+<w trans="" mrp1="@@@@"><note c="Die Rs. von KBo 23.46 {€10} ist durch den Join der Vs. II zuzuordnen." n="4"/></w>
+<w trans="" mrp1="@@@@"><note c="Die Seitenbestimmung von KBo 27.139 {€2} ist zu vertauschen." n="2"/></w>
+<w trans="" mrp1="@@@@"><note c="Diese Kolumne ist vermutlich der Vs. II zuzuordnen. (s. Anm. 1)" n="2"/></w>
+<w trans="" mrp1="@@@@"><note c="Durch den Join ist {€2} Rs.? lk. Kol. sicherlich der Rs. V zuzuordnen." n="5"/></w>
+<w trans="" mrp1="@@@@"><note c="Durch den Join ist {€2} Rs.? r. Kol. sicherlich der Rs. IV zuzuordnen." n="4"/></w>
+<w trans="" mrp1="@@@@"><note c="In der Autographie wird diese Zeile nicht gezählt." n="1"/></w>
+<w trans="" mrp1="@@@@"><note c="Rs. IV der Tafel." n="4"/></w>
+<w trans="" mrp1="@@@@"><note c="Vs. III der Tafel." n="2"/></w>
+<w trans="1" mrp1="1@@@@"><num>1</num></w>
 <w trans="1-kini" mrp1="1-kini @ @ @ noun @ " mrp2="1-kin-i @ @ ANTIP @ verb @ "><num>1</num>-<laes_in/>ki<corr c="?"/><laes_fin/>-ni</w>
 <w trans="1-EN" mrp1="šokko @ eins; einer @ @ NUM @ "><num>1</num><aGr>-EN</aGr></w>
-<w trans="1" mrp1="1@@@@" firstAnalysisIsPlaceholder="true"><num>1</num><corr c="?"/></w>
-<w trans="1" mrp1="1@@@@" firstAnalysisIsPlaceholder="true"><num>1</num><d>KAM</d></w>
+<w trans="1" mrp1="1@@@@"><num>1</num><corr c="?"/></w>
+<w trans="1" mrp1="1@@@@"><num>1</num><d>KAM</d></w>
 <w trans="2" mrp1="šine @ zwei @ @ NUM @ "><num>2</num></w>
 <w trans="2(-)[" mrp1="2 @ zwei @ @ NUM @ "><num>2</num>(-)<del_in/></w>
 <w trans="2-ḫa" mrp1="šin+am+ġe-a @ zweifach @ ESS @ noun @ "><num>2</num>-<laes_in/>ḫa</w>
@@ -8176,22 +8176,22 @@
 <w trans="2" mrp1="šine @ zwei @ @ NUM @ "><num>2</num><corr c="?"/></w>
 <w trans="2" mrp1="šine @ zwei @ @ NUM @ "><num>2</num><d>KAM</d></w>
 <w trans="2[+n" mrp1="2[+n @ @ .ABS @ noun @ " mrp2="2[+=n @ @ { a → .ABS=3SG.ABS} { b → .ABS=CON} @ noun @ " mrp3="2[+n @ @ .ABS @ ADJ @ " mrp4="2[+-n @ @ ABL/INS @ noun @ " mrp5="2[+-n @ @ ABL/INS @ ADJ @ " mrp6="2[+n @ @ .ABS @ verb @ " mrp7="2[+=n @ @ { a → .ABS=3SG.ABS} { b → .ABS=CON} @ ADJ @ "><num>2<del_in/>+n</num></w>
-<w trans="3" mrp1="3@@@@" firstAnalysisIsPlaceholder="true"><num>3</num></w>
+<w trans="3" mrp1="3@@@@"><num>3</num></w>
 <w trans="3-ḫa" mrp1="kig+am+ġe-a @ dreifach @ ESS @ ADJ @ "><num>3</num>-ḫa</w>
 <w trans="3-ŠU" mrp1="3-ŠU @ @ @ noun @ "><num>3</num><aGr>-ŠU</aGr></w>
 <w trans="4" mrp1="tomni @ vier @ @ NUM @ "><num>4</num></w>
 <w trans="4-n[a" mrp1="tomni-a @ vier @ ESS @ NUM @ "><num>4</num><corr c="?"/>-n<del_in/>a</w>
 <w trans="4" mrp1="tomni @ vier @ @ NUM @ "><num>4</num><d>KAM</d></w>
-<w trans="5" mrp1="5@@@@" firstAnalysisIsPlaceholder="true"><num>5</num></w>
+<w trans="5" mrp1="5@@@@"><num>5</num></w>
 <w trans="6" mrp1="6KAM @ sechster @ @ NUM @ "><num>6</num><d>KA<del_in/>M</d></w>
 <w trans="6" mrp1="6KAM @ sechster @ @ NUM @ "><num>6</num><laes_fin/><d>KAM</d></w>
 <w trans="7-ella" mrp1="7-el-la @ @ RELAT.PL @ noun @ " mrp2="7-ell-a @ @ INT @ verb @ "><num>7</num>-el-la</w>
-<w trans="8" mrp1="8@@@@" firstAnalysisIsPlaceholder="true"><num>8</num></w>
+<w trans="8" mrp1="8@@@@"><num>8</num></w>
 <w trans="[" mrp1="[ @ GN @ @ noun @ "><num><del_in/></num></w>
 <w trans="14" mrp1="14 @ @ .ABS @ noun @ " mrp2="14 @ @ .ABS @ ADJ @ " mrp3="14 @ @ .ABS @ verb @ "><num><ras_in/>14<ras_fin/></num><d>KAM</d></w>
 <w trans="n+]1" mrp1="n+]1 @ @ .ABS @ noun @ " mrp2="n+]1 @ @ .ABS @ ADJ @ " mrp3="n+]1 @ @ .ABS @ verb @ "><num>n+<del_fin/>1</num></w>
 <w trans="n+]1" mrp1="n+]1 @ @ .ABS @ noun @ " mrp2="n+]1 @ @ .ABS @ ADJ @ " mrp3="n+]1 @ @ .ABS @ verb @ "><num>n+<del_fin/>1</num><corr c="?"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><ras_X/></w>
+<w trans="" mrp1="@@@@"><ras_X/></w>
 <w trans="ḫassi" mrp1="Ḫassī @ GN @ .ABS @ noun @ "><ras_in/><d>D</d><corr c="?"/>ḫa<ras_fin/>-az-<laes_in/>zi<laes_fin/></w>
 <w trans="šaōškan" mrp1="Šavoška=n @ DN @ { a → .ABS=3SG.ABS} { b → .ABS=CON} @ noun @ " mrp2="Šavoška-n @ DN @ ABL/INS @ noun @ "><ras_in/><d>D</d>ša-u-uš-kán<ras_fin/></w>
 <w trans="ḫussi" mrp1="ḫussi @ @ .ABS @ noun @ " mrp2="ḫussi @ @ .ABS @ ADJ @ " mrp3="ḫuss-i @ @ { a → ANTIP} { b → TR.IMP} @ verb @ " mrp4="ḫuss-i-e @ @ 3POSS.SG-DIR/LOC @ noun @ " mrp5="ḫuss-i @ @ 3POSS.SG.ABS @ noun @ " mrp6="ḫuss-ie @ @ 3POSS.SG.ABS @ noun @ " mrp7="ḫuss-e @ @ STAT @ verb @ " mrp8="ḫussi @ @ .ABS @ verb @ " mrp9="ḫuss-ae @ @ INS @ noun @ "><ras_in/><d>D</d>ḫu-uz<ras_fin/>-zi</w>
@@ -8288,9 +8288,9 @@
 <w trans="fōd[u" mrp1="fud-u[ @ waschen, reinigen @ @ verb @ "><ras_in/>wu<subscr c="u"/><ras_fin/>-u-d<del_in/>u-</w>
 <w trans="fōr[ullibi" mrp1="fōroli-ne-ve @ Tempel @ RELAT.SG-GEN @ noun @ "><ras_in/>wu<subscr c="u"/><ras_fin/>-u-r<del_in/>u-ul-li-bi</w>
 <w trans="funġidan" mrp1="pōnġi-dan @ Nase @ ABL @ noun @ " mrp2="pōnġi-da=an @ Nase @ DIR=CON @ noun @ " mrp3="pōnġi-da=n @ Nase @ DIR=3SG.ABS @ noun @ "><ras_in/>wu<subscr c="ú"/>-un<ras_fin/>-ḫi-ta-an</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true"><ras_in/>x</w>
+<w trans="x" mrp1="x@@@@"><ras_in/>x</w>
 <w trans="x-x-pirri"><ras_in/>x-x<corr c="?"/>-pí-ir-ri<ras_fin/></w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true"><ras_in/>x<ras_fin/></w>
+<w trans="x" mrp1="x@@@@"><ras_in/>x<ras_fin/></w>
 <w trans="x-lux["><ras_in/>x<ras_fin/>-lu-x<del_in/></w>
 <w trans="x["><ras_in/>x<ras_fin/><del_in/></w>
 <w trans="sappi" mrp1="sa-v-ve @ @ { a → 2POSS.SG-GEN} { b → 2POSS.SG-DAT} @ noun @ "><ras_in/>za<ras_fin/>-ap-pí</w>
@@ -8322,7 +8322,7 @@
 <w trans="NI" mrp1="NI @ @ .ABS @ noun @ " mrp2="NI @ @ .ABS @ ADJ @ " mrp3="NI @ @ .ABS @ verb @ "><ras_in/>〈〈<c type="sign">NI</c>〉〉<ras_fin/></w>
 <w trans="ŠE" mrp1="ŠE @ @ .ABS @ noun @ " mrp2="ŠE @ @ .ABS @ ADJ @ " mrp3="ŠE @ @ .ABS @ verb @ "><ras_in/>〈〈<c type="sign">ŠE</c></w>
 <w trans="na" mrp1="nā @ weiden @ .ABS @ verb @ "><ras_in/>〈〈na〉〉<ras_fin/></w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true"><ras_in/>〈〈x〉〉<ras_fin/></w>
+<w trans="x" mrp1="x@@@@"><ras_in/>〈〈x〉〉<ras_fin/></w>
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ "><ras_in/>〈〈𒀹〉〉</w>
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ "><ras_in/>〈〈𒀹〉〉<ras_fin/></w>
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ "><ras_in/>𒀹</w>
@@ -9034,119 +9034,119 @@
 <w trans="ḪUR.SAG-na" mrp1="paba+ni-na @ Berg @ RELAT.PL.ABS @ noun @ "><sGr>ḪUR</sGr><corr c="?"/><sGr>.SAG</sGr><corr c="?"/><d>M<del_fin/>EŠ</d>-na</w>
 <w trans="ḪUR].SAG-anna" mrp1="paba+ni-na @ Berg @ RELAT.PL.ABS @ noun @ "><sGr>ḪUR<del_fin/>.SAG</sGr>-an-na</w>
 <w trans="DIR" mrp1="DIR @ Darmwindungen @ @ noun @ "><sGr>〈〈DIR</sGr><corr c="?"/>〉〉<laes_fin/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="10"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="100"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="101"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="102"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="103"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="104"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="105"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="106"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="11"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="111"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="112"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="114"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="116"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="117"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="118"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="12"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="126"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="13"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="14"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="140"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="15"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="16"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="17"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="18"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="19"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="2"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="20"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="21"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="22"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="23"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="24"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="25"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="26"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="27"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="28"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="29"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="3"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="30"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="31"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="32"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="33"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="34"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="35"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="36"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="37"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="38"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="39"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="4"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="40"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="41"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="42"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="43"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="44"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="45"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="46"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="47"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="48"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="49"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="5"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="50"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="51"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="52"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="53"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="54"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="55"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="56"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="57"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="58"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="59"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="6"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="60"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="61"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="62"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="63"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="64"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="65"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="66"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="67"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="68"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="69"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="7"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="70"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="71"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="72"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="73"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="74"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="75"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="76"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="77"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="78"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="79"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="8"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="80"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="81"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="82"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="83"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="84"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="85"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="86"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="87"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="88"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="89"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="9"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="90"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="91"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="92"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="93"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="94"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="95"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="96"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="97"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="98"/></w>
-<w trans="" mrp1="@@@@" firstAnalysisIsPlaceholder="true"><space c="99"/></w>
+<w trans="" mrp1="@@@@"><space c="10"/></w>
+<w trans="" mrp1="@@@@"><space c="100"/></w>
+<w trans="" mrp1="@@@@"><space c="101"/></w>
+<w trans="" mrp1="@@@@"><space c="102"/></w>
+<w trans="" mrp1="@@@@"><space c="103"/></w>
+<w trans="" mrp1="@@@@"><space c="104"/></w>
+<w trans="" mrp1="@@@@"><space c="105"/></w>
+<w trans="" mrp1="@@@@"><space c="106"/></w>
+<w trans="" mrp1="@@@@"><space c="11"/></w>
+<w trans="" mrp1="@@@@"><space c="111"/></w>
+<w trans="" mrp1="@@@@"><space c="112"/></w>
+<w trans="" mrp1="@@@@"><space c="114"/></w>
+<w trans="" mrp1="@@@@"><space c="116"/></w>
+<w trans="" mrp1="@@@@"><space c="117"/></w>
+<w trans="" mrp1="@@@@"><space c="118"/></w>
+<w trans="" mrp1="@@@@"><space c="12"/></w>
+<w trans="" mrp1="@@@@"><space c="126"/></w>
+<w trans="" mrp1="@@@@"><space c="13"/></w>
+<w trans="" mrp1="@@@@"><space c="14"/></w>
+<w trans="" mrp1="@@@@"><space c="140"/></w>
+<w trans="" mrp1="@@@@"><space c="15"/></w>
+<w trans="" mrp1="@@@@"><space c="16"/></w>
+<w trans="" mrp1="@@@@"><space c="17"/></w>
+<w trans="" mrp1="@@@@"><space c="18"/></w>
+<w trans="" mrp1="@@@@"><space c="19"/></w>
+<w trans="" mrp1="@@@@"><space c="2"/></w>
+<w trans="" mrp1="@@@@"><space c="20"/></w>
+<w trans="" mrp1="@@@@"><space c="21"/></w>
+<w trans="" mrp1="@@@@"><space c="22"/></w>
+<w trans="" mrp1="@@@@"><space c="23"/></w>
+<w trans="" mrp1="@@@@"><space c="24"/></w>
+<w trans="" mrp1="@@@@"><space c="25"/></w>
+<w trans="" mrp1="@@@@"><space c="26"/></w>
+<w trans="" mrp1="@@@@"><space c="27"/></w>
+<w trans="" mrp1="@@@@"><space c="28"/></w>
+<w trans="" mrp1="@@@@"><space c="29"/></w>
+<w trans="" mrp1="@@@@"><space c="3"/></w>
+<w trans="" mrp1="@@@@"><space c="30"/></w>
+<w trans="" mrp1="@@@@"><space c="31"/></w>
+<w trans="" mrp1="@@@@"><space c="32"/></w>
+<w trans="" mrp1="@@@@"><space c="33"/></w>
+<w trans="" mrp1="@@@@"><space c="34"/></w>
+<w trans="" mrp1="@@@@"><space c="35"/></w>
+<w trans="" mrp1="@@@@"><space c="36"/></w>
+<w trans="" mrp1="@@@@"><space c="37"/></w>
+<w trans="" mrp1="@@@@"><space c="38"/></w>
+<w trans="" mrp1="@@@@"><space c="39"/></w>
+<w trans="" mrp1="@@@@"><space c="4"/></w>
+<w trans="" mrp1="@@@@"><space c="40"/></w>
+<w trans="" mrp1="@@@@"><space c="41"/></w>
+<w trans="" mrp1="@@@@"><space c="42"/></w>
+<w trans="" mrp1="@@@@"><space c="43"/></w>
+<w trans="" mrp1="@@@@"><space c="44"/></w>
+<w trans="" mrp1="@@@@"><space c="45"/></w>
+<w trans="" mrp1="@@@@"><space c="46"/></w>
+<w trans="" mrp1="@@@@"><space c="47"/></w>
+<w trans="" mrp1="@@@@"><space c="48"/></w>
+<w trans="" mrp1="@@@@"><space c="49"/></w>
+<w trans="" mrp1="@@@@"><space c="5"/></w>
+<w trans="" mrp1="@@@@"><space c="50"/></w>
+<w trans="" mrp1="@@@@"><space c="51"/></w>
+<w trans="" mrp1="@@@@"><space c="52"/></w>
+<w trans="" mrp1="@@@@"><space c="53"/></w>
+<w trans="" mrp1="@@@@"><space c="54"/></w>
+<w trans="" mrp1="@@@@"><space c="55"/></w>
+<w trans="" mrp1="@@@@"><space c="56"/></w>
+<w trans="" mrp1="@@@@"><space c="57"/></w>
+<w trans="" mrp1="@@@@"><space c="58"/></w>
+<w trans="" mrp1="@@@@"><space c="59"/></w>
+<w trans="" mrp1="@@@@"><space c="6"/></w>
+<w trans="" mrp1="@@@@"><space c="60"/></w>
+<w trans="" mrp1="@@@@"><space c="61"/></w>
+<w trans="" mrp1="@@@@"><space c="62"/></w>
+<w trans="" mrp1="@@@@"><space c="63"/></w>
+<w trans="" mrp1="@@@@"><space c="64"/></w>
+<w trans="" mrp1="@@@@"><space c="65"/></w>
+<w trans="" mrp1="@@@@"><space c="66"/></w>
+<w trans="" mrp1="@@@@"><space c="67"/></w>
+<w trans="" mrp1="@@@@"><space c="68"/></w>
+<w trans="" mrp1="@@@@"><space c="69"/></w>
+<w trans="" mrp1="@@@@"><space c="7"/></w>
+<w trans="" mrp1="@@@@"><space c="70"/></w>
+<w trans="" mrp1="@@@@"><space c="71"/></w>
+<w trans="" mrp1="@@@@"><space c="72"/></w>
+<w trans="" mrp1="@@@@"><space c="73"/></w>
+<w trans="" mrp1="@@@@"><space c="74"/></w>
+<w trans="" mrp1="@@@@"><space c="75"/></w>
+<w trans="" mrp1="@@@@"><space c="76"/></w>
+<w trans="" mrp1="@@@@"><space c="77"/></w>
+<w trans="" mrp1="@@@@"><space c="78"/></w>
+<w trans="" mrp1="@@@@"><space c="79"/></w>
+<w trans="" mrp1="@@@@"><space c="8"/></w>
+<w trans="" mrp1="@@@@"><space c="80"/></w>
+<w trans="" mrp1="@@@@"><space c="81"/></w>
+<w trans="" mrp1="@@@@"><space c="82"/></w>
+<w trans="" mrp1="@@@@"><space c="83"/></w>
+<w trans="" mrp1="@@@@"><space c="84"/></w>
+<w trans="" mrp1="@@@@"><space c="85"/></w>
+<w trans="" mrp1="@@@@"><space c="86"/></w>
+<w trans="" mrp1="@@@@"><space c="87"/></w>
+<w trans="" mrp1="@@@@"><space c="88"/></w>
+<w trans="" mrp1="@@@@"><space c="89"/></w>
+<w trans="" mrp1="@@@@"><space c="9"/></w>
+<w trans="" mrp1="@@@@"><space c="90"/></w>
+<w trans="" mrp1="@@@@"><space c="91"/></w>
+<w trans="" mrp1="@@@@"><space c="92"/></w>
+<w trans="" mrp1="@@@@"><space c="93"/></w>
+<w trans="" mrp1="@@@@"><space c="94"/></w>
+<w trans="" mrp1="@@@@"><space c="95"/></w>
+<w trans="" mrp1="@@@@"><space c="96"/></w>
+<w trans="" mrp1="@@@@"><space c="97"/></w>
+<w trans="" mrp1="@@@@"><space c="98"/></w>
+<w trans="" mrp1="@@@@"><space c="99"/></w>
 <w trans="===" mrp1="=== @ @ @ noun @ ">===<note c=" In &lt;SP_f_AO_3a_TxtPubl&gt;KBo 27.219 {€2}&lt;/SP_f_AO_3a_TxtPubl&gt; deutlich vorhanden. In &lt;SP_f_AO_3a_TxtPubl&gt;KBo 12.79 {€6}&lt;/SP_f_AO_3a_TxtPubl&gt; nur als einfacher Paragraphenstrich fortgesetzt." n="24"/></w>
 <w trans="Dnabiru(-)[" mrp1="Dnabiru(-) @ @ .ABS @ noun @ " mrp2="Dnabiru(-) @ @ .ABS @ ADJ @ " mrp3="Dnabiru(-) @ @ .ABS @ verb @ ">Dna-bi-ru(-)<del_in/></w>
 <w trans="KASKAL-ri" mrp1="ḫāri @ Weg @ .ABS @ noun @ ">KASKAL-ri</w>
@@ -19160,7 +19160,7 @@
 <w trans="fūtki" mrp1="fut+ki @ Sohn @ .ABS @ noun @ ">wu<subscr c="ú"/><corr c="!"/>-<ras_in/>ú<ras_fin/>-ut-ki</w>
 <w trans="fuuria" mrp1="fuur-i-a @ @ { a → TR-3A.SG} { b → 3POSS.SG-ESS} @ verb @ " mrp2="fuur-i-a @ @ 3POSS.SG-ESS @ noun @ ">wuu-ri-ia</w>
 <w trans="fūttuža" mrp1="fūtt-ož-a @ @ PST-3A.SG @ verb @ ">wú<subscr c="ú"/>-<ras_in/>ú<ras_fin/>-ud-du-ša</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true">x</w>
+<w trans="x" mrp1="x@@@@">x</w>
 <w trans="x ]" mrp1="x @ @ .ABS @ noun @ " mrp2="x @ @ .ABS @ ADJ @ " mrp3="x @ @ .ABS @ verb @ ">x <del_fin/></w>
 <w trans="x x" mrp1="x x @ @ .ABS @ noun @ " mrp2="x x @ @ .ABS @ ADJ @ " mrp3="x x @ @ .ABS @ verb @ ">x x</w>
 <w trans="x(-)ia(-)x" mrp1="x(-)ia(-)x @ @ .ABS @ noun @ " mrp2="x(-)ia(-)x @ @ .ABS @ ADJ @ " mrp3="x(-)ia(-)x @ @ .ABS @ verb @ ">x(-)<laes_in/>ia<laes_fin/>(-)x</w>
@@ -19400,13 +19400,13 @@
 <w trans="x-ḫi" mrp1="x-ḫi @ @ @ noun @ " mrp2="x-ḫ-i @ @ ANTIP @ verb @ ">x-ḫi</w>
 <w trans="x-ḫuenašx[">x-ḫu-e-na-aš<corr c="?"/>-x<del_in/></w>
 <w trans="x-ḫurrāženež" mrp1="x-ḫur-r-āž-e-ne-ž @ @ { a → RELAT.PL-PL-DIR/LOC-RELAT.SG-ERG} { b → RELAT.PL-PL-GEN-RELAT.SG-ERG} @ noun @ ">x-ḫu-ur-<laes_in/>ra<laes_fin/>-a-še-ni-eš</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true">x<corr c="?"/></w>
+<w trans="x" mrp1="x@@@@">x<corr c="?"/></w>
 <w trans="x-ittirimdeži" mrp1="x-ittirimdeži @ @ @ noun @ " mrp2="x-ittirimdež-i @ @ ANTIP @ verb @ ">x<corr c="?"/>-it-ti-ri-im-te-ši</w>
 <w trans="x-x-fana" mrp1="x-x-f-a-na @ @ { a → ESS-RELAT.PL} { b → DAT-RELAT.PL} @ noun @ " mrp2="x-x-fan-a @ @ INT @ verb @ ">x<corr c="?"/>-x-wa-<laes_in/>na<laes_fin/></w>
 <w trans="x-x-ša" mrp1="x-x-š-a @ @ { a → ESS} { b → DAT} @ noun @ " mrp2="x-x-š-a @ @ INT @ verb @ ">x<corr c="?"/>-x-ša</w>
 <w trans="x-siannax[">x<corr c="?"/>-zi-ia-an-na-x<del_in/></w>
 <w trans="x-nāže(-)x[">x<d>MEŠ</d>-na-a-še(-)x<del_in/></w>
-<w trans="x]" mrp1="x]@@@@" firstAnalysisIsPlaceholder="true">x<del_fin/></w>
+<w trans="x]" mrp1="x]@@@@">x<del_fin/></w>
 <w trans="x[">x<del_in/></w>
 <w trans="x[">x<del_in/><note c=" Auf dem Foto scheint noch eine Zeichenspur erkennbar zu sein." n="4"/></w>
 <w trans="x[">x<del_in/><note c=" Die Zeichenspur könnte vielleicht auch noch zur vorhergehenden Zeile gehören." n="1"/></w>
@@ -19414,8 +19414,8 @@
 <w trans="x[">x<del_in/><note c=" Es könnte sich auch um den Beginn eines Paragraphenstrichs handeln." n="1"/></w>
 <w trans="x[">x<del_in/><note c="Kollation (D. Schwemer, Istanbul, September 2017) ergab keine deutliche Lesungsmöglichkeit." n="18"/></w>
 <w trans="x[">x<note c="Oder &lt;SP_f_AO_3a_Determ&gt;D&lt;/SP_f_AO_3a_Determ&gt;&lt;SP_f_AO_3a_AkkGRAM&gt;I&lt;del_in/&gt;ŠTAR&lt;/SP_f_AO_3a_AkkGRAM&gt; … &lt;del_fin/&gt;." n="2"/><del_in/></w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true">x<ras_fin/></w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true">x〉〉<ras_fin/></w>
+<w trans="x" mrp1="x@@@@">x<ras_fin/></w>
+<w trans="x" mrp1="x@@@@">x〉〉<ras_fin/></w>
 <w trans="s]alzinēa" mrp1="s]alzi-ne-va @ @ RELAT.SG-DAT @ ADJ @ ">z<del_fin/>a-al-zi-ni-e-a</w>
 <w trans="s]ablungi" mrp1="sabl+ung+i @ u.B. @ .ABS @ noun @ ">z<del_fin/>a-ap-lu-un-ki</w>
 <w trans="s]azix[">z<del_fin/>a-zi-x<del_in/></w>
@@ -23890,8 +23890,8 @@
 <w trans="ḫežāla" mrp1="ḫež+āl-a @ nackt sein @ INT @ verb @ " mrp2="ḫežāli-a @ nackt, Nackter @ ESS @ noun @ ">ḫé-ša-a-la</w>
 <w trans="ḫērarna" mrp1="ḫērar-na @ @ RELAT.PL.ABS @ noun @ " mrp2="ḫērar-na @ @ RELAT.PL.ABS @ ADJ @ " mrp3="ḫērar-ne-a @ @ RELAT.SG-ESS @ noun @ ">ḫé<corr c="?"/>-e-ra-ar-na</w>
 <w trans="ḫižmiržil" mrp1="ḫižmirž-i=l @ @ 3POSS.SG.ABS=3PL.ABS @ noun @ " mrp2="ḫižmirž-i=l @ @ { a → TR.IMP=3PL.ABS} { b → ANTIP=3PL.ABS} @ verb @ ">ḫí-iš-mi-ir-ši-il</w>
-<w trans="…" mrp1="…@@@@" firstAnalysisIsPlaceholder="true">…</w>
-<w trans="…]" mrp1="…]@@@@" firstAnalysisIsPlaceholder="true">…<del_fin/></w>
+<w trans="…" mrp1="…@@@@">…</w>
+<w trans="…]" mrp1="…]@@@@">…<del_fin/></w>
 <w trans="aštuḫḫēn[a]" mrp1="ašt+o+ḫḫe-na @ weiblich @ RELAT.PL.ABS @ ADJ @ ">〈aš〉-du-uḫ-ḫi-e-n<del_in/>a<del_fin/></w>
 <w trans="tubanzig[iffa]" mrp1="tubanzig-i-b=ma @ @ ANTIP-b=CON @ verb @ " mrp2="tubanzig-i=ffa @ @ ANTIP=2PL.ABS @ verb @ ">〈du〉-pa-an-zi-k<del_in/>i-ip-wa<subscr c="a"/><del_fin/></w>
 <w trans="ḫil[l]amen" mrp1="ḫill-am-i-en @ mitteilen @ FACT-MOD.AG-3JUSS @ verb @ " mrp2="ḫill-am-i=n @ mitteilen @ { a → FACT-ANTIP=3SG.ABS} { b → FACT-ANTIP=CON} @ verb @ " mrp3="ḫillame-n @ u.B. @ ABL/INS @ noun @ " mrp4="ḫillame=n @ u.B. @ { a → .ABS=3SG.ABS} { b → .ABS=CON} @ noun @ ">〈ḫi<corr c="?"/>〉-il-<del_in/>l<del_fin/>a-mi-en</w>
@@ -23900,8 +23900,8 @@
 <w trans="aluma" mrp1="alu-o+m+ai @ sprechen @ CVB @ verb @ ">〈〈a-lu-ma〉〉</w>
 <w trans="igēnema" mrp1="egi-ne-e=ma @ Inneres; Mitte; innere @ RELAT.SG-DIR/LOC=CON @ noun @ ">〈〈i-<ras_in/>ge<ras_fin/>-e-ne-ma</w>
 <w trans="cilmanidab" mrp1="cilman-ed-aw @ @ FUT-1A.SG @ verb @ ">〈〈sí-il-ma-ni-tap</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true">〈〈x</w>
-<w trans="x" mrp1="x@@@@" firstAnalysisIsPlaceholder="true">〈〈x〉〉<ras_fin/></w>
+<w trans="x" mrp1="x@@@@">〈〈x</w>
+<w trans="x" mrp1="x@@@@">〈〈x〉〉<ras_fin/></w>
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ ">𒀹</w>
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ ">𒀹<corr c="?"/></w>
 <w trans="𒀹" mrp1="𒀹 @ @ .ABS @ noun @ " mrp2="𒀹 @ @ .ABS @ ADJ @ " mrp3="𒀹 @ @ .ABS @ verb @ ">𒀹<corr c="?"/><note c=" Autographie: &lt;SP_f_AO_3a_SIGN&gt;LIŠ&lt;/SP_f_AO_3a_SIGN&gt;." n=""/></w>
