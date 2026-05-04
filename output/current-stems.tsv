@@ -3,28 +3,36 @@ ADJ	allanuḫḫi	alla+n+o+ḫḫe	königlich (weiblich)
 ADJ	alpupati	alv+o+vade	u.B.
 ADJ	amatti	ammatte	früher, uralt
 ADJ	ammatti	ammatte	früher, uralt
+ADJ	ašnuš	āžn+o+že	u.B.
 ADJ	aštuḫḫ	ašt+o+ḫḫe	weiblich
 ADJ	aštuḫḫi	ašt+o+ḫḫe	weiblich
 ADJ	DAGAL	DAGAL	breit
 ADJ	DAGAL-	DAGAL	breit
 ADJ	DAGAL-n	DAGAL.ni	breit
-ADJ	ḫattuḫi	ḫatt+o+ġe	hethitisch
+ADJ	ḫattuḫ	ḫatt+o+ġe	hethitisch; zu Ḫattuša gehörig
+ADJ	ḫattuḫḫi	ḫatt+o+ḫḫe	hethitisch; zu Ḫattuša gehörig
+ADJ	ḫattuḫi	ḫatt+o+ġe	hethitisch; zu Ḫattuša gehörig
 ADJ	ḫiarun	ḫiar+o+ni	sämtliche
+ADJ	ḫiaruni	ḫiar+o+ni	sämtliche
 ADJ	ḫimsatḫuši	ḫimz+atḫ+ō+že	gegürtet
 ADJ	ḫišmuš	ḫižm+o+že	glänzend
+ADJ	ḫišmuši	ḫižm+o+že	glänzend
 ADJ	ḫumaruḫḫi	ḫōm+ar+o+ḫḫe	lapislazuli
 ADJ	ikun	eg+ō+ni	rein
 ADJ	ikun	eg+o+nni	rein?; süß?
 ADJ	ikunn	eg+o+nni	rein?; süß?
 ADJ	ikunni	eg+o+nni	rein?; süß?
 ADJ	itkunturi	itk+und+o+re	gereinigt
+ADJ	kilan	kil+ā+ni	hochragend?
 ADJ	kiraši	ker+a+šše	dauerhaft; lang
 ADJ	kiraši	ker+ā+že	dauerhaft; lang
 ADJ	kirašši	ker+a+šše	dauerhaft; lang
 ADJ	kiritti	kerētte	lang?
 ADJ	kummuḫi	kumm+ō+ġe	zu Kumme gehörig
+ADJ	naḫḫupati	naḫḫ+o+vade	unbesiedelte
 ADJ	naḫḫupat	naḫḫ+o+vade	unbesiedelte
 ADJ	natkammani	natk+āmm+a+ni	zerstört?
+ADJ	natkamman	natk+amm+a+ni	zerstört?
 ADJ	ninuwaḫi	ninuwa+ġe	ninivitisch
 ADJ	nirši	nir+že	gut
 ADJ	nirš	nir+že	gut
@@ -36,23 +44,33 @@ ADJ	paḫruši	faġr+o+že	gut; schön
 ADJ	paḫruwat	faġr+o+vāde	ungut
 ADJ	paḫruwati	faġr+o+vāde	ungut
 ADJ	pailia	pa+ilia	gebaut
+ADJ	pali	pāli	falsch
+ADJ	pal	pāli	falsch
 ADJ	šallai	šallae	verschluckte
 ADJ	šiḫali	šeġali	rein
 ADJ	šiḫal	šeġali	rein
 ADJ	šiḫalupat	šēġal+o+bade	unrein
 ADJ	šituilia	šēd+oʾ+ilia	fett-gemachte
+ADJ	suk	sūgi	klein?
+ADJ	šummi	šummi	alle; ganz
 ADJ	šummi	šummi	ganz; gänzlich
 ADJ	šumm	šummi	ganz; gänzlich
+ADJ	šupi	šōbi	böse
 ADJ	takiši	tage+že	hell
 ADJ	takuri	tāg+ō+re	beleuchtet (?)
 ADJ	talamti	talam+di	groß
 ADJ	talapaši	talāv+a+že	groß
+ADJ	talapuši	talav+ō+že	groß
 ADJ	talapuši	talāv+o+že	groß
+ADJ	talmi	talmi	groß
 ADJ	talmuḫ	talm+oḫḫe	groß
 ADJ	tapilia	tab+ilia	Gegossene
 ADJ	tatiašši	tād+i+a+šše	die Liebende; die Liebliche
 ADJ	tii	tei	viel
 ADJ	timiri	timeri	dunkel
+ADJ	tišši	tešše	erhaben
+ADJ	tišši	tešši	erhaben
+ADJ	tišš	tešše	erhaben
 ADJ	titipatuḫḫ	tid+i+vad+o+ḫḫe	unzählig?
 ADJ	tukrišuḫ	tugriž+ō+ġe	von Tugriz
 ADJ	turuḫḫi	tor+o+ḫḫe	männlich
@@ -61,6 +79,10 @@ ADJ	turuḫḫ	tor+o+ḫḫe	männlich
 ADJ	ulluḫḫ	ōll+o+ḫḫe	niedergedrückt?
 ADJ	ulpi	olvi	fremd?
 ADJ	upi	ove	töricht
+ADJ	urḫi	ūrġi	wahr
+ADJ	urḫ	ōrġi	wahr
+ADJ	urḫ	ūrġi	wahr
+ADJ	uruntal	orundali	hinterer
 ADJ	uwi	ove	töricht
 ADV	ammi	āmmī	zuvor
 ADV	anam	anam	so
@@ -74,12 +96,17 @@ ADV	ašḫuwi	āšḫo+e	hinauf
 ADV	ati	adi	so
 ADV	ḫaruwi	ḫāru+i	u.B.
 ADV	ḫini	ḫenni	jetzt
+ADV	ḫinna	ḫenna	jetzt
 ADV	ḫinni	ḫenni	jetzt
 ADV	ia	īa	warum
 ADV	inna	īnna	so
+ADV	inu	inu	wie
 ADV	inummi	enummē	wie
+ADV	nutuwi	nōdū+i	u.B.
 ADV	pantin	fandi+n	rechts
 ADV	šapui	šāvō+e	u.B.
+ADV	sarrui	sarru+i	u.B.
+ADV	šini	šini	ferner; weiterhin; wieder
 ADV	šini	šini	weiterhin; wieder; ferner
 ADV	šinsuḫḫ	šin+z+o+ḫḫe	zum anderen
 ADV	šukki	šokki	zum einen
@@ -94,8 +121,11 @@ ADV	turia	tūri	unten; hinab
 ADV	turii	tūrī+e	hinab
 ADV	turi	tūri	unten; hinab
 ADV	ukku	ukku	u.B.
+ADV	unnu	onnu	nun
+ADV	untu	ondu	so
 ADV	ZAG-in	fandi+n	rechts
 CONJ	ai	ai	falls; wenn
+CONJ	aii	ai	falls; wenn
 CONJ	alaši	alāže	ob; entweder
 CONJ	annu	ānnu	u.B.
 CONJ	E	ai	falls; wenn
@@ -111,11 +141,20 @@ CONJ	untu	ondu	nun
 INTJ	au	aō	Siehe!
 INTJ	ḫuwi	ḫuwe	u.B.
 INTJ	ui	ue	nein
+NF	mal	mal	u.B.
+NF	nap	nāb	sterben
+NF	tun	ton	ausstatten
+NF	tunummi	ton+ummi	ausstatten
 noun	10-p	Teššob	DN
 noun	10-šup	Teššob	DN
+noun	10-šup	Teššop	DN
+noun	10-šuw	Teššob	DN
 noun	10-	Teššob	DN
 noun	10-upp	Teššob	DN
 noun	10-up	Teššob	DN
+noun	10up	Teššob	DN
+noun	10-up	Teššop	DN
+noun	10up	Teššop	DN
 noun	2-ḫ	šin+am+ġe	zweifach
 noun	30-ḫ	Kužuġ	DN
 noun	30-	Kužuġ	DN
@@ -126,6 +165,11 @@ noun	A-A	Aia	Ea (DN)
 noun	A-A-	Aia	Ea (DN)
 noun	aḪARr	aġri	Weihrauch
 noun	aḫarri	aġarri	Weihrauch
+noun	AḪluki	aġluge	u.B.
+noun	AḪluki	eġluge	u.B.
+noun	AḪluki	iġluge	u.B.
+noun	AḪluki	oġluge	u.B.
+noun	AḪluki	uġluge	u.B.
 noun	aḫmišari	āġmižari	u.B.
 noun	aḫr	aġri	Weihrauch
 noun	aḫri	aġri	Weihrauch
@@ -143,6 +187,8 @@ noun	aka	aga	(Land) diesseits
 noun	ak	agi	u.B.
 noun	akašši	ag+a+šše	u.B.
 noun	aki	agi	u.B.
+noun	akir	agēri	u.B.
+noun	akiš	ag+i+že	u.B.
 noun	akkati	akk+ade	u.B.
 noun	akuli	aguli	u.B.
 noun	akurn	ag+ūr+ni	Verzierung
@@ -153,6 +199,7 @@ noun	alaši	al+ā+že	u.B.
 noun	alḫi	alġi	u.B.
 noun	alipši	al+ipš+i	Ziegel
 noun	alipt	al+i+pte	u.B.
+noun	alla	ālla+i	Herrin
 noun	allai	ālla+i	Herrin
 noun	allan	Āllāni	DN
 noun	allani	Āllāni	DN
@@ -161,7 +208,9 @@ noun	allansu	Allanzō	DN
 noun	alliḫ	all+ī+ġe	u.B.
 noun	allumat	allum+āde	u.B.
 noun	allumi	allumi	u.B.
+noun	alp	ālbi	u.B.
 noun	alp	ālvi	u.B.
+noun	als	alzi	u.B.
 noun	alsialli	ālžīālli	Widersprecher?
 noun	alšialli	ālžīālli	Widersprecher?
 noun	altai	aldā+i	u.B.
@@ -178,25 +227,27 @@ noun	ami	āmi	u.B.
 noun	amiri	amīri	u.B.
 noun	amissatu	Amissadu	DN
 noun	ammanni	āmm+a+nni	u.B.
+noun	ammumk	ammumgi	u.B.
+noun	ammumki	ammumgi	u.B.
 noun	ammummi	amm+u+mmi	Administrator
 noun	ammurami	ammurami	u.B.
 noun	ammušikkunni	amm+ož+ikk+o+nni	u.B.
 noun	amp	āmbi	u.B.
 noun	ampaš	amb+a+že	Brandopfer
+noun	ampašši	amb+a+šše	Brandopfer
 noun	amum	am+o+mi	Botschaft
 noun	amumi	amm+u+mmi	Administrator
 noun	amuri	amuri	u.B.
 noun	anaki	anagi	u.B.
 noun	ananariški	an+an+ar+i+ški	Freude?
-noun	an	Ani	DN
+noun	an	Āni	DN
 noun	ananišḫ	an+an+e+šḫe	Freude?; Erfreuliches?
 noun	an	ani	u.B.
-noun	ani	Ani	DN
-noun	ani	Āni	u.B.
+noun	ani	Āni	DN
 noun	anni	anni	u.B.
 noun	annipi	annivi	u.B.
-noun	anšal	ānž+ali	u.B.
-noun	ansanki	anz+angi	u.B.
+noun	anšal	ānz+ali	u.B.
+noun	ansank	anz+angi	u.B.
 noun	ans	anzi	u.B.
 noun	ANŠE.KUR.RA-	išši	u.B.
 noun	ansi	anzi	u.B.
@@ -208,7 +259,9 @@ noun	apalḫi	av+al+ġe	u.B.
 noun	apali	av+al+i	Feld
 noun	apari	abāri	Blei?
 noun	apari	ab+ar+i	u.B.
-noun	apari	avari	Feld
+noun	apari	avari	offenes Land
+noun	apart	abardi	u.B.
+noun	aparti	abardi	u.B.
 noun	*ap	avi	Gesicht
 noun	ap	avi	Gesicht
 noun	ap	avi	u.B.
@@ -230,7 +283,9 @@ noun	apsu	Apsu	GN
 noun	apsukk	āpsukki	u.B.
 noun	apunti	abundi	Feld
 noun	araki	arāgi	u.B.
+noun	aransiḫ	Aranziḫ	GN
 noun	aransiḫu	Aranziġō	GN
+noun	aransulin	aranz+ūll+i+nni	u.B.
 noun	arari	ārari	das Böse
 noun	ar	āri	das Böse
 noun	ari	āri	das Böse
@@ -245,7 +300,12 @@ noun	armimmi	arm+i+mmi	u.B.
 noun	arn	arni	Sünde
 noun	arn	ārni	u.B.
 noun	arni	arni	Sünde
+noun	arnunni	arn+o+nni	u.B.
+noun	arnup	arnubi	u.B.
+noun	arnupat	arn+o+bade	u.B.
+noun	arnupati	arn+o+bade	u.B.
 noun	arpari	arb+ar+i	u.B.
+noun	arrulutḫi	arr+ol+o+tḫe	u.B.
 noun	art	arde	Stadt
 noun	arti	arde	Stadt
 noun	artiḫi	arde+ġe	Stadtangehöriger
@@ -275,8 +335,11 @@ noun	ašiḫi	až+i+ġe	u.B.
 noun	asiri	assīri	Gefangener
 noun	asiri	aziri	u.B.
 noun	ašiwl	ažiuli	u.B.
+noun	aškulišši	ašk+ol+i+šše	u.B.
 noun	ašmunikalu	Ažmo.Nigalō	PN
+noun	ašn	āžni	u.B.
 noun	ašni	ažne	Gallenblase
+noun	ašrat	āžrādi	u.B.
 noun	ašri	āžri	u.B.
 noun	aššan	āššani	u.B.
 noun	aššani	āššani	u.B.
@@ -295,11 +358,13 @@ noun	ašuḫi	až+oġi	Essen
 noun	ašuḫi	ažōġi	u.B.
 noun	ašukali	ažugali	u.B.
 noun	ašukalli	ažugallē	u.B.
+noun	asuri	az+o+re	u.B.
 noun	asusḫ	azusḫi	u.B.
 noun	asusḫi	azusḫi	u.B.
 noun	ata	atta	Vater?
 noun	at	ade	u.B.
 noun	atal	adāl	stark; der Starke
+noun	atalšin	Adal.šen	DN
 noun	atamḫi	ad+am+ġe	u.B.
 noun	atan	ad+ā+ni	Schemel
 noun	atani	ad+ā+ni	Schemel
@@ -342,6 +407,7 @@ noun	GEŠTU-	noi	Ohr
 noun	GE-ti	GE6.te	Nacht
 noun	GE-ti	mide	u.B.
 noun	GIG-ḫuli	GIG+o+ġ+o+li	Kranker
+noun	GÍR-ri	ḫāri	Weg
 noun	GIŠ.GIM.MAŠ-	Kalgamiž	Gilgamesh (PN; DN)
 noun	GIŠ-	tāle	Baum; Holz
 noun	GÙB-i	šapḫaldi	linke Seite; links
@@ -352,13 +418,17 @@ noun	GU-ri	ped+ar+i	Rind
 noun	GU.ZA-ḫi	kešḫi	Thron
 noun	ḫaḫḫi	ḫāḫḫi	u.B.
 noun	ḫaḫi	ḫāġi	u.B.
+noun	ḫaḫman	ḫaġmani	u.B.
 noun	ḫaiḫi	ḫa+i+ġe	u.B.
 noun	ḫaikali	ḫāigali	Palast
+noun	ḫairn	ḫāīr+ni	u.B.
+noun	ḫaiš	ḫā+i+že	u.B.
 noun	ḫaiši	ḫā+i+že	u.B.
 noun	ḫalanti	ḫalandi	u.B
 noun	ḫalikkuli	ḫalikkuli	u.B.
 noun	ḫalmi	ḫal+mi	Sänger
 noun	ḫalpa	Ḫalba	GN
+noun	ḫalpa-LÚ-i	Ḫalba.taġe	PN
 noun	ḫalp	Ḫalba	GN
 noun	ḫalsi	ḫalze	Distrikt
 noun	ḫalsuḫl	ḫalz+ō+ġ+li	Distriktverwalter
@@ -366,7 +436,16 @@ noun	ḫaluli	ḫālōli	Weintrauben
 noun	ḫamari	ḫam+ar+i	u.B.
 noun	ḫamasiaš	ḫamaz+i+a+šše	Unterdrücker
 noun	ḫamasiaši	ḫamaz+i+a+šše	Unterdrücker
+noun	ḫamasiri	ḫamaz+i+re	Bedrücker?
+noun	ḫammi	ḫammi	u.B.
+noun	ḫamr	ḫamri	ein Heiligtum
 noun	ḫamri	ḫamri	ein Heiligtum
+noun	ḫams	ḫamzi	u.B.
+noun	ḫamsi	ḫamzi	u.B.
+noun	ḫamsitan	ḫamz+id+a+ni	u.B.
+noun	ḫamsitani	ḫamz+id+a+ni	u.B.
+noun	ḫamsitann	ḫamz+id+a+nni	u.B.
+noun	ḫamsitanni	ḫamz+id+a+nni	u.B.
 noun	ḫan	ḫāni	Kind; Säugling
 noun	ḫan	ḫani	u.B.
 noun	ḫani	ḫāni	Kind; Säugling
@@ -387,6 +466,7 @@ noun	ḫapurni	ḫavor+ni	Himmel
 noun	ḫapurun	ḫavor+ni	Himmel
 noun	ḫapuši	ḫāb+o+že	u.B.
 noun	ḫapuši	ḫāv+ō+že	u.B.
+noun	ḫapuši	ḫavūži	u.B.
 noun	ḫaraḫi	ḫār+a+ġe	u.B.
 noun	ḫarḫarai	Ḫarġarai	DN
 noun	ḫarḫaraima	Ḫarġaraima	DN
@@ -410,13 +490,23 @@ noun	ḫašari	ḫāž+ar+i	Öl
 noun	ḫašarr	ḫāž+arri	Öl
 noun	ḫašarri	ḫāž+arri	Öl
 noun	ḫašaši	ḫāž+a+že	u.B.
+noun	ḫašaši	ḫažāži	u.B.
+noun	ḫašaši	ḫāžaži	u.B.
 noun	ḫašašimmi	ḫāž+až+i+mmi	u.B.
 noun	ḫaš	ḫāži	u.B.
 noun	ḫasian	ḫaziani	Bürgermeister
+noun	ḫašianni	ḫažianni	u.B.
+noun	ḫaši	ḫāži	u.B.
+noun	ḫašikkunni	ḫāž+i+kk+o+nni	Sprecher?, Schwätzer?
+noun	ḫašilt	ḫaž+il+di	u.B.
 noun	ḫašimari	Ḫažimari	GN
-noun	ḫašimmi	ḫāži+mmi	u.B.
+noun	ḫašimm	ḫāži+mmi	u.B.
 noun	ḫašimmii	ḫāži+mmē	u.B.
+noun	ḫašipata	ḫāž+i+bade	u.B.
+noun	ḫašipat	ḫāž+i+bade	u.B.
 noun	ḫašir	ḫāžeri	Dolch
+noun	ḫaširi	ḫāžeri	Dolch
+noun	ḫaširi	ḫaž+i+re	u.B.
 noun	ḫasis	ḫassizi	Verstand
 noun	ḫaššiati	ḫaššiadi	Bogen?
 noun	ḫaššiati	ḫaššiadi	u.B.
@@ -426,32 +516,48 @@ noun	ḫassis	ḫassizi	Verstand
 noun	ḫassisi	ḫassizi	Verstand
 noun	ḫaštali	ḫašt+al+i	u.B.
 noun	ḫaštalli	ḫaštalli	u.B.
+noun	ḫaštu(-)ti	ḫaštōde	u.B.
+noun	ḫaštu(-)tipi	tive	Wort; Sache
+noun	ḫašuši	ḫāž+o+že	u.B.
 noun	ḫatimi	ḫademi	u.B.
+noun	ḫatnuni	ḫadn+ō+ni	u.B.
 noun	ḫawsuḫ	ḫauz+o+ġe	u.B.
 noun	ḫiar	ḫi+ar+i	Gold
 noun	ḫiari	ḫiari	u.B.
 noun	ḫiaruḫḫ	ḫi+ar+o+ḫḫe	Gold; Goldenes; golden
 noun	ḫiaruḫḫi	ḫi+ar+o+ḫḫe	Gold; Goldenes; golden
-noun	ḫi	ḫē	u.B.
 noun	ḫiḫuši	ḫēġ+ō+že	u.B.
 noun	ḫiiaruḫḫi	ḫi+ar+o+ḫḫe	Gold; Goldenes; golden
+noun	ḫil	ḫeli	Ruhm
 noun	ḫil	ḫili	u.B.
 noun	ḫiliḫi	ḫil+i+ġe	u.B.
 noun	ḫilišt	ḫīlēšti	u.B.
 noun	ḫillaḫḫuri	ḫell+aḫḫ+ō+re	u.B.
 noun	ḫillami	ḫillame	u.B.
+noun	ḫillikkunni	ḫill+i+kk+o+nni	Schwätzer?
 noun	ḫiltar	ḫild+ār+i	u.B.
 noun	ḫilt	ḫilde	u.B.
 noun	ḫilti	ḫelde	u.B.
 noun	ḫilti	ḫilde	u.B.
 noun	ḫilup	ḫelōvi	Ruhm
+noun	ḫimsiḫi	ḫimz+i+ġe	u.B.
 noun	ḫins	ḫenzi	Schuld?
 noun	ḫins	ḫinz	u.B.
+noun	ḫinsukar	ḫinz+ugar+i	u.B.
 noun	ḫinsuri	ḫinzori	Apfel
+noun	ḫiparan	ḫeb+ara+ni	u.B.
+noun	ḫiparan	ḫebara+ni	u.B.
+noun	ḫiparani	ḫeb+ara+ni	u.B.
+noun	ḫiparani	ḫebara+ni	u.B.
+noun	ḫipari	ḫeb+ar+i	u.B.
+noun	ḫipari	ḫebari	u.B.
+noun	ḫiparn	ḫibar+ni	u.B.
 noun	ḫiparni	ḫibar+ni	u.B.
+noun	ḫiparuli	ḫebāroli	u.B.
 noun	ḫipat	Ḫebad	DN
 noun	ḫipatu	Ḫēbādu	DN
 noun	ḫip	ḫib	u.B.
+noun	ḫipratun	ḫibr+ad+ō+ni	u.B.
 noun	ḫipullat	ḫiv+oll+āde	u.B.
 noun	ḫiraḫ	ḫiraġe	u.B.
 noun	ḫiraḫi	ḫeraġi	Oberarm
@@ -466,9 +572,12 @@ noun	ḫiriti	ḫir+īdi	Graben?
 noun	ḫišal	ḫežāli	nackt, Nackter
 noun	ḫišari	ḫīž+ār+i	u.B.
 noun	ḫišartuḫuli	ḫiž+ar+d+o+ġ+o+li	u.B.
+noun	ḫiši	ḫēži	u.B.
+noun	ḫišmani	ḫežm+a+ni	glänzend?
 noun	ḫišm	ḫižmi	Glanz, glänzend
 noun	ḫišmi	ḫižmi	Glanz, glänzend
-noun	ḫitam	Ḫīdam	DN
+noun	ḫiššul	ḫeššūli	u.B.
+noun	ḫitam	Ḫīdam	Hedammu (DN)
 noun	ḫiti	ḫide	u.B.
 noun	ḫituri	ḫīdūri	u.B.
 noun	ḫuiḫ	ḫō+i+ġe	Ruf?; das Rufen?
@@ -478,9 +587,11 @@ noun	ḫuini	ḫowe+ni	u.B.
 noun	ḫuini(-)ipa(-)n	evani	u.B.
 noun	ḫuini(-)ipa(-)nippi	ḫowe+ni	u.B.
 noun	ḫuini(-)ipa(-)nippi	nippi	u.B.
+noun	ḫuipaḫ	ḫuibāġe	u.B.
 noun	ḫuišš	ḫo+i+šše	Ruf; Aufruf
 noun	ḫuišši	ḫo+i+šše	Ruf; Aufruf
 noun	ḫuitḫ	ḫō+ī+tḫe	u.B.
+noun	ḫuiti	ḫō+idi	u.B.
 noun	ḫulammi	ḫōlā+mmi	u.B.
 noun	ḫulils	ḫōlel+zi	u.B.
 noun	ḫulilsi	ḫōlel+zi	u.B.
@@ -490,6 +601,11 @@ noun	ḫulluri	ḫull+o+re	u.B.
 noun	ḫumari	ḫōmari	Lapislazuli
 noun	ḫumari	ḫōmari	u.B.
 noun	ḫumarri	ḫōmari	Lapislazuli
+noun	ḫummati	ḫōmm+ade	u.B.
+noun	ḫummatikkunni	ḫōmm+ad+i+kk+o+nni	u.B.
+noun	ḫumm	ḫōmmi	u.B.
+noun	ḫummi	ḫōmmi	u.B.
+noun	ḫummikkunni	ḫōmm+i+kk+o+nni	u.B.
 noun	ḫumni	ḫōmni	Asche; Staub
 noun	ḫumparši	ḫomb+ar+ži	u.B.
 noun	ḫuni	ḫōuni	u.B.
@@ -498,6 +614,8 @@ noun	ḫupi	ḫōbi	u.B.
 noun	ḫupiti	ḫōb+idi	Stierkalb
 noun	ḫupitut	ḫōbidōdi	u.B.
 noun	ḫupn	ḫubni	u.B.
+noun	ḫuppatals	ḫōpp+ad+al+zi	u.B.
+noun	ḫuppatalsi	ḫōpp+ad+al+zi	u.B.
 noun	ḫupr	ḫōbri	u.B.
 noun	ḫupri	ḫōbri	u.B.
 noun	ḫupši	ḫōpši	u.B.
@@ -506,9 +624,11 @@ noun	ḫupti	ḫōpte	u.B.
 noun	ḫupuri	ḫuburi	u.B.
 noun	ḫura	ḫōra	Schoß
 noun	ḫurami	ḫōrāmi	u.B.
+noun	ḫurat	ḫōrade	ḫurade-Soldat
 noun	ḫur	ḫōri	Schoß
 noun	ḫuri	ḫōri	Schoß
 noun	ḫuri	ḫōri	u.B.
+noun	ḫurmari	ḫōrm+ar+i	u.B.
 noun	ḫurpati	ḫōrv+āde	u.B.
 noun	ḫurpi	ḫōrvi	u.B.
 noun	ḪUR.SAG-an	paba+ni	Berg
@@ -525,18 +645,21 @@ noun	ḫušti	ḫušte	u.B.
 noun	ḫušuni	ḫōžuni	u.B.
 noun	ḫušuri	ḫōžuri	u.B.
 noun	ḫutan	ḫōd+a+nni	Gebet
+noun	ḫutanki	ḫōd+ang+i	Gebet?
 noun	ḫutannaraš	ḫōd+a+nn+ar+a+že	u.B.
 noun	ḫutann	ḫōd+a+nni	Gebet
 noun	ḫutanni	ḫōd+a+nni	Gebet
+noun	ḫutašš	ḫōd+a+šše	u.B.
 noun	ḫutḫ	ḫutḫi	Preisung
 noun	ḫutḫi	ḫutḫi	Preisung
 noun	ḫuti	Ḫōde	DN
 noun	ḫuti	ḫōde	u.B.
 noun	ḫutilluri	Ḫōdellori	DN
-noun	ḫutirna(-)aš(-)tuḫul	tōġuli	u.B.
+noun	ḫutiri	ḫōd+ī+re	u.B.
 noun	ḫutirna	ḫōder+na	u.B.
 noun	ḫutirni	ḫōder+ni	u.B.
 noun	ḫutr	ḫōdri	u.B.
+noun	ḫutušš	ḫōd+o+šše	u.B.
 noun	ḫuwapai	Ḫuwava+i	DN
 noun	ḫuwi	ḫowe	u.B.
 noun	ḫuwi(-)kauti	ḫūigaudi	u.B.
@@ -556,9 +679,13 @@ noun	iḫari	iġari	u.B.
 noun	iḫḫ	ēḫḫi	u.B.
 noun	iḫḫi	ēḫḫi	u.B.
 noun	iḫi	eġi	u.B.
+noun	iḫilli	iġelli	u.B.
 noun	iḫliana	eġli+ana	Retter?
 noun	iḫli	eġli	Rettung
 noun	iḫliḫi	eġl+i+ġe	u.B.
+noun	iḫlipati	eġl+i+bade	u.B.
+noun	i	ie	u.B.
+noun	iin	eni	Gottheit
 noun	iini	ieni	u.B.
 noun	ik	egi	Inneres; Mitte; innere
 noun	ik	egi	u.B.
@@ -568,6 +695,7 @@ noun	iki	igi	u.B.
 noun	ikin	egi	Inneres; Mitte; innere
 noun	ikinkališ	Igingališ	GN
 noun	ikinni	ege+nni	Inneres, innere
+noun	ikiri	egiri	u.B.
 noun	ikkammašši	ikk+amm+a+šše	u.B.
 noun	ikki	egi	Inneres; Mitte; innere
 noun	ikki	ēkke	u.B.
@@ -577,6 +705,7 @@ noun	ikušši	eg+o+šše	Reinheit, rein
 noun	ikututki	eg+ud+ut+ki	Unreinheit; Verunreinigung
 noun	ila	ela	Schwester
 noun	ilami	Elami	GN
+noun	ilamiḫurra	Ilamiġorra	PN
 noun	ilamirḫi	elm+ir+ġe	Eidgemäßer(?)
 noun	ilamtuḫi	Ilamd+ō+ġe	GN
 noun	ilapa	Ilāvā	GN
@@ -588,10 +717,12 @@ noun	ili	eli	Fest
 noun	il	ili	u.B.
 noun	ilišk	eliški	u.B.
 noun	ilišk	ileški	u.B.
+noun	iliti	el+idi	u.B.
 noun	ilk	ēlgi	Applikation
 noun	ilki	ēlgi	Applikation
 noun	illaia	Illaia	GN
 noun	illaš	ell+a+že	u.B.
+noun	illuḫullašši	elluġ+ull+a+šše	u.B.
 noun	illul	īll+uli	u.B.
 noun	ilm	elmi	Eid; Schwur
 noun	ilmi	elmi	Eid; Schwur
@@ -609,6 +740,7 @@ noun	IM-ši	IM+še	Wind
 noun	IMši	IM+še	Wind
 noun	inaraš	en+ar+a+že	u.B.
 noun	inarḫ	en+ar+ġe	u.B.
+noun	inati	enādi	u.B.
 noun	in	eni	Gottheit
 noun	inḫar	inġ+ar+i	u.B.
 noun	inḫ	ēnġi	u.B.
@@ -622,10 +754,15 @@ noun	initḫari	in+i+tḫ+ar+i	u.B.
 noun	inn	enni	u.B.
 noun	inni	enni	u.B.
 noun	innikalti	ennigaldi	u.B.
+noun	innuni	inn+ō+ni	u.B.
+noun	insar	en+zari	Götterschaft
 noun	insari	en+zari	Götterschaft
 noun	intani	ind+a+ni	u.B.
 noun	intan	ind+a+ni	u.B.
 noun	intanni	ind+a+nni	u.B.
+noun	inumansi	enum+a+n+ze	u.B.
+noun	inumašši	en+u+m+a+šše	u.B.
+noun	inumašši	enumašše	u.B.
 noun	inutupi	en+ud+ōbi	u.B.
 noun	inutupi	enudōbi	u.B.
 noun	ipani	ebāni	u.B.
@@ -651,7 +788,9 @@ noun	ipr	evri	Herr
 noun	ipri	evri	Herr
 noun	iprin	ever+ni	König
 noun	iprins	evren+ze	u.B.
+noun	iprišḫi	ēbr+e+šḫi	u.B.
 noun	iprišši	evr+in+že	Herrschaft
+noun	iprui	ēbruwē	u.B.
 noun	ipšati	īpšade	u.B.
 noun	irana	er+āna	Abgabe
 noun	iran	er+āni	Abgabe
@@ -665,6 +804,7 @@ noun	irni	ērni	u.B.
 noun	irpi	ervi	Hund
 noun	irpir	ērbiri	u.B.
 noun	irpiri	ērbiri	u.B.
+noun	irš	irži	u.B.
 noun	irti	irde	Zunge
 noun	irt	irde	Zunge
 noun	irtupanni	irdōv+ā+nni	u.B.
@@ -693,6 +833,7 @@ noun	išk	iški	u.B.
 noun	IŠKUR-p	Teššob	DN
 noun	IŠKUR-	Teššob	DN
 noun	IŠKUR-up	Teššob	DN
+noun	išpiat	išpiadi	Zinnen?
 noun	iššai	eššae	u.B.
 noun	ištani	ištani	Inneres
 noun	ištan	ištani	Inneres
@@ -709,9 +850,13 @@ noun	išuḫn	ižuġ+ni	Silber
 noun	isusi	izuzi	Emmer
 noun	isus	izuzi	Emmer
 noun	itḫi	itḫi	u.B.
-noun	it	idi	Körper; Bezug
+noun	it	ide	Körper; Bezug
 noun	it	idi	u.B.
-noun	iti	idi	Körper; Bezug
+noun	it	iedi	u.B.
+noun	itiḫl	edeġli	Prinz?
+noun	itiḫli	edeġli	Prinz?
+noun	iti	ide	Körper; Bezug
+noun	iti	ide	selbst
 noun	itinna	idenna	Baumeister
 noun	itinni	idenni	Baumeister
 noun	itkalsi	itkal+zi	Reinheit, Reinigung
@@ -733,14 +878,21 @@ noun	kakani	kaġ+a+ni	u.B.
 noun	kakan	kaġ+a+ni	u.B.
 noun	kakkari	kakkari	ein Brot
 noun	kakkar	kakkari	ein Brot
+noun	kalapiš	kalab+i+že	u.B.
+noun	kalapiški	kalab+i+ški	u.B.
 noun	kali	kāli	u.B.
 noun	kal	kāli	u.B.
 noun	kal	kal	u.B.
 noun	kalkamiš	Kalgamiž	Gilgamesh (PN; DN)
+noun	kalmuri	kalmuri	u.B.
+noun	kalsi	kalzi	u.B.
+noun	kals	kalzi	u.B.
 noun	kamali	kamali	u.B.
+noun	kamask	kamaski	u.B.
 noun	kami	kamme	ein Tier
 noun	kammaḫḫi	kamm+a+ḫḫe	u.B.
 noun	kammanḫ	kamm+an+ġe	u.B.
+noun	kammask	kammaski	u.B.
 noun	kammi	kamme	ein Tier
 noun	kammiššuri	kammiššōri	Birne?
 noun	kampi	kamve	u.B.
@@ -760,6 +912,7 @@ noun	kari	kare	Vogelfänger
 noun	kari	kāri	u.B.
 noun	kariš	kariži	u.B.
 noun	karkani	karg+ā+ni	u.B.
+noun	karkarni	kargar+ni	Panzer
 noun	kark	karg	u.B.
 noun	karši	karži	Lippen
 noun	karš	karži	Lippen
@@ -774,17 +927,26 @@ noun	KASKAL-r	ḫāri	Weg
 noun	KASKAL-ri	ḫāri	Weg
 noun	kas	kāze	Becher
 noun	kaš	kāze	Becher
+noun	kas	kāzi	u.B.
 noun	kaš	kāži	u.B.
 noun	kašk	Kaška	GN
 noun	kašli	kažli	stark, Stärke
 noun	kašl	kažli	stark, Stärke
 noun	kassi	kāze	Becher
+noun	kassuri	kass+o+re	u.B.
 noun	kašti	kašti	Bogen
 noun	katal	kād+ali	u.B.
 noun	kati	kāde	Gerste?
 noun	kati	kadi	u.B.
+noun	katikkunni	kad+i+kk+o+nni	Sprecher?
+noun	katikkunni	kād+i+kk+o+nni	Sprecher?; Denunziant?
+noun	katimmašš	kād+imm+a+šše	u.B.
+noun	katinturi	kād+ind+ō+re	das durch sie Gesagte?
+noun	katiri	kad+i+re	der Sprechende; der Sagende
+noun	katital	kaderi	u.B.
 noun	katki	kat+ki	Spruch
 noun	katk	kat+ki	Spruch
+noun	katt	katti	u.B.
 noun	kiaši	kiaže	Meer
 noun	KI.GUB-ḫi	šindaġe	ein Leberteil
 noun	kiḫi	kiġe	u.B.
@@ -792,12 +954,20 @@ noun	kiḫi	kiḫḫe	u.B.
 noun	kiḫi	kiʾe	u.B.
 noun	kikkuni	kikk+o+ni	u.B.
 noun	kiklipatalli	Kiglibadalli	PN
+noun	kilani	kilāne	u.B.
+noun	kilaniš	kil+ān+i+že	u.B.
+noun	kilaš	kēl+ā+že	u.B.
+noun	kilḫi	kelġi	u.B.
 noun	kilḫiti	kēlġēdi	u.B.
 noun	kili	kili	u.B.
 noun	kilta(-)arti	arde	Stadt
 noun	kilta(-)arti	keld+ardi	u.B.
 noun	kilti	kel+di	Wohl
 noun	kilt	kel+di	Wohl
+noun	kiltuwi	kelduwi	u.B.
+noun	kiltuw	kelduwi	u.B.
+noun	kiluliš	kēl+ol+i+že	u.B.
+noun	kimi	kēmi	Fundament?
 noun	kin	keni	u.B.
 noun	kin	kini	u.B.
 noun	kinnari	kinn+ār+i	u.B.
@@ -807,9 +977,11 @@ noun	kinn	kenni	u.B.
 noun	kipašši	kev+a+šše	u.B.
 noun	kipi	kēbi	u.B.
 noun	kipi	kevi	u.B.
+noun	kipi	kibi	u.B.
 noun	kipi	kippe	u.B.
 noun	kip	kēbi	u.B.
 noun	kip	kevi	u.B.
+noun	kip	kibi	u.B.
 noun	kipli	keb+li	Jäger
 noun	kippi	kippe	u.B.
 noun	kippi	kippi	Macht?
@@ -820,23 +992,28 @@ noun	kipurḫi	kiv+ōr+ġē	u.B.
 noun	kipuri	kev+o+re	u.B.
 noun	kipuri	kiburi	u.B.
 noun	kipuš	kev+o+že	u.B.
+noun	kirari	kēr+ar+i	u.B.
 noun	kirarini	kir+ari+ni	u.B.
+noun	kirarin	kēr+ari+ni	u.B.
 noun	kirarin	kir+ari+ni	u.B.
 noun	kirarinni	kir+ar+i+nni	u.B.
 noun	kirarinn	kir+ar+i+nni	u.B.
+noun	kirar	kēr+ar+i	u.B.
 noun	kirarni	kir+ari+ni	u.B.
 noun	kirarn	kir+ari+ni	u.B.
 noun	kirḫi	kirġe	(Umwallung der) Oberstadt
 noun	kiri	kērē	u.B.
+noun	kiri	kēri	u.B.
 noun	kiri	kire	u.B.
 noun	kirinsi	kire+n+ze	Freilassung
 noun	kirins	kire+n+ze	Freilassung
-noun	kir	kēri	u.B.
 noun	kir	kiri	u.B.
+noun	kiruḫi	kir+o+ġē	u.B.
 noun	kišarši	kiž+ar+že	u.B.
 noun	kišḫi	kešḫi	Thron
 noun	kišḫ	kešḫi	Thron
 noun	kišipsupai	kižipsōvae	u.B.
+noun	kišipsup	kižipsōvae	u.B.
 noun	kisiri	kīziri	u.B.
 noun	kisirši	kīzir+že	u.B.
 noun	kiškišiašši	kiš+kiž+i+a+šše	u.B.
@@ -848,14 +1025,17 @@ noun	kišši(-)tamašši	tam+a+šše	u.B.
 noun	kitap	kīdāvi	ein Gewand
 noun	kitatuši	kēd+ad+o+že	u.B.
 noun	kit	kēdi	u.B.
+noun	kulamsuri	kōl+am+z+uri	u.B.
 noun	kulamurn	kulamur+ni	u.B.
 noun	kulamurri	kul+am+ō+rre	u.B.
 noun	kulamututki	kul+am+ud+ut+ki	Verleumdung
 noun	kulamututk	kul+am+ud+ut+ki	Verleumdung
+noun	kulia alli	kūlialli	Sprecher?
 noun	kuliḫ	kul+i+ġe	Ausspruch?; das Sprechen?
 noun	kuli	kuli	u.B.
 noun	kulimašši	kul+i+m+ā+šše	u.B.
 noun	kulimmaššuḫḫ	kul+i+mm+ā+šš+ō+ḫḫe	u.B.
+noun	kuliri	kōl+i+re	u.B.
 noun	kul	kuli	u.B.
 noun	kulmi(-)ḫuštal	kulmi	u.B.
 noun	kulmi(-)ḫušt	ḫušte	u.B.
@@ -880,6 +1060,8 @@ noun	kumuri	kūmuri	u.B.
 noun	kumur	kōmuri	u.B.
 noun	kuni	kune	u.B.
 noun	kunkalli	kungallē	Fettschwanzschaf
+noun	kunsiḫ	kunz+i+ġe	Verbeugung?; das Verbeugen?
+noun	kunsi	kunzi	Palast
 noun	kuntari	kundari	u.B.
 noun	kuntari	kundāri	u.B.
 noun	kunti	kunde	u.B.
@@ -928,12 +1110,15 @@ noun	LÚ-ka	taġ+akka	Mann
 noun	LÚ-k	taġ+akka	Mann
 noun	lullimpar	lull+i+mb+ar+i	u.B.
 noun	lullui	Lullue	GN
+noun	lušturi	lōšt+o+re	u.B.
+noun	maḫi	māġi	u.B.
 noun	maḫiri	maġiri	Marktplatz
 noun	maḫitti	maġitti	u.B.
 noun	maḫri	māġri	u.B.
 noun	maḫuri	maġōri	u.B.
 noun	maittan	maētta+ni	u.B.
 noun	makalti	magaldi	ein Brot
+noun	makp	makpi	u.B.
 noun	mali	mali	u.B.
 noun	mallat	mall+ade	Schüssel; Schale
 noun	mal	mali	u.B.
@@ -947,25 +1132,49 @@ noun	mannuwali	mānnuwali	u.B.
 noun	mannuwalli	mānnuwalli	u.B.
 noun	mantukki	mandukki	u.B.
 noun	mantukk	mandukki	u.B.
+noun	mantukk	māndukki	u.B.
+noun	manul	mānoli	u.B.
 noun	manur	mān+o+re	u.B.
+noun	maraššanta	Maraššanda	GN
 noun	marašti	marašte	u.B.
+noun	mariannui	mariannui	Streitwagenkämpfer
+noun	mariannu	mariannu	Streitwagenkämpfer
 noun	mari	mari	u.B.
 noun	marišḫi	mar+i+šḫe	u.B.
+noun	mar	mari	u.B.
 noun	marni	marne	u.B.
 noun	martamani	mardam+a+ni	u.B.
 noun	martaman	mardam+a+ni	u.B.
 noun	martamanni	Mardamanni	GN
 noun	martamanni	mardam+a+nni	u.B.
+noun	marun	mar+ō+ni	u.B.
 noun	maruši	maroži	Krankheit
 noun	masanuri	mazanuri	u.B.
 noun	maški	māški	Schale?
+noun	massaḫ	massaġi	u.B.
+noun	mass	massi	u.B.
+noun	matani	mad+a+ni	u.B.
+noun	matanna	mad+a+nni	u.B.
+noun	matann	mad+a+nni	u.B.
 noun	matili	mādili	u.B.
 noun	matill	mādilli	u.B.
 noun	mati	mādi	Weisheit
+noun	matiri	māderi	u.B.
+noun	matišḫ	mād+i+šḫi	u.B.
 noun	matl	madli	u.B.
 noun	mat	mādi	Weisheit
+noun	miḫultani	miġ+ul+d+a+ni	u.B.
+noun	miḫult	miġuldi	u.B.
 noun	miki	Mēgi	PN
+noun	mili	mili	u.B.
+noun	miluli	milōli	u.B.
+noun	mini	mēni	u.B.
 noun	mini	mini	Nacht?
+noun	mini	mini	u.B.
+noun	min	mena	Geschwister?; Zwilling?
+noun	min	mēni	u.B.
+noun	min	mini	u.B.
+noun	mip	mēbi	u.B.
 noun	miri	mēri	u.B.
 noun	miri	mīri	u.B.
 noun	mirišḫi	mir+e+šḫi	u.B.
@@ -973,8 +1182,8 @@ noun	mir	mēri	u.B.
 noun	mirša	mirži	u.B.
 noun	mirš	mirži	u.B.
 noun	mirulap	mir+ul+avi	u.B.
+noun	mitkitt	mitkitti	u.B.
 noun	mukišanun	Mūgižanun	GN
-noun	munḫi	munġi	u.B.
 noun	munḫ	munġi	u.B.
 noun	mun	muni	u.B.
 noun	munurimi	mūnurimi	u.B.
@@ -982,9 +1191,13 @@ noun	murḫulišt	murġulišti	u.B.
 noun	muri	mōri	u.B.
 noun	murri	mōrri	u.B.
 noun	murr	murri	u.B.
+noun	mušni	muž+ni	Ordnung
+noun	mušn	muž+ni	Ordnung
+noun	mušn	mūž+ni	Ordnung?; Gerechtigkeit?
 noun	mušuni	Mužoni	DN
 noun	mušuni	muž+u+ni	Heger?; Bauer?
 noun	mušun	Mužoni	DN
+noun	mušun	muž+u+ni	Heger?; Bauer?
 noun	mušun	muž+u+ni	u.B.
 noun	mušunni	Mužoni	DN
 noun	muwiri	mū+i+re	u.B.
@@ -993,6 +1206,7 @@ noun	naḫḫuš	naḫḫ+o+že	Sitzgelegenheit
 noun	naḫḫutḫi	naḫḫ+ō+tḫe	Sitzgelegenheit
 noun	naḫḫutḫ	naḫḫ+ō+tḫe	Sitzgelegenheit
 noun	naḫmasuli	Naġmazuli	DN
+noun	naḫulin	naġ+ōll+i+nni	u.B.
 noun	naia	naīa	u.B.
 noun	naiḫi	na+i+ġē	Weide
 noun	naii	nāie	u.B.
@@ -1002,29 +1216,46 @@ noun	nakiri	nagēri	u.B.
 noun	nakkašḫ	nakk+a+šḫe	u.B.
 noun	nakti	nakti	u.B.
 noun	nakti	nakti	zerstört?; Ruine?
+noun	naktumi	naktumi	u.B.
 noun	nali	nāli	Rehbock
 noun	nali	nāli	u.B.
+noun	nalmun	nālm+o+ni	u.B.
+noun	nal	nāli	u.B.
 noun	naltiri	nāldiri	u.B.
+noun	naluiri	nālōeri	u.B.
+noun	nalun	nāl+ō+ni	u.B.
 noun	namli	namli	Bett
 noun	naml	namli	Bett
 noun	namni	Namni	GN
 noun	nani	nāni	u.B.
+noun	nanuiri	nānuiri	u.B.
 noun	napani	navani	u.B.
 noun	napari	Nabari	DN
 noun	napari	nab+ar+i	u.B.
 noun	napari	Navari	GN
 noun	naparpi	Nabarbi	DN
+noun	napati	nābadi	u.B.
 noun	napi	nave	(Todes-)Schicksal?
 noun	napi	nave	u.B.
+noun	napinn	nab+i+nni	u.B.
+noun	napiš	nab+i+že	u.B.
+noun	napiš	nāb+i+že	u.B.
+noun	nap	nabi	u.B.
 noun	nap	nave	(Todes-)Schicksal?
 noun	napni	nabni	u.B.
 noun	napn	nabni	u.B.
+noun	napr	nabri	u.B.
+noun	napuši	nāb+ō+že	u.B.
+noun	napušinn	nāb+ōž+i+nni	u.B.
+noun	napuš	nāb+ō+že	u.B.
 noun	našaki	nažāgi	u.B.
 noun	našarni	nāž+ar+ni	u.B.
 noun	našp	našpi	u.B.
 noun	natḫi	natḫi	Bett
 noun	natḫ	natḫi	Bett
 noun	natki	natki	u.B
+noun	natki	natki	u.B.
+noun	natkini	natki+ni	u.B.
 noun	nauni	nau+ni	Weide
 noun	naun	nau+ni	Weide
 noun	nawun	nau+ni	Weide
@@ -1059,11 +1290,13 @@ noun	nipir	niviri	u.B.
 noun	nippilup	Nippilova	GN
 noun	nipr	nibri	u.B.
 noun	nira	nera	Mutter
+noun	nirḫi	nirġi	u.B.
 noun	nirḫ	nirġi	u.B.
 noun	niri	neri	gut; Güte
 noun	nir	nera	Mutter
 noun	nir	neri	gut; Güte
 noun	nirni	nēr+ni	Mutter
+noun	nirut	nir+ud+i	u.B.
 noun	nišḫi	nešḫi	u.B.
 noun	nišši	nešši	Gabe
 noun	nišš	nešši	Gabe
@@ -1074,6 +1307,8 @@ noun	nuḫ	nōġ	u.B.
 noun	nuḫuni	nuġ+o+ni	u.B.
 noun	nui	noi	Ohr
 noun	nulati	nul+ade	u.B.
+noun	nuli	nuli	nuli-Soldat
+noun	nul	nuli	nuli-Soldat
 noun	num	nūmi	u.B.
 noun	numri	numri	u.B.
 noun	numr	numri	u.B.
@@ -1092,9 +1327,16 @@ noun	nutansaḫ	nudan+z+a+ġe	u.B.
 noun	nutiri	nōdiri	u.B.
 noun	nutkiḫ	nutk+i+ġe	u.B.
 noun	nutuš	nūd+o+že	u.B.
+noun	nuw	noi	Ohr
 noun	paḫan	pāġani	u.B.
 noun	paḫantari	paġ+and+ar+i	u.B.
+noun	paḫantinn	pāġ+and+i+nni	u.B.
+noun	paḫantinsi	paġ+and+i+n+zi	u.B.
+noun	paḫantinsi	pāġ+and+i+n+zi	u.B.
+noun	paḫanti	pāġandi	u.B.
+noun	paḫant	pāġ+and+i	u.B.
 noun	paḫari	paġari	u.B.
+noun	paḫar	pāġ+ar+i	u.B.
 noun	paḪARri	pāġarri	u.B.
 noun	paḪARri	pāġurri	u.B.
 noun	paḪARri	pāmurri	u.B.
@@ -1104,11 +1346,16 @@ noun	paḫii	pāġi	Kopf
 noun	paḫilai	pāġilāe	u.B.
 noun	paḫi	pāġi	Kopf
 noun	paḫi	paġi	u.B.
+noun	paḫiri	pāġ+i+rī	u.B.
+noun	paḫiri	pāġirī	u.B.
+noun	paḫir	paġiri	u.B.
+noun	paḫir	pāġiri	u.B.
 noun	paḫli	paġ+li	u.B.
 noun	paḫmi	paġmi	u.B.
 noun	paḫ	pāġi	Kopf
 noun	paḫr	faġri	gut; Gutes
 noun	paḫri	faġri	gut; Gutes
+noun	paii	paie	u.B.
 noun	paili	faeli	u.B.
 noun	paini	pāeni	u.B.
 noun	paini	pāini	Tamariske?
@@ -1122,16 +1369,19 @@ noun	paipipl	Paib.Ebla	PN
 noun	pairi	pa+i+re	Erbauer
 noun	pairi	pāiri	u.B.
 noun	pair	pa+i+re	Erbauer
+noun	paiti	faide	u.B.
 noun	pakamm	pag+a+mme	u.B.
 noun	palaḫ	palaġi	u.B.
 noun	palaḫ	palaḫḫi	u.B.
 noun	palaḫ	palaʾe	u.B.
 noun	pali	pāli	falsch
+noun	palir	pālēri	u.B.
 noun	pal	pāli	falsch
 noun	pannir	panniri	u.B.
 noun	pantani	fand+a+ni	recht, rechte Seite
 noun	pantarini	fand+ar+i+nni	Koch
 noun	pantarinn	fand+ar+i+nni	Koch
+noun	pantarinni	fand+ar+i+nni	Koch
 noun	pantari	pand+ar+i	u.B.
 noun	pant	fandi	recht, rechte Seite
 noun	panti	fandi	recht, rechte Seite
@@ -1145,12 +1395,13 @@ noun	papni	pab+ni	Berg
 noun	par	fāri	u.B.
 noun	parḫi	parġi	Hof
 noun	parḫ	parġi	Hof
-noun	pari	fāri	u.B.
 noun	parii	fārē	u.B.
 noun	parili	pārili	Ärgernis; Verfehlung
 noun	paril	pārili	Ärgernis; Verfehlung
 noun	parini	uw+ar+i+nni	Bäcker
 noun	pari	pāri	u.B.
+noun	paripi	pāribi	u.B.
+noun	parip	pāribi	u.B.
 noun	pariruni	pār+i+r+o+ni	u.B.
 noun	parirunni	pār+i+r+o+nni	u.B.
 noun	parirun	pār+i+r+o+ni	u.B.
@@ -1158,6 +1409,7 @@ noun	pariši	pāriže	u.B.
 noun	parisi	pārizi	ein halbes Kor
 noun	pariš	pār+i+že	u.B.
 noun	parissati	pariss+ade	ein halbes Kor
+noun	park	pargi	u.B.
 noun	park	pārgi	u.B.
 noun	par	pari	Stirnlocke?
 noun	par	pāri	u.B.
@@ -1170,8 +1422,12 @@ noun	pašann	pāž+a+nni	u.B.
 noun	paš	fāži	Mund
 noun	paš	fāži	u.B.
 noun	paši	fāži	Mund
+noun	paši	fāži	u.B.
 noun	paši	pāže	u.B.
+noun	paši	pāži	Mund
+noun	pašiti	fāž+idi	u.B.
 noun	paš	pāže	u.B.
+noun	paš	pāži	Mund
 noun	paššaḫḫi	pāšš+aḫḫ+i	Bote?
 noun	paššar	fašš+ar+i	u.B.
 noun	paššarukar	pašš+ar+ugār+i	u.B.
@@ -1185,14 +1441,18 @@ noun	pass	passi	u.B.
 noun	pašuli	faž+ūli	u.B.
 noun	pa⸣suranni	faz+ur+a+nni	Orator
 noun	patiḫi	fadeġi	u.B.
+noun	patk	patki	u.B.
 noun	patni	padni	u.B.
 noun	pattari	pāttari	u.B.
+noun	pattinn	patt+i+nni	u.B.
 noun	patti	patte	u.B.
+noun	patti	patti	u.B.
 noun	pattipuri	pāttīvori	u.B.
+noun	patt	patti	u.B.
 noun	patturi	pattōri	u.B.
 noun	piari	pīari	u.B.
 noun	piar	pīari	u.B.
-noun	piḫḫ	fēḫḫi	u.B.
+noun	piḫḫi	fēḫḫi	u.B.
 noun	piḫi	pēġi	u.B.
 noun	piḫi	piġi	u.B.
 noun	piḫ	piġi	u.B.
@@ -1212,7 +1472,8 @@ noun	pirḫina	Pērġēna	GN
 noun	pirḫin	Pērġēni	GN
 noun	pirḫup	pērġubi	u.B.
 noun	piri	piri	u.B.
-noun	piriški	fir+iški	u.B.
+noun	pirišk	fer+i+ški	u.B.
+noun	piriški	fer+i+ški	u.B.
 noun	pir	Pēri	GN
 noun	pir	piri	u.B.
 noun	pirri	pirri	u.B.
@@ -1223,8 +1484,10 @@ noun	pišaišpi	Fižaišfi	u.B.
 noun	pišḫi	pišḫi	u.B.
 noun	pisikarra	Pizigarra	PN
 noun	piširi	pižiri	u.B.
+noun	pišši	fēšši	u.B.
 noun	pitari	ped+ar+i	Rind
 noun	pitar	ped+ar+i	Rind
+noun	pitiḫiki	pideġigi	u.B.
 noun	pitkir	pitkiri	u.B.
 noun	pitp	fitfi	u.B.
 noun	pit	pīdi	u.B.
@@ -1233,12 +1496,16 @@ noun	pitturi	pittōri	u.B.
 noun	pituri	pedōri	u.B.
 noun	pitušši	pid+o+šše	u.B.
 noun	pitušš	pid+o+šše	u.B.
+noun	puḫi	pōġi	Ersatz; Tausch
+noun	puḫ	pōġi	Ersatz; Tausch
 noun	puḫuiri	puġuiri	u.B.
 noun	puḫuir	puġuiri	u.B.
 noun	pui	powe	u.B.
 noun	pukat	fog+ādi	u.B.
 noun	pukukari	fog+ugar+i	Finger?
 noun	pukulp	pugulbi	u.B.
+noun	pukuri	pōgori	u.B.
+noun	pukutar	pōg+ud+ār+i	u.B.
 noun	puli	poli	u.B.
 noun	puli	puli	u.B.
 noun	puliti	pul+idi	u.B.
@@ -1253,10 +1520,8 @@ noun	pup	fovi	u.B.
 noun	pural	for+ali	u.B.
 noun	purali	for+ali	u.B.
 noun	puralin	fōr+all+i+nni	Opferschauer
-noun	puralini	fōr+all+i+nni	Opferschauer
 noun	purali	pōrali	u.B.
 noun	puralis	fōr+all+i+n+ze	u.B.
-noun	puralisi	fōr+all+i+n+ze	u.B.
 noun	puralisii	fōr+all+i+n+ze	u.B.
 noun	purallini(-)nišš	nešši	Gabe
 noun	purallinni	fōr+all+i+nni	Opferschauer
@@ -1272,13 +1537,19 @@ noun	puranti	Purandi	GN
 noun	pur	fōri	Blick
 noun	purḫ	purġi	u.B.
 noun	puri	fōri	Blick
+noun	purikkunni	fōr+i+kk+o+nni	Sehender?
+noun	puripat	fōr+i+bāde	u.B.
+noun	purir	fōr+i+re	u.B.
+noun	purit	fōr+idi	u.B.
 noun	purit	pōr+idi	u.B.
-noun	purpurni	pur+bur+ni	u.B.
+noun	purn	pōrni	Tempel
+noun	purn	purni	u.B.
 noun	purpurn	pur+bur+ni	u.B.
 noun	purra	Purra	PN
 noun	purrinni	pur+i+rē+nni	u.B.
 noun	puruli	fōroli	Tempel
 noun	purulšari	fōrol+žari	u.B.
+noun	purumt	pōr+umdi	u.B.
 noun	purunsiḫi	fōrunz+i+ġe	u.B.
 noun	puruššui	foruššueni	u.B.
 noun	puruššuin	foruššueni	u.B.
@@ -1287,10 +1558,13 @@ noun	puruššuini	foruššue+nni	u.B.
 noun	puruššuinni	foruššue+nni	u.B.
 noun	purušui	foruššueni	u.B.
 noun	purušuini	foruššue+nni	u.B.
+noun	pušši	fūšše	u.B.
 noun	puššinni	pošš+i+nni	u.B.
 noun	pušši	pōšši	u.B.
+noun	pušši	puššē	u.B.
 noun	pušši	pušši	u.B.
 noun	puss	pussi	u.B.
+noun	pušš	pušši	u.B.
 noun	putarin	fud+ar+i+nni	Abwäscher
 noun	putiḫi	fod+i+ġe	u.B.
 noun	putk	fut+ki	Sohn
@@ -1306,7 +1580,7 @@ noun	šaḫari	šāġ+ar+i	Ziegenbock
 noun	šaḫatnati	šaġad+n+adi	Hälfte
 noun	saḫḫ	saḫḫi	Bandwurmfinne
 noun	šaḫli	šāġlē	u.B.
-noun	šaḫl	šāġli	u.B.
+noun	šaḫli	šāġli	u.B.
 noun	šaḫurunuwa	Šaġurunuwa	PN
 noun	šaišḫi	šā+i+šḫe	u.B
 noun	šakar	šag+ar+i	u.B.
@@ -1322,6 +1596,9 @@ noun	šali	šāli	u.B.
 noun	šallaii	šallaie	u.B.
 noun	šallai	šallaie	u.B.
 noun	sallap	sāllavi	u.B.
+noun	salmi	salmi	Bild; Statue
+noun	salmišḫ	salm+i+šḫi	u.B.
+noun	salm	salmi	Bild; Statue
 noun	sal	sāli	u.B.
 noun	sal	salmi	Bild; Statue
 noun	šamani	šāmani	u.B.
@@ -1332,10 +1609,14 @@ noun	ŠÀ-n	ištani	Inneres
 noun	sankanti	sangandi	u.B.
 noun	sansami	sanzāmi	u.B.
 noun	šan	šāni	u.B.
+noun	sanukar	san+ugar+i	u.B.
 noun	šapalani	šab+al+a+ni	u.B.
 noun	šapalan	šab+al+a+ni	u.B.
+noun	šapali	šabali	u.B.
+noun	šapali	šavali	Jahr
 noun	sapalki	sabal+gi	u.B.
 noun	sapalk	sabal+gi	u.B.
+noun	šapall	šaballi	u.B.
 noun	sapari	sabari	u.B.
 noun	šapatni	šabad+ni	u.B.
 noun	šapatni	šavad+ni	u.B.
@@ -1343,21 +1624,32 @@ noun	šapḫalti	šapḫaldi	linke Seite; links
 noun	šapin	šabeni	u.B.
 noun	šapinuwa	Šabinuwa	GN
 noun	saplašši	sabl+a+šše	u.B.
+noun	šapli	šabli	u.B.
 noun	šapli	šavli	Jahr
+noun	šapl	šabli	u.B.
 noun	šapl	šavli	Jahr
 noun	saplunki	sabl+ung+i	u.B.
+noun	šappuši	šapp+o+že	u.B.
 noun	sapri	sabri	böse
+noun	šap	šabi	u.B.
+noun	sapsapi	sap+sab+i	u.B.
+noun	sapsappi	sap+sab+i	u.B.
+noun	šapti	šapti	u.B.
 noun	šapui	šāv+ō+ʾe	u.B.
 noun	šapurn	šabur+ni	u.B.
 noun	šapuši	šav+ō+že	erhaben
 noun	šapuška	Šavoška	DN
 noun	šarammi	šarāmmē	u.B.
 noun	šararm	šarārmi	u.B.
+noun	šari	šari	u.B.
 noun	šari	šāri	u.B.
 noun	šari	šāri	Wunsch
+noun	šarkapšarri	Šargap.šarri	PN
 noun	sarmati	Sarmade	GN
 noun	šarnitḫi	šarn+i+tḫe	u.B.
+noun	šarraššiḫ	šarr+a+šši+ġe	zum Königtum gehörig
 noun	šarrašši	šarr+a+šše	Königtum
+noun	šarrašš	šarr+a+šše	Königtum
 noun	šarri	šarrē	u.B.
 noun	šarri	šarri	Gottkönig
 noun	šarr	šarri	Gottkönig
@@ -1367,6 +1659,7 @@ noun	šaršarai	Šaržārai	DN
 noun	šar	šāri	u.B.
 noun	šar	šāri	Wunsch
 noun	šarš	šarže	u.B.
+noun	šarti	šarde	u.B.
 noun	sasalla	Sāzalla	PN
 noun	šašari	šažari	Säge
 noun	šasir	šaziri	u.B.
@@ -1376,7 +1669,6 @@ noun	šašpi	šašfe	u.B.
 noun	šašpi	šašfe	Zicklein
 noun	sašr	sažri	u.B.
 noun	sassari	sāss+ar+i	u.B.
-noun	sassini	sassi+ni	u.B.
 noun	sassin	sassi+ni	u.B.
 noun	sassi	sassi	u.B.
 noun	sasult	saz+ul+di	u.B.
@@ -1387,6 +1679,7 @@ noun	šatir	šaderi	u.B.
 noun	šatn	šadni	u.B.
 noun	šattaḫamur	šattaġamōri	u.B.
 noun	šauška	Šavoška	DN
+noun	šawri	šauri	Waffe
 noun	šawr	šauri	Waffe
 noun	šiaiašši	šīaiašše	u.B.
 noun	šiali	šiali	u.B.
@@ -1400,15 +1693,20 @@ noun	šiḫalaššiḫi	šeġal+a+šše+ġe	u.B.
 noun	šiḫa	šēġa	Tor
 noun	šiḫatt	šīġ+ātti	u.B.
 noun	šiḫatulimašši	šēġ+ad+ul+i+m+a+šše	u.B.
+noun	šiḫilli	šeġelli	rein; Reinheit
 noun	šiḫilli	šeġli	rein; Reinheit
 noun	šiḫils	šeġel+zi	u.B.
 noun	šiḫir	šeġiri	u.B.
+noun	siḫi	sēġi	u.B.
 noun	šiḫli	šeġli	rein; Reinheit
 noun	šiḫl	šeġli	u.B.
 noun	šiḫri	šeġri	u.B.
 noun	šiḫr	šeġri	angenehm; großzügig
 noun	šiḫrul	šeġr+oli	u.B.
+noun	šiḫruns	šeġrun+ze	u.B.
+noun	šiḫrušḫi	šeġr+o+šḫi	u.B.
 noun	šiḫ	šēġa	Tor
+noun	siḫ	sēġi	u.B.
 noun	šiḫ	šīġi	u.B.
 noun	šiḫuni	šeġōni	u.B.
 noun	šiḫurninni	šeġor+n+i+nni	u.B.
@@ -1420,21 +1718,29 @@ noun	sikalti	sigaldi	u.B.
 noun	sikaltuši	sigald+o+že	u.B.
 noun	sikarulli	sig+ar+ulli	u.B.
 noun	šikati	šig+adi	u.B.
+noun	šikatiš	šīg+ad+i+že	u.B.
 noun	šikat	šig+adi	u.B.
 noun	sikil	sīgili	u.B.
 noun	šikki	šikki	Pflock?; Balken?
+noun	šikk	šīkki	u.B.
 noun	sikkuḫ	sikk+o+ġe	zerbrochen
+noun	sikkus	sikkuzi	u.B.
 noun	šiklati	šigl+ade	Schekel
 noun	sikrušḫi	sigr+ō+šḫe	u.B.
+noun	šilaḫikkunni	šil+aġ+i+kk+o+nni	u.B.
 noun	šilaḫi	šilāġi	u.B.
+noun	šilaḫi	šīlaġi	u.B.
 noun	šilaluḫi	šilaluġi	u.B.
 noun	šilap	šilavi	u.B.
+noun	šillatar	šīll+ad+ār+i	u.B.
 noun	šilli	šelli	Haus
 noun	šill	šelli	Haus
 noun	šilluḫlupši	šell+o+ġ+l+o+pše	u.B.
 noun	šilluḫuli	šell+o+ġ+o+li	Hausangehöriger?
 noun	šillušš	šell+o+šše	u.B.
 noun	silmi	selmi	u.B.
+noun	šilp	šelbi	u.B.
+noun	šilpun	šelb+o+ni	u.B.
 noun	šil	šeli	u.B.
 noun	šilumutḫi	šil+um+ō+tḫe	u.B.
 noun	šiluši	šel+o+žē	u.B.
@@ -1445,13 +1751,18 @@ noun	šimi	šimi	u.B.
 noun	simitati	simidadi	u.B.
 noun	simitat	simidadi	u.B.
 noun	simmi	simmi	u.B.
+noun	šinaḫi	šin+a+ġe	zur zweiten (Position) gehörig?
+noun	šinammaturi	Šīnammadōri	PN
 noun	šina	šena	Bruder
+noun	šininn	šen+i+nni	u.B.
 noun	šini	šeni	u.B.
 noun	šinnaḫini	šinnaġi+ni	u.B.
 noun	šinn	šēn+ni	Bruder
 noun	šinn	šēnni	u.B.
+noun	šinnukkali	šinnukkali	u.B.
 noun	šin	šena	Bruder
 noun	šin	šeni	u.B.
+noun	šin	ši+ni	Auge
 noun	šin	šī+ni	Auge
 noun	šinsuw	šen+z+ūwi	zweiter
 noun	šintaḫi	šindaġe	ein Leberteil
@@ -1473,10 +1784,12 @@ noun	sipi	sibi	u.B.
 noun	šip	šibi	u.B.
 noun	sipsiḫḫ	sips+i+ḫḫe	u.B.
 noun	širammi	šērāmmi	Norden
+noun	širank	šēr+ang+i	u.B.
 noun	širḫ	šer+ġe	u.B.
 noun	širḫ	šerġi	u.B.
 noun	širi	Šēri	DN
 noun	širi	šēri	jeder?
+noun	širi	šēri	u.B.
 noun	širi	šīri	u.B.
 noun	širi	šīri	Zahl
 noun	širišu	Šērižu	DN
@@ -1486,8 +1799,12 @@ noun	širni	šīr+ni	u.B.
 noun	širn	šīr+ni	Glanz?
 noun	širn	šīr+ni	u.B.
 noun	širpi	šervi	u.B.
+noun	širp	šerbi	u.B.
 noun	sirri	serrē	Esel
 noun	šir	šēri	jeder?
+noun	šir	šēri	u.B.
+noun	šir	šīri	u.B.
+noun	šir	šīri	Zahl
 noun	širši	šer+že	u.B.
 noun	širur	šīrūri	u.B.
 noun	ši	šī	Auge
@@ -1498,6 +1815,7 @@ noun	šišpi	šešfe	Zicklein
 noun	šiššali	šeššali	u.B.
 noun	šiššalli	šeššalli	u.B.
 noun	šiš	šēži	u.B.
+noun	sissir	siss+i+re	u.B.
 noun	šišti	šešti	u.B.
 noun	šištuḫalsi	šeštuġ+al+zi	u.B.
 noun	šitarni	šid+ar+ni	Fluch
@@ -1529,45 +1847,68 @@ noun	šuḫuri	šōġori	Leben
 noun	šuḫuri	šōġuri	u.B.
 noun	šuḫuri	šuġori	u.B.
 noun	šui	šōe	u.B.
+noun	šui	šōē	u.B.
 noun	sui	sōī	u.B.
+noun	šui	šōi	u.B.
 noun	šui	šui	u.B.
+noun	sukamitt	sūgamitti	u.B.
+noun	šukammuir	šūg+amm+uiri	u.B.
 noun	sukasukanišš	suga+zūga+ni+šše	u.B.
 noun	sukasukani	suga+zūga+ni	u.B.
 noun	šukatti	šūgatte	u.B.
 noun	šuki	šūgē	u.B.
 noun	šuki	šūgi	Dach?
 noun	sukitti	sūgētte	u.B.
+noun	šukkani	šokk+a+ni	der eine
 noun	sukki	sukki	u.B.
 noun	šukkunn	šukk+o+nni	u.B.
 noun	šukkun	šukk+o+ni	u.B.
+noun	šukkuti	šukkudi	vereint?
 noun	šukkutt	šukk+utti	u.B.
 noun	sulišk	sūl+eški	u.B.
+noun	suliš	sūl+i+že	u.B.
 noun	sulki	sul+gi	Bindung?
 noun	šulli	šolli	Kohle
 noun	šull	šolli	Kohle
+noun	šull	šulli	u.B.
 noun	šullupri	šullūbri	ein Gebäck
 noun	šul	šūli	u.B.
 noun	suluši	sul+ō+že	u.B.
 noun	suluti	sūl+ūde	u.B.
 noun	šumali	šumali	u.B.
+noun	šuman	šumm+a+ni	u.B.
+noun	sumḫari	sumġari	u.B.
 noun	sumḫar	sumġar	u.B.
+noun	šummanini	šumm+a+ni+ne	u.B.
+noun	šummani	šumm+a+ni	u.B.
 noun	šummanni	šumm+a+nni	u.B.
 noun	šumman	šumm+a+ni	u.B.
 noun	šummir	šummeri	u.B.
 noun	šummunni	šummōnni	Hand
+noun	šummunturi	šōmm+und+o+re	der durch sie ausgehändigte?; der durch sie bestimmte?
+noun	šummu(-)unturi	šomm+und+ō+re	der durch sie ausgehändigte?; der der sich bestimmte?
+noun	šummu(-)unturi	šōmm+und+o+re	der durch sie ausgehändigte?; der durch sie bestimmte?
+noun	šummu(-)unturi	und+o+re	u.B.
+noun	šummu(-)unturi	und+ō+re	u.B.
+noun	šumniški	šumni+ški	Lehrling?
 noun	šum	šumi	u.B.
 noun	šumun	šumni	Hand
 noun	šumuri	šōmuri	u.B.
 noun	šumuri	šumuri	u.B.
+noun	šunḫ	šunġi	u.B.
 noun	šuni	šō+ni	Hand
 noun	suni	sōni	u.B.
+noun	šunsišḫi	šunz+e+šḫi	u.B.
+noun	šunsi	šunzi	u.B.
 noun	šun	šō+ni	Hand
 noun	sun	sōni	u.B.
 noun	šuntin	šundi+ni	u.B.
 noun	šupala	šowala	Wein
 noun	supar	sōbāri	u.B.
+noun	šuparš	šub+ar+že	u.B.
 noun	šupa	šowa	Tag
 noun	supḫur	sōpḫōri	u.B.
+noun	supini	sōve+ne	u.B.
 noun	supi	sōve	u.B.
 noun	šupi	šubi	u.B.
 noun	supitt	subitti	u.B.
@@ -1579,6 +1920,7 @@ noun	šupriana	šubri+ana	u.B.
 noun	šupri	šubri	u.B.
 noun	šup	šowa	Tag
 noun	šupt	šūpti	u.B.
+noun	šupuši	šub+ō+že	u.B.
 noun	šurakkann	šurakk+a+nni	u.B.
 noun	šurani	šūrani	u.B.
 noun	suranki	sūr+ang+i	u.B.
@@ -1594,15 +1936,19 @@ noun	šurn	šūrni	u.B.
 noun	šurpiki	šurbēgi	u.B.
 noun	šurpiki	šurbigi	u.B.
 noun	šurpi	šūrbē	u.B.
+noun	šurpi	šurbi	u.B.
 noun	šurp	šurbi	u.B.
 noun	šur	šōri	u.B.
 noun	surunki	sur+ung+i	u.B.
 noun	šuruši	šūrūže	u.B.
 noun	suruški	sur+u+ški	u.B.
 noun	šuši	šūži	u.B.
+noun	šu	šōi	u.B.
+noun	sussiši	suss+i+že	u.B.
 noun	sušši	sōšši	u.B.
 noun	sušš	sōšši	u.B.
 noun	sušš	sōšš	u.B.
+noun	sussunni	suss+ō+nni	u.B.
 noun	šuš	šūži	u.B.
 noun	susumak	suzumagi	u.B.
 noun	susunni	suss+ō+nni	u.B.
@@ -1625,9 +1971,11 @@ noun	taḫupi	taġōbi	u.B.
 noun	taḫuwati	taġ+o+vadi	u.B.
 noun	taki	tagi	Licht; hell
 noun	takitu	Tāgidu	DN
+noun	takumi	tagumi	u.B.
 noun	talipp	talippi	u.B.
 noun	tali	tāle	Baum; Holz
 noun	tali	tale	u.B.
+noun	tali	tali	u.B.
 noun	talman	talm+a+ni	u.B.
 noun	talmušši	Talmošše	GN
 noun	tal	tāle	Baum; Holz
@@ -1640,8 +1988,11 @@ noun	tamkar	tamgāri	Händler
 noun	tamkina	Tamgina	DN
 noun	tammarḫi	tamm+ar+ġe	u.B.
 noun	tammatiri	tammaderi	u.B.
+noun	tamri	tamri	u.B.
+noun	tamr	tamr	u.B.
 noun	tam	tami	u.B.
 noun	tanan	tanāni	Verstärkung
+noun	tanimmašuḫḫ	tān+imm+a+ž+o+ḫḫe	u.B.
 noun	tani	tāni	u.B.
 noun	tank	tān+gi	u.B.
 noun	tanni	tanni	u.B.
@@ -1649,22 +2000,28 @@ noun	tann	tanni	u.B.
 noun	tan	tāni	u.B.
 noun	tanumak	tānumāgi	u.B.
 noun	tanuši	tān+o+že	u.B.
+noun	tanuš	tān+o+že	u.B.
 noun	tapakk	tabakki	u.B.
 noun	tapali	taba+li	Schmied
 noun	tapḫ	tapḫi	u.B.
 noun	tapiri	tab+i+re	Gießer
 noun	tapir	tab+i+re	Gießer
+noun	tappuši	šapp+o+že	u.B.
+noun	tappuši	tapp+o+že	u.B.
 noun	taprani	tabrani	Wachholder?
 noun	tapran	tabrani	Wachholder?
 noun	taprinni	tab+i+rē+nni	Schmied
 noun	taprin	tabrini	Wacholder?
 noun	tapr	tabri	Stuhl
+noun	taprup	tabrūwi	u.B.
 noun	tapšaḫḫ	tapš+āġ+i	Mundschenk
 noun	tapšaḫi	tapš+āġ+i	Mundschenk
 noun	tapšaḫ	tapš+āġ+i	Mundschenk
 noun	tapšaḫuḫḫ	tapš+aġ+o+ḫḫe	u.B.
+noun	tapšuiri	tapšōiri	u.B.
 noun	tapšupati	tapš+ō+bāde	u.B.
 noun	tapšurš	tapš+ur+že	u.B.
+noun	tapšuwari	Tapšuwari	DN
 noun	taptani	tapt+a+ni	u.B.
 noun	tapti	tapti	u.B.
 noun	tarali	tarali	u.B.
@@ -1677,10 +2034,17 @@ noun	tari	tāri	u.B.
 noun	tarki	tar+ġe	u.B.
 noun	tarmani	tarm+a+ni	Quelle
 noun	tarman	tarm+a+ni	Quelle
+noun	tarm	šārmi	u.B.
+noun	tarm	tārmi	u.B.
 noun	tarni	tarni	u.B.
 noun	tarpi	tarve	u.B.
 noun	tarr	tarri	u.B.
+noun	taršaš	tarž+a+že	u.B.
 noun	tarši	tarže	u.B.
+noun	tarši	tarži	u.B.
+noun	tarš	tarže	u.B.
+noun	tarš	tarži	u.B.
+noun	taršuan	taržuwa+ni	Mensch
 noun	taršuwani	taržuwa+ni	Mensch
 noun	taršuwansi	taržuwa+n+zi	Menschheit
 noun	taršuwan	taržuwa+ni	Mensch
@@ -1688,13 +2052,16 @@ noun	tar	tāri	Feuer
 noun	tar	tāri	u.B.
 noun	taruni	tār+ō+ni	u.B.
 noun	tasakkaštur	tazakkašturi	u.B.
+noun	tašami	tažame	u.B.
 noun	taši	taže	Geschenk?; Gabe?
 noun	taši	tāže	u.B.
+noun	taši	tāži	u.B.
 noun	taškarḫi	taškar+ġe	Buchsbaum?
 noun	tašmišarri	Tažmi.šarri	PN
 noun	taššami	taššāmi	u.B.
 noun	taššammi	taššāmi	u.B.
 noun	taš	taže	Geschenk?; Gabe?
+noun	tata(-)ḫatultaššinamm	tādi	Liebe
 noun	tatani	tad+a+ni	u.B.
 noun	tatan	tad+a+ni	u.B.
 noun	tatariški	tād+ar+e+ški	u.B.
@@ -1708,6 +2075,7 @@ noun	tat	tādi	Liebe
 noun	tatti	tatti	u.B.
 noun	tatuḫipa	Tado.Ḫeba	PN
 noun	tatuḫip	Tado.Ḫeba	PN
+noun	tatuḫir	tād+ōġ+i+re	u.B.
 noun	tatukar	tad+ugar+i	gegenseitige Liebe
 noun	tawti	taudi	u.B.
 noun	tiati	tēi+ade	u.B.
@@ -1726,25 +2094,35 @@ noun	tillat	tilladi	u.B.
 noun	timiḫ	temiġi	u.B.
 noun	timk	tem+gi	u.B.
 noun	timmani	temm+ā+ni	u.B.
+noun	tini	teni	u.B.
+noun	tini	tē+ni	u.B.
+noun	tini	te+ni	Wort
 noun	tini	tē+ni	Wort; Name?
+noun	tin	teni	u.B.
 noun	tin	tēni	u.B.
 noun	tin	tē+ni	Wort; Name?
+noun	tin	ti+ni	Wort
 noun	tipaḫ	tibāġi	u.B.
 noun	tipati	tibade	u.B.
 noun	tipin	tive	Wort; Sache
 noun	tipin	tīvini	Stroh
 noun	tipi	tebe	u.B.
+noun	tipi	tive	Sache; Wort
 noun	tipi	tive	Wort; Sache
 noun	tippi	teffe	u.B.
 noun	tipšari	tip+šari	Rede, Angelegenheit
 noun	tipšar	tip+šari	Rede, Angelegenheit
 noun	tip	tebe	u.B.
 noun	tip	tibi	u.B.
+noun	tip	tive	Sache; Wort
 noun	tip	tive	Wort; Sache
 noun	tipuli	tīvoli	u.B.
+noun	tipušḫi	tiv+o+šḫe	Rede
 noun	tipušḫi	tiv+o+šḫi	Rede
+noun	tipušḫ	tiv+o+šḫe	Rede
 noun	tipušḫ	tiv+o+šḫi	Rede
 noun	tiša	tiža	Herz
+noun	tišat	težadi	u.B.
 noun	tišcup	Teššob	DN
 noun	tišni	tiž+ni	Herz
 noun	tiššini	tešše+ni	u.B.
@@ -1753,31 +2131,47 @@ noun	tišš	tešše	erhaben
 noun	tiššuḫḫi	tišš+o+ḫḫe	u.B.
 noun	tiššuḫ	tešš+o+ġe	u.B.
 noun	tiššup	Teššob	DN
+noun	tiššup	Teššop	DN
 noun	tiš	teži	u.B.
 noun	tiš	tiža	Herz
 noun	tišuḫarḫi	tež+uġ+ar+ġe	u.B.
 noun	tišuḫarḫ	tež+uġ+ar+ġe	u.B.
 noun	tišuḫ	tež+o+ġe	u.B.
+noun	ti	tē	Name?; Sache; Wort; u.B.
 noun	titir	tederi	u.B.
 noun	titi	tidi	u.B.
 noun	ti	tiye	Wort; Sache
 noun	tit	tidi	u.B.
+noun	tit	tīdi	u.B.
 noun	titt	titti	u.B.
+noun	titt	tītti	u.B.
+noun	tiuni	te+o+ni	u.B.
+noun	tiwp	teubi	u.B.
+noun	tiyi	tiye	Wort; Sache
 noun	t	tei	u.B.
+noun	t	tē	Name?; Sache; Wort
 noun	t	tē	u.B.
+noun	t	tiye	Sache; Wort
 noun	t	tiye	Wort; Sache
 noun	tuḫalsi	tōġal+zi	u.B.
 noun	tuḫatumani	tōġ+ad+om+a+ni	u.B.
 noun	tuḫatumanni	tōġ+ad+om+a+nni	u.B.
 noun	tuḫatuman	tōġ+ad+om+a+ni	u.B.
 noun	tuḫuli	tōġuli	u.B.
+noun	tuḫuši	tōġ+ō+že	u.B.
+noun	tuḫuši	tuġ+ō+že	u.B.
+noun	tuinni	tō+i+nni	u.B.
+noun	tuinn	tō+i+nni	u.B.
 noun	tui	tui	u.B.
 noun	tukali	tugali	u.B.
 noun	tukriš	Tugriž	PN
 noun	tuk	tugi	u.B.
 noun	TUKUL-ri	šauri	Waffe
 noun	TUKUL-	šauri	Waffe
+noun	tuli	tōli	u.B.
 noun	tuli	tuli	u.B.
+noun	tuli	tuli	Weinstock
+noun	tulli	tōlli	u.B.
 noun	tulli	tulli	u.B.
 noun	tulpulimaš	tulbuli+m+a+že	u.B.
 noun	tulpur	tulburi	u.B.
@@ -1789,15 +2183,24 @@ noun	tunaḫḫi	tūn+ā+ḫḫe	u.B.
 noun	tunaḫḫi	tūn+āḫḫ+i	u.B.
 noun	tunili	tōn+ili	u.B.
 noun	tunimmuššuḫḫ	tūn+imm+o+šš+oḫḫe	u.B.
+noun	tuniš	tōn+i+že	u.B.
 noun	tunitḫi	tun+i+tḫe	u.B.
+noun	tuni	tōni	u.B.
+noun	tunki	tungi	u.B.
+noun	tunk	tungi	u.B.
 noun	tun	tūni	Fußschemel?
 noun	tunuwari	tunuwari	u.B.
+noun	tuparn	tuw+ar+ni	u.B.
 noun	tupḫ	tupḫi	u.B.
 noun	tupi	tōbi	Beschwörung
 noun	tuppaišḫi	tuffaē+šḫe	u.B.
 noun	tuppi	tuppi	u.B.
+noun	tupšari	top+šari	Beschwörung?
+noun	tupšikki	tupšikki	u.B.
 noun	tupši	tōpši	u.B.
+noun	tupš	topš	beschwören?
 noun	tupš	tōpši	u.B.
+noun	tupšuri	tupš+o+re	u.B.
 noun	tup	tōbi	Beschwörung
 noun	turp	torove	Feind
 noun	turpuri	turb+ō+re	u.B.
@@ -1809,12 +2212,14 @@ noun	turuwi	torove	Feind
 noun	tutik	tūdi+gi	Abfallhaufen
 noun	tu	tui	u.B.
 noun	tuwarni	tuw+ar+ni	u.B.
+noun	tuwa	Tuwā	PN
 noun	uḫari	uġ+ār+i	u.B.
 noun	uḫi	uġi	Schwein
 noun	uḫni	oġ+ni	u.B.
 noun	uḫni	ōġ+ni	Weh(geschrei)
 noun	uḫuni	oġ+o+ni	Weh(geschrei)
 noun	uḫušamašši	oġ+ōž+a+mā+šše	u.B.
+noun	uḫušamašši	uġ+ōž+am+ā+šše	u.B.
 noun	uḫušš	oġ+ō+šše	u.B.
 noun	uikki	uwēkki	u.B.
 noun	uinapa	Uenawa	GN
@@ -1827,6 +2232,7 @@ noun	ukulsiḫ	ug+ol+z+i+ġe	das Niederknien?
 noun	ulli	ōlli	u.B.
 noun	ulluḫuši	oll+uġ+o+že	u.B.
 noun	ullu	Ūllu	PN
+noun	ulmi	ol+mi	Waffe
 noun	ulmi	ōl+mi	Waffe
 noun	ulmi	ūl+me	Sklavin; Dienerin
 noun	ulm	ōl+mi	Waffe
@@ -1843,52 +2249,70 @@ noun	umpašši	tupp+a+šše	u.B.
 noun	umpašši	umb+a+šše	u.B.
 noun	umpa	Umba	DN
 noun	umpiš	ūmb+i+že	u.B.
+noun	umpi	ūmbi	u.B.
 noun	umpi	umve	u.B.
 noun	ump	Umba	DN
 noun	ump	umbi	u.B.
 noun	umpunturi	umb+und+o+re	u.B.
+noun	umpupat	ūmb+o+bāde	u.B.
 noun	umpu	Umbu	DN
 noun	uniḫi	un+i+ġe	u.B.
 noun	uniḫ	un+i+ġe	u.B.
 noun	unip	univi	u.B.
+noun	uniri	un+i+re	u.B.
+noun	uniri	uniri	u.B.
+noun	unturi	und+o+re	u.B.
 noun	unušḫ	un+o+šḫe	u.B.
 noun	un	uw+o+ni	Brot?
 noun	upilpaiši	Ubilbaeži	GN
 noun	upint	ubindi	u.B.
 noun	upi	obi	Gerste?
 noun	upiptišši	Ubip.tēšši	PN
+noun	upiri	ub+i+re	u.B.
 noun	upi	ubi	Gerste
 noun	upi	ubī	u.B.
+noun	upri	ubri	u.B.
 noun	up	ubi	Gerste
 noun	up	ubī	u.B.
 noun	upukarši	ub+ugar+že	Schlacht
 noun	urai	uraē	u.B.
+noun	urḫati	ōrġadi	u.B.
+noun	urḫat	ōrġadi	u.B.
 noun	urḫi	ūrġi	wahr
 noun	urḫ	ūrġi	wahr
 noun	uri	ori	Fuß
+noun	uri	ori	u.B.
 noun	uri	ure	Mitteilung?; Vorhersage?
 noun	uri	uri	u.B.
 noun	urki	Ōrgi	GN
 noun	urki	ōrgi	u.B.
 noun	urki	urgi	u.B.
 noun	urmi	ūrmi	Leber
+noun	urnašḫi	ōrn+a+šḫe	u.B.
 noun	urnirni	urnir+ni	Finger
 noun	ur	ori	Fuß
 noun	urruki	ūrrugi	u.B.
 noun	urtašši	ūrd+a+šše	u.B.
 noun	URU-	arde	Stadt
 noun	urunni	or+o+nni	hinterer; Rückseite
+noun	urunni	or+o+nni	Rückseite; hinterer
+noun	urunniš	or+o+nni+že	u.B.
 noun	urunn	or+o+nni	hinterer; Rückseite
 noun	urupi	urūbi	u.B.
 noun	ur	ure	Mitteilung?; Vorhersage?
 noun	ur	uri	u.B.
 noun	ururmil	orurmili	u.B.
+noun	uruš	ur+o+že	u.B.
+noun	uruš	urūži	u.B.
 noun	URU-t	arde	Stadt
 noun	URU-ti	arde	Stadt
 noun	ušḫar	ušḫ+ār+i	u.B.
 noun	ušḫuni	ošḫo+ni	Silber
 noun	ušḫun	ošḫo+ni	Silber
+noun	usiri	ozēri	u.B.
+noun	ušitḫi	už+i+tḫe	u.B.
 noun	uši	uže	Fleisch?
+noun	uši	uže	u.B.
 noun	usi	uzi	Fleisch
 noun	ušn	ōžni	u.B.
 noun	uššiḫi	ušš+i+ġe	u.B.
@@ -1907,9 +2331,12 @@ noun	ušti	ūšte	u.B.
 noun	ušunni	už+o+nni	u.B.
 noun	ušun	už+o+ni	u.B.
 noun	uš	uw+o+že	u.B.
+noun	uš	uži	Fleisch?
 noun	uš	uži	u.B.
 noun	utatil	udadeli	u.B.
 noun	utḫari	utḫari	Zeichen?
+noun	utḫišin	utḫižini	u.B.
+noun	utḫiši	utḫ+i+že	u.B.
 noun	utipšari	Odip.šarri	PN
 noun	utipšarra	Udip.šarra	PN
 noun	utipšarr	Udip.šarra	PN
@@ -1929,9 +2356,11 @@ noun	ZAG-i	fandi	recht, rechte Seite
 noun	ZAG-n	fand+a+ni	recht, rechte Seite
 noun	ZAG-ni	fand+a+ni	recht, rechte Seite
 noun	ZAG-t	fandi	recht, rechte Seite
+noun	ZAGt	fandi	recht, rechte Seite
 noun	ZAG-ti	fandi	recht, rechte Seite
 noun	ZÍ-	ažne	Gallenblase
 noun	ZÍ-ni	ažne	Gallenblase
+noun	ZÍni	ažne	Gallenblase
 noun	ZUEN-uḫ	Kužuġ	DN
 NUM	1-EN	šokko	eins; einer
 NUM	2-EN	šine	zwei
@@ -1965,7 +2394,9 @@ NUM	šiši	šēžē	sechs
 NUM	šiš	šēžē	sechs
 NUM	šišši	šēš+še	sechster
 NUM	šukk	šokko	eins; einer
+NUM	šukku	šokko	eins; ein
 NUM	šukku	šokko	eins; einer
+NUM	šuk	šugi	eins
 NUM	tamri	tamri	neun
 NUM	tamr	tamri	neun
 NUM	tummušši	tōmmo+šše	vierter
@@ -1995,6 +2426,7 @@ PRON	iš	iž	1PRON.SG
 PRON	išti	ište	1PRON.SG
 PRON	mana	mān+a	PRON.INDF
 PRON	manii	mānne	3PRON
+PRON	mani	māne	3PRON
 PRON	man	man	3PRON
 PRON	manni	mānne	3PRON
 PRON	manu	manu	3PRON
@@ -2006,10 +2438,27 @@ PRON	šu	šo	1PRON
 PRON	uli	oli	anderer
 PRON	ul	oli	anderer
 unclear	akull	agūlli	u.B.
+unclear	am	ām	u.B.
+unclear	ašḫinpalla	ašḫ+inballa	opfern
+unclear	ḫašimpalla	ḫaž+imballa	hören+imballa
 unclear	ḫiir	ḫēr	u.B.
 unclear	iani	īani	u.B.
+unclear	iḫl	eġl	retten
+unclear	ilul	el+ol	u.B.
+unclear	ippiraš	ēppiraž	u.B.
 unclear	kaššui	kāššui	u.B.
+unclear	kul	kul	sprechen
+unclear	mat	mād	weise sein / machen
+unclear	pa	pā	bauen
+unclear	pirš	pirž	u.B.
+unclear	piršuniana	piržuniana	u.B.
+unclear	sarrutiataš	sarrudiadaž	u.B.
+unclear	širš	šerž	u.B.
+unclear	suss	suss	u.B.
 unclear	šuwanilam	šuwanilam	u.B.
+unclear	šuwanulam	šuwanolam	u.B.
+unclear	tan	tān	machen
+unclear	tipa	tiba	u.B.
 verb	a	a	u.B.
 verb	aḫarš	aġarž	u.B.
 verb	aḫ	aʾ	u.B.
@@ -2020,6 +2469,7 @@ verb	ak	ag	aufnehmen; aufrichten; erheben; heraufkommen
 verb	ak	ag	u.B.
 verb	akarḫ	ag+ar+ġ	u.B.
 verb	akum	agumi	u.B.
+verb	akušk	ag+ušk	u.B.
 verb	al	al	sprechen
 verb	al	al	trinken; tränken
 verb	al	al	u.B.
@@ -2028,8 +2478,9 @@ verb	alḫ	alġ	u.B.
 verb	ali	alē	heranreichen lassen; sich nähern
 verb	alilan	al+il+an	jammern; beklagen; schreien
 verb	all	all	u.B.
+verb	alp	ālb	u.B.
 verb	alp	ālv	u.B.
-verb	als	ālz	u.B.
+verb	als	alz	u.B.
 verb	alt	ald	u.B.
 verb	alu	alu	sprechen
 verb	aluw	alu	sprechen
@@ -2044,13 +2495,16 @@ verb	ana	ana	sich freuen; erfreuen
 verb	an	an	sich freuen
 verb	an	an	u.B.
 verb	ans	anz	u.B.
-verb	anš	ānž	u.B.
+verb	anš	anz	u.B.
 verb	ap	āb	u.B.
+verb	apart	ab+ar+d	u.B.+ar+d
 verb	ap	av	u.B.
+verb	apušk	ab+ušk	retten
 verb	ar	ar	geben
 verb	ar	ari	u.B.
 verb	ar	ar	u.B.
 verb	arm	arm	u.B.
+verb	arn	arn	u.B.
 verb	art	ard	u.B.
 verb	aš	až	abwischen, reinigen
 verb	as	az	u.B.
@@ -2058,6 +2512,8 @@ verb	aš	až	u.B.
 verb	ašḫ	āšḫ	opfern
 verb	aši	aži	u.B.
 verb	ašk	ašk	fragen?; zur Rede stellen?
+verb	ašn	āžn	u.B.
+verb	ašr	āžr	u.B.
 verb	ašš	āšš	(ab)waschen, reinigen
 verb	ašš	āšš	u.B.
 verb	ašta(-)nut	nūd	u.B.
@@ -2070,9 +2526,18 @@ verb	aʾ	aʾ	u.B.
 verb	BA.ÚŠ	BA.ÚŠ	sterben (lassen)
 verb	BA.ÚŠ-t	BA.ÚŠ+d	sterben
 verb	ḫa	ḫa	nehmen
+verb	ḫaḫm	ḫaġm	u.B.
+verb	ḫai	ḫa	nehmen
+verb	ḫal	ḫal	u.B.
 verb	ḫal	ḫāl	wegtragen
+verb	ḫamas	ḫamaz	bedrücken?
+verb	ḫamm	ḫamm	u.B.
+verb	ḫammussul	ḫamm+uss+o+l	u.B.
+verb	ḫams	ḫamz	bedrücken?
+verb	ḫams	ḫamz	u.B.
 verb	ḫan	ḫān	gebären
 verb	ḫapan	ḫabān	überwechseln
+verb	ḫap	ḫāb	u.B.
 verb	ḫapš	ḫapš	werfen?
 verb	ḫar	ḫār	u.B.
 verb	ḪARn	ḫarn	u.B.
@@ -2083,11 +2548,15 @@ verb	ḪARp	Ḫarvi	DN
 verb	ḪARp	ḫurb	u.B.
 verb	ḪARp	murb	u.B.
 verb	ḫaš	ḫaž	hören
+verb	ḫaš	ḫāž	salben
+verb	ḫaš	ḫaž	u.B.
 verb	ḫaš	ḫāž	u.B.
 verb	ḫašt	ḫašt	u.B.
 verb	ḫatḫ	ḫatḫ	einbrechen
+verb	ḫatn	ḫadn	u.B.
 verb	ḫaws	ḫauz	u.B.
 verb	ḫ	ḫa	nehmen
+verb	ḫi	ḫē	u.B.
 verb	ḫil	ḫēl	u.B.
 verb	ḫil	ḫil	u.B.
 verb	ḫill	ḫill	mitteilen
@@ -2096,12 +2565,16 @@ verb	ḫimsatḫ	ḫimz+a+tḫ	gürten
 verb	ḫims	ḫimz	binden; sich gürten
 verb	ḫinsat	ḫenz+ād	verschuldet sein?
 verb	ḫins	ḫenz	schulden?
+verb	ḫip	ḫeb	u.B.
 verb	ḫip	ḫiv	u.B.
+verb	ḫipr	ḫibr	u.B.
 verb	ḫir	ḫēr	u.B.
 verb	ḫir	ḫir	u.B.
 verb	ḫišal	ḫež+āl	nackt sein
+verb	ḫiš	ḫēž	u.B.
 verb	ḫiš	ḫīž	u.B.
 verb	ḫišm	ḫižm	glänzen
+verb	ḫišš	ḫešš	u.B.
 verb	ḫit	ḫīd	u.B.
 verb	ḫu	ḫō	rufen
 verb	ḫui	ḫō	rufen
@@ -2109,7 +2582,9 @@ verb	ḫuini(-)ipa(-)nipp	nipp	u.B.
 verb	ḫul	ḫōl	u.B.
 verb	ḫul	ḫul	u.B.
 verb	ḫull	ḫull	u.B.
+verb	ḫulm	ḫulm	u.B.
 verb	ḫult	ḫuld	u.B.
+verb	ḫumm	ḫōmm	u.B.
 verb	ḫumn	ḫōmn	u.B.
 verb	ḫup	ḫōb	u.B.
 verb	ḫup	ḫōb	zerbrechen
@@ -2144,21 +2619,29 @@ verb	ik	ig	u.B.
 verb	ikip	egib	u.B.
 verb	ikušš	eg+o+šš	rein sein / machen
 verb	il	il	u.B.
+verb	ill	ell	u.B.
 verb	ill	īll	u.B.
 verb	in	en	u.B.
 verb	inḫ	inġ	u.B.
 verb	in	in	u.B.
+verb	inn	inn	u.B.
 verb	int	ind	u.B
 verb	inut	en+ud	u.B.
+verb	ip	ib	u.B.
 verb	ip	iv	u.B.
+verb	ipr	ēvr	u.B.
+verb	ipr	ibr	u.B.
 verb	ir	er	gedeihen lassen
 verb	ir	ēr	u.B.
-verb	irḫ	ērġ	u.B.
+verb	irḫ	erġ	u.B.
+verb	iril	erel	u.B.
 verb	ir	ir	u.B.
 verb	irn	ērn	u.B.
 verb	irn	irn	gleich sein
+verb	irš	irž	u.B.
 verb	irt	ērd	u.B.
 verb	irt	ird	u.B.
+verb	iš	ež	u.B.
 verb	išḫ	ēšḫ	u.B.
 verb	iš	iž	jammern; klagen
 verb	iš	iž	u.B.
@@ -2166,6 +2649,7 @@ verb	išk	išk	u.B.
 verb	iss	iss	u.B.
 verb	ištani	ištani	u.B.
 verb	išt	ištani	u.B.
+verb	išt	išt	u.B.
 verb	it	ed	u.B.
 verb	it	id	schlagen
 verb	it	id	u.B.
@@ -2174,6 +2658,7 @@ verb	itt	itt	gehen
 verb	itt	itt	kleiden
 verb	kal	kāl	u.B.
 verb	kalp	kalb	u.B.
+verb	kals	kalz	u.B.
 verb	kamp	kamv	u.B.
 verb	kanak	kan+āg	u.B.
 verb	kans	kanz	u.B.
@@ -2184,23 +2669,31 @@ verb	kapš	kapš	u.B.
 verb	karapt	kar+apt	u.B.
 verb	kar	kar	u.B.
 verb	kaš	kaš	u.B.
+verb	kas	kāz	u.B.
 verb	kaš	kāž	u.B.
 verb	kašl	kažl	stark sein
 verb	kašt	kašt	u.B.
+verb	katiti	kad+idi	u.B.
 verb	kat	kad	sagen; sprechen
 verb	kat	kad	u.B.
+verb	katt	katt	u.B.
 verb	ki	ke	setzen; stellen; legen
 verb	kik	kig	u.B.
 verb	kikk	kikk	u.B.
 verb	kilan	kil+ān	hochragen
+verb	kilan	kil+ān	u.B.
 verb	kilikil	keli+gel	hochlegen
+verb	kil	kēl	wohl machen; wohl sein
 verb	kil	kēl	wohl sein; wohl machen
+verb	kil	kil	sich erheben?; u.B.
 verb	kil	kil	u.B.
 verb	kilun	kil+ōn	sich erheben?
 verb	kin	kin	u.B.
 verb	kinn	kēnn	u.B.
 verb	kinn	kinn	u.B.
+verb	kip	kev	legen; setzen; stellen
 verb	kip	kev	setzen; stellen; legen
+verb	kip	kib	u.B.
 verb	kip	kip	u.B.
 verb	kipt	kipt	u.B.
 verb	kirašš	kir+ašš	lang / dauerhaft machen
@@ -2214,6 +2707,7 @@ verb	kišš	kišš	u.B.
 verb	kit	kēd	u.B.
 verb	k	ke	setzen; stellen; legen
 verb	kuk	kūg	u.B.
+verb	kulikk	kōlēkki	u.B.
 verb	kul	kol	ablassen; beiseite lassen
 verb	kul	kul	sprechen
 verb	kul	kul	u.B.
@@ -2236,13 +2730,16 @@ verb	kutk	kutk	u.B.
 verb	kut	kud	fallen; niederwerfen
 verb	kutkut	kut+kūd	u.B.
 verb	maḫ	maġ	u.B.
+verb	makp	makp	u.B.
 verb	mal	mal	u.B.
 verb	mal	māl	u.B.
 verb	mann	mānn	sein
 verb	mar	mar	erkranken?
 verb	mar	mar	u.B.
+verb	mar	mār	u.B.
 verb	marut	marudi	u.B.
 verb	maš	maž	u.B.
+verb	mass	mass	u.B.
 verb	matl	madl	u.B.
 verb	mat	mad	u.B.
 verb	mat	mād	weise sein / machen
@@ -2251,25 +2748,35 @@ verb	miḫ	miġ	u.B.
 verb	mik	mēg	u.B.
 verb	mik	mig	u.B.
 verb	milaḫḫ	mel+aḫḫ	vertreiben
+verb	mil	mil	u.B.
 verb	mil	mil	vertreiben
+verb	mip	mēb	u.B.
 verb	mir	mēr	u.B.
 verb	mir	mīr	u.B.
 verb	mirš	mirž	u.B.
+verb	mitk	mitk	u.B.
 verb	mit	mid	u.B.
 verb	munḫ	munġ	u.B.
 verb	mun	mun	u.B.
+verb	munt	mund	u.B.
 verb	murḫ	murġ	u.B.
 verb	mur	mor	u.B.
 verb	muš	mūž	bereiten; ordnen
+verb	naḫḫ	naḫḫ	einsetzen; sich setzen; sitzen
 verb	naḫḫ	naḫḫ	sich setzen; sitzen; einsetzen
+verb	naḫ	naġ	u.B.
 verb	naḫ	naḫḫ	sich setzen; sitzen; einsetzen
+verb	naḫull	naġ+oll	u.B.
 verb	nakk	nakk	freilassen; gewähren
 verb	nak	nak	u.B.
 verb	nakt	nakt	u.B.
+verb	nalm	nālm	u.B.
 verb	nal	nāl	u.B.
 verb	na	nā	weiden
 verb	nan	nān	schlagen
 verb	nap	nāb	sterben
+verb	nap	nab	u.B.
+verb	nap	nāb	u.B.
 verb	nap	nav	u.B.
 verb	nap	nav	weiden
 verb	naš	naž	u.B.
@@ -2279,33 +2786,44 @@ verb	nilḫ	nelġ	u.B.
 verb	nil	nēl	u.B.
 verb	nil	nil	u.B.
 verb	nin	nīn	u.B.
+verb	nipalp	nībalb	u.B.
 verb	nip	niv	schreiben?
+verb	nirḫ	nirġ	u.B.
 verb	nir	nēr	gut sein; gut machen
 verb	nir	nēr	u.B.
 verb	nir	nir	u.B.
 verb	NU.GÁL-	NU.GÁL	nicht sein
+verb	nul	nul	u.B.
 verb	num	nūm	u.B.
 verb	nu	nū	u.B.
+verb	nurp	nurb	u.B.
 verb	nut	nūd	u.B.
 verb	pa	fa	u.B.
 verb	paḫ	faġ	zerstören
+verb	paḫ	paġ	u.B.
+verb	paḫ	pāġ	u.B.
 verb	paḫ	pāġ	zerstören
 verb	paḫr	faġr	gut sein; gut machen
 verb	pail	fael	u.B.
 verb	pal	fal	u.B.
 verb	pal	pal	kennen; wissen
+verb	pal	pal	u.B.
 verb	pant	fand	recht sein; richtig sein
 verb	par	fār	u.B.
+verb	park	parg	u.B.
 verb	par	par	anlocken?
 verb	par	pār	losgehen; einziehen
 verb	par	pār	u.B.
-verb	paš	faž	eintreten; hineinbringen
+verb	paš	faž	eintreten; eintreten lassen
+verb	paš	fāž	u.B.
+verb	paš	pāž	u.B.
 verb	pašš	fašš	schicken
 verb	pašš	fašš	u.B.
 verb	pašš	pašš	schicken
 verb	pass	pass	u.B.
 verb	pašt	fašt	u.B.
 verb	pat	fad	u.B.
+verb	patk	patk	u.B.
 verb	patn	padn	u.B.
 verb	piar	pīar	u.B.
 verb	piḫḫ	fēḫḫ	u.B.
@@ -2319,11 +2837,16 @@ verb	pin	fēn	u.B.
 verb	pin	pen	hochheben
 verb	pin	pen	u.B.
 verb	pint	pend	zurückbringen; zurückkehren; zurückkommen; zurückschicken
+verb	pint	pend	zurückkehren; zurückbringen
+verb	pip	fīb	u.B.
+verb	pirpir	fir+fir	lösen
 verb	pir	pir	u.B.
 verb	pirr	pirr	u.B.
+verb	pirš	pērž	u.B.
 verb	pišḫ	pišḫ	u.B.
 verb	pišišḫ	piž+ešḫ	ausspeien
 verb	piš	pēž	u.B.
+verb	pit	fēd	u.B.
 verb	pitp	fitf	u.B.
 verb	pit	pid	u.B.
 verb	pituḫ	pēd+uġ	drehen; zurückwenden; zurückgeben
@@ -2332,33 +2855,46 @@ verb	pitupp	pid+uff	sich drehen
 verb	p	pa	bauen
 verb	puk	fog	u.B.
 verb	pukl	fogl	versammeln
+verb	puk	pōg	u.B.
 verb	pukul	fogl	versammeln
 verb	pur	for	sehen
 verb	pur	fūr	sehen?
 verb	purḫ	purġ	u.B.
+verb	purumt	pōr+umd	u.B.
 verb	pusiḫ	pūz+iġ	eintauchen
 verb	puss	pōss	u.B.
 verb	puss	puss	u.B.
+verb	pušš	pušš	u.B.
 verb	putank	pūd+ang	ankündigen
 verb	put	fud	waschen, reinigen
 verb	puuk	fog	u.B.
 verb	šaḫl	šāġl	u.B.
 verb	šak	šag	u.B.
 verb	šalḫ	šalġ	hören auf
+verb	šalp	šalb	u.B.
 verb	sal	sal	u.B.
 verb	šal	šāl	u.B.
 verb	sammal	samm+al	abreißen
+verb	sanak	sanag	u.B.
+verb	san	san	u.B.
 verb	šapal	šāv+al	einsteigen?
 verb	sapl	sabl	u.B.
+verb	šapl	šabl	u.B.
+verb	šapp	šapp	u.B.
+verb	šap	šab	u.B.
 verb	šap	šāv	einsteigen?
 verb	sap	sav	u.B.
+verb	šapt	šap+t	u.B.
+verb	šapt	šapt	u.B.
 verb	šarr	šarr	u.B.
+verb	sarru	sarruw	u.B.
 verb	šar	šār	u.B.
 verb	šar	šār	wünschen
 verb	sas	sāz	u.B.
 verb	šaš	šaž	u.B.
 verb	sas	sāz	verköstigen
 verb	saš	sāz	verköstigen
+verb	sass	sāss	u.B.
 verb	šatn	šadn	u.B.
 verb	šat	šad	ersetzen
 verb	šatt	šātt	ergreifen
@@ -2366,21 +2902,32 @@ verb	š	eġ+epš	lähmen?
 verb	šial	šēal	u.B.
 verb	šial	šial	u.B.
 verb	šiḫal	šeġal	rein sein; reinigen
+verb	šiḫir	šeġer	lebendig machen?
+verb	šiḫir	šeġer	leben lassen?; lebendig machen?
 verb	šiḫl	šeġ+l	eintreten
 verb	šiḫl	šeġl	rein sein
 verb	šiḫr	šeġr	angenehm / großzügig sein
+verb	šiḫr	šeġri	u.B.
+verb	šiḫr	šeġr	lebendig machen?
 verb	šiḫr	šeġr	u.B.
 verb	šiḫ	šēġ	eintreten
 verb	šiḫ	šīġ	u.B.
+verb	šiḫur	šeġōr	leben lassen?; lebendig machen?
 verb	sikal	sig+al	u.B.
 verb	sikk	sikk	zerbrechen
 verb	sik	sīg	u.B.
+verb	šik	šīg	u.B.
+verb	šill	šīll	u.B.
 verb	silman	silm+an	zerbrechen
+verb	šilp	šelb	u.B.
 verb	šil	šel	u.B.
 verb	šil	šil	u.B.
+verb	šil	šīl	u.B.
 verb	šilt	šild	u.B.
 verb	šilumutḫ	šil+um+ō+tḫ	u.B.
+verb	šinamḫ	šen+am+ġ	verdoppeln?
 verb	šin	šēn	u.B.
+verb	šin	šin	zu zweit sein?; sich zusammentun?
 verb	šint	šend	u.B.
 verb	šint	šind	u.B.
 verb	šip	šeb	u.B.
@@ -2388,6 +2935,7 @@ verb	sip	sib	u.B.
 verb	šip	šib	u.B.
 verb	širat	šir+ad	erzählen
 verb	širn	šīrn	u.B.
+verb	širp	šerb	u.B.
 verb	šir	šēr	u.B.
 verb	šir	šer	zugrunde richten
 verb	šir	šīr	genügen; entsprechen
@@ -2397,30 +2945,42 @@ verb	ši	šī	beobachten
 verb	ši	ši	u.B.
 verb	šiš	šēž	u.B.
 verb	siss	siss	u.B.
+verb	šišt	šēšt	u.B.
 verb	sitk	sitk	u.B.
 verb	šit	šid	verfluchen
 verb	šiw	šī	beobachten
 verb	šiw	ši	u.B.
 verb	š	šī	beobachten
 verb	š	ši	u.B.
+verb	š	šu	u.B.
 verb	šuḫḫ	šūḫḫ	u.B.
 verb	šuḫ	šuʾ	u.B.
 verb	šukart	šug+ārd	vereinen?
 verb	sukasuk	suga+zūg	u.B.
 verb	šukk	šokk	eins sein
+verb	šukk	šukk	eins sein
 verb	sukk	sukk	u.B.
 verb	šukk	šukk	u.B.
 verb	šukkutt	šukk+utt	u.B.
 verb	sukm	sugm	hereinkommen
+verb	šuk	šug	eins sein
+verb	suk	sugi	u.B.
+verb	suk	sūg	klein sein?
 verb	suk	sug	u.B.
+verb	šull	šull	u.B.
 verb	šul	šōl	u.B.
 verb	sul	sūl	binden
 verb	sulut	sul+ud	lösen
+verb	šumm	šomm	komplett sein?
+verb	šumm	šōmm	komplett sein?
+verb	šumm	šumm	komplett sein?
 verb	šummun	šummun	aushändigen?
 verb	šum	šum	u.B.
+verb	šunḫ	šunġ	u.B.
 verb	šun	šōn	u.B.
 verb	supn	subn	u.B.
 verb	sup	sub	u.B.
+verb	šup	šub	u.B.
 verb	šup	šūp	u.B.
 verb	šupt	šūpt	u.B.
 verb	šurp	šurb	u.B.
@@ -2450,11 +3010,18 @@ verb	talm	talm	groß sein / machen
 verb	talmup	talmōv	groß werden
 verb	tal	tal	herausziehen
 verb	tal	tal	u.B.
+verb	tal	tāl	u.B.
+verb	tamp	tamb	u.B.
 verb	tamr	tamr	u.B.
+verb	tan	tan	machen
 verb	ta+n	tān	machen
 verb	tan	tān	machen
 verb	tapḫ	tapḫ	u.B.
+verb	tapp	šapp	u.B.
+verb	tapp	tapp	befestigen
+verb	tapr	tabr	u.B.
 verb	tapš	tapš	ausgießen?
+verb	taps	taps	u.B.
 verb	tapš	tāpš	u.B.
 verb	tapš	tapš	überschreiten
 verb	tap	tab	u.B.
@@ -2462,11 +3029,15 @@ verb	tap	tap	u.B.
 verb	tap	tav	gießen
 verb	tap	tav	u.B.
 verb	tapt	tapt	u.B.
+verb	tarm	šārm	u.B.
+verb	tarm	tārm	u.B.
 verb	tarn	tarn	u.B.
 verb	tarp	tarb	u.B.
 verb	tarr	tarr	u.B.
 verb	tar	tār	u.B.
 verb	taš	taž	hinzufügen?
+verb	taš	tāž	u.B.
+verb	tata(-)ḫat	ḫād	u.B.
 verb	tati(-)ḫat	ḫād	u.B.
 verb	tat	tad	lieben
 verb	tatt	tatt	u.B.
@@ -2483,22 +3054,34 @@ verb	timm	temm	u.B.
 verb	tip	tiv	sprechen
 verb	tip	tiv	u.B.
 verb	tip	tīv	u.B.
+verb	tir	tīr	u.B.
 verb	tišš	tešš	u.B.
 verb	tis	tiz	u.B.
 verb	tiš	tīž	u.B.
+verb	titi	tī+di	u.B.
 verb	tit	tīd	angreifen
 verb	tit	tīd	u.B.
 verb	tit	tīd	zählen
 verb	titt	titt	u.B.
+verb	titt	tītt	u.B.
 verb	t	te	sprechen
 verb	tuḫ	tōġ	u.B.
 verb	tuk	tug	u.B.
+verb	tull	tōll	u.B.
+verb	tul	tōl	u.B.
 verb	tump	tōmv	u.B.
 verb	tun	ton	ausstatten
+verb	tun	tōn	ausstatten
 verb	tun	tūn	vermögen; überwinden
+verb	tunuš	tōn+o+že	u.B.
 verb	tunuw	tūnuw	u.B.
 verb	tupḫ	tupḫ	u.B.
+verb	tupširi	tupš+i+re	u.B.
+verb	tupš	topš	beschwören?
 verb	tupš	tōpš	u.B.
+verb	tupš	tupš	u.B.
+verb	tupšuri	topš+ō+re	Beschwörter?
+verb	tup	tob	beschwören
 verb	turp	torv	feindlich sein?
 verb	tur	tūr	hinabgehen
 verb	uitt	uw+ētt	hungrig sein
@@ -2511,10 +3094,13 @@ verb	ull	oll	zurückhalten; niederdrücken
 verb	ulluḫ	oll+uġ	abwischen; niederdrücken
 verb	ulm	ōlm	u.B.
 verb	ul	ol	u.B.
+verb	ul	ul	u.B.
 verb	umm	umm	stehen
 verb	umm	umm	u.B.
 verb	ump	tupp	bleiben; versammeln
 verb	ump	umb	u.B.
+verb	ump	ūmb	u.B.
+verb	unt	ōnd	u.B.
 verb	un	un	kommen; bringen
 verb	upš	ūpš	mähen?; ernten?
 verb	up	ub	töten; schlachten
