@@ -1889,8 +1889,8 @@
 	},
 	{
 		"trans": "m]āi",
-		"mrp1": "m]āi @  @ .ABS @ noun @ ",
-		"mrp2": "m]ā-i @  @ ANTIP @ verb @ "
+		"mrp1": "m]ai @  @ .ABS @ noun @ ",
+		"mrp2": "m]a-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "m]alla",
@@ -2195,8 +2195,8 @@
 	},
 	{
 		"trans": "n]ēa",
-		"mrp1": "n]ē-a @  @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "n]ē-a @  @ INT @ verb @ "
+		"mrp1": "n]e-a @  @ { a → ESS} { b → DAT} @ noun @ ",
+		"mrp2": "n]e-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "n]ēb",
@@ -2859,7 +2859,7 @@
 	},
 	{
 		"trans": "r]āe",
-		"mrp1": "r]ā-e @  @ { a → DIR/LOC} { b → GEN} @ noun @ "
+		"mrp1": "r]a-e @  @ { a → DIR/LOC} { b → GEN} @ noun @ "
 	},
 	{
 		"trans": "r]āb",
@@ -4921,13 +4921,13 @@
 	},
 	{
 		"trans": "A-NA lilōri",
-		"mrp1": "A-NA lilōri @  @  @ noun @ ",
-		"mrp2": "A-NA lilōr-i @  @ ANTIP @ verb @ "
+		"mrp1": "A-NA lilori @  @  @ noun @ ",
+		"mrp2": "A-NA lilor-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "A-NA ḫārišta[šši",
-		"mrp1": "A-NA ḫārišta[šši @  @  @ noun @ ",
-		"mrp2": "A-NA ḫārišta[šš-i @  @ ANTIP @ verb @ "
+		"mrp1": "A-NA ḫarišta[šši @  @  @ noun @ ",
+		"mrp2": "A-NA ḫarišta[šš-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "A-NA foduġe[ba",
@@ -5015,13 +5015,13 @@
 	},
 	{
 		"trans": "A-NA argāba",
-		"mrp1": "A-NA argāb-a @  @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "A-NA argāb-a @  @ INT @ verb @ "
+		"mrp1": "A-NA argab-a @  @ { a → ESS} { b → DAT} @ noun @ ",
+		"mrp2": "A-NA argab-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "A-NA le]llōri",
-		"mrp1": "A-NA le]llōri @  @  @ noun @ ",
-		"mrp2": "A-NA le]llōr-i @  @ ANTIP @ verb @ "
+		"mrp1": "A-NA le]llori @  @  @ noun @ ",
+		"mrp2": "A-NA le]llor-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "A-NA nanni",
@@ -5053,7 +5053,7 @@
 	},
 	{
 		"trans": "A-NA āġrušḫi]",
-		"mrp1": "A-NA āġrušḫi] @  @  @ noun @ "
+		"mrp1": "A-NA aġrušḫi] @  @  @ noun @ "
 	},
 	{
 		"trans": "A-NA DINGIR-na",
@@ -5101,8 +5101,8 @@
 	},
 	{
 		"trans": "A-NA šīri",
-		"mrp1": "A-NA šīri @  @  @ noun @ ",
-		"mrp2": "A-NA šīr-i @  @ ANTIP @ verb @ "
+		"mrp1": "A-NA širi @  @  @ noun @ ",
+		"mrp2": "A-NA šir-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "A-WA-AT",
@@ -5272,8 +5272,8 @@
 	},
 	{
 		"trans": "Ú-UL-finēma",
-		"mrp1": "Ú-UL-finē=ma @  @ =CON @ noun @ ",
-		"mrp2": "Ú-UL-finēm-a @  @ INT @ verb @ "
+		"mrp1": "Ú-UL-fine=ma @  @ =CON @ noun @ ",
+		"mrp2": "Ú-UL-finem-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "ŠA",
@@ -79708,8 +79708,8 @@
 	},
 	{
 		"trans": "nāma",
-		"mrp1": "nām-a @  @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "nām-a @  @ INT @ verb @ "
+		"mrp1": "nam-a @  @ { a → ESS} { b → DAT} @ noun @ ",
+		"mrp2": "nam-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "nā",
@@ -81234,8 +81234,8 @@
 	},
 	{
 		"trans": "nēa",
-		"mrp1": "nēa @  @ .ABS @ noun @ ",
-		"mrp2": "nē-a @  @ INT @ verb @ "
+		"mrp1": "nea @  @ .ABS @ noun @ ",
+		"mrp2": "ne-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "nē[b"
@@ -81609,7 +81609,7 @@
 	},
 	{
 		"trans": "niā",
-		"mrp1": "niā @  @ .ABS @ noun @ "
+		"mrp1": "nia @  @ .ABS @ noun @ "
 	},
 	{
 		"trans": "nidudialla",
@@ -100117,8 +100117,8 @@
 	},
 	{
 		"trans": "x-ārna",
-		"mrp1": "x-ār-na @  @ RELAT.PL @ noun @ ",
-		"mrp2": "x-ārn-a @  @ INT @ verb @ "
+		"mrp1": "x-ar-na @  @ RELAT.PL @ noun @ ",
+		"mrp2": "x-arn-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "x-auia["
@@ -100134,8 +100134,8 @@
 	},
 	{
 		"trans": "x-aruḫḫōḫḫa",
-		"mrp1": "x-aruḫḫōḫḫ-a @  @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "x-aruḫḫōḫḫ-a @  @ INT @ verb @ "
+		"mrp1": "x-aruḫḫoḫḫ-a @  @ { a → ESS} { b → DAT} @ noun @ ",
+		"mrp2": "x-aruḫḫoḫḫ-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "x-ax",
@@ -100162,7 +100162,7 @@
 	},
 	{
 		"trans": "x-taguġōnavāž[a]",
-		"mrp1": "x-taguġōnavāž[a] @  @  @ noun @ "
+		"mrp1": "x-taguġonavaž[a] @  @  @ noun @ "
 	},
 	{
 		"trans": "x-ta",
@@ -100176,7 +100176,7 @@
 	},
 	{
 		"trans": "x-ēž",
-		"mrp1": "x-ē-ž @  @ ERG @ noun @ "
+		"mrp1": "x-e-ž @  @ { a → DIR/LOC-ERG} { b → GEN-ERG} @ noun @ "
 	},
 	{
 		"trans": "x-egu(-)[",
@@ -100184,7 +100184,7 @@
 	},
 	{
 		"trans": "x-ēž",
-		"mrp1": "x-ē-ž @  @ ERG @ noun @ "
+		"mrp1": "x-e-ž @  @ { a → DIR/LOC-ERG} { b → GEN-ERG} @ noun @ "
 	},
 	{
 		"trans": "x-eldanin(-)[",
@@ -100205,16 +100205,16 @@
 	},
 	{
 		"trans": "x-kadāe",
-		"mrp1": "x-kadā-e @  @ { a → DIR/LOC} { b → GEN} @ noun @ "
+		"mrp1": "x-kada-e @  @ { a → DIR/LOC} { b → GEN} @ noun @ "
 	},
 	{
 		"trans": "x-kadōlu",
-		"mrp1": "x-kadōlu @  @  @ noun @ ",
-		"mrp2": "x-kadōl-u @  @ MED @ verb @ "
+		"mrp1": "x-kadolu @  @  @ noun @ ",
+		"mrp2": "x-kadol-u @  @ MED @ verb @ "
 	},
 	{
 		"trans": "x-īa(-)[",
-		"mrp1": "x-īa(-)[ @  @  @ noun @ "
+		"mrp1": "x-ia(-)[ @  @  @ noun @ "
 	},
 	{
 		"trans": "x-īax["
@@ -100239,8 +100239,8 @@
 	},
 	{
 		"trans": "x-kōzu",
-		"mrp1": "x-kōzu @  @  @ noun @ ",
-		"mrp2": "x-kōz-u @  @ MED @ verb @ "
+		"mrp1": "x-kozu @  @  @ noun @ ",
+		"mrp2": "x-koz-u @  @ MED @ verb @ "
 	},
 	{
 		"trans": "x-ku",
@@ -100288,7 +100288,7 @@
 	},
 	{
 		"trans": "x-nīdan",
-		"mrp1": "x-nīd=an @  @ =CON @ noun @ "
+		"mrp1": "x-nid=an @  @ =CON @ noun @ "
 	},
 	{
 		"trans": "x-ni"
@@ -100301,7 +100301,7 @@
 	},
 	{
 		"trans": "x-pinuwāraž",
-		"mrp1": "x-pinuwār-až @  @ PL @ noun @ "
+		"mrp1": "x-pinuwar-až @  @ PL @ noun @ "
 	},
 	{
 		"trans": "x-rarammannie"
@@ -100345,7 +100345,7 @@
 	},
 	{
 		"trans": "x-surāe",
-		"mrp1": "x-surā-e @  @ { a → DIR/LOC} { b → GEN} @ noun @ "
+		"mrp1": "x-sura-e @  @ { a → DIR/LOC} { b → GEN} @ noun @ "
 	},
 	{
 		"trans": "x-u["
@@ -100396,8 +100396,8 @@
 	},
 	{
 		"trans": "x-ārġa",
-		"mrp1": "x-ārġ-a @  @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "x-ārġ-a @  @ INT @ verb @ "
+		"mrp1": "x-arġ-a @  @ { a → ESS} { b → DAT} @ noun @ ",
+		"mrp2": "x-arġ-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "x-āššunv[a"
@@ -100507,7 +100507,7 @@
 	},
 	{
 		"trans": "x-ippāl",
-		"mrp1": "x-ippāl @  @  @ noun @ "
+		"mrp1": "x-ippal @  @  @ noun @ "
 	},
 	{
 		"trans": "x-irnāe"
@@ -100541,8 +100541,8 @@
 	},
 	{
 		"trans": "x-lamōrrinibi",
-		"mrp1": "x-lamōrrinibi @  @  @ noun @ ",
-		"mrp2": "x-lamōrrinib-i @  @ ANTIP @ verb @ "
+		"mrp1": "x-lamorrinibi @  @  @ noun @ ",
+		"mrp2": "x-lamorrinib-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "x-lax[",
@@ -100564,8 +100564,8 @@
 	},
 	{
 		"trans": "x-nāi",
-		"mrp1": "x-nāi @  @  @ noun @ ",
-		"mrp2": "x-nā-i @  @ ANTIP @ verb @ "
+		"mrp1": "x-nai @  @  @ noun @ ",
+		"mrp2": "x-na-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "x-nanx["
@@ -100582,7 +100582,7 @@
 	},
 	{
 		"trans": "x-nēduġēnež",
-		"mrp1": "x-nēduġē-ne-ž @  @ RELAT.SG-ERG @ noun @ "
+		"mrp1": "x-neduġe-ne-ž @  @ RELAT.SG-ERG @ noun @ "
 	},
 	{
 		"trans": "x-ne[l(-)",
@@ -100594,11 +100594,11 @@
 	},
 	{
 		"trans": "x-pādal",
-		"mrp1": "x-pādal @  @  @ noun @ "
+		"mrp1": "x-padal @  @  @ noun @ "
 	},
 	{
 		"trans": "x-pān",
-		"mrp1": "x-p=ān @  @ =CON @ noun @ "
+		"mrp1": "x-p=an @  @ =CON @ noun @ "
 	},
 	{
 		"trans": "x-paž",
@@ -100637,8 +100637,8 @@
 	},
 	{
 		"trans": "x-rī",
-		"mrp1": "x-rī @  @  @ noun @ ",
-		"mrp2": "x-r-ī @  @ ANTIP @ verb @ "
+		"mrp1": "x-ri @  @ RELAT.SG @ noun @ ",
+		"mrp2": "x-r-i @  @ ANTIP @ verb @ "
 	},
 	{
 		"trans": "x-rin",
@@ -100656,7 +100656,7 @@
 	},
 	{
 		"trans": "x-rullēž",
-		"mrp1": "x-rullē-ž @  @ ERG @ noun @ "
+		"mrp1": "x-rulle-ž @  @ ERG @ noun @ "
 	},
 	{
 		"trans": "x-ruppu",
@@ -100744,7 +100744,7 @@
 	},
 	{
 		"trans": "x-fāža[n(-)",
-		"mrp1": "x-fāža[n(-) @  @  @ noun @ "
+		"mrp1": "x-faža[n(-) @  @  @ noun @ "
 	},
 	{
 		"trans": "x-x",
@@ -100797,7 +100797,7 @@
 	},
 	{
 		"trans": "x-x-rullēž",
-		"mrp1": "x-x-rullē-ž @  @ ERG @ noun @ "
+		"mrp1": "x-x-rulle-ž @  @ ERG @ noun @ "
 	},
 	{
 		"trans": "x-x-un"
@@ -100809,8 +100809,8 @@
 	},
 	{
 		"trans": "x-x-uīb",
-		"mrp1": "x-x-uīb @  @  @ noun @ ",
-		"mrp2": "x-x-u-ī-b @  @ ANTIP-b @ verb @ "
+		"mrp1": "x-x-uib @  @  @ noun @ ",
+		"mrp2": "x-x-u-i-b @  @ ANTIP-b @ verb @ "
 	},
 	{
 		"trans": "x-x-ša",
@@ -100822,8 +100822,8 @@
 	},
 	{
 		"trans": "x-x-alēġa",
-		"mrp1": "x-x-alēġ-a @  @ { a → ESS} { b → DAT} @ noun @ ",
-		"mrp2": "x-x-alēġ-a @  @ INT @ verb @ "
+		"mrp1": "x-x-aleġ-a @  @ { a → ESS} { b → DAT} @ noun @ ",
+		"mrp2": "x-x-aleġ-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "x-x-ažiri(-)[",
@@ -100882,7 +100882,7 @@
 	},
 	{
 		"trans": "x-x-rāēd",
-		"mrp1": "x-x-rāēd @  @  @ noun @ "
+		"mrp1": "x-x-raed @  @  @ noun @ "
 	},
 	{
 		"trans": "x-x-rivine[l",
@@ -100912,7 +100912,7 @@
 	},
 	{
 		"trans": "x-x-x(-)tedā",
-		"mrp1": "x-x-x(-)tedā @  @  @ noun @ "
+		"mrp1": "x-x-x(-)teda @  @  @ noun @ "
 	},
 	{
 		"trans": "x-x-x-na",
@@ -100929,7 +100929,7 @@
 	},
 	{
 		"trans": "x-x-x-ēž",
-		"mrp1": "x-x-x-ē-ž @  @ ERG @ noun @ "
+		"mrp1": "x-x-x-e-ž @  @ { a → DIR/LOC-ERG} { b → GEN-ERG} @ noun @ "
 	},
 	{
 		"trans": "x-x-x-na",
@@ -100979,7 +100979,7 @@
 	},
 	{
 		"trans": "x-šadāim",
-		"mrp1": "x-šadāim @  @  @ noun @ "
+		"mrp1": "x-šadaim @  @  @ noun @ "
 	},
 	{
 		"trans": "x-šen",
@@ -101007,8 +101007,8 @@
 	},
 	{
 		"trans": "x-šōda",
-		"mrp1": "x-šō-da @  @ DIR @ noun @ ",
-		"mrp2": "x-šōd-a @  @ INT @ verb @ "
+		"mrp1": "x-šo-da @  @ DIR @ noun @ ",
+		"mrp2": "x-šod-a @  @ INT @ verb @ "
 	},
 	{
 		"trans": "x-šulda["
@@ -101030,7 +101030,7 @@
 	},
 	{
 		"trans": "x-ḫurrāženež",
-		"mrp1": "x-ḫur-r-āž-e-ne-ž @  @ { a → RELAT.PL-PL-DIR/LOC-RELAT.SG-ERG} { b → RELAT.PL-PL-GEN-RELAT.SG-ERG} @ noun @ "
+		"mrp1": "x-ḫur-r-až-e-ne-ž @  @ { a → RELAT.PL-PL-DIR/LOC-RELAT.SG-ERG} { b → RELAT.PL-PL-GEN-RELAT.SG-ERG} @ noun @ "
 	},
 	{
 		"trans": "x",
