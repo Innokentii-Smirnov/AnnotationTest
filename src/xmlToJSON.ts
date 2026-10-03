@@ -56,12 +56,18 @@ const wordNodes: XmlElementNode[] = [];
 for (let i = 0; i < xmlWords.length; i++) {
   const xmlWord = xmlWords[i];
   const wordNodeXmlString = '<w>' + xmlWord + '</w>';
-  const wordNode = parseXmlWord(wordNodeXmlString);
+  let wordNode = parseXmlWord(wordNodeXmlString);
   if (wordNode === null) {
-    console.log('Ignoring ' + i.toString() + ') ' + xmlWord);
-  } else {
-    wordNodes.push(wordNode);
+    console.log('Treating as empty ' + i.toString() + ') ' + xmlWord);
+    wordNode = {
+      tagName: 'w',
+      attributes: {},
+      children: [
+        { textContent: '' },
+      ]
+    }
   }
+  wordNodes.push(wordNode);
   if (i % progressReportAfter === 0) {
     console.log('Processed ' + i.toString() + ' words.');
     console.log(wordNode);
